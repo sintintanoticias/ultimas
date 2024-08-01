@@ -2,7 +2,7 @@ import requests
 import json
 
 API_KEY = '7005a6609b9a4b0a8c3a0e35124817d4'
-COUNTRY = 'do'  # Dominican Republic
+COUNTRY = 'us'
 LANGUAGE = 'es'  # Spanish
 
 def fetch_news():
