@@ -1,266 +1,1302 @@
-{
-    "status": "ok",
-    "totalResults": 38,
-    "articles": [
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Justine McDaniel, Jonathan Edwards",
-            "title": "In 911 call day before shooting, Sonya Massey’s mom pleaded: Don’t hurt her - The Washington Post",
-            "description": "Newly obtained recordings show that local law enforcement knew of Massey and that her mother had asked 911, “Please don’t send no combative policemen that are prejudiced.”",
-            "url": "https://www.washingtonpost.com/nation/2024/07/31/sonya-massey-killing-911-calls/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FVS7QS4YH5WXTV4YHTED3I76DI_size-normalized.jpg&w=1440",
-            "publishedAt": "2024-08-01T06:16:00Z",
-            "content": "The day before Sonya Massey was shot and killed by a sheriffs deputy in Illinois, her mother called 911 seeking help.She said Massey washaving a mental breakdown and she implored law enforcement offi… [+206 chars]"
+[
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "BBC.com",
-            "title": "CrowdStrike: Tech firm sued by shareholders over IT global outage - BBC.com",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tdmV0Z0M5ZndhUHMxcVcxSHdYQ0JDY0Y5RVFZdFZ1eDRsZDVudGNYMnFDQ1d6akFidnJLX2F5VEJpZ0tZSVBuWXhVaWRGZ0tpV29jdnFtNHN3Z9IBX0FVX3lxTE5OajdXRjdlTkhEOFNYTWxfc2p2NmRVUnc3cEZWVS1odWxXOUlHME45T2paeDN0aE1RVWZIZUkxN1NNSEF4UHJZTW9LT0hjbHdDTTY3UWNsbVl6a2VkOWlJ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T04:16:22Z",
-            "content": null
+        "author": "Javier Jiménez",
+        "title": "Nueva York vive una plaga de superratas. Es un aviso para el resto de las grandes ciudades",
+        "description": "Nueva York está en guerra. Es una guerra total, desesperada y sin cuartel. Una guerra que ha llevado al ayuntamiento a reformar servicios públicos básicos de la ciudad, a contratar un \"condotiero\" de primer nivel y organizar una conferencia nacional para \"con…",
+        "url": "https://www.xataka.com/ecologia-y-naturaleza/nueva-york-vive-plaga-superratas-aviso-para-resto-grandes-ciudades",
+        "urlToImage": "https://i.blogs.es/8e2576/47444879671_25f9229c4c_k/840_560.jpeg",
+        "publishedAt": "2024-07-28T15:34:52Z",
+        "content": "Nueva York está en guerra. Es una guerra total, desesperada y sin cuartel. Una guerra que ha llevado al ayuntamiento a reformar servicios públicos básicos de la ciudad, a contratar un \"condotiero\" de… [+3439 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Page Six",
-            "title": "Matt Damon and wife Luciana Barroso make rare public appearance with their 4 daughters at ‘The Instigators’ premiere - Page Six",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGlPYUFrRVRaeWhxdG5ORjlWNFFFblJ0WWRTZUpzYnJEcWo3UDkyb3pZLUR3N0NOYkdlMWRERFFyRlB1a1NPNlNfdFh6R3cybVBSMkZTZDFXeGgyOXdwTVV0N1JsSDdmR2N4TUQwVWFyNUN6UlJuVjRtVWF0N1gzT0pidUxtVUFIalE0bjl4Z2VlbDB2N3NFd0IwNjR2a0Q1SmxDSV8tblpxTUpGd1YzbFktak5EMUUz?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T04:14:00Z",
-            "content": null
+        "author": "Miguel Jorge",
+        "title": "Durante 20 años, miles de personas subieron a un rascacielos de Nueva York sin saber que caminaban sobre un error fatal",
+        "description": "La situación fue más o menos así. Durante dos décadas, cientos de miles de personas entraron y salieron por las puertas de uno de los rascacielos más grandes de la ciudad de Nueva York. Estas personas, muchos de ellos trabajadores, subían y bajaban en el asce…",
+        "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/durante-20-anos-gente-subio-a-este-rascacielos-nueva-york-saber-error-fatal-que-cometieron-construyendolo",
+        "urlToImage": "https://i.blogs.es/afc505/ps---plantilla-portadas-xtk-53/840_560.jpeg",
+        "publishedAt": "2024-07-29T17:31:32Z",
+        "content": "La situación fue más o menos así. Durante dos décadas, cientos de miles de personas entraron y salieron por las puertas de uno de los rascacielos más grandes de la ciudad de Nueva York. Estas persona… [+10644 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "CBS Chicago",
-            "title": "Trump spars with reporters at Black journalists' conference over Kamala Harris' ethnicity, immigration and jobs - CBS Chicago",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdldGT3JORUJCSk5zbS00TnhpSTV1Z0I2cm50MTVLSzFUQTNaQzIweGtBLVZhTVBpTmlHMGc2NS1oWVd5dm9US1o0SU9CVUF2MlREWXFWTm1YZWZKYkpJLU1sNkZmSkpBdW1GUmVuSHhwanJzOWpia2FMZTU2TkQ1Qm1NYVpMbHRud1RHQ3hlSEppMkxFS3R1eENWSlNMMWtmWTFjZHhOSzk0NTZiMkZIdXhwLXNQdlJxLTBN0gHAAUFVX3lxTE1sZGNRMUsxd2NER3k0NjZFVUIyUFFiWW9MajB4Zk1nMDY3eFFRb3hLLWplaGc2N1V4d1BxeXh4ejRDeVZFeU9zbEUwSmVEVERHYjNDVnk1cFhNMGJYb09URUtvSkRxYTBYbFE3RjQ5eG1sSlFaVUloZ05iejRPUzkwVGhvR0FfenVHc0ZuLWhoTndjcG5tUkIxb0lHaVpBaEdUanhCY1hMTjdMTFVybFVvczdMdTFHQmtnYmZ0Z1pFRQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T03:49:35Z",
-            "content": null
+        "author": "Javier Marquez",
+        "title": "En Nueva York hace tanto calor que un puente giratorio se quedó atascado: el acero de la estructura se expandió demasiado",
+        "description": "Los veranos cada vez más abrasadores suelen llegar acompañados de muchos problemas. Desde casos de golpes de calor hasta incendios forestales. La infraestructura de las ciudades también suele verse afectada por los eventos climáticos extremos, y sino que se l…",
+        "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/nueva-york-hace-calor-que-puente-giratorio-se-quedo-atascado-acero-estructura-se-expandio-demasiado",
+        "urlToImage": "https://i.blogs.es/b283b1/puente-nueva-york-portada-1/840_560.jpeg",
+        "publishedAt": "2024-07-10T20:00:50Z",
+        "content": "Los veranos cada vez más abrasadores suelen llegar acompañados de muchos problemas. Desde casos de golpes de calor hasta incendios forestales. La infraestructura de las ciudades también suele verse a… [+2642 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Hill",
-            "title": "Gen X, Millennials face higher risk of cancer than previous generations, study shows - The Hill",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb25FYW1xZkc5SXlPUDlxMkpOZEhVaE5OMTRNTTlWeFlUb21nVVpLak5nMlg5Z0lKWmk5blU1bS0tejBPaE1rX2pBM0ZRdE9scWI1RmozVS1GaHI1YTdqRGs3OWtyb3FTeWxyZDZwdXNmZE5YNjZCUTBkTk1pSHB5RzAyTGdYNVNfRXBlU0tuQVc4c1XSAZgBQVVfeXFMT1NrbE5GbzFqLWdtNzdoLW1VZl9HY3lvQlREeVc0ck5VUkh1WDVCckJuZFgtZkRkd0M2cVUyLXVpZ19DTHhFMzFCWkNaVG94T3NJeUFZV2NRTC02VHlPV0lpOEUxWXdPUVNpY0pKTWxMb2RVWGwzb0xucEdpc0llNU44TXJ2Q2hqX1RFbnFqcFFoYVJ4YVdrb3U?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T03:21:00Z",
-            "content": null
+        "author": "Gonzalo Franco",
+        "title": "La serie de ‘Spider-Man Noir’ de Nicolas Cage ya tiene villano",
+        "description": "Nicolas Cage interpretará a Spider-Man Noir en una serie live-action que está preparando Amazon Prime Video. El actor, que ya le ha puesto voz al personaje en la saga animada del Spiderverse, da el salto a la imagen real con una de las variantes más peculiare…",
+        "url": "http://hipertextual.com/2024/07/la-serie-de-spider-man-noir-de-nicolas-cage-ya-tiene-villano",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/07/Spider-Man-Noir-1.jpg",
+        "publishedAt": "2024-07-10T10:02:05Z",
+        "content": "Nicolas Cageinterpretará a Spider-Man Noir en una serie live-action que está preparando Amazon Prime Video. El actor, que ya le ha puesto voz al personaje en la saga animada del Spiderverse, da el sa… [+2692 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "E! NEWS",
-            "title": "Ryan Reynolds Says He Just Learned Blake Lively's Real Last Name - E! NEWS",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2NYbFFwcDlMZkl6UkwzN0JrUzE3MHN6akdPODIzbGpHYS1IcHYxUHAtZnBTYjZIWGpTbXZZNGdYMWNxbllyWl9TaDRITTdtanZuZVBWbjhNWnM4aHJRQ0FOdlRCTi01VHpWMjRTMTdTQy04WTU1UUxlcXNFanVGaEx0d092WC1qV042VGhfZXZ6bUJ1MDJtQ0lCMjNaN1Zwb2c?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T02:31:00Z",
-            "content": null
+        "author": "Gabriel Erard",
+        "title": "En qué se diferencia ‘Daredevil: Born Again’ de la serie de Netflix, según Marvel",
+        "description": "Daredevil: Born Again se ha convertido en uno de los proyectos más esperados de Marvel Studios para Disney+. En especial, desde que se confirmó que la serie original de Netflix es canon del Universo Cinematográfico de Marvel y que la nueva producción es una c…",
+        "url": "http://hipertextual.com/2024/07/en-que-se-diferencia-daredevil-born-again-serie-netflix",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/07/Daredevil-scaled.jpeg",
+        "publishedAt": "2024-07-04T16:47:40Z",
+        "content": "Daredevil: Born Again se ha convertido en uno de los proyectos más esperados de Marvel Studios para Disney+. En especial, desde que se confirmó que la serie original de Netflix es canon del Universo … [+3252 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Wall Street Journal",
-            "title": "Meta’s AI Costs Surge as Digital Advertising Revenue Grows - The Wall Street Journal",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWm5ob2UwNVgwZ3Z0NS1mblRVNHlxYXhyd2piODNLeVBOeHZIM1UtVEN6NVFwaUZOLS1CaEFIRTZzdHJBMVk2SVF3UXNQUHdEZFQ0ZjBmVkFWeUVqTG1fR1Y2MTctYWV1OVI5UFd0b0lDRk9VS2FyQ19hdzY0RDY4TA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T01:44:00Z",
-            "content": null
+        "author": "Uriel Bederman",
+        "title": "Día Mundial del Emoji: ¿quién es Jennifer Daniel, la mujer detrás de los más populares?",
+        "description": "Hoy es el Día Mundial del Emoji, una jornada que elogia la potencia de estos gráficos fundamentales para la comunicación no verbal en las plataformas digitales. Sustitutos de la gestualidad humana, son recursos válidos para contextualizar y aclarar aspectos q…",
+        "url": "http://hipertextual.com/2024/07/dia-mundial-del-emoji-jennifer-daniel",
+        "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/07/dia-mundial-del-emoji.jpg?fit=2560%2C1463&quality=55&strip=all&ssl=1",
+        "publishedAt": "2024-07-17T08:00:00Z",
+        "content": "Hoy es el Día Mundial del Emoji, una jornada que elogia la potencia de estos gráficos fundamentales para la comunicación no verbal en las plataformas digitales. Sustitutos de la gestualidad humana, s… [+6382 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Applesfera.com"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Associated Press",
-            "title": "British police charge 17-year-old with murder over a stabbing attack that killed 3 children - The Associated Press",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjIwa1djbmFTOTBzcXJLSWFUa2x0T0R6XzVLOGtoa0QtWkp6MHBEOFVHYldjSTJ2RHI2SGMtTW9IVDNYcWc2NXZuNWFUbW1leUdtT2lFRk9DWWtEWE1KU3VTME5lRVBLLVRJckJBamx5M08yNDU4NXpISklGOWk2eTY1SEJrYmljOE9jb3dqRFBleDZDbFZpM1FvclhDanQyWURoSXNOM054ck0?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T01:21:00Z",
-            "content": null
+        "author": "Álvaro García M.",
+        "title": "Lo que antes era embarazoso ahora es un orgullo. Apple saca músculo con los videojuegos en un evento secreto de Nueva York",
+        "description": "A quien se le pida que piense en ordenadores para videojuegos, en rara ocasión tiene en mente un Mac. O, al menos, así ha ocurrido tradicionalmente. Y era completamente lógico al no ser los ordenadores de Apple los mejores capacitados para combinar la potenci…",
+        "url": "https://www.applesfera.com/apple-1/que-antes-era-embarazoso-ahora-orgullo-apple-saca-musculo-videojuegos-evento-secreto-nueva-york",
+        "urlToImage": "https://i.blogs.es/52886b/juegos-iphone/840_560.jpeg",
+        "publishedAt": "2024-07-16T07:05:42Z",
+        "content": "A quien se le pida que piense en ordenadores para videojuegos, en rara ocasión tiene en mente un Mac. O, al menos, así ha ocurrido tradicionalmente. Y era completamente lógico al no ser los ordenador… [+3561 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Greg Wehner",
-            "title": "Elon Musk accepts Venezuelan President Nicolás Maduro's challenge to fight - Fox Business",
-            "description": "Elon Musk accepted Nicolás Maduro's challenge to fight, simply writing: \"I accept.\" Maduro appeared to be miffed over Musk doubting he won the election in Venezuela fairly.",
-            "url": "https://www.foxbusiness.com/politics/elon-musk-accepts-venezuelan-president-nicolas-maduros-challenge-fight",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/07/0/0/musk_maduro.jpg?ve=1&tl=1",
-            "publishedAt": "2024-08-01T01:15:00Z",
-            "content": "Space X CEO Elon Musk responded to Venezuelan President Nicolás Maduros challenge to fight on Wednesday, simply saying, \"I accept.\"\r\nIn a video Monday, Maduro was seen holding a cellphone as he decla… [+3300 chars]"
+        "author": "Gonzalo Franco",
+        "title": "‘Los 4 Fantásticos’: Pedro Pascal comparte la primera fotografía de la familia reunida",
+        "description": "Los 4 Fantásticos es una de las apuestas más fuertes de Marvel de cara a los próximos años. La compañía quiere ofrecer de una vez por todas una adaptación del equipo a la altura de sus mejores cómics. Y para ello cuenta con un reparto protagonista de lujo. Pe…",
+        "url": "http://hipertextual.com/2024/07/los-4-fantasticos-pedro-pascal-primera-fotografia",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/02/Los-4-Fantasticos.jpg",
+        "publishedAt": "2024-07-25T14:56:16Z",
+        "content": "Los 4 Fantásticos es una de las apuestas más fuertes de Marvel de cara a los próximos años. La compañía quiere ofrecer de una vez por todas una adaptación del equipo a la altura de sus mejores cómics… [+2606 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The Guardian US",
-            "title": "Kamala Harris to appear with running mate at rally in Philadelphia on Tuesday - The Guardian US",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbEVFU09ZdFFJWUhCVDZfckFPTkZDSlJJV001TWdNeWI3V2I5QzJJWGlmQTdRczVsU2dmeEpPZHdUNzVXWXU5bTBQRnlBdU9sYk1GanZRZ2xlX0NPWGhUR3ltaDd6UHNDUmZRTmREcVRTeHVoeHBweGd1bnFuNlBKdENEZENmbXBydHBfd085aHp1X0RaYjJEYlBDMDdOYzJYZkJIU1loTdIBpwFBVV95cUxNcHBHZEhNZ1RwMGNQQ1k3MUdXYXhyZnJsWkE5SmREMTNfY0RsOXdhaC10dkFjUW5CRHIzZXphQ1VrM0RWU0J0V3IzeXlzRFB1V28ySXhSOG9DeVhMNy15UFlNTU1zZDE1bHFYMF8wRm9KbDUwTmd2Y0I1SDJaUnV5VHd6UlNheW9PeHRORnFSaF8zTW9sR2VjTGdxQXFhMUVwaEd4QnZTSQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T01:06:00Z",
-            "content": null
+        "author": "Aglaia Berlutti",
+        "title": "‘Tierra de mujeres’, la producción española encabezada por Eva Longoria que tienes que ver",
+        "description": "Durante la última década, Apple TV+ no ha hecho más que crecer. De comenzar con un catálogo, si se quiere discreto y enfocado en la ciencia ficción, su evolución le lleva ahora a nuevos terrenos. Lo que incluye la comedia y producciones internacionales. Una d…",
+        "url": "http://hipertextual.com/2024/07/tierra-de-mujeres-la-produccion-espanola-encabezada-por-eva-longoria-que-tienes-que-ver",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/04/tierra-mujeres-scaled.jpg",
+        "publishedAt": "2024-07-02T09:16:28Z",
+        "content": "Durante la última década, Apple TV+ no ha hecho más que crecer. De comenzar con un catálogo, si se quiere discreto y enfocado en la ciencia ficción, su evolución le lleva ahora a nuevos terrenos. Lo … [+4815 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Fox News",
-            "title": "FDA approves new blood test for colon cancer screening: ‘Early detection is critical’ - Fox News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmU4TmhHYnJDXzhPNERQMy1JejRjRjVlUnZPZlRXYlZQaEpjdGVPX3pPV2hCc3V5UTEzN01pZFJEVDFOOEtHZTRiN2t1X0hVa2ptdEtnRkxWX2gtSUxqWE8zOFBXTDBqRE1wVjNwbWpOc0d0dUFlR2hRbExsclhvcmpsQ1liaHlvMlllRXlwc0lDckVxSWxlaGFKYmvSAaIBQVVfeXFMTUZRTjJseHNVamNmdG5vQ0FBUnNPa1luY0tsVFVRUzJKZU14NHhGSzJqa1lSczctaV9iUTJSRjQ5Nm9uYXE4MGVTcHBfWFlkd1RPVlhQUjdDWmc5T2luUFlNYjZsdU5xOFAwMFVWQVVibzNDQjFUYTE3cW1KX3ZFeVVlRzFjVm5aYjg4NndmOWRrR0tiRV9PTkhuMV9oOWJXWW53?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T00:54:00Z",
-            "content": null
+        "author": "Gonzalo Franco",
+        "title": "Nicolas Cage promete monstruos y fantasía en la serie de ‘Spider-Man Noir’",
+        "description": "Nicolas Cage protagonizará Noir, una serie centrada en Spider-Man Noir, la variante en blanco y negro del legendario superhéroe de Marvel. El actor ya le puso voz al arácnido en las películas de animación de Spiderverse. Pero ahora dará el salto a la imagen r…",
+        "url": "http://hipertextual.com/2024/07/nicolas-cage-promete-monstruos-serie-spider-man-noir",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/07/Spider-Man-Noir.jpg",
+        "publishedAt": "2024-07-09T09:46:54Z",
+        "content": "Nicolas Cageprotagonizará Noir, una serie centrada en Spider-Man Noir, la variante en blanco y negro del legendario superhéroe de Marvel. El actor ya le puso voz al arácnido en las películas de anima… [+3286 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Muyinteresante.com"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The New York Times",
-            "title": "Vance’s Links to the Project 2025 Leader Complicate Trump’s Attempts at Distance - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGo2YVpNaWx3cU9SWGRmdk9BZXpDVmdIX01uUmtCa09sVHRuUHBwM2JfUDlUVktIY1lOOUhwR09GTHB3OXNobTFuNnU0TVBtTHAzTThKRUJ0ZG9xN1RVM3h1WUF4TXVIM2RCLVh3MkFUa2lYeXlrZFNUaFNlUlFxazdR?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T00:48:33Z",
-            "content": null
+        "author": "Juan Castroviejo",
+        "title": "Sorolla antes los ojos del mundo: las exposiciones internacionales que encumbraron su pintura",
+        "description": "El pintor valenciano, que entendió rápidamente que para triunfar en el mundo del arte era necesario ser conocido más allá de las fronteras de España, conquistó el mercado internacional siendo protagonista de exposiciones exitosas en París, Londres, Nueva York…",
+        "url": "https://www.muyinteresante.com/historia/65478.html",
+        "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/07/22/669e727f488b0.jpeg",
+        "publishedAt": "2024-07-22T18:27:01Z",
+        "content": "El 19 de agosto de 1923, The New York Times publicaba un largo artículo en el que se anunciaba la muerte de Joaquín Sorolla. Ante esta noticia, es inevitable que nos preguntemos: ¿podía el fallecimie… [+11412 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "ESPN",
-            "title": "Tatum returns to lineup: Takeaways from Team USA's win over South Sudan - ESPN",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaTdOcXRfS3RBNHhFRE1xQk9kcW9LVTdsOUdzTkNDVFRDSm1rMWhHT0pXNzA1dm51YlFPM0JMY1BzRExCSi1RczRpUEJ0RW5QSml6ZU1FVmdTZ2NvejZFQUxQOWNYMEczR0RDVXQ1VGlWNl9lckF5dXNNX3daSjhiNFFRc3dNRUJBNnlCSWtSWTZteGhwODJTY3NSXzdTZkVTQU9Obw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-08-01T00:38:00Z",
-            "content": null
+        "author": "Enrique Pérez",
+        "title": "Una empresa promete producir hasta 20 veces más que los paneles solares con una sencilla forma: esferas fotónicas",
+        "description": "La forma de los paneles solares es prácticamente la misma en todo el mundo. Grandes y pesadas placas, instaladas en superficies planas como tejados o terrenos vacíos para poder aprovechar al máximo su forma. Pero la captación de energía solar no tiene necesar…",
+        "url": "https://www.xataka.com/energia/esta-empresa-promete-producir-20-veces-que-paneles-solares-sencilla-forma-esferas-fotonicas",
+        "urlToImage": "https://i.blogs.es/d27ec3/esfera-solar/840_560.jpeg",
+        "publishedAt": "2024-07-03T17:00:51Z",
+        "content": "La forma de los paneles solares es prácticamente la misma en todo el mundo. Grandes y pesadas placas, instaladas en superficies planas como tejados o terrenos vacíos para poder aprovechar al máximo s… [+2377 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The New York Times",
-            "title": "Accused Sept. 11 Plotters Agree to Plead Guilty at Guantánamo Bay - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZSTdzNngweXREWXJySnZ2QUF3WVdpdW0wc29TMXU1UTZic2gzaHk4WEwwdTVMbFd3TG1DNFFJNmNvenY5VE5FMlZ6b1pSZDREZkw4VjA5VkpnbDl0c3BMRTdpaDJNOXVYVUlaRkE2NW1nVktZRUlURWVsNA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-31T23:18:36Z",
-            "content": null
+        "author": "Javier Lacort",
+        "title": "Cuatro usuarios de las Vision Pro cuentan sus cinco meses con ellas: tecnología del futuro, limitaciones del presente",
+        "description": "Cuando Apple anunció las Vision Pro, junio de 2023, muchos empezaron a hacer hucha y sitio en el despacho para afrontar su compra. No llegaron al mercado hasta febrero de 2024, y solo lo hicieron en Estados Unidos.\n<!-- BREAK 1 -->\nPor supuesto, no solo gente…",
+        "url": "https://www.xataka.com/realidad-virtual-aumentada/cuatro-usuarios-vision-pro-cuentan-sus-cinco-meses-ellas-tecnologia-futuro-limitaciones-presente",
+        "urlToImage": "https://i.blogs.es/54abf5/4-central/840_560.jpeg",
+        "publishedAt": "2024-07-13T12:31:49Z",
+        "content": "Cuando Apple anunció las Vision Pro, junio de 2023, muchos empezaron a hacer hucha y sitio en el despacho para afrontar su compra. No llegaron al mercado hasta febrero de 2024, y solo lo hicieron en … [+6082 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Denver-area wildfire turns deadly as California’s Park Fire torches an area larger than Los Angeles - CNN",
-            "description": null,
-            "url": "https://consent.google.com/m",
-            "urlToImage": null,
-            "publishedAt": "2024-07-31T23:06:00Z",
-            "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]"
+        "author": "Carlos Guisasola",
+        "title": "Los futuristas centros de movilidad sostenible que han inspirado a Nueva York: del germen de Canalejas a Plaza Mayor, ya en 2027",
+        "description": "El miércoles pasado, la vicealcaldesa de Nueva York, Meera Joshi, se adentraba en las entrañas del céntrico parking de Canalejas, a un kilómetro del Palacio de Cibeles....",
+        "url": "https://www.elmundo.es/madrid/2024/07/08/6689843de9cf4ab9058b45a0.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/b762ea7f48bf5041f108f952070b58fa/crop/0x164/3072x2212/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/06/17202861814341.jpg",
+        "publishedAt": "2024-07-07T22:16:46Z",
+        "content": "El miércoles pasado, la vicealcaldesa de Nueva York, Meera Joshi, se adentraba en las entrañas del céntrico parking de Canalejas, a un kilómetro del Palacio de Cibeles. Acompañada de su homónima madr… [+5070 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Reuters",
-            "title": "Fed's Powell puts September rate cut on table as US inflation cools - Reuters",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGthaU16bGlHX2JhVHZKSTl6clMzNkd1SFh4SFJJTGhsR2U4TDJPRUstZ1ZmVXRzenJHNHp6d0FCRzU2M2hpeDB6ZXRnYWZMNVBWNWJCSnpEWDNvdjdJaWxyWnJTWVZhMUNYUlVpQWQ2RG1wSnVEMEozejJMRnk1MTRTN1FfU21kMlFiT1dDb05DOFZRRXRLMVVvTENseTFiQVFZ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-31T22:57:00Z",
-            "content": null
+        "author": "EFE",
+        "title": "Millones por un esqueleto de estegosaurio: este es el fósil más caro de la historia",
+        "description": "El esqueleto de un dinosaurio Stegosaurus apodado Apex se subastó este miércoles en Nueva York por 44,6 millones de dólares, multiplicando su precio estimado y convirtiéndose...",
+        "url": "https://www.elmundo.es/ciencia-y-salud/ciencia/2024/07/17/66983b36fc6c8314068b45ac.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/76d5c0818d2bef1204b6424981092ce1/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/17/17212522558757.jpg",
+        "publishedAt": "2024-07-17T21:44:47Z",
+        "content": "El esqueleto de un dinosaurio Stegosaurus apodado Apex se subastó este miércoles en Nueva York por 44,6 millones de dólares, multiplicando su precio estimado y convirtiéndose en el fósil más valioso … [+561 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Android Police",
-            "title": "If the Google Pixel 9 launches with Android 14, it deserves 8 OS updates - Android Police",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZTJEMmtrN0Nzay1CWHFxLVctZkdVbnJteTBZYUpKMFpwZTA0NWpLaHk1OU5iNjR3eFNtN0k4VTg0cy0zS1N2RjVtVVBPdm13LXNxb3IyQWR2andicVoyS3gzbDUxMk0?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-31T22:56:00Z",
-            "content": null
+        "author": "Iván González",
+        "title": "\"No sentí que fuera productivo\": una de las estrellas de Los 4 Fantásticos de Marvel Studios reconoce que no ha visto ninguna de las adaptaciones de Fox",
+        "description": "Marvel Studios traerá en 2025 la esperadísima película de Los 4 Fantásticos. Fox ha realizado varias adaptaciones a lo largo de los últimos 20 años. Si bien algunas de ellas son muy divertidas por el gran dinamismo entre los protagonistas, otras preferimos ol…",
+        "url": "https://www.vidaextra.com/cine/no-senti-que-fuera-productivo-estrellas-4-fantasticos-marvel-studios-reconoce-que-no-ha-visto-ninguna-adaptaciones-fox",
+        "urlToImage": "https://i.blogs.es/eb0594/los-4-fantasticos/840_560.jpeg",
+        "publishedAt": "2024-07-29T21:01:42Z",
+        "content": "Marvel Studios traerá en 2025 la esperadísima película de Los 4 Fantásticos. Fox ha realizado varias adaptaciones a lo largo de los últimos 20 años. Si bien algunas de ellas son muy divertidas por el… [+1495 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Muyinteresante.com"
         },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Lori Bashian",
-            "title": "Country star Megan Moroney sets record straight about rumored Morgan Wallen romance - Fox News",
-            "description": "Megan Moroney is setting the record straight on her rumored romance with fellow country star Morgan Wallen. Fans have speculated Moroney's song \"Tennessee Orange\" is about Wallen.",
-            "url": "https://www.foxnews.com/entertainment/country-star-megan-moroney-sets-record-straight-about-rumored-morgan-wallen-romance",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/megan-moroney-morgan-wallen.jpg",
-            "publishedAt": "2024-07-31T22:54:00Z",
-            "content": "Country singer Megan Moroney opened up about her former romantic relationship with Morgan Wallen.\r\nDuring a recent appearance on the \"Call Her Daddy\" podcast, Moroney revealed she and Wallen did in f… [+3575 chars]"
+        "author": "Sarah Romero",
+        "title": "Así es cómo tu cerebro decide qué recordar y qué no recordar: toma nota",
+        "description": "Una nueva investigación revela por qué ciertos eventos permanecen claros en nuestra mente y otros se diluyen en el olvido.",
+        "url": "https://www.muyinteresante.com/ciencia/65352.html",
+        "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/06/04/665efa70473f5.jpeg",
+        "publishedAt": "2024-07-10T19:47:33Z",
+        "content": "La mayor parte de lo que te sucede todos los días desaparece sin dejar rastro. Pero un estudio reciente dirigido por un equipo de investigadores de la Facultad de Medicina Grossman de la Universidad … [+5083 chars]"
+    },
+    {
+        "source": {
+            "id": "marca",
+            "name": "Marca"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The New York Times",
-            "title": "‘We Just Need a Break’: Another Flood in Vermont Wears Out Residents - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSDBTNzJaUTJodnNhZXloc1VLX0pKZ292c1ZrVUF4RlRCbUQzUEdsQXVQUlpfUlJ3cjZmWEJnM09qbjE3M1VmbXR0c2RUbFFnR2dyeko0OE9IdThsTFNrWWF4UHpwYW9CUmJRM2dTRWg5dw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-31T22:40:43Z",
-            "content": null
+        "author": "CÉSAR ORTIZ",
+        "title": "¡Vinícius se convierte en estatua en el museo de cera de Nueva York!",
+        "description": "Vini se ha encargado de trasladar todo el &apos;buen rollo&apos; que le caracteriza al Madame Tussauds, el museo de cera de Nueva York. En su cuenta de Instagram, tanto el jugador",
+        "url": "https://www.marca.com/futbol/2024/07/18/6698ecb946163fed598b457c.html",
+        "urlToImage": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_yghav54h/width/657/type/2/bgcolor/000000/0_yghav54h.jpg",
+        "publishedAt": "2024-07-18T10:30:22Z",
+        "content": "Vini se ha encargado de trasladar todo el 'buen rollo' que le caracteriza al Madame Tussauds, el museo de cera de Nueva York. En su cuenta de Instagram, tanto el jugador como la cuenta del museo se h… [+518 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Applesfera.com"
         },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "The New York Times",
-            "title": "Rosenthal: In a busy MLB trade deadline, quantity of deals overshadowed quality of players - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOG1taHZpbk92VURVNGo4Wjg2OHI3R0tCOVZnRUtKQnZzZFJIeXlaa1RQcE4tOE9nc0VWT3JJQy05clB6WDIzTURscWh6cklQWFZtQlRXb0N6a3JzbzEyam1TQW9ydkxueWtIeVVXYzdVZjBGdVBweWxwT0NVbmlRTFlpU1BBVGlxWWt4akV5ck0?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-07-31T22:13:42Z",
-            "content": null
-        }
-    ]
-}
+        "author": "Álvaro García M.",
+        "title": "El gran estreno de Apple TV+ se ha rodado en Cataluña: 'Tierra de mujeres' se convierte en un éxito con aroma Almodóvar y estrellas de la talla de Eva Longoria",
+        "description": "No ha hecho más que empezar y ya tenemos uno de los estrenos del verano en Apple TV+. Se trata de ‘Tierra de mujeres’, una serie hispano estadounidense a cargo de la conocida productora Bambú, que también ha estado detrás de otras producciones conocidas como …",
+        "url": "https://www.applesfera.com/servicios-apple/gran-estreno-apple-tv-se-ha-rodado-cataluna-tierra-mujeres-se-convierte-exito-aroma-almodovar-estrellas-talla-eva-longoria",
+        "urlToImage": "https://i.blogs.es/39fc48/maura-y-longoria/840_560.jpeg",
+        "publishedAt": "2024-07-04T16:01:05Z",
+        "content": "No ha hecho más que empezar y ya tenemos uno de los estrenos del verano en Apple TV+. Se trata de Tierra de mujeres, una serie hispano estadounidense a cargo de la conocida productora Bambú, que tamb… [+2633 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Genbeta.com"
+        },
+        "author": "Bárbara Bécares",
+        "title": "La Generación-Z debe \"estar dispuesta a trabajar en cualquier cosa, por cualquier horario o salario\", según esta líder empresarial",
+        "description": "Ya hemos visto en muchísimas ocasiones cómo las generaciones mayores se muestran muy críticas con la juventud que está entrando de lleno ahora en el mercado laboral. Y también que la llamada Generación Z se queja de las dinámicas laboral abusivas tan instaura…",
+        "url": "https://www.genbeta.com/actualidad/generacion-z-debe-estar-dispuesta-a-trabajar-cualquier-cosa-cualquier-horario-salario-esta-lider-empresarial",
+        "urlToImage": "https://i.blogs.es/acf91d/simon-maage-tximrx3gc-g-unsplash/840_560.jpeg",
+        "publishedAt": "2024-07-22T11:52:17Z",
+        "content": "Ya hemos visto en muchísimas ocasiones cómo las generaciones mayores se muestran muy críticas con la juventud que está entrando de lleno ahora en el mercado laboral. Y también que la llamada Generaci… [+3639 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Ángel Jiménez de Luis",
+        "title": "Starbucks, Fedex, American Airlines... El caos de CrowdStrike puede con Trump",
+        "description": "La icónica plaza de Times Square, en Nueva York, despertaba hoy llena de pantallas azules. El fallo de software que ha tumbado cientos de sistemas de aerolíneas, hospitales,...",
+        "url": "https://www.elmundo.es/economia/2024/07/19/669aaa3e21efa0444e8b4580.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/158b2012d910f4e2c77e76fec4af2957/crop/616x409/3072x2047/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/19/17214123526524.jpg",
+        "publishedAt": "2024-07-19T18:13:30Z",
+        "content": "La icónica plaza de Times Square, en Nueva York, despertaba hoy llena de pantallas azules. El fallo de software que ha tumbado cientos de sistemas de aerolíneas, hospitales, bancos y oficinas en todo… [+378 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xatakamovil.com"
+        },
+        "author": "Laura Sacristán",
+        "title": "Este es el nuevo canal gratis que llega hoy a Movistar Plus+ con más de 100 películas",
+        "description": "Hace unos días, Movistar Plus+ lanzó 'Vacaciones por M+' en el dial 15, un canal temporal con contenidos para todos los públicos que estará disponible hasta septiembre. Pero no es esa la única sorpresa que nos tenía reservada para este verano. \n<!-- BREAK 1 -…",
+        "url": "https://www.xatakamovil.com/movistar/este-nuevo-canal-gratis-que-llega-hoy-a-movistar-plus-100-peliculas",
+        "urlToImage": "https://i.blogs.es/70139e/lalaland-movistar-smartmockups/840_560.jpeg",
+        "publishedAt": "2024-07-18T07:01:22Z",
+        "content": "Hace unos días, Movistar Plus+ lanzó 'Vacaciones por M+' en el dial 15, un canal temporal con contenidos para todos los públicos que estará disponible hasta septiembre. Pero no es esa la única sorpre… [+3410 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Applesfera.com"
+        },
+        "author": "Pedro Aznar",
+        "title": "Apple Vision Pro llega a Europa: así ha sido la llegada de la computación espacial desde la histórica Apple Store de Berlín",
+        "description": "Ha llegado el momento de salir al resto del mundo. Tim Cook anunció en la pasada WWDC24 los siguientes países en la expansión internacional de su dispositivo de computación espacial. Desde hoy 12 de julio, Apple Vision Pro llega a los primeros países de Europ…",
+        "url": "https://www.applesfera.com/eventos/apple-vision-pro-llega-a-europa-asi-ha-sido-llegada-computacion-espacial-historica-apple-store-berlin",
+        "urlToImage": "https://i.blogs.es/8d7e61/apple-vision-pro-europa--29/840_560.jpeg",
+        "publishedAt": "2024-07-12T09:01:41Z",
+        "content": "Ha llegado el momento de salir al resto del mundo. Tim Cook anunció en la pasada WWDC24 los siguientes países en la expansión internacional de su dispositivo de computación espacial. Desde hoy 12 de … [+7552 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Alberto de la Torre",
+        "title": "China es el país que más firmemente está apostando por el coche autónomo. Y ya está jubilando a taxistas humanos",
+        "description": "El pasado mes de mayo, Elon Musk paraba su agenda con un solo objetivo: liberar tiempo para ir a China. El objetivo no podía ser más evidente. Necesitaba conseguir que su Autopilot pudiera funcionar en el país asiático. Una reunión con el primer ministro chin…",
+        "url": "https://www.xataka.com/movilidad/medio-mundo-reacio-futuro-coche-autonomo-se-decide-china-esta-jubilando-a-taxistas-humanos",
+        "urlToImage": "https://i.blogs.es/6ed8cf/captura-de-pantalla-2024-07-18-a-las-08.43.57-a.-m./840_560.jpeg",
+        "publishedAt": "2024-07-18T08:01:27Z",
+        "content": "El pasado mes de mayo, Elon Musk paraba su agenda con un solo objetivo: liberar tiempo para ir a China. El objetivo no podía ser más evidente. Necesitaba conseguir que su Autopilot pudiera funcionar … [+5366 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Miguel Jorge",
+        "title": "En EEUU hay inquilinos que no pueden hablar con los caseros. Han contratado IAs para lidiar con los problemas",
+        "description": "Si la búsqueda de un piso para alquilar puede suponer un enorme estrés en el paisaje urbano de muchas ciudades actuales, imagina la imposibilidad de dar con un humano detrás de ese posible contrato que te solucione la vida. Hasta ahora, estábamos acostumbrado…",
+        "url": "https://www.xataka.com/magnet/eeuu-hay-inquilinos-que-no-pueden-hablar-caseros-han-contratado-ias-para-lidiar-problemas",
+        "urlToImage": "https://i.blogs.es/dc2f6c/ps---plantilla-portadas-xtk-5/840_560.jpeg",
+        "publishedAt": "2024-07-09T18:00:44Z",
+        "content": "Si la búsqueda de un piso para alquilar puede suponer un enorme estrés en el paisaje urbano de muchas ciudades actuales, imagina la imposibilidad de dar con un humano detrás de ese posible contrato q… [+6027 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Applesfera.com"
+        },
+        "author": "Isra Fdez",
+        "title": "Hay más de 2.000 memorias USB pegadas en paredes por el mundo, algunas con fines políticos. No te recomendamos conectar tu iPhone a ellas",
+        "description": "Actualmente hay más 2.000 pendrives pegados, sellados con cemento, yeso o pasta de secado rápido a paredes de medio mundo. Desde Australia a Alemania, de Rusia a India, pasando Por Estados Unidos e incluso en la Antártida —dos de ellos—. ¿La razón? Distintas.…",
+        "url": "https://www.applesfera.com/accesorios/hay-2-000-memorias-usb-pegadas-paredes-mundo-algunas-fines-politicos-no-te-recomendamos-conectar-tu-iphone-a-ellas",
+        "urlToImage": "https://i.blogs.es/2a29b6/memoria-usb-en-muro/840_560.jpeg",
+        "publishedAt": "2024-07-12T14:01:41Z",
+        "content": "Actualmente hay más 2.000 pendrives pegados, sellados con cemento, yeso o pasta de secado rápido a paredes de medio mundo. Desde Australia a Alemania, de Rusia a India, pasando Por Estados Unidos e i… [+3983 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Michell Stella, el venezolano que cruzó el Darién y ahora modela en Nueva York",
+        "description": "Salió con apenas 17 años de un pueblo del interior de Venezuela para cumplir su sueño de ser modelo. Los obstáculos que tuvo que superar fueron formidables.",
+        "url": "https://www.bbc.com/mundo/articles/cw44qjl3k0eo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/032a/live/e195aaf0-2e23-11ef-8715-85651e35d56b.jpg",
+        "publishedAt": "2024-07-12T11:05:35Z",
+        "content": "Fuente de la imagen, Cortesía George Liopetas\r\nArticle information\r\nCruzar el Darién no fue lo más duro en la vida de Michell Stella.\r\nHubo muchas situaciones en donde me dije bueno Michell, hay dos … [+12331 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Alejandro Alcolea",
+        "title": "Hay otra crisis logística global en el horno y se dirige a un punto en concreto: encarecernos la Navidad",
+        "description": "Más del 80% del volumen del comercio mundial de mercancías se realiza por mar. Es algo que explica que las empresas encarguen enormes portacontenedores a los astilleros y que haya compañías que se estén haciendo con una flota propia para distribuir sus produc…",
+        "url": "https://www.xataka.com/transporte/hay-otra-crisis-logistica-global-horno-se-dirige-a-punto-concreto-encarecernos-navidad",
+        "urlToImage": "https://i.blogs.es/7b930a/portacontenedores/840_560.jpeg",
+        "publishedAt": "2024-07-07T11:31:46Z",
+        "content": "Más del 80% del volumen del comercio mundial de mercancías se realiza por mar. Es algo que explica que las empresas encarguen enormes portacontenedores a los astilleros y que haya compañías que se es… [+7371 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Applesfera.com"
+        },
+        "author": "Isra Fdez",
+        "title": "OpenAI es una máquina de quemar dinero y acaba de firmar un acuerdo que les hará ganar mucho más: SearchGPT es su propio buscador para tumbar a Google",
+        "description": "Apple se gasta cada año unos 30.000 millones de dólares en I+D y Google le paga casi la mitad de eso, entre 15.000 y 20.000 millones para seguir siendo su buscador por defecto. Este negocio parece que puede irse al traste. Y no porque la Unión Europea haya im…",
+        "url": "https://www.applesfera.com/aplicaciones-ios-1/openai-maquina-quemar-dinero-acaba-firmar-acuerdo-que-les-hara-ganar-mucho-searchgpt-su-propio-buscador-para-tumbar-a-google",
+        "urlToImage": "https://i.blogs.es/1f55ec/searchgpt/840_560.jpeg",
+        "publishedAt": "2024-07-26T12:01:50Z",
+        "content": "Apple se gasta cada año unos 30.000 millones de dólares en I+D y Google le paga casi la mitad de eso, entre 15.000 y 20.000 millones para seguir siendo su buscador por defecto. Este negocio parece qu… [+3470 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Expansion.com"
+        },
+        "author": "Expansión",
+        "title": "IE University abre campus en Nueva York",
+        "description": "IE University ha reemplazado a Glasgow Caledonian University como miembro de Glasgow Caledonian New York College (GCNYC), por lo que este college situado en el SoHo cambiará su...",
+        "url": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2024/07/31/66aa42a7468aeb457f8b458d.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/c611b9efc610d783e59416461374b426/crop/0x40/1988x1365/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/31/17224342860469.jpg",
+        "publishedAt": "2024-07-31T14:06:00Z",
+        "content": "IE University e IENYC impulsarán distintas iniciativas como acuerdos de intercambio que permitirán a los alumnos de IE University vivir y estudiar en Nueva York.IE University ha reemplazado a Glasgow… [+2683 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Expansion.com"
+        },
+        "author": "Sergio Saiz",
+        "title": "Calatrava: de Milwakee a Nueva York",
+        "description": "¡Feliz Día de Calatrava! Para celebrar una fecha tan señalada, hay que estar el próximo 16 de septiembre en Milwakee. La ciudad más grande de Wisconsin, la misma que Donald...",
+        "url": "https://www.expansion.com/directivos/2024/07/08/668ad0a4468aeb73378b4590.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/270dc29c340bd8e36db7f8827ee69b4a/crop/83x9/2042x1315/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/07/17203749949768.jpg",
+        "publishedAt": "2024-07-07T23:04:35Z",
+        "content": "El arquitecto español ha firmado obras icónicas por todo el país, donde es altamente reconocido.¡Feliz Día de Calatrava! Para celebrar una fecha tan señalada, hay que estar el próximo 16 de septiembr… [+342 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "20minutos.es"
+        },
+        "author": "20minutos",
+        "title": "Nueva York presenta su 'nuevo' sistema de recogida de residuos: \"Bienvenidos a la revolución de la basura\"",
+        "description": "El alcalde Eric Adams presenta los contenedores que se usarán en la ciudad y se hace viral.",
+        "url": "https://www.20minutos.es/noticia/5529637/0/nueva-york-presenta-su-nuevo-sistema-recogida-residuos-cubo-bienvenidos-revolucion-basura/",
+        "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/09/nueva-york-presenta-su-nuevo-sistema-de-recogida-de-basura-el-cubo-bienvenidos-a-la-revolucion.png",
+        "publishedAt": "2024-07-09T15:28:52Z",
+        "content": "Al alcalde de Nueva York, Eric Adams, no le falta humor a la hora de dar cuenta a sus vecinos de los nuevos avances del Ayuntamiento. Adams presentaba este lunes el nuevo y \"revolucionario\" sistema p… [+2016 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Carlos Prego",
+        "title": "Japón quería acabar con la falsificación de billetes. Ha terminado condenando a miles de máquinas expendedoras",
+        "description": "Japón acaba de recordar una sensación que no vivía desde hacía 20 años: el estreno de billetes. Hace una semana su banco central empezó a emitir una serie de nuevos billetes de 1.000, 5.000 y 10.000 yenes, cada uno ilustrado con el rostro de una figura destac…",
+        "url": "https://www.xataka.com/magnet/japon-queria-acabar-falsificaciones-billetes-ha-terminado-condenando-a-miles-maquinas-expendedoras",
+        "urlToImage": "https://i.blogs.es/399c9c/catrina-farrell-0ka7d6tmnk0-unsplash/840_560.jpeg",
+        "publishedAt": "2024-07-10T08:30:50Z",
+        "content": "Japón acaba de recordar una sensación que no vivía desde hacía 20 años: el estreno de billetes. Hace una semana su banco central empezó a emitir una serie de nuevos billetes de 1.000, 5.000 y 10.000 … [+6977 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Carlos Prego",
+        "title": "En su empeño por atajar sus retos alimentarios, el EEUU de posguerra nos dejó otro aún mayor: la crisis de los ultraprocesados",
+        "description": "Por más que científicos e instituciones lleven años alertando de los riesgos de su consumo excesivo, los alimentos ultraprocesados, de origen industrial y un elevado contenido en grasas, almidones, azúcares o aditivos, siguen teniendo un peso clave en los men…",
+        "url": "https://www.xataka.com/magnet/su-empeno-atajar-sus-retos-alimentarios-eeuu-posguerra-nos-dejo-otro-mayor-crisis-ultraprocesados",
+        "urlToImage": "https://i.blogs.es/9e8ada/burgere2/840_560.jpeg",
+        "publishedAt": "2024-07-28T11:02:02Z",
+        "content": "Por más que científicos e instituciones lleven años alertando de los riesgos de su consumo excesivo, los alimentos ultraprocesados, de origen industrial y un elevado contenido en grasas, almidones, a… [+8353 chars]"
+    },
+    {
+        "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "Óscar Jiménez",
+        "title": "Ni ejercicio ni genética: el secreto de longevidad de Deborah Szekely con 102 años",
+        "description": "Deborah Szekely  nació en Brooklyn, Nueva York, el 3 de mayo de 1922 y guarda el secreto de la eterna juventud. El hecho de que siempre le haya interesado la salud y el bienestar l",
+        "url": "https://www.marca.com/tiramillas/actualidad/2024/07/21/669cd06a268e3e0f3e8b4578.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/20319677fb4b0262b7562778154a43ad/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/21/17215529217504.jpg",
+        "publishedAt": "2024-07-21T09:10:22Z",
+        "content": "Deborah Szekely nació en Brooklyn, Nueva York, el 3 de mayo de 1922 y guarda el secreto de la eterna juventud. El hecho de que siempre le haya interesado la salud y el bienestar le ha permitido inves… [+2105 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Lucas H.",
+        "title": "Una hermosa obra de arte muestra en tiempo real cuándo se están averiando los trenes de tu ciudad",
+        "description": "El Metroboard usa datos de ubicación en tiempo real para ver el movimiento de trenes en las ciudades de Los Ángeles, Nueva York, Chicago, Washington D.C., Boston o San Francisco.",
+        "url": "https://es.gizmodo.com/una-hermosa-obra-de-arte-muestra-en-tiempo-real-cuando-se-estan-averiando-los-trenes-de-tu-ciudad-2000124781",
+        "urlToImage": "https://es.gizmodo.com/app/uploads/2024/07/Diseno-sin-titulo-2.jpg",
+        "publishedAt": "2024-07-31T16:35:09Z",
+        "content": "Si hay una palabra que describa el sistema de metro de la ciudad de Nueva York, es impredecible (al menos, esa es la forma PG de describir la terrible inconsistencia de la MTA de Nueva York). Los tre… [+3004 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Trendencias.com"
+        },
+        "author": "Nacho Viñau Ena",
+        "title": "¿Deberías lavar la ropa nueva antes de usarla? Una respuesta científicamente probada",
+        "description": "Tras comprar una prenda, o ropa de cama, hay gente que la lava antes de ponérsela, y gente que se la utiliza directamente sin que pase por la lavadora. Incluso hay personas que planchan las prendas antes de usarlas.\n<!-- BREAK 1 -->\nPero... ¿Es realmente nece…",
+        "url": "https://decoracion.trendencias.com/varios/deberias-lavar-ropa-nueva-antes-usarla-respuesta-cientificamente-probada",
+        "urlToImage": "https://i.blogs.es/7098da/woman-looking-clothes-store/840_560.jpeg",
+        "publishedAt": "2024-07-24T07:54:07Z",
+        "content": "Tras comprar una prenda, o ropa de cama, hay gente que la lava antes de ponérsela, y gente que se la utiliza directamente sin que pase por la lavadora. Incluso hay personas que planchan las prendas a… [+2446 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "G.T./TRESB",
+        "title": "El parque de Barcelona que fue el más buscado en Google en 2023 por delante del Central Park de Nueva York",
+        "description": "Muchas personas que conocen Barcelona por primera vez hacen un pequeño recorrido que incluye los puntos más importantes de la ciudad. En esta línea hay un parque que seguramente...",
+        "url": "https://www.elmundo.es/cataluna/2024/07/04/66868003e9cf4add238b45a1.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/3cea4c2df35929bea6222daed670f583/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/04/17200908581133.jpg",
+        "publishedAt": "2024-07-04T12:53:34Z",
+        "content": "Muchas personas que conocen Barcelona por primera vez hacen un pequeño recorrido que incluye los puntos más importantes de la ciudad. En esta línea hay un parque que seguramente recibirá a más visita… [+3888 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Marketingdirecto.com"
+        },
+        "author": "Helen Bustos",
+        "title": "¿Es posible jugar un partido de tenis contra tu versión más joven? Así lo ha hecho Roger Federer",
+        "description": "Roger Federer se despide del tenis con un show de CGI en Londres y Nueva York, promocionando su documental \"Twelve Final Days\".\nLa entrada ¿Es posible jugar un partido de tenis contra tu versión más joven? Así lo ha hecho Roger Federer se publicó primero en M…",
+        "url": "https://www.marketingdirecto.com/anunciantes-general/medios/federer-juega-tenis-contra-su-yo-mas-joven-documental",
+        "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2024/07/Federer-documental-prime-video.jpg",
+        "publishedAt": "2024-07-08T09:59:58Z",
+        "content": "Roger Federer se despide del tenis con un show de CGI en Londres y Nueva York, promocionando su documental \"Twelve Final Days\".Roger Federer dijo adiós al tenis profesional en 2022, dando lugar a una… [+2506 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Carlos Prego",
+        "title": "Guatemala sufre un problema de desigualdad extremo. Así que algunos ricos tuvieron una idea: un \"gueto\" propio",
+        "description": "En lengua quiché su nombre significa \"paraíso\", pero hay quien opina que Cayalá  se parece más a un \"elefante blanco\", una colosal y cara infraestructura levantada en el este de la capital de Guatemala. Se comparta una u otra visión, se considere un oasis o u…",
+        "url": "https://www.xataka.com/magnet/guatemala-padece-problema-desigualdad-extrema-ahora-ve-como-nace-polemica-ciudad-utopica-para-ricos",
+        "urlToImage": "https://i.blogs.es/55469f/51895068825_7cbfa5ebc2_4k/840_560.jpeg",
+        "publishedAt": "2024-07-09T17:00:40Z",
+        "content": "En lengua quiché su nombre significa \"paraíso\", pero hay quien opina que Cayalá  se parece más a un \"elefante blanco\", una colosal y cara infraestructura levantada en el este de la capital de Guatema… [+7072 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Microsiervos.com"
+        },
+        "author": "wicho@microsiervos.com (Wicho)",
+        "title": "Fallece la mujer que recibió un trasplante de riñón de un cerdo",
+        "description": "Un corazón para la señora Pisano – Joe Carrotta / NYU Langone Health\n\nEl centro Langone Health de la Universidad de Nueva York acaba de hacer pública la muerte de Lisa Pisano, la mujer que el pasado mes de abril recibió un trasplante de riñón de un cerdo que …",
+        "url": "https://www.microsiervos.com/archivo/ciencia/fallece-mujer-trasplante-rinon-cerdo.html",
+        "urlToImage": "https://img.microsiervos.com/images2024/CorazonLisaPisano.webp",
+        "publishedAt": "2024-07-10T09:25:22Z",
+        "content": "Por @Wicho 10 de Julio de 2024\r\nUn corazón para la señora Pisano Joe Carrotta / NYU Langone Health\r\nEl centro Langone Health de la Universidad de Nueva York acaba de hacer pública la muerte de Lisa P… [+1846 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Directoalpaladar.com"
+        },
+        "author": "Jaime de las Heras",
+        "title": "Tras doce años comiendo fuera de casa, el crítico gastronómico del New York Times dimite: \"Soy técnicamente obeso\"",
+        "description": "Su nombre es Pete Wells y en una carta abierta en The New York Times, casi a modo de testamento vital, anuncia que deja de reseñar restaurantes. No deja por completo el trabajo, ya que advierte que le quedan un par de críticas publicar, pero considera que tra…",
+        "url": "https://www.directoalpaladar.com/actualidad-1/doce-anos-comiendo-fuera-casa-critico-gastronomico-new-york-times-dimite-soy-tecnicamente-obeso",
+        "urlToImage": "https://i.blogs.es/eda0bc/pete-wells-dimision-critico-gastronomico/840_560.jpeg",
+        "publishedAt": "2024-07-18T11:35:00Z",
+        "content": "Su nombre es Pete Wells y en una carta abierta en The New York Times, casi a modo de testamento vital, anuncia que deja de reseñar restaurantes. No deja por completo el trabajo, ya que advierte que l… [+3129 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Genbeta.com"
+        },
+        "author": "Bárbara Bécares",
+        "title": "Salesforce da un giro de 180º respecto al teletrabajo: de \"la vuelta a las oficinas no funcionará\" a exigirlo con un plan estricto",
+        "description": "En 2022, el director ejecutivo de Salesforce (una de las principales empresas de software del mundo) Marc Benioff, proclamó públicamente que “los mandatos de retorno a la oficina nunca van a funcionar”. Lo dijo en el World Tour de Salesforce a finales de 2022…",
+        "url": "https://www.genbeta.com/actualidad/salesforce-da-giro-180o-respecto-al-teletrabajo-vuelta-a-oficinas-no-funcionara-a-exigirlo-plan-estricto",
+        "urlToImage": "https://i.blogs.es/acae26/denys-nevozhai-dq93anzsrh0-unsplash/840_560.jpeg",
+        "publishedAt": "2024-07-19T08:41:34Z",
+        "content": "En 2022, el director ejecutivo de Salesforce (una de las principales empresas de software del mundo) Marc Benioff, proclamó públicamente que los mandatos de retorno a la oficina nunca van a funcionar… [+3440 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
+        },
+        "author": "Juan Carlos Orellana",
+        "title": "Moe Berg, el beisbolista convertido en espía que intentó asesinar al principal científico nuclear de los nazis",
+        "description": "Moe Berg tenía mucho en común con el americano promedio. Amaba el béisbol, sus padres eran inmigrantes ucranianos, sabía hablar siete idiomas, se graduó magna cum laude de la Universidad de Princeton y fue reclutado por la OSS (la agencia que precedió a la CI…",
+        "url": "http://hipertextual.com/2024/07/moe-berg-el-beisbolista-convertido-en-espia-que-intento-asesinar-al-principal-cientifico-nuclear-de-los-nazis",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/moe-berg.jpg",
+        "publishedAt": "2024-07-06T07:43:42Z",
+        "content": "Moe Berg tenía mucho en común con el americano promedio. Amaba el béisbol, sus padres eran inmigrantes ucranianos, sabía hablar siete idiomas, se graduó magna cum laude de la Universidad de Princeton… [+7104 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
+        },
+        "author": "José María López",
+        "title": "Qué es Wiz, la startup por la que Google va a pagar una salvajada de dinero",
+        "description": "Silicon Valley se alimenta de startups. Desde siempre, las empresas han crecido a base de generar talento o comprarlo al mejor postor. Y en el sector tecnológico de Estados Unidos es frecuente que un grande se coma a un pequeño. Muchos aspiran a ello. Eso sí.…",
+        "url": "http://hipertextual.com/2024/07/wiz-seguridad-nube-google",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/07/Wiz-Assaf-Rappaport.jpg",
+        "publishedAt": "2024-07-15T11:22:49Z",
+        "content": "Silicon Valley se alimenta de startups. Desde siempre, las empresas han crecido a base de generar talento o comprarlo al mejor postor. Y en el sector tecnológico de Estados Unidos es frecuente que un… [+6789 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Ricardo F. Colmenero",
+        "title": "La historia del 'Titanic' se escribió 14 años antes del naufragio: \"Dijeron que el autor tenía visiones y que su libro era una maldición\"",
+        "description": "En 'Futilidad o el naufragio del Titán', el escritor estadounidense y ex oficial de marina mercante Morgan Robertson cuenta el hundimiento del trasatlántico más lujoso de la época, insumergible y con escasos botes salvavidas tras impactar contra un iceberg un…",
+        "url": "https://www.elmundo.es/papel/historias/2024/07/29/66a13002e85ece33538b4584.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/0596eba34de43fbe0f4a385f414b00b0/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/12/17207829684592.jpg",
+        "publishedAt": "2024-07-29T20:44:44Z",
+        "content": "Supongo que ya conocen la historia. El trasatlántico más grande y lujoso de la época, calificado por su constructor como insumergible, trata de cruzar el Atlántico. A bordo viajan algunas de las gran… [+378 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Enrique Pérez",
+        "title": "Por qué Wiz vale 23.000 millones de dólares: así es la empresa con la que Google quiere liderar la ciberseguridad mundial",
+        "description": "Google va a comprar Wiz, la startup israelí de ciberseguridad, por unos 23.000 millones de dólares, según el Wall Street Journal. La mayor compra en la historia de Google, muy por encima de Youtube (1.650M$) y de Motorola (12.500M$). También es cuatro veces m…",
+        "url": "https://www.xataka.com/seguridad/que-wiz-vale-23-000-millones-dolares-asi-empresa-que-google-quiere-liderar-ciberseguridad-mundial",
+        "urlToImage": "https://i.blogs.es/f34dda/assaf-rappaport-wiz/840_560.jpeg",
+        "publishedAt": "2024-07-15T14:22:54Z",
+        "content": "Google va a comprar Wiz, la startup israelí de ciberseguridad, por unos 23.000 millones de dólares, según el Wall Street Journal. La mayor compra en la historia de Google, muy por encima de Youtube (… [+5410 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Javier Marquez",
+        "title": "En 1858 los ingleses construyeron el barco más grande del mundo hasta ese momento. Problema: casi ningún puerto podía recibirlo",
+        "description": "Los seres humanos llevamos siglos ideando y construyendo embarcaciones. Desde pequeñas piezas de madera talladas, como la canoa de Pesse creada durante el mesolítico, hasta auténticas ciudades flotantes con capacidad pares miles de personas, como el enorme cr…",
+        "url": "https://www.xataka.com/transporte/1858-ingleses-construyeron-barco-grande-mundo-ese-momento-problema-casi-ningun-puerto-podia-recibirlo",
+        "urlToImage": "https://i.blogs.es/f2f646/great-eastern/840_560.jpeg",
+        "publishedAt": "2024-07-21T19:01:38Z",
+        "content": "Los seres humanos llevamos siglos ideando y construyendo embarcaciones. Desde pequeñas piezas de madera talladas, como la canoa de Pesse creada durante el mesolítico, hasta auténticas ciudades flotan… [+4596 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Carlos Prego",
+        "title": "En su obsesión por las luces de Navidad, Vigo está llegando al extremo del absurdo: empezar a colgarlas en julio",
+        "description": "Julio es tiempo de sombrillas, bañadores, terraceo relajado y largas tardes de chapuzones. O de árboles y luces de Navidad si de lo que hablamos es de Vigo, la ciudad que hace años se lanzó a una alocada carrera para convertirse en el adalid de las fiestas. C…",
+        "url": "https://www.xataka.com/magnet/vigo-se-ha-propuesto-conseguir-mejor-navidad-este-planeta-asi-que-empezara-a-montarla-julio-agosto",
+        "urlToImage": "https://i.blogs.es/6f45e6/vigo/840_560.jpeg",
+        "publishedAt": "2024-07-04T16:01:04Z",
+        "content": "Julio es tiempo de sombrillas, bañadores, terraceo relajado y largas tardes de chapuzones. O de árboles y luces de Navidad si de lo que hablamos es de Vigo, la ciudad que hace años se lanzó a una alo… [+5328 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Miguel Jorge",
+        "title": "Ahora sabemos qué quería hacer la gente que recibió el dinero que Sam Altman repartió en secreto: invertir",
+        "description": "De un tiempo a esta parte hemos escuchado más que nunca ideas o propuestas e iniciativas de algún tipo de renta básica universal. De hecho, se están llevando a cabo varias pruebas y estudios en diferentes puntos del planeta. Una de las últimas y más publicita…",
+        "url": "https://www.xataka.com/empresas-y-economia/ahora-sabemos-que-queria-comprar-mayoria-gente-que-recibio-dinero-que-sam-altman-repartio-secreto",
+        "urlToImage": "https://i.blogs.es/4e20a6/48838377432_c9c02afc40_k/840_560.jpeg",
+        "publishedAt": "2024-07-30T11:32:01Z",
+        "content": "De un tiempo a esta parte hemos escuchado más que nunca ideas o propuestas e iniciativas de algún tipo de renta básica universal. De hecho, se están llevando a cabo varias pruebas y estudios en difer… [+4082 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Javier Pastor",
+        "title": "El precio a pagar por tener IA es el saqueo de todo el contenido de Internet. Y Perplexity es solo el último ejemplo",
+        "description": "Midjourney y ChatGPT parecen mágicos. Crean obras digitales y textos de una forma asombrosa, y aunque a menudo meten la pata, sus resultados son a menudo convincentes e incluso impresionantes. Esa foto parece del Papa con abrigo de Balenciaga sigue pareciendo…",
+        "url": "https://www.xataka.com/robotica-e-ia/precio-a-pagar-tener-ia-saqueo-todo-contenido-internet-perplexity-solo-ultimo-ejemplo",
+        "urlToImage": "https://i.blogs.es/9affd6/robot-thief1/840_560.jpeg",
+        "publishedAt": "2024-07-01T10:01:42Z",
+        "content": "Midjourney y ChatGPT parecen mágicos. Crean obras digitales y textos de una forma asombrosa, y aunque a menudo meten la pata, sus resultados son a menudo convincentes e incluso impresionantes. Esa fo… [+5854 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Iván González",
+        "title": "De Hogwarts a Marvel: Brendan Gleeson ficha por Amazon Prime Video para convertirse en el villano principal de la serie Spider-Man Noir",
+        "description": "Mientras Tom Holland sigue peleándose con Sony para resolver cuanto antes el futuro de Spider-Man en el Universo Cinematográfico de Marvel, las otras versiones del Hombre Araña siguen adelante con producciones muy esperadas. Una de ellas es Spider-Man Noir, q…",
+        "url": "https://www.vidaextra.com/series/hogwarts-a-marvel-brendan-gleeson-ficha-amazon-prime-video-para-convertirse-villano-principal-serie-spider-man-noir",
+        "urlToImage": "https://i.blogs.es/965613/spider-man/840_560.jpeg",
+        "publishedAt": "2024-07-10T10:00:54Z",
+        "content": "Mientras Tom Holland sigue peleándose con Sony para resolver cuanto antes el futuro de Spider-Man en el Universo Cinematográfico de Marvel, las otras versiones del Hombre Araña siguen adelante con pr… [+1295 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Puromarketing.com"
+        },
+        "author": "Redacción",
+        "title": "Es PuroMarketing 16 - Carlos Lorenzo - CEO de Avant Events",
+        "description": "PuroMarketing - En esta edición, charlamos con Carlos Lorenzo, CEO de Avant Events, sobre su fascinante recorrido profesional. Desde su formación como ingeniero de caminos hasta convertirse en un líder en la industria de eventos, Carlos nos revela cómo sus ex…",
+        "url": "https://www.puromarketing.com/147/214107/puromarketing-carlos-lorenzo-avant-events",
+        "urlToImage": "https://www.puromarketing.com/uploads/img/contents/2024/tSoq7LJcYjvue869Cl2K/tSoq7LJcYjvue869Cl2K_post_imagen_prev.jpg",
+        "publishedAt": "2024-07-05T09:52:00Z",
+        "content": "En esta edición, charlamos con Carlos Lorenzo, CEO de Avant Events, sobre su fascinante recorrido profesional. Desde su formación como\r\n ingeniero de caminos hasta convertirse en un líder en la indus… [+548 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Javier Marquez",
+        "title": "En San Francisco está en auge la atracción turística menos pensada: los coches sin conductor",
+        "description": "“Lo primero que hicimos fue montar un Waymo”. Este es uno de los tantos mensajes que la gente que visita San Francisco comparte en las redes sociales. Además del Puente Golden Gate, el parque del mismo nombre, la rueda SkyStar, entre otras tantas atracciones,…",
+        "url": "https://www.xataka.com/movilidad/san-francisco-esta-auge-atraccion-turistica-pensada-coches-conductor",
+        "urlToImage": "https://i.blogs.es/c5f8e7/waymo-sf/840_560.jpeg",
+        "publishedAt": "2024-07-08T23:21:51Z",
+        "content": "Lo primero que hicimos fue montar un Waymo. Este es uno de los tantos mensajes que la gente que visita San Francisco comparte en las redes sociales. Además del Puente Golden Gate, el parque del mismo… [+2734 chars]"
+    },
+    {
+        "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "Vicente Beltrán",
+        "title": "Inodoros en primera fila, la nueva propuesta de los Captains de la MiLB",
+        "description": "Cuando creías haberlo visto todo, descubres que un equipo de las Ligas Menores de Béisbol norteamericanas se han superado con una propuesta pionera que no deja a nadie indiferente  Leer",
+        "url": "https://www.marca.com/otros-deportes/2024/07/01/inodoros-primera-fila-nueva-propuesta-captains-milb.html",
+        "urlToImage": "https://e00-xlk-ue-marca.uecdn.es/files/phantom_desktop_1200w/uploads/2024/07/01/6682b523bf6d8.jpeg",
+        "publishedAt": "2024-07-01T14:07:44Z",
+        "content": "Los Lake County Captains son un pequeño equipo de las afueras de Cleveland, fundado en 2003 como filial de los Cleveland Guardians de la MLB, que ha contado entre sus filas con ilustres de las Ligas … [+1821 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "La Vanguardia"
+        },
+        "author": "Marcos Catalán",
+        "title": "La temporada 2 de 'Tulsa King', la serie protagonizada por Sylvester Stallone, ya tiene fecha de estreno y primer tráiler",
+        "description": "Era la primera vez que Sylvester Stallone tenía el papel principal en una serie de televisión y salió bien, muy bien nos atreveríamos a decir, y es que Tulsa King, la serie exclusiva en nuestro país de SkyShowtime ha supuesto una sorpresa de lo más agradable …",
+        "url": "https://www.lavanguardia.com/andro4all/series/la-temporada-2-de-tulsa-king-la-serie-protagonizada-por-sylvester-stallone-ya-tiene-fecha-de-estreno-y-primer-trailer",
+        "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/07/tulsa-king.webp?width=1200",
+        "publishedAt": "2024-07-01T09:48:21Z",
+        "content": "Sly sigue expandiendo su territorio, y encontrando nuevos enemigos\r\nEra la primera vez que Sylvester Stallone tenía el papel principal en una serie de televisión y salió bien, muy bien nos atreveríam… [+2365 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost",
+        "title": "Nueva York espía el Metro de Madrid",
+        "description": "<![CDATA[<p>Nueva York ha puesto sus ojos en Madrid, concretamente en el subsuelo de la capital española. Esto se debe a que una delegación del gobierno local neoyorquino, con la vicealcaldelsa como máxima representante, acudieron en los últimos días a la ciu…",
+        "url": "https://www.huffingtonpost.es/sociedad/nueva-york-espia-metro-madrid.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/06/19/imagen-de-archivo-de-una-estacion-de-metro-madrid.jpeg",
+        "publishedAt": "2024-07-06T18:10:51Z",
+        "content": "Nueva York ha puesto sus ojos en Madrid, concretamente en el subsuelo de la capital española. Esto se debe a que una delegación del gobierno local neoyorquino, con la vicealcaldelsa como máxima repre… [+2774 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Iván González",
+        "title": "\"Hay monstruos de por medio\": Nicolas Cage ofrece más detalles sobre Spider-Man Noir y confirma el número de episodios que tendrá la serie de Prime Video",
+        "description": "Además de los proyectos de Marvel Studios y Sony, el Hombre Araña aterrizará en Amazon Prime Video con Spider-Man Noir, la serie spin-off centrada en el personaje más enigmático y curioso que apareció en la saga animada de Sony protagonizada por Miles Morales…",
+        "url": "https://www.vidaextra.com/series/hay-monstruos-medio-nicolas-cage-ofrece-detalles-spider-man-noir-confirma-numero-episodios-que-tendra-serie-prime-video",
+        "urlToImage": "https://i.blogs.es/9f15d3/spider-man-noir/840_560.jpeg",
+        "publishedAt": "2024-07-09T09:07:59Z",
+        "content": "Además de los proyectos de Marvel Studios y Sony, el Hombre Araña aterrizará en Amazon Prime Video con Spider-Man Noir, la serie spin-off centrada en el personaje más enigmático y curioso que apareci… [+1693 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Iván González",
+        "title": "\"Tal vez no estaban buscando a un tipo como yo\": el director de Morbius admite que no era el cineasta que encajaba mejor con la infame película de Sony",
+        "description": "Si bien Marvel Studios ha tenido un rendimiento medianamente bueno en taquilla estos últimos años, lo mismo no puede decirse de Sony con sus superhéroes. Madame Web ha sido el gran fracaso de este 2024, pero hubo otra producción hace años que corrió el mismo …",
+        "url": "https://www.vidaextra.com/cine/tal-vez-no-estaban-buscando-a-tipo-como-yo-director-morbius-admite-que-no-era-cineasta-que-encajaba-mejor-infame-pelicula-sony",
+        "urlToImage": "https://i.blogs.es/df8d47/morbius/840_560.jpeg",
+        "publishedAt": "2024-07-19T12:01:32Z",
+        "content": "Si bien Marvel Studios ha tenido un rendimiento medianamente bueno en taquilla estos últimos años, lo mismo no puede decirse de Sony con sus superhéroes. Madame Web ha sido el gran fracaso de este 20… [+1599 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Juan Sanmartín",
+        "title": "Llevo horas en esta web que te dice cuánto tardas en atravesar los mapas de los videojuegos incluso si te balanceas con Spider-Man",
+        "description": "Hemos visto varios ejemplos de canales de YouTube y usuarios que han mostrado comparativas de los mapas de los videojuegos, principalmente con la finalidad de que descubramos cuánto miden. A estas alturas de la industria ya estamos hablando de kilómetros cuad…",
+        "url": "https://www.vidaextra.com/industria/llevo-horas-esta-web-que-te-dice-cuanto-tardas-atravesar-mapas-videojuegos-incluso-te-balanceas-spider-man-1",
+        "urlToImage": "https://i.blogs.es/ebf978/gtav_satellite_2048x2048/840_560.jpeg",
+        "publishedAt": "2024-07-08T09:00:46Z",
+        "content": "Hemos visto varios ejemplos de canales de YouTube y usuarios que han mostrado comparativas de los mapas de los videojuegos, principalmente con la finalidad de que descubramos cuánto miden. A estas al… [+1685 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Iván González",
+        "title": "A pesar de su amarga despedida, Scarlett Johansson no guarda rencor a Marvel por lo ocurrido con Viuda Negra: \"Fue una falta de liderazgo en aquel momento\"",
+        "description": "La Viuda Negra es uno de esos personajes que, a pesar de no tener superpoderes, se convirtió en uno de los pilares fundamentales del Universo Cinematográfico de Marvel. Sin embargo, la salida de Scarlett Johansson fue muy polémica, ya que denunció a Disney po…",
+        "url": "https://www.vidaextra.com/cine/a-pesar-su-amarga-despedida-scarlett-johansson-no-guarda-rencor-a-marvel-ocurrido-viuda-negra-fue-falta-liderazgo-aquel-momento",
+        "urlToImage": "https://i.blogs.es/0b7026/viuda-negro/840_560.jpeg",
+        "publishedAt": "2024-07-18T13:15:26Z",
+        "content": "La Viuda Negra es uno de esos personajes que, a pesar de no tener superpoderes, se convirtió en uno de los pilares fundamentales del Universo Cinematográfico de Marvel. Sin embargo, la salida de Scar… [+1634 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Iván González",
+        "title": "Antes de ser su saga más exitosa, Marvel Studios dudó en adaptar Los Vengadores a una película de acción real: \"Era un concepto demasiado grande\"",
+        "description": "Han pasado ya 12 años desde el estreno de una película que cambiaría por completo el futuro de la industria: Los Vengadores. Marvel Studios irrumpió a lo grande en Hollywood con esta entrega, cuyo impacto en los cines fue enorme. Sin embargo, inicialmente, na…",
+        "url": "https://www.vidaextra.com/cine/antes-ser-su-saga-exitosa-marvel-studios-dudo-adaptar-vengadores-a-pelicula-accion-real-era-concepto-demasiado-grande",
+        "urlToImage": "https://i.blogs.es/b6e884/los-vengadores/840_560.jpeg",
+        "publishedAt": "2024-07-26T10:31:53Z",
+        "content": "Han pasado ya 12 años desde el estreno de una película que cambiaría por completo el futuro de la industria: Los Vengadores. Marvel Studios irrumpió a lo grande en Hollywood con esta entrega, cuyo im… [+1524 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Wwwhatsnew.com"
+        },
+        "author": "Juan Diego Polo",
+        "title": "Nuevo mapa interactivo revela el futuro climático de tu hogar",
+        "description": "El cambio climático está redefiniendo el clima de nuestro planeta, con tormentas extremas, inundaciones, incendios, sequías, olas de frío y calor golpeándonos con mayor frecuencia e intensidad. Según las predicciones, más de la mitad de nuestro planeta cambia…",
+        "url": "https://wwwhatsnew.com/2024/07/09/nuevo-mapa-interactivo-revela-el-futuro-climatico-de-tu-hogar/",
+        "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2024/07/DALL·E-2024-07-08-11.48.27-A-minimalistic-16_9-image-depicting-the-impact-of-climate-change.-The-image-shows-a-simple-world-map-with-highlighted-regions-transitioning-into-diffe.webp",
+        "publishedAt": "2024-07-09T10:00:44Z",
+        "content": "El cambio climático está redefiniendo el clima de nuestro planeta, con tormentas extremas, inundaciones, incendios, sequías, olas de frío y calor golpeándonos con mayor frecuencia e intensidad. Según… [+3307 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Darío Prieto, Josetxu L. Piñeiro",
+        "title": "Amor de madre, la penúltima revolución de la música urbana: \"Es muy bueno ver cómo se recupera ese respeto\"",
+        "description": "Igual que hicieron la Piquer, la Pantoja y la Jurado, estrellas de la música urbana como Rosalía, C. Tanga u Omar Montes reivindican la figura materna como inspiración y guía de su carrera Leer",
+        "url": "https://www.elmundo.es/papel/cultura/2024/07/26/66a27ad1fdddff59b88b4586.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/0177ded5510781ffca0519418dabb29e/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/25/17219260832190.jpg",
+        "publishedAt": "2024-07-25T22:07:44Z",
+        "content": "Cuenta Manuel Vicent en 'Retrato de una mujer moderna' (Alfaguara, 2022) que la presencia más constante en la vida de Concha Piquer no fue su famoso baúl, sino su madre. Doña Ramona, costurera valenc… [+376 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Expansion.com"
+        },
+        "author": "expansion.com",
+        "title": "Lynn Martin, la ingeniera tras el algoritmo de la Bolsa de Nueva York",
+        "description": "Matemática y programadora informática, Lynn Martin llegó a la presidencia de NYSE hace menos de tres años para liderar la transformación digital del mayor mercado de valores del mundo. Leer",
+        "url": "https://www.expansion.com/podcasts/genios-finanzas/2024/07/19/6698f246e5fdea6e4b8b458b.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/c664a65d5d52f955032d9496b9e02ca3/f/webp/assets/multimedia/imagenes/2024/07/18/17213008363591.jpg",
+        "publishedAt": "2024-07-18T22:16:16Z",
+        "content": "Matemática y programadora informática, Lynn Martin llegó a la presidencia de NYSE hace menos de tres años para liderar la transformación digital del mayor mercado de valores del mundo.Es una de las 5… [+783 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Iván González",
+        "title": "Uno de los animes más populares de los 80 tendrá un lavado de cara: el estudio detrás de Jujutsu Kaisen y Chainsaw Man confirma el remake de La Rosa de Versalles",
+        "description": "Aunque el estudio esté trabajando en otras producciones bastante ambiciosas, parece que MAPPA quiere seguir adaptando obras sin parar. Tras un anuncio en 2022 del que casi todo el mundo se ha olvidado, por fin tenemos noticias sobre uno de los animes que más …",
+        "url": "https://www.vidaextra.com/cine/uno-animes-populares-80-tendra-lavado-cara-estudio-detras-jujutsu-kaisen-chainsaw-man-confirma-remake-rosa-versalles",
+        "urlToImage": "https://i.blogs.es/69557a/la-rosa-de-versalles/840_560.jpeg",
+        "publishedAt": "2024-07-02T12:10:55Z",
+        "content": "Aunque el estudio esté trabajando en otras producciones bastante ambiciosas, parece que MAPPA quiere seguir adaptando obras sin parar. Tras un anuncio en 2022 del que casi todo el mundo se ha olvidad… [+1338 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elespanol.com"
+        },
+        "author": "Jorge Cano",
+        "title": "Ambientado en una Nueva York ocupada por la URSS, este olvidado juego cuesta poco más de un euro en Steam",
+        "description": "Uno de los primeros juegos de IO Interactive, lanzado en 2003, se puede conseguir a un mejor precio que nunca en Steam. Un shooter en tercera persona con una premisa muy interesante.<!--aa--->Los daneses IO Interactive son conocidos por todos por su longeva s…",
+        "url": "https://vandal.elespanol.com/noticia/1350773039/ambientado-en-una-nueva-york-ocupada-por-la-urss-este-olvidado-juego-cuesta-poco-mas-de-un-euro-en-steam/",
+        "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/13/1345/freedom-fighters-202092311143525_1.jpg",
+        "publishedAt": "2024-07-24T07:31:00Z",
+        "content": "Los daneses IO Interactive son conocidos por todos por su longeva saga de aventuras de acción y sigilo Hitman, pero en sus inicios, en 2003, lanzaron un olvidado shooter en tercera persona publicado … [+1872 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "La Vanguardia"
+        },
+        "author": "Marcos Catalán",
+        "title": "Mejores series con capítulos cortos para ver en Max",
+        "description": "Con el cambio de HBO Max a Max perdimos algunas cosas, como los avatares personalizados, pero ganamos otras más importantes, sobre todo en lo referente a calidad y especialmente cantidad de contenido. Max no son solo cine y series, sino que la adición de Disc…",
+        "url": "https://www.lavanguardia.com/andro4all/series/series-capitulos-cortos-hbo-max-recomendaciones",
+        "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2022/02/entourage-el-sequito.jpg?width=1200",
+        "publishedAt": "2024-07-03T17:02:54Z",
+        "content": "'Entourage', 'Ballers', 'Friends'... Hay muchas series con capítulos de poco más de 20 minutos que merecen vuestra atención\r\nCon el cambio de HBO Max a Max perdimos algunas cosas, como los avatares p… [+7288 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Julia Hernández",
+        "title": "Siete tornados confirmados en Nueva York, este viernes se enviarán más equipos a otras zonas dañadas",
+        "description": "Los Servicios Meteorológicos Nacionales (NWS, por sus siglas en inglés) en Buffalo y Binghamton publicaron estudios preliminares de tormentas para los tornados confirmados a través de Nueva York después de que los restos de Beryl se movieran a través de la re…",
+        "url": "https://cnnespanol.cnn.com/2024/07/12/siete-tornados-confirmados-nueva-york-tiempo-tormentas-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/noaa-beryl-1.png",
+        "publishedAt": "2024-07-12T05:50:38Z",
+        "content": "Video relacionado: Remanentes de Beryl generan un fuerte tornado en Indiana 0:41\r\n(CNN) -- Los Servicios Meteorológicos Nacionales (NWS, por sus siglas en inglés) en Buffalo y Binghamton publicaron e… [+1740 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Jorge Benítez, Bernardo Díaz",
+        "title": "El gran detector de mentiras del periodismo: \"La desinformación crea sociedades cínicas que no creen en nada\"",
+        "description": "Este investigador del Instituto Reuters para el estudio del periodismo de la Universidad de Oxford es uno de los mayores expertos en 'fake news' del mundo. \"Hay gobiernos que usan la lucha contra los bulos para coartar la libertad de expresión\", dice Leer",
+        "url": "https://www.elmundo.es/papel/el-mundo-que-viene/2024/07/05/667c5d4221efa029128b45b1.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/b2b2f605a6b2189ca011d51e2441ec37/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/26/17194261558667.jpg",
+        "publishedAt": "2024-07-04T22:18:54Z",
+        "content": "Lucas Graves (Nueva York, 1970) es un estudioso de la arquitectura de las noticias y de la desinformación. Este profesor de Periodismo y Comunicación de masas de la Universidad de Wisconsin-Madison e… [+526 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Miguel Jorge",
+        "title": "Las cárceles de Brasil tienen algunos de los criminales más peligrosos. El truco para hacerlas inexpugnables: gansos",
+        "description": "Para que nos hagamos una idea de que no estamos ante una criatura a la que acercarnos sin más a acariciar, basta con teclear en Google la palabra “ganso”. Una de las primeras entradas nos da pistas sobre el ave. Viene de la WikiHow y, en esencia, es un artícu…",
+        "url": "https://www.xataka.com/magnet/carceles-brasil-tienen-algunos-criminales-peligrosos-truco-para-hacerlas-inexpugnables-gansos",
+        "urlToImage": "https://i.blogs.es/5cf101/ps---plantilla-portadas-xtk-41/840_560.jpeg",
+        "publishedAt": "2024-07-16T12:30:59Z",
+        "content": "Para que nos hagamos una idea de que no estamos ante una criatura a la que acercarnos sin más a acariciar, basta con teclear en Google la palabra ganso. Una de las primeras entradas nos da pistas sob… [+6135 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Rubén Andrés",
+        "title": "Hay ricos y ultrarricos: países con más millonarios, centimillonarios y milmillonarios del mundo contados en un gráfico",
+        "description": "Uno de los debates que está recorriendo los parlamentos de todo el mundo hace referencia a la progresiva concentración de riqueza que se está produciendo en unas pocas manos.\n<!-- BREAK 1 -->\nDurante las últimas décadas, las fortunas de los más ricos han ido …",
+        "url": "https://www.xataka.com/magnet/hay-ricos-ultrarricos-paises-millonarios-centimillonarios-milmillonarios-mundo-contados-grafico",
+        "urlToImage": "https://i.blogs.es/0ddf06/portada-grafico-millonarios/840_560.jpeg",
+        "publishedAt": "2024-07-20T09:00:48Z",
+        "content": "Uno de los debates que está recorriendo los parlamentos de todo el mundo hace referencia a la progresiva concentración de riqueza que se está produciendo en unas pocas manos.\r\nDurante las últimas déc… [+6113 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Muyinteresante.com"
+        },
+        "author": "Juan Castroviejo",
+        "title": "¿Existen en la obra de Sorolla signos de los tiempos modernos?",
+        "description": "A pesar de vivir en un mundo en constante transformación marcado por los descubrimientos técnicos y los avances científicos, la representación de éstos fue residual en la obra del pintor valenciano. Sin embargo, existen algunos ejemplos llamativos",
+        "url": "https://www.muyinteresante.com/historia/65534.html",
+        "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/07/26/66a383d5c305a.jpeg",
+        "publishedAt": "2024-07-27T12:00:20Z",
+        "content": "Joaquín Sorolla Bastida. 1906. Biarritz». Así está firmado un óleo en el que una mujer aparece sentada en la arena de una playa. Sorprende la intensa luminosidad de los elegantes vestido y sombrero b… [+12642 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Carlos Prego",
+        "title": "El sueño chino de vivir en California: desde hace 11 años son los extranjeros que más se gastan en comprar casa en EEUU",
+        "description": "Quizás suene irónico teniendo en cuenta la crisis \"épica\" con la que lidia desde hace tiempo el sector inmobiliario chino, pero en el mercado residencial de EEUU suena con fuerza el acento del gigante asiático. Acaba de demostrarlo con claridad meridiana NAR,…",
+        "url": "https://www.xataka.com/magnet/sueno-chino-vivir-california-hace-11-anos-extranjeros-que-se-gastan-comprar-casa-eeuu",
+        "urlToImage": "https://i.blogs.es/aad8b5/chinausa/840_560.jpeg",
+        "publishedAt": "2024-07-19T13:09:06Z",
+        "content": "Quizás suene irónico teniendo en cuenta la crisis \"épica\" con la que lidia desde hace tiempo el sector inmobiliario chino, pero en el mercado residencial de EEUU suena con fuerza el acento del gigant… [+6033 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Muyinteresante.com"
+        },
+        "author": "Juan Castroviejo",
+        "title": "La 'Visión de España' de Sorolla para la Hispanic Society",
+        "description": "Durante ocho años, entre 1911 y 1918, Sorolla afrontó un colosal encargo del magnate Huntington, fundador de la Hispanic Society, en el que ofreció su imagen personal de una España pintoresca marcada por sus costumbres, tradiciones, paisajes, trajes regionale…",
+        "url": "https://www.muyinteresante.com/historia/65472.html",
+        "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/07/22/669e1d7e66afd.jpeg",
+        "publishedAt": "2024-07-23T08:00:00Z",
+        "content": "En 1909 Joaquín Sorolla se trasladaba hasta Nueva York con motivo de una gran exposición dedicada a su obra promovida por Archer Milton Huntington, un rico filántropo y estudioso de la cultura hispán… [+10618 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sol Amaya",
+        "title": "Venezolanos en Nueva York protestan en solidaridad con los líderes de la oposición mientras continúa la disputa electoral",
+        "description": "Cientos de venezolanos se reunieron el martes en la ciudad de Nueva York para protestar por las disputadas elecciones en su país de origen.\nThe post Venezolanos en Nueva York protestan en solidaridad con los líderes de la oposición mientras continúa la disput…",
+        "url": "https://cnnespanol.cnn.com/2024/07/31/venezolanos-protestas-nueva-york-elecciones-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Venezuela-protestas-1.jpg?quality=100&strip=info",
+        "publishedAt": "2024-07-31T17:26:40Z",
+        "content": "(CNN) -- Cientos de venezolanos se reunieron el martes en la ciudad de Nueva York para protestar por las disputadas elecciones en su país de origen.\r\nOndeando banderas, carteles y pancartas que decía… [+4621 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Medina Azahara en Nueva York",
+        "description": "EL próximo octubre, más o menos cuando el Museo Arqueológico de Córdoba presente a sus dos nuevos vecinos, los Efebos de Pedro Abad , Córdoba deslumbrará también lejos de nuestras fronteras, en Nueva York , con la exposición 'Madinat al-Zahra: la deslumbrante…",
+        "url": "https://www.abc.es/espana/andalucia/cordoba/juan-jose-primo-jurado-medina-azahara-nueva-york-20240707090315-nts.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/07/07/medina-azahara-museo-U05165720750qkg-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-07-07T07:03:15Z",
+        "content": "EL próximo octubre, más o menos cuando el Museo Arqueológico de Córdoba presente a sus dos nuevos vecinos, los Efebos de Pedro Abad, Córdoba deslumbrará también lejos de nuestras fronteras, en Nueva … [+619 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Melissa Velásquez Loaiza",
+        "title": "4 de julio en EE.UU: dónde ver fuegos artificiales en Los Angeles, Nueva York, Houston, Miami",
+        "description": "Los fuegos artificiales hacen parte de las tradicionales celebraciones de Estados Unidos del 4 de julio, cuando se celebra el Día de la Independencia de ese país. Así podrás ver los shows de fuegos pirotécnicos en todo el país.\nThe post 4 de julio en EE.UU: d…",
+        "url": "https://cnnespanol.cnn.com/2024/07/03/4-julio-fuegos-artificiales-los-angeles-nueva-york-houston-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2022/07/GettyImages-1327042868-e1656911759277.jpg?quality=100&strip=info",
+        "publishedAt": "2024-07-04T01:40:32Z",
+        "content": "¿Por qué EE.UU. batirá récords el 4 de julio? 3:30\r\n(CNN) -- Los fuegos artificiales hacen parte de las tradicionales celebraciones de Estados Unidos del 4 de julio, cuando se celebra el Día de la In… [+6997 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Frankie MB",
+        "title": "Análisis de Tortugas Ninja: El destino de Splinter, un festival del mamporro sin fin que se disfruta más a cuatro mandos",
+        "description": "Cuatro hermanos contra infinitos enemigos. Las Tortugas Ninja: El destino de Splinter logra que converjan las sensaciones arcade de los clásicos beat'em up de Konami con las fórmulas de los roguelikes actuales. Un juego de acción isométrica con un ritmo bruta…",
+        "url": "https://www.vidaextra.com/analisis/tortugas-ninja-destino-splinter-analisis-switch-review-precio-experiencia-juego-trailers",
+        "urlToImage": "https://i.blogs.es/e8b007/tortugas-ninja-nintendo-switch/840_560.jpeg",
+        "publishedAt": "2024-07-16T13:16:00Z",
+        "content": "Cuatro hermanos contra infinitos enemigos. Las Tortugas Ninja: El destino de Splinter logra que converjan las sensaciones arcade de los clásicos beat'em up de Konami con las fórmulas de los roguelike… [+13388 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hipertextual"
+        },
+        "author": "Uriel Bederman",
+        "title": "¿Qué es ‘slop’? Todo lo que debes saber del nuevo término de la inteligencia artificial generativa",
+        "description": "En tiempos en los que la inteligencia artificial generativa es protagonista excluyente, es posible os hayáis preguntado qué es slop, un término que comienza a oírse con fuerza. Un primer acercamiento: es un concepto peyorativo que exhibe paralelismos con el c…",
+        "url": "http://hipertextual.com/2024/07/que-es-slop-todo-sobre-la-inteligencia-artificial-generativa",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/que-es-slop.jpg",
+        "publishedAt": "2024-07-01T08:28:00Z",
+        "content": "En tiempos en los que la inteligencia artificial generativa es protagonista excluyente, es posible os hayáis preguntado qué es slop, un término que comienza a oírse con fuerza. Un primer acercamiento… [+9660 chars]"
+    },
+    {
+        "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "Diego Picó",
+        "title": "El barco de hidrógeno... la clave para ver la Copa América desde dentro",
+        "description": "El desafío americano pionero en la nueva forma de vivir la Copa América desde dentro del campo de regatas en plena competición  Leer",
+        "url": "https://www.marca.com/vela/copa-america/2024/07/03/barco-hidrogeno-clave-ver-copa-america.html",
+        "urlToImage": "https://e00-xlk-ue-marca.uecdn.es/files/phantom_desktop_1200w/uploads/2024/07/03/668568a727034.jpeg",
+        "publishedAt": "2024-07-03T15:06:55Z",
+        "content": "\"Tenemos que abrirnos a la gente\". La frase de uno de los jefazos del American Magic, equipo americano que defiende el honor del mítico club naútico de New York en la Copa América de Barcelona no ha … [+2378 chars]"
+    },
+    {
+        "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "Óscar Jiménez",
+        "title": "La ausencia que no consigue superar Sandra Bullock en la celebración de su 60 cumpleaños",
+        "description": "Sandra Bullock nació el 26 de julio de 1966 en Arlington, Virginia, suburbio de Washington, DC, Estados Unidos. La actriz, productora y directora de cine y televisión celebra hoy s",
+        "url": "https://www.marca.com/tiramillas/cine/2024/07/26/66a3cce8268e3ea3568b459a.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/57b07f6463a96471a13835131426c346/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/26/17220099450027.jpg",
+        "publishedAt": "2024-07-26T16:21:22Z",
+        "content": "Sandra Bullock nació el 26 de julio de 1966 en Arlington, Virginia, suburbio de Washington, DC, Estados Unidos. La actriz, productora y directora de cine y televisión celebra hoy su 60 cumpleaños de … [+1749 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Muyinteresante.com"
+        },
+        "author": "José Manuel González Torres",
+        "title": "Un 'Volvo' muy especial, una fragancia única y de edición limitada",
+        "description": "Con un nombre derivado de una divertida combinación de las palabras 'sueco' y 'maderas', SWOODISH combina las maderas relajantes y relajantes de los hermosos bosques suecos y las suaves raíces de lirio, imitando los tonos púrpuras de los atardeceres de finale…",
+        "url": "https://www.muyinteresante.com/actualidad/65497.html",
+        "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/07/23/669fd47cde745.jpeg",
+        "publishedAt": "2024-07-23T19:30:00Z",
+        "content": "Con el objetivo de llevar la naturaleza sueca a los hogares de consumidores de todo el mundo, Volvo Cars y la marca de fragancias DS &amp; Durga con sede en Brooklyn, Nueva York, han unido sus fuerza… [+2467 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Muyinteresante.com"
+        },
+        "author": "José Manuel González Torres",
+        "title": "El lugar donde vivir experiencias únicas de arte, música o motor",
+        "description": "El CUPRA City Garage celebra el mes del orgullo con una charla transgeneracional sobre la actualidad queer y las diferencias que existen entre las distintas generaciones del colectivo LGTBIQ+",
+        "url": "https://www.muyinteresante.com/actualidad/65293.html",
+        "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/07/04/668666dfc5003.jpeg",
+        "publishedAt": "2024-07-04T09:10:24Z",
+        "content": "El CUPRA City Garage Madrid se ha convertido en uno de los reconocidos hotspot de la ciudad, un lugar donde vivir experiencias únicas relacionadas con el arte, la música, la moda, el deporte y el mot… [+2660 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Estudiante de 12 años memorizó la tabla periódica cuando era casi un bebé y planea graduarse de la Universidad de Nueva York a los 14 años",
+        "description": "Suborno Isaac Bari, de 12 años, memorizó la tabla periódica a los 2 años y planea estudiar Matemáticas y Física en la Universidad de Nueva York (NYU) en otoño,\nThe post Estudiante de 12 años memorizó la tabla periódica cuando era casi un bebé y planea graduar…",
+        "url": "https://cnnespanol.cnn.com/2024/07/01/estudiante-12-anos-tabla-periodica-bebe-graduarse-universidad-14-anos-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/nino-genio-quimica-universidad-ny.webp",
+        "publishedAt": "2024-07-01T05:50:02Z",
+        "content": "Madre de una niña genio revela a qué retos se enfrenta 0:59\r\n(CNN) -- Suborno Isaac Bari, de 12 años, recién graduado de la escuela secundaria, planea estudiar Matemáticas y Física en la Universidad … [+5068 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Iván González",
+        "title": "\"Hay mucha narrativa que todo el mundo conoce\": el director de Los 4 Fantásticos confirma que la película no será una historia de orígenes",
+        "description": "Aunque Robert Downey Jr. y Deadpool y Lobezno se hayan llevado casi todas las miradas este fin de semana en Marvel Studios, otro proyecto que ha llamado bastante la atención de los fans de la Casa de las Ideas ha sido, sin duda alguna, Los Cuatro Fantásticos,…",
+        "url": "https://www.vidaextra.com/cine/hay-mucha-narrativa-que-todo-mundo-conoce-director-4-fantasticos-confirma-que-pelicula-no-sera-historia-origenes",
+        "urlToImage": "https://i.blogs.es/953f27/cuatro-fantasticos/840_560.jpeg",
+        "publishedAt": "2024-07-29T12:01:11Z",
+        "content": "Aunque Robert Downey Jr. y Deadpool y Lobezno se hayan llevado casi todas las miradas este fin de semana en Marvel Studios, otro proyecto que ha llamado bastante la atención de los fans de la Casa de… [+1778 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Darío Prieto",
+        "title": "Matt Dillon: \"Hay una gran preocupación por el giro derechista en Europa\"",
+        "description": "El actor protagoniza 'Isla perdida', la nueva película de Fernando Trueba, que se estrena el 23 de agosto y que se presenta este fin de semana en el Atlántida Film Fest de Mallorca Leer",
+        "url": "https://www.elmundo.es/cultura/cine/2024/07/19/6699643021efa0e77d8b45a6.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/96803d77dcd3459c04ace5f010b6f46a/crop/0x0/3016x2011/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/18/17213284470291.jpg",
+        "publishedAt": "2024-07-19T00:07:49Z",
+        "content": "Matt Dillon (Nueva York, 1964) lleva 46 de sus 60 años trabajando. Participó en 'Rebeldes' (Francis Ford Coppola, 1983), 'Drugstore cowboy' (Gus Van Sant, 1989), 'Solteros' (Cameron Crowe, 1992), 'Be… [+6897 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "Inhabilitan oficialmente a Rudy Giuliani en Nueva York por el caso de interferencia electoral de Trump",
+        "description": "La esperada inhabilitación del abogado más destacado de Trump, que entra en vigor de inmediato, es un duro golpe para el exfuncionario público en un momento en que enfrenta consecuencias por difundir mentiras sobre las elecciones de 2020.\nThe post Inhabilitan…",
+        "url": "https://cnnespanol.cnn.com/2024/07/02/inhabilitan-rudy-giuliani-nueva-york-interferencia-electoral-trump-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/c-gettyimages-1950859133-20240702161340233.webp",
+        "publishedAt": "2024-07-02T17:21:16Z",
+        "content": "Giuliani recibe citación en plena fiesta 2:02\r\n(CNN) -- La Corte Suprema del estado de Nueva York inhabilitó el martes al exalcalde de la ciudad de Nueva York, Rudy Giuliani, por su participación en … [+2423 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "La Vanguardia"
+        },
+        "author": "Pablo Hernando Illán",
+        "title": "Novedades en Movistar Plus+: estrena un nuevo canal gratuito que solo durará un mes",
+        "description": "Movistar Plus+ estrenó el pasado 18 de julio un canal llamado Comedia Romántica por M+. Desde dicha fecha hasta el 18 de agosto emitirá películas de comedia romántica en el dial 18. Podremos ver desde 'Sexo en Nueva York' a 'Notting Hill', pasando por 'El dia…",
+        "url": "https://www.lavanguardia.com/andro4all/operadoras/novedades-en-movistar-plus-estrena-un-nuevo-canal-gratuito-que-solo-durara-un-mes",
+        "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/05/movistar-plus-catalogo-completo.png?width=1200",
+        "publishedAt": "2024-07-22T16:17:48Z",
+        "content": "El servicio televisivo de Movistar se actualiza con la llegada del canal\r\nMovistar Plus+ estrenó el pasado 18 de julio un canal llamado Comedia Romántica por M+. Desde dicha fecha hasta el 18 de agos… [+2235 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Genbeta.com"
+        },
+        "author": "Bárbara Bécares",
+        "title": "Esta gran tech despidió a muchas personas hace unos meses. Sus empleados están enfadados y hasta consiguen echar a sus jefes",
+        "description": "Hace unos días veíamos una serie de historias de empleados que lograron que despidiera a sus jefes abusones. No es tarea fácil deshacerse de alguien en una empresa si tiene un puesto de poder, como podían demostrar muchas de esas historias o como hemos podido…",
+        "url": "https://www.genbeta.com/actualidad/esta-gran-tech-despidio-a-muchas-personas-hace-unos-meses-sus-empleados-estan-enfadados-consiguen-echar-a-sus-jefes",
+        "urlToImage": "https://i.blogs.es/581c3e/austin-distel-guij0yszpig-unsplash/840_560.jpeg",
+        "publishedAt": "2024-07-15T13:41:50Z",
+        "content": "Hace unos días veíamos una serie de historias de empleados que lograron que despidiera a sus jefes abusones. No es tarea fácil deshacerse de alguien en una empresa si tiene un puesto de poder, como p… [+3668 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Alberto Martín",
+        "title": "O los creadores de The Boys andan despistados o Patriota está perdiendo facultades a un ritmo tan alarmante que preocupa",
+        "description": "<ul>\n <li>Aviso: spoilers del Episodio 4x06 de The Boys, Algo Apesta</li>\n</ul>\n\nLas referencias a Batman de DC y Spider-Man de Marvel no han sido las únicas curiosidades del episodio 4x06 de The Boys. Su final confirmó una teoría que muchos fans llevaban rum…",
+        "url": "https://www.vidaextra.com/series/creadores-the-boys-andan-despistados-patriota-esta-perdiendo-facultades-a-ritmo-alarmante-que-preocupa",
+        "urlToImage": "https://i.blogs.es/441eaf/patriota/840_560.jpeg",
+        "publishedAt": "2024-07-08T13:30:54Z",
+        "content": "<ul><li>Aviso: spoilers del Episodio 4x06 de The Boys, Algo Apesta</li></ul>Las referencias a Batman de DC y Spider-Man de Marvel no han sido las únicas curiosidades del episodio 4x06 de The Boys. Su… [+1989 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vida Extra"
+        },
+        "author": "Juan Sanmartín",
+        "title": "En Spider-Man podías jugar con Mary Jane con un truco, pero alguien en Activision se puso muy nervioso al ver la escena final",
+        "description": "El debut de Spider-Man en la gran pantalla fue un pelotazo descomunal y, evidentemente, la cinta de Sam Raimi tuvo su debida adaptación al terreno de los videojuegos. Destacaron especialmente las versiones de PS2, Xbox y GameCube, las cuales contaban con los …",
+        "url": "https://www.vidaextra.com/accion/spider-man-podias-jugar-mary-jane-truco-alguien-activision-se-puso-muy-nervioso-al-ver-escena-final",
+        "urlToImage": "https://i.blogs.es/3cd0a5/f_20624/840_560.jpeg",
+        "publishedAt": "2024-07-24T17:21:23Z",
+        "content": "El debut de Spider-Man en la gran pantalla fue un pelotazo descomunal y, evidentemente, la cinta de Sam Raimi tuvo su debida adaptación al terreno de los videojuegos. Destacaron especialmente las ver… [+2184 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jotdown.es"
+        },
+        "author": "Ricardo Jonás G.",
+        "title": "NYC Subway Blues",
+        "description": "Este artículo es un adelanto de nuestra trimestral Jot Down  nº 47 «Locomotive»En una escena de la serie Mad Men, Peggy Olsen, la joven publicista en el centro de la historia, está buscando piso en el Upper East Side, en York Ave con la calle 84. La mujer de …",
+        "url": "https://www.jotdown.es/2024/07/nyc-subway-blues/",
+        "urlToImage": "https://www.jotdown.es/wp-content/uploads/2024/07/NYC-Subway-Blues-2.jpg",
+        "publishedAt": "2024-07-31T07:00:55Z",
+        "content": "Nueva York ca. 1970. Fotografía: Tony Vaccaro / Getty.\r\nEste artículo es un adelanto de nuestra trimestral Jot Down  nº 47 «Locomotive»\r\nEn una escena de la serie Mad Men, Peggy Olsen, la joven publi… [+14384 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Trendencias.com"
+        },
+        "author": "Anabel Palomares",
+        "title": "Qué es la 'sologamia' y por qué preocupa a los solteros esta nueva forma de relacionarse",
+        "description": "No es nuevo. O al menos no tan nuevo como nos puede parecer. Al igual que términos como tradwives que se han puesto de moda con personajes como el de RoRo,\r\n el término de sologamia ha encontrado un hueco para convertirse en una tendencia de moda. Solo que es…",
+        "url": "https://www.trendencias.com/sexo-y-relaciones/que-sologamia-que-preocupa-a-solteros-esta-nueva-forma-relacionarse",
+        "urlToImage": "https://i.blogs.es/3619a9/sologamia-que-es-y-porque-se-habla-de-ella-1/840_560.jpeg",
+        "publishedAt": "2024-07-29T16:25:03Z",
+        "content": "No es nuevo. O al menos no tan nuevo como nos puede parecer. Al igual que términos como tradwives que se han puesto de moda con personajes como el de RoRo,\r\n el término de sologamia ha encontrado un … [+9837 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Expansion.com"
+        },
+        "author": "Stephen Foley y Simon Foy",
+        "title": "La nueva consejera delegada de EY deja cuestiones estratégicas sin resolver",
+        "description": "Janet Truncale le entregó a Carmine Di Sibio etiquetas de equipaje en una fiesta de jubilación llena de bromas en el Glasshouse de Nueva York la semana pasada, haciendo...",
+        "url": "https://www.expansion.com/economia/financial-times/2024/07/03/66844d83e5fdeaf02a8b45a5.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/14c2456333f41bca27e9ad5d787b413f/crop/0x0/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2023/11/17/17002291851982.jpg",
+        "publishedAt": "2024-07-02T23:52:42Z",
+        "content": "La alternativa de Janet Truncale a una escisión fallida de la división de consultoría recibe críticas por la falta de detalles.Janet Truncale le entregó a Carmine Di Sibio etiquetas de equipaje en un… [+373 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "La Vanguardia"
+        },
+        "author": "Esteban García Marcos",
+        "title": "Si eres amante del k-pop prepárate para viajar con Jimin y Jungkook, de BTS, en 'Are you sure?!', una nueva serie de viajes original de Disney+",
+        "description": "La industria del entretenimiento coreana es una auténtica máquina de generar obras de una calidad impresionante. Encontramos series como el juego del calamar y películas tan buenas que arrasaron en los Oscar como es el caso de Parásitos. En el mundo de la mús…",
+        "url": "https://www.lavanguardia.com/andro4all/series/si-eres-amante-del-k-pop-preparate-para-viajar-con-jimin-y-jungkook-de-bts-en-are-you-sure-una-nueva-serie-de-viajes-original-de-disney",
+        "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/07/bts.png?width=1200",
+        "publishedAt": "2024-07-05T17:15:01Z",
+        "content": "La serie de Disney+ promete ser un auténtico éxito\r\nLa industria del entretenimiento coreana es una auténtica máquina de generar obras de una calidad impresionante. Encontramos series como el juego d… [+2759 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Pablo R. Suanzes",
+        "title": "Aplazada a septiembre la condena a Trump por el caso de la actriz porno tras la decisión del Supremo sobre su inmunidad",
+        "description": "La histórica y controvertida decisión del Tribunal Supremo de EEUU, que el lunes reforzó enormemente los poderes del Ejecutivo al interpretar que un presidente tiene inmunidad...",
+        "url": "https://www.elmundo.es/internacional/2024/07/02/668451fbe4d4d8fc528b45cb.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/341fbf7ac3289daa3905f1b4faf6168d/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/02/17199478222621.jpg",
+        "publishedAt": "2024-07-02T19:17:53Z",
+        "content": "La histórica y controvertida decisión del Tribunal Supremo de EEUU, que el lunes reforzó enormemente los poderes del Ejecutivo al interpretar que un presidente tiene inmunidad total para sus \"actos o… [+3071 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Wwwhatsnew.com"
+        },
+        "author": "Juan Diego Polo",
+        "title": "Google y la emergencia de Vida Digital: Un experimento revolucionario",
+        "description": "¿Te imaginas dejar un montón de datos aleatorios solos por millones de generaciones y que de ahí surjan formas de vida? Pues eso es exactamente lo que han hecho unos investigadores de Google. Parece una locura, ¿verdad? Pero resulta que en un experimento reci…",
+        "url": "https://wwwhatsnew.com/2024/07/15/google-y-la-emergencia-de-vida-digital-un-experimento-revolucionario/",
+        "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2024/07/DALL·E-2024-07-14-17.19.09-A-minimalist-and-fun-illustration-showing-small-strings-of-code-transforming-into-digital-life-forms.-The-background-is-a-light-neutral-color-with-si.webp",
+        "publishedAt": "2024-07-15T08:00:03Z",
+        "content": "¿Te imaginas dejar un montón de datos aleatorios solos por millones de generaciones y que de ahí surjan formas de vida? Pues eso es exactamente lo que han hecho unos investigadores de Google. Parece … [+3744 chars]"
+    },
+    {
+        "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "Andrés García",
+        "title": "Keegan Bradley, capitán de Estados Unidos tras la negativa de Tiger Woods",
+        "description": "Será el capitán más joven desde que lo fuera Arnold Palmer con 34 años en 1963  Leer",
+        "url": "https://www.marca.com/golf/ryder-cup/2024/07/09/keegan-bradley-capitan-estados-unidos-negativa-tiger-woods.html",
+        "urlToImage": "https://e00-xlk-ue-marca.uecdn.es/files/phantom_desktop_1200w/uploads/2024/07/09/668d3110aba4a.jpeg",
+        "publishedAt": "2024-07-09T12:47:45Z",
+        "content": "Keegan Bradley será el capitán de Estados Unidos en la Ryder Cup de 2025, que se celebrará en Bethpage Black (Nueva York). La PGA de América confirmó su nombramiento después de meses en los que entab… [+1928 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Muyinteresante.com"
+        },
+        "author": "Juan Castroviejo",
+        "title": "España, blanco contra negro: Sorolla frente a Zuloaga",
+        "description": "El cambio de siglo en España confrontó dos estéticas radicalmente distintas en el arte pictórico, la de un Mediterráneo de tonos blancos llenos de luz representada por Joaquín Sorolla y la de una Castilla oscura y de color negro retratada por Ignacio Zuloaga",
+        "url": "https://www.muyinteresante.com/historia/65491.html",
+        "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/07/24/66a0a00facfe2.jpeg",
+        "publishedAt": "2024-07-24T08:18:51Z",
+        "content": "Archer Milton Huntington amaba España. Su amor fue tal que destinó parte de su enorme fortuna al proyecto de su vida y en 1904 inauguró al norte de Manhattan, en el entonces inhóspito Washington Heig… [+13436 chars]"
+    }
+]

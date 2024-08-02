@@ -1,22 +1,36 @@
 import requests
 import json
+import os
 
-API_KEY = '7005a6609b9a4b0a8c3a0e35124817d4'  # Your NewsAPI key
+# Your API key
+API_KEY = '7005a6609b9a4b0a8c3a0e35124817d4'
 
-def fetch_news():
-    try:
-        # Fetch top headlines from the US
-        url = f'https://newsapi.org/v2/top-headlines?country=us&apiKey={API_KEY}'
-        response = requests.get(url)
-        response.raise_for_status()
-        news_data = response.json()
+# Define the endpoint for fetching news articles
+URL = 'https://newsapi.org/v2/everything'
 
-        # Save the news data to a JSON file
-        with open('news.json', 'w', encoding='utf-8') as json_file:
-            json.dump(news_data, json_file, ensure_ascii=False, indent=4)
-        print("News data fetched successfully.")
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching news: {e}")
+# Parameters for the API request
+PARAMS = {
+    'q': 'Nueva York',  # Keywords to search for
+    'language': 'es',   # Language set to Spanish
+    'sortBy': 'relevancy',  # Sort articles by relevancy
+    'apiKey': API_KEY  # Your News API key
+}
 
-if __name__ == '__main__':
-    fetch_news()
+# Send a GET request to the News API
+response = requests.get(URL, params=PARAMS)
+
+# Convert the response to JSON
+data = response.json()
+
+# Check if the request was successful
+if data['status'] == 'ok':
+    # Get the articles from the response
+    articles = data['articles']
+    # Print the number of articles found
+    print(f"Found {len(articles)} articles.")
+    # Save the articles to a JSON file
+    with open('news.json', 'w', encoding='utf-8') as json_file:
+        json.dump(articles, json_file, ensure_ascii=False, indent=4)
+else:
+    # Print the error message if the request was not successful
+    print(f"Error fetching news: {data['message']}")
