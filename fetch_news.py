@@ -1,50 +1,38 @@
 import requests
+import json
 
-def fetch_news(query, language, sort_by='publishedAt'):
-    api_key = 'your_api_key_here'
-    url = 'https://newsapi.org/v2/everything'
-    params = {
-        'q': query,
-        'language': language,
-        'sortBy': sort_by,
-        'apiKey': api_key
-    }
-    
-    response = requests.get(url, params=params)
-    return response.json()
+# API key for News API
+API_KEY = '7005a6609b9a4b0a8c3a0e35124817d4'
 
-def fetch_combined_news():
-    news_sets = []
-    
-    # Fetch US top headlines in Spanish
-    us_headlines_spanish = fetch_news('Estados Unidos', 'es')
-    news_sets.append(us_headlines_spanish)
-    
-    # Fetch Dominican Republic news
-    dominican_republic_news = fetch_news('República Dominicana', 'es')
-    news_sets.append(dominican_republic_news)
-    
-    # Fetch another topic, e.g., technology in Spanish
-    technology_news = fetch_news('tecnología', 'es')
-    news_sets.append(technology_news)
+# Define the endpoint URL
+URL = 'https://newsapi.org/v2/everything'
 
-    # Combine all articles
-    combined_articles = []
-    for news_set in news_sets:
-        if news_set['status'] == 'ok':
-            combined_articles.extend(news_set['articles'])
+# Parameters for the request
+PARAMS = {
+    'q': '"República Dominicana"',  # Use quotes to search for the exact phrase
+    'language': 'es',               # Language set to Spanish
+    'sortBy': 'relevancy',          # Sort results by relevancy
+    'apiKey': API_KEY               # API Key
+}
 
-    return combined_articles
+# Make the GET request to News API
+response = requests.get(URL, params=PARAMS)
 
-def main():
-    articles = fetch_combined_news()
-    
-    for article in articles:
-        print(f"Title: {article['title']}")
-        print(f"Source: {article['source']['name']}")
-        print(f"Published at: {article['publishedAt']}")
-        print(f"URL: {article['url']}")
-        print('-' * 40)
+# Convert the response to JSON
+data = response.json()
+
+# Check if the request was successful
+if data['status'] == 'ok' and data['totalResults'] > 0:
+    # Extract articles from the response
+    articles = data['articles']
+    # Print the number of articles found
+    print(f"Found {len(articles)} articles.")
+    # Save the articles to a JSON file
+    with open('news.json', 'w', encoding='utf-8') as json_file:
+        json.dump(articles, json_file, ensure_ascii=False, indent=4)
+else:
+    # Print the error message if any
+    print(f"Error fetching news: {data.get('message', 'No articles found')}")
 
 if __name__ == "__main__":
     main()
