@@ -9,10 +9,10 @@ URL = 'https://newsapi.org/v2/everything'
 
 # Parameters for the request
 PARAMS = {
-    'q': '"República Dominicana"',  # Use quotes to search for the exact phrase
-    'language': 'es',               # Language set to Spanish
-    'sortBy': 'relevancy',          # Sort results by relevancy
-    'apiKey': API_KEY               # API Key
+    'q': 'República Dominicana',  # Keyword for the Dominican Republic
+    'language': 'es',             # Language set to Spanish
+    'sortBy': 'relevancy',        # Sort results by relevancy
+    'apiKey': API_KEY             # API Key
 }
 
 # Make the GET request to News API
@@ -33,6 +33,3 @@ if data['status'] == 'ok' and data['totalResults'] > 0:
 else:
     # Print the error message if any
     print(f"Error fetching news: {data.get('message', 'No articles found')}")
-
-if __name__ == "__main__":
-    main()
