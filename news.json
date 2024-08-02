@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "Fed keeps interest rates steady. But cuts aren’t far off. - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWpBSFdYRnluZ2NmZTBHWmtxZzdWM0VucG9nd3Naam9zSGxuY2t6UWZVeXRtd2E1Zm4yLUlJT3hKd3ZwM2MwNl91a2tDdlFlQWRUdUMzX0lFRFBfVmxFcGRobTVzUXd2eWRKSHBKWjduWXJ3aGhicy1UeHpYZ25DMQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T01:57:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Daily Beast",
+            "title": "Putin Gets Ready to Swap U.S. Captives for Russian Assassin - The Daily Beast",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFVuaERUWEJuSnBpM2NWaDVEekVpTWQxLWJjaG9lcWFPZ1QyWjJYMEhDakcxNlNLZWZjU185UE1IQkxLWVFhdGtCa0hkYUpzYjdzaWxrOXZwY2R0dzUtT3pEeDgxMTdNeExlV1lLczZldlRZeUlhOGpScktoaUtDcF9kV1RxZkRDZlg0aC1td1pnOWFvYm5QQ1liamg4czUwU3VFNVB1UGJXZEJGelJwc1N0MDV1Wm40YkNNVzg3akRjN0pDZHlfWXpn?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T01:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "When It Comes to Trump, Harris Tries a Sunnier Tone - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0xJbEhFeThXZmMxUEtNX1BiaGZWTTIzRXZUYlZKTmpZMzhNZkRoT1FnTmRCaVFuWFQxSVZpcWw4SEpUMjJhOHBRYWJGLUpaazB1eW00clJsU25ZbjJHTU9IQURnYkdEc2h0OE5NRzROellSN19abk11UUNrU0pPNGtVZzBFdEZu?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T01:02:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox News",
+            "title": "FDA approves new blood test for colon cancer screening: ‘Early detection is critical’ - Fox News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmU4TmhHYnJDXzhPNERQMy1JejRjRjVlUnZPZlRXYlZQaEpjdGVPX3pPV2hCc3V5UTEzN01pZFJEVDFOOEtHZTRiN2t1X0hVa2ptdEtnRkxWX2gtSUxqWE8zOFBXTDBqRE1wVjNwbWpOc0d0dUFlR2hRbExsclhvcmpsQ1liaHlvMlllRXlwc0lDckVxSWxlaGFKYmvSAaIBQVVfeXFMTUZRTjJseHNVamNmdG5vQ0FBUnNPa1luY0tsVFVRUzJKZU14NHhGSzJqa1lSczctaV9iUTJSRjQ5Nm9uYXE4MGVTcHBfWFlkd1RPVlhQUjdDWmc5T2luUFlNYjZsdU5xOFAwMFVWQVVibzNDQjFUYTE3cW1KX3ZFeVVlRzFjVm5aYjg4NndmOWRrR0tiRV9PTkhuMV9oOWJXWW53?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T00:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "US reaches plea deal with alleged 9/11 mastermind Khalid Sheikh Mohammed - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUw5TGJLMjVnZ083d05IRktZVDU1T0c2QzUwSUdKNXRjMzBOSmRfMGtOR1g1eWhOb1F5eTJBTm44X0FqbmdmWWVqU3FTTXAxQjFpMDBQUFJ3UndiaDNNeFp0bGx4dEFFaFF4M1Bzc040ZFNnZ3RfSldfa2VpaHhsQXBpcE5sd29QSXhLZC1zdHhhSXA3aXpCV3Y1OUtVZGhuT3VEONIBmwFBVV95cUxQT1FaTk9PcF9nNXpkUUJHdnBQckU3U3N3M0Fxeml4Y0R1V1ZHMlphN1V3UHRZZFEzTXJ4RzZnNTJaenIxcjdHMEVTZGJVQ210Q2VhSnJCNnB1d0hybndWOXl5QkNPdVR6X0pXd2hDb2dqRzQ5bXIwTzR4dm4tVmZaN1F1MF81VFdCeVhrclZzRl9XTHU0cGZSSHJEbw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T00:47:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "Meta's advertising growth is proof that hefty AI spending is already paying off - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGpPbnNvMGg1SE1NeHh6MnhyWjQ5RkNjNzJHekZQcVdpV2pESkVrRDhoSnVCd0RrM003N1p3SjJFbEJkX0pWWEh6ZW13TG1NWi01STFqSUlVa0NKaWpsa1V4UW5JU1MtaU54Z21rbGRSOF9HSk1iOU5ObjFHN0JYSGFIcWVFNDJhWEhKZEdDaVpRRFhFcTVFTFpicVVzWGZZMVExeWF30gGrAUFVX3lxTE5CNC1jQ1hOS0NRZXp3cjJlVlBVMGt1RDZpOFl4bzdKaE5MTXZCSF9sWUpwLXNHUWVYYzlMeTVsSDFNcGx4WTVWajJvdk1jdW5oc2o2SnJxdjBpN3ZDdzhTYkZqV2Q2ajVyaktBVWo5YlQ5VE13Unc2enVfRWM5YlhsUTFtaUNoTnZkVENlcmNvQ3JXcWZUek5XLWF1czdYdTNvYXZ0M2RZbDBmOA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T00:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Associated Press",
+            "title": "911 calls before Sonya Massey's shooting include 1 from her mother asking officers not to 'hurt her' - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2NTc3JKam1yeVFXWERQSzBzNzk5N2YzcnhzZHFaTGk1VlY4UWp1dlNLTjVxVU9CRW1GdE1wUkFGeVpfb3BfV2xxbUozQ2VxZ2gwdTZqUFdvTmNiVEJqQlM2QkdaMEdLOTFucGJPX19pTVdpT0hCcldTOXUwbWduUlp3YXBlTnRkSW16N2dzc1BIRUVUQXZQVUN3ZXZRVGpkRU9xckpqTzBnZWxv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-08-01T00:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "PAUL NEWBERRY",
+            "title": "Léon Marchand pulls off one of the most audacious doubles in swimming history at the Paris Olympics - The Associated Press",
+            "description": "Turns out, those comparisons to Michael Phelps weren’t farfetched at all when it comes to Léon Marchand. They certainly weren’t a burden for the 22-year-old Frenchman. Marchand has completed one of the most audacious doubles in swimming history, winning the 2…",
+            "url": "https://apnews.com/article/2024-olympics-paris-swimming-marchand-ledecky-d507637f3c4f038d32531c077cdf0304",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f8071eb/2147483647/strip/true/crop/2532x1424+0+132/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B-%2F58%2F%2C%20-104%2C%2065%2C%20-48%2C%2037%2C%20102%2C%2018%2C%2043%2C%201%2C%20105%2C%2075%2C%20-33%2C%20-102%2C%2097%2C%2034%2C%20-116%2C%2052%2C%20-24%2C%20115%2C%20-57%2C%2010%2C%20-2%2C%20109%2C%2036%2C%20112%2C%20-48%2C%20113%2C%20-95%5D%2F4d2967174a3e419d80c29e1af150d3df",
+            "publishedAt": "2024-08-01T00:17:00Z",
+            "content": "NANTERRE, France (AP) Turns out, those comparisons to Michael Phelps werent farfetched at all when it comes to Léon Marchand.\r\nThey certainly werent a burden for the 22-year-old Frenchman. \r\nMarchand… [+6529 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jesse Sarles",
+            "title": "1 person dead in Colorado's Stone Canyon Fire burning near Lyons - CBS News",
+            "description": "Human remains were found at a home in the Stone Canyon Fire burn area north of Lyons. There is now 20% containment on the wildfire.",
+            "url": "https://www.cbsnews.com/colorado/news/death-stone-canyon-fire-burning-near-lyons-colorado/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/30/9a731e50-2099-446e-b99b-1181e0eed41d/thumbnail/1200x630/f5f20b29d574b002b5fdd4a9de21a9c9/house-burns.jpg?v=8f1da8ceea4c14a7119ef5d6a2829966",
+            "publishedAt": "2024-08-01T00:16:27Z",
+            "content": "Human remains were found at a home in the Stone Canyon Fire burn area north of Lyons. That's according to Boulder County Sheriff Curtis Johnson. There is now 20% containment on the Colorado wildfire.… [+2478 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBS Sports",
+            "title": "Why is Team USA so bad at 3x3 basketball? How 2024 Olympics rosters were built after men and women start 0-2 - CBS Sports",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemF0d29BaXNXTEtGbEJUeW9IT3ZqcDUzV1c4dlZZSFp2REYwd3RydXQwUDRaMnYwc0VVZktLQWFmWHNFTHU5YnNkcnB2RWxvaGIyNHphT0RPVHpnY2QzMGdnRDZrczBiRDU0dnpMWlMzY2NuQnJMVDNfRlA3V3A4SUdTRzJHajVYb2dwbGRlUVE5amVyaVQxOEdIYzlJSVpJZ1NMRUppcTNvbExRaFVZOWtPdWkyLU5nRjFSb2VrSm43elhtbzhRb0x5U21Id252bGhnaWhnbTZ1bU1TRzE4RVBR0gHnAUFVX3lxTE5tcFJqU3FDTzFQdTZPeWNQR3RCYUtxT054aVFiUFNGWDlXNDVYWWZ2QkhpMGZhTTFvNGM5TTB2N3pHQmI4dXkza0xfbkcxZjRwU2hEckRhMUNTdm54ZFdrQV9WQ3RfV1dqempfSkhTR2o4ZFhKM09HNWFsak1jWkdOVjRrQkF5M3NGT1hwSXp2TS0yOHFoT2dVUzI1S1JJYWRVSjRYczhkOXN6eDVXU2o4bmJrUkpkcTZrN3d4dzZHUDIxX2o5VGJJTExfYVhsd1IyUWplbDd3RjdNV3ZrSVd3eXNucDVCRQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T23:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox News",
+            "title": "Country star Megan Moroney sets record straight about rumored Morgan Wallen romance - Fox News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXp5THNVT0VWUXlsM3F6X1hQMGdIaWtVMVBJU2piSW1XNVZ4MTQyWEVTN3NHRXR1X3pUTmRwN0JSQkpjUWdfRDJnOGhpV1VSbjBkQkEyUEJFUWJVRmFJdmxxVFZTVkpYdUN2TkFUTlBVNDJ4T2hfd1RUQl8tNVlzTm10SDI3SnRYbDdndmFrSlJaQm56NVNoXzRrdC1aMXNOb2lOX25vY2kxREVzeFA3dUtfUUhBMUt1V3NYc1pB0gHDAUFVX3lxTFBRQXliTHNhUWxIYnpvWUlRUTZwZUJ0RnhxUnZkZk9GbEVITWxJa250YmVOdWdKdmRjZC1mdTFHSnF4OXJYNFFOQTJVNUd3UTNQbUI0VDUxN3FJN0J1ZnBlT1ZFQ1BidzkzTndvVXFsX3pFVzdpWEpqNEpqSVhiVVpOOU9wOHI4dDBreVMwU1lvcjl3QlRibmw3clg2dWNKTGZxNjFHQnpqa1hFdzRsTU45bl96ZjdiTTFETlRtUFFzQXNqTQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T22:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "‘We Just Need a Break’: Another Flood in Vermont Wears Out Residents - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSDBTNzJaUTJodnNhZXloc1VLX0pKZ292c1ZrVUF4RlRCbUQzUEdsQXVQUlpfUlJ3cjZmWEJnM09qbjE3M1VmbXR0c2RUbFFnR2dyeko0OE9IdThsTFNrWWF4UHpwYW9CUmJRM2dTRWg5dw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T22:40:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Yahoo Life",
+            "title": "Cancer rates in millennials, Gen X-ers have risen starkly in recent years, study finds. Experts have 1 prime suspect. - Yahoo Life",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVUJBMm1Fcm5Ocnk0X1FmUzhPSS1sUVY3eWYycFZFeUVXc2ZSTzdmZFBXMVlmTDJSY1UtVUVULVVnRTIzbnZDSHVaWTRSZGUxeG9CZ1ZOaFI1YnZVSGRqUUttcURoZTByRW4zVEQtd0lFcnNkZkxWR1dSQ1dBaWNwWnBQUzNTYnBjdWplTjJYYm9fOEhLNkRYTkE4Ui1OblNEd0FrYkV0S1FVVWJRVDI4OGhIbC1rUGh1Z2p0TmNXZkFMYTJjc2U0NzJjSXhkMTgzUTRVWmNka1NEYklkdmdFb0FlMnVLc0VBRmYzREgyUzJkQQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T22:38:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "Rosenthal: In a busy MLB trade deadline, quantity of deals overshadowed quality of players - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOG1taHZpbk92VURVNGo4Wjg2OHI3R0tCOVZnRUtKQnZzZFJIeXlaa1RQcE4tOE9nc0VWT3JJQy05clB6WDIzTURscWh6cklQWFZtQlRXb0N6a3JzbzEyam1TQW9ydkxueWtIeVVXYzdVZjBGdVBweWxwT0NVbmlRTFlpU1BBVGlxWWt4akV5ck0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T22:13:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC.com",
+            "title": "Iran vows revenge after Hamas leader Ismail Haniyeh killed - BBC.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EcUJxYk9wcHZmNHNnOE1xNEQ0LTN4SDdCQ04tR0hRMHA5bElpQU53UnZCcG1SNDR4WXB4MkRFem80ejI2bFRoTndEMVdzWF9YZGkxaDNmRGZBUdIBX0FVX3lxTFBCZEhwY2U4eEdKMlgyalZQTXJRQ2U1ZS1aaTB5Qk1kQ3M5Y0VIYXZXMDBaem4ycEpXQVdUcUtVa3FFZm1LdEZJQTlnaFdIM2ZON2FQbHYxNDc3cFBtQ1pF?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T21:36:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Boeing Hires Kelly Ortberg as Its Next CEO - The Wall Street Journal",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVVIQnB1eWNMbzJ2Nk1nWkRESzgtR0s2TU9iNnoxenN0TlVva214N0xYMVRBTFl6Z2tSTm9KT1ZFaERxa21yX1FPZjdyeklFMVE0WTZhS1BjUzBGOVZwMlZHenFXeWtMejRvNVpPdm1NM3JBb0RQM1BkZzZqQ1VWMTRzYm80V1BVRXNaeUhXRHcwWm8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T21:27:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Medical News Today",
+            "title": "Dementia: 14 modifiable factors may help prevent onset - Medical News Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFRxVExKOXpmS2JoRWhDVy1mOUVfelI2SEZZcl9aS0IyZFN1ZklLM3lrNHFfSmVha1k3eWI0RnZ2TlN2bU5lTGp0MmZzX3NTU205TFVZM0lnZ3Y5Mk1GbEhYS29iTnV6N2dBbG52YmgzVmR1N0lwU1hVMW4xS2ktbTBRRGtfUXo5Zzl2bUFGX1J0ZlI4ejhoX0JnYV96TWlNb2Q3cW9KQVVWT28?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T21:25:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "9to5Google",
+            "title": "Galaxy Z Fold 6 durability test hints at dust troubles, and it caught on fire too [Video] - 9to5Google",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DbVF1OGZmMjZ3Qm1BQS1td2lEaGl3ZjNWdllmLVdDTEl4R0VXM2VacWlIM2lSTmtTaGxDdzEzZEF0aXVQS0IwTldydXNLQ2hYSFdzMlZ4VHNOTEkxZEh5MFh2dV8xVEFzUXZhZEROMDJwV0lPbUdGTEZZMEo?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T21:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "Body of Hezbollah military commander found in Beirut rubble, two security sources say - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbUNYVWl4OUtsUWFpM3ppWi1JSVJHVTkzNEttNklKOXJZdlcxdnpkdFdiVnRnQndMcUktSWNyTlowUnVMQnNoREN6ZmdwVmZxM1hSZlNyUzhRZHdMUDI2Y0w4clhVanY4LUVOU1FwdkRPRndsaTRyVk4yZEw2VHdXSU9Kem5sV2dtOW1zd0N5eFhEZWRSb3N1YjBzV1VPQjV1TFFrWFhyeEk2ZkN0NDFVQWFEd19ic2d0eDRLVXFqNWo5ZlBGV21OelFIZ3c?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-31T21:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Brian Windhorst",
+            "title": "Adebayo-led bench helps U.S. topple South Sudan - ESPN",
+            "description": "Bam Adebayo came off the bench to score 18 points, and Team USA beat South Sudan 103-86 to move to 2-0 in Olympic play and seal a spot in next week's quarterfinals.",
+            "url": "https://www.espn.com/olympics/story/_/id/40692834/bam-adebayo-us-cruise-south-sudan-olympic-basketball",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0731%2Fr1366335_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-31T21:02:00Z",
+            "content": "LikeOpen Extended Reactions\r\n1.9KReactions\r\nLILLE, France -- Worrying about which superstar player might not play on a given night isn't Team USA's problem, it could end up the trademark.\r\nThis team'… [+4056 chars]"
+        }
+    ]
+}
