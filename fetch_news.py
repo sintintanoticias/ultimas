@@ -1,30 +1,29 @@
 import requests
 import json
-import os
 
-# Your API key
+# API key for News API
 API_KEY = '7005a6609b9a4b0a8c3a0e35124817d4'
 
-# Define the endpoint for fetching news articles
+# Define the endpoint URL
 URL = 'https://newsapi.org/v2/everything'
 
-# Parameters for the API request
+# Parameters for the request
 PARAMS = {
-    'q': 'Nueva York',  # Keywords to search for
-    'language': 'es',   # Language set to Spanish
-    'sortBy': 'relevancy',  # Sort articles by relevancy
-    'apiKey': API_KEY  # Your News API key
+    'q': 'República Dominicana',  # Keyword for the Dominican Republic
+    'language': 'es',             # Language set to Spanish
+    'sortBy': 'relevancy',        # Sort results by relevancy
+    'apiKey': API_KEY             # API Key
 }
 
-# Send a GET request to the News API
+# Make the GET request to News API
 response = requests.get(URL, params=PARAMS)
 
 # Convert the response to JSON
 data = response.json()
 
 # Check if the request was successful
-if data['status'] == 'ok':
-    # Get the articles from the response
+if data['status'] == 'ok' and data['totalResults'] > 0:
+    # Extract articles from the response
     articles = data['articles']
     # Print the number of articles found
     print(f"Found {len(articles)} articles.")
@@ -32,5 +31,5 @@ if data['status'] == 'ok':
     with open('news.json', 'w', encoding='utf-8') as json_file:
         json.dump(articles, json_file, ensure_ascii=False, indent=4)
 else:
-    # Print the error message if the request was not successful
-    print(f"Error fetching news: {data['message']}")
+    # Print the error message if any
+    print(f"Error fetching news: {data.get('message', 'No articles found')}")
