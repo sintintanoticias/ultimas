@@ -1,0 +1,29 @@
+name: Fetch US Top Headlines
+
+on:
+  schedule:
+    - cron: '30 * * * *'  # Adjust as needed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run US news fetch script
+      run: python fetch_us_news.py
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: . # Assuming the JSON files are in the root directory
