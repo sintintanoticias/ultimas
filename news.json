@@ -365,19 +365,6 @@
     },
     {
         "source": {
-            "id": "el-mundo",
-            "name": "El Mundo"
-        },
-        "author": "EFE",
-        "title": "Fracasa en el Consejo de la OEA una resolución que exigía a Maduro revelar las actas de votación",
-        "description": "Una resolución que exigía a las autoridades de Venezuela publicar de inmediato las actas de las elecciones del domingo no alcanzó este miércoles los apoyos necesarios para ser...",
-        "url": "https://www.elmundo.es/internacional/2024/08/01/66aabd04e9cf4a32668b4579.html",
-        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d708fea49a1fa6face494cacf1aa25b2/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/01/17224653639048.jpg",
-        "publishedAt": "2024-07-31T23:47:10Z",
-        "content": "Una resolución que exigía a las autoridades de Venezuela publicar de inmediato las actas de las elecciones del domingo no alcanzó este miércoles los apoyos necesarios para ser aprobada por el Consejo… [+2327 chars]"
-    },
-    {
-        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -401,6 +388,19 @@
         "urlToImage": "https://phantom-marca.unidadeditorial.es/9e8b1e7f4a9f11b6c639746ff69af4db/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/25/17219021151414.jpg",
         "publishedAt": "2024-07-25T10:10:20Z",
         "content": "Santi Denia no tuvo dudas a la hora de elegir a los tres jugadores mayores de 23 años que permite el torneo olímpico en cada selección. Apostó por Abel Ruiz, Juan Miranda y Sergio Gómez (todos ellos … [+1508 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "EFE",
+        "title": "Fracasa en el Consejo de la OEA una resolución que exigía a Maduro revelar las actas de votación",
+        "description": "Una resolución que exigía a las autoridades de Venezuela publicar de inmediato las actas de las elecciones del domingo no alcanzó este miércoles los apoyos necesarios para ser...",
+        "url": "https://www.elmundo.es/internacional/2024/08/01/66aabd04e9cf4a32668b4579.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d708fea49a1fa6face494cacf1aa25b2/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/01/17224653639048.jpg",
+        "publishedAt": "2024-07-31T23:47:10Z",
+        "content": "Una resolución que exigía a las autoridades de Venezuela publicar de inmediato las actas de las elecciones del domingo no alcanzó este miércoles los apoyos necesarios para ser aprobada por el Consejo… [+2327 chars]"
     },
     {
         "source": {
