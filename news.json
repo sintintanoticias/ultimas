@@ -976,6 +976,19 @@
     },
     {
         "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "DAVID MENAYO",
+        "title": "Los detalles de un triunfo que acerca los metales",
+        "description": "España se impuso a Japón en cuartos de final del torneo olímpico en el que es, hasta la fecha, el mejor partido de los nuestros. Un triunfo que da el billete para unas semifinales",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/02/66ad305822601d9d608b4576.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/ab87f771ca8cc083f291fa824f80ad72/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/02/17226266646501.jpg",
+        "publishedAt": "2024-08-02T19:33:03Z",
+        "content": "España se impuso a Japón en cuartos de final del torneo olímpico en el que es, hasta la fecha, el mejor partido de los nuestros. Un triunfo que da el billete para unas semifinales que habrá que jugar… [+3225 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/02/668461ca56e45.r_d.830-377-11111.jpeg",
         "publishedAt": "2024-07-02T20:24:37Z",
         "content": "La selección de Croacia derrotó este martes por 92-108 a la Eslovenia de Luka Doncic, a la que llegó a ganar por 29 tantos, en la primera jornada del Preolímpico que se disputa en El Pireo (Grecia).\r… [+1759 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Devastación e inundaciones: el Caribe afronta los estragos del huracán Beryl (VIDEOS)",
-        "description": "Los daños más graves han sido causados en los países antillanos San Vicente y las Granadinas y Granada.",
-        "url": "https://actualidad.rt.com/actualidad/514772-devastar-inundar-caribe-huracan-beryl",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/668411b859bf5b613b54248c.jpg",
-        "publishedAt": "2024-07-02T19:12:51Z",
-        "content": "El paso del huracán Beryl, que alcanzó este martes la categoría 5, que es potencialmente catastrófica, ha causado la muerte de cuatro personas en el sureste del Caribe, inundaciones en Venezuela, cie… [+4270 chars]"
     }
 ]
