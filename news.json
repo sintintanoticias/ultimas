@@ -392,19 +392,6 @@
     {
         "source": {
             "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Alba Rodríguez Morales",
-        "title": "Arrasa al descubrir cómo un laboratorio de Vizcaya te puede pagar por hacer caca",
-        "description": "<![CDATA[<p>El creador de contenido Kelvin (@starlingru1z), un tiktoker de República Dominicana, ha subido un vídeo a la red social en el que ha contado un sorprendente descubrimiento: en España pueden pagarte por hacer caca. wf_cms.rss.read_more]]>",
-        "url": "https://www.huffingtonpost.es/virales/arrasa-descubrir-como-laboratorio-vizcaya-te-pagar-caca.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/files/fp/uploads/2024/07/04/fragmento-del-video-de-starlingru1z.r_d.207-159-25531.jpeg",
-        "publishedAt": "2024-07-04T14:05:47Z",
-        "content": "El creador de contenido Kelvin (@starlingru1z), un tiktoker de República Dominicana, ha subido un vídeo a la red social en el que ha contado un sorprendente descubrimiento: en España pueden pagarte p… [+1304 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "La Vanguardia"
         },
         "author": "David Freire",
@@ -1119,19 +1106,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Elchapuzasinformatico.com"
-        },
-        "author": "Borja Colomer",
-        "title": "En 2023, Google y Microsoft consumieron más electricidad que algunos países como República Dominicana o Islandia",
-        "description": "El mundo cada vez está más dominado por la tecnología y esto es parte de la evolución hacia esa sociedad futurista que se imaginaban en el pasado. Es cierto que no hemos conseguido coches voladores o androides humanoides inteligentes, pero si se han conseguid…",
-        "url": "https://elchapuzasinformatico.com/?p=561533",
-        "urlToImage": "https://elchapuzasinformatico.com/wp-content/uploads/2024/07/Microsoft-Google-electricidad-paises.jpg",
-        "publishedAt": "2024-07-15T16:32:34Z",
-        "content": "El mundo cada vez está más dominado por la tecnología y esto es\r\nparte de la evolución hacia esa sociedad futurista que se\r\nimaginaban en el pasado. Es cierto que no hemos conseguido coches\r\nvoladore… [+3152 chars]"
-    },
-    {
-        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -1142,6 +1116,19 @@
         "urlToImage": "https://phantom-marca.unidadeditorial.es/8f5987a3088aab3d00a794adb4dd2bf1/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/23/17217561176925.jpg",
         "publishedAt": "2024-07-24T05:14:24Z",
         "content": "Arranca París 2024. El fútbol masculino alza hoy el telón de los Juegos Olímpicos con ocho partidos: Guinea-Nueva Zelanda y Francia-EE.UU. (Grupo A), Argentina-Marruecos e Irak-Ucrania (Grupo B), Uzb… [+10492 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elchapuzasinformatico.com"
+        },
+        "author": "Borja Colomer",
+        "title": "En 2023, Google y Microsoft consumieron más electricidad que algunos países como República Dominicana o Islandia",
+        "description": "El mundo cada vez está más dominado por la tecnología y esto es parte de la evolución hacia esa sociedad futurista que se imaginaban en el pasado. Es cierto que no hemos conseguido coches voladores o androides humanoides inteligentes, pero si se han conseguid…",
+        "url": "https://elchapuzasinformatico.com/?p=561533",
+        "urlToImage": "https://elchapuzasinformatico.com/wp-content/uploads/2024/07/Microsoft-Google-electricidad-paises.jpg",
+        "publishedAt": "2024-07-15T16:32:34Z",
+        "content": "El mundo cada vez está más dominado por la tecnología y esto es\r\nparte de la evolución hacia esa sociedad futurista que se\r\nimaginaban en el pasado. Es cierto que no hemos conseguido coches\r\nvoladore… [+3152 chars]"
     },
     {
         "source": {
@@ -1198,19 +1185,6 @@
     {
         "source": {
             "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "EFE EFE",
@@ -1220,6 +1194,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a530b3ac474.r_d.3451-1699-3099.jpeg",
         "publishedAt": "2024-07-27T17:40:11Z",
         "content": "Egipto venció este sábado a Uzbekistán por 0-1 en la segunda jornada de la fase de grupos masculina de fútbol olímpico, gracias a un gol del centrocampista Ahmed Kouka en el minuto 11, en un resultad… [+533 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
     },
     {
         "source": {
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/30/una-de-las-estatuas-de-hugo-chavez-atacada-por-un-manifestante.jpeg",
         "publishedAt": "2024-07-30T08:22:11Z",
         "content": "Las últimas horas han sido muy tensas en Venezuela. Las fuerzas de seguridad han disparado gases lacrimógenos y balas de goma contra personas que protestaban por el controvertido resultado de las ele… [+4873 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Calculan que Google y Microsoft consumen más electricidad que varios países",
+        "description": "Ambas compañías consumieron 24 teravatios-hora (TWh) de electricidad en 2023, el equivalente a la energía que consume Azerbaiyán.",
+        "url": "https://actualidad.rt.com/actualidad/516329-google-microsoft-mas-electricidad-varios-paises",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66976e3059bf5b6ee93a3636.jpg",
+        "publishedAt": "2024-07-18T03:09:23Z",
+        "content": "Las empresas tecnológicas estadounidenses Google y Microsoft consumen más electricidad que más de 100 países, incluidos algunos de grandes dimensiones, reveló un usuario llamado Michael Thomas median… [+954 chars]"
     }
 ]
