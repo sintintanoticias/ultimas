@@ -433,19 +433,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Jaume Miserachs Teixidor",
-        "title": "República Dominicana se queda con 10 y Cubarsí se pierde el próximo partido",
-        "description": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra España, correspondiente a la segunda jornada de la fase de grup…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002288440/republica-dominicana-queda-10-cubarsi-pierde-proximo-partido.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4fcefaa350.r_d.2423-1480-2468.jpeg",
-        "publishedAt": "2024-07-27T13:53:51Z",
-        "content": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra Esp… [+739 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "Helena Celma Pérez",
         "title": "República Dominicana - España, en directo | Sigue en vivo el partido de los JJOO de París 2024",
         "description": "Sigue en vivo, minuto a minuto, el partido correspondiente a la jornada 2, que enfrenta a República Dominicana y España, en la categoría Sub-23, en el Stade Matmut-Atlantique.",
@@ -453,6 +440,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4e12b4ef90.r_d.974-369-0.jpeg",
         "publishedAt": "2024-07-27T12:55:54Z",
         "content": "| España ultima la preparación contra República Dominicana en el estadio Chaban DelmasLa selección española llevó a cabo este viernes su último entrenamiento de preparación, en el estadio Chaban Delm… [+582 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Jaume Miserachs Teixidor",
+        "title": "República Dominicana se queda con 10 y Cubarsí se pierde el próximo partido",
+        "description": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra España, correspondiente a la segunda jornada de la fase de grup…",
+        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002288440/republica-dominicana-queda-10-cubarsi-pierde-proximo-partido.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4fcefaa350.r_d.2423-1480-2468.jpeg",
+        "publishedAt": "2024-07-27T13:53:51Z",
+        "content": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra Esp… [+739 chars]"
     },
     {
         "source": {
@@ -804,6 +804,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/08/01/66ab5b582e0d8.r_d.1289-860-4653.jpeg",
         "publishedAt": "2024-08-02T05:54:41Z",
         "content": "La selección española ya está en cuartos de final de París 2024, donde se medirá a la peligrosa Japón después de quedar como segunda clasificada del Grupo C. España logró sus victorias contra Uzbekis… [+2453 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Efe",
+        "title": "Hazte Oír amplía su querella contra Begoña Gómez y pide citar a la ex ministra Reyes Maroto",
+        "description": "La asociación ultracatólica Hazte Oír ha ampliado su querella contra Begoña Gómez, mujer del presidente del Gobierno, Pedro Sánchez, para que se investigue un contrato...",
+        "url": "https://www.elmundo.es/espana/2024/08/06/66b1cf3bfdddff7d628b45a1.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/badd454c677a21dbabbedec70b5c1b08/crop/0x178/3069x2224/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229289175241.jpg",
+        "publishedAt": "2024-08-06T07:22:41Z",
+        "content": "La asociación ultracatólica Hazte Oír ha ampliado su querella contra Begoña Gómez, mujer del presidente del Gobierno, Pedro Sánchez, para que se investigue un contrato público adjudicado a Globalia, … [+1753 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66976e3059bf5b6ee93a3636.jpg",
         "publishedAt": "2024-07-18T03:09:23Z",
         "content": "Las empresas tecnológicas estadounidenses Google y Microsoft consumen más electricidad que más de 100 países, incluidos algunos de grandes dimensiones, reveló un usuario llamado Michael Thomas median… [+954 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Las autoridades de Venezuela saben que Edmundo González “claramente” ganó la elección, dice representante de EE.UU.",
-        "description": "El secretario de Estado adjunto de Estados Unidos para asuntos del hemisferio occidental, Brian Nichols, dijo este miércoles que las autoridades de Venezuela “saben” que el candidato presidencial de la mayoría opositora, Edmundo González Urrutia, “claramente”…",
-        "url": "https://cnnespanol.cnn.com/2024/07/31/autoridades-venezuela-saben-edmundo-gonzalez-representante-eeuu-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2164475816.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-01T02:47:18Z",
-        "content": "(CNN Español) -- El secretario de Estado adjunto de Estados Unidos para asuntos del hemisferio occidental, Brian Nichols, dijo este miércoles que las autoridades de Venezuela saben que el candidato p… [+2084 chars]"
     }
 ]
