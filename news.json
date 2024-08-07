@@ -326,6 +326,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Belén Liotti",
+        "title": "El presidente Abinader propone reforma constitucional para disminuir la cantidad de diputados",
+        "description": "El presidente de República Dominicana propuso disminuir el número de diputados, junto a otras tres reformas constitucionales que enviará al Congreso el próximo 16 de agosto, cuando se inicia la nueva legislatura.\nThe post El presidente Abinader propone reform…",
+        "url": "https://cnnespanol.cnn.com/2024/08/05/abinader-reforma-constitucional-disminuir-diputados-dominicana-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/abinader.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-06T02:17:20Z",
+        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, propuso este lunes disminuir el número de diputados, junto a otras tres reformas constitucionales que enviará al Congreso el pró… [+1228 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Trendencias.com"
         },
@@ -443,19 +456,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "\"¿Viste lo que le pasó a Trump?\": Arrestan a joven en República Dominicana por amenazar a Abinader",
-        "description": "El hombre se presentó ante las autoridades tras viralizarse el video y pidió disculpas por lo sucedido.",
-        "url": "https://actualidad.rt.com/actualidad/516164-arrestan-joven-republica-dominicana-amenazar-abinader",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66956f7459bf5b04576529c8.jpg",
-        "publishedAt": "2024-07-15T20:20:39Z",
-        "content": "Un joven identificado como Starlin Silvestre Corporán, mejor conocido como 'Starlin HD', fue arrestado en República Dominicana tras ser acusado de amenazar al presidente de ese país, Luis Abinader.\r\n… [+1717 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Mundodeportivo.com"
         },
@@ -466,6 +466,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/24/66a1502895cfd.r_d.1206-612-6715.jpeg",
         "publishedAt": "2024-07-24T19:07:47Z",
         "content": "La República dominicana comenzó a escribir su historia en la competición de fútbol de los Juegos Olímpicos este miércoles con un empate sin goles ante Egipto, un resultado con sabor a victoria por lo… [+2301 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "\"¿Viste lo que le pasó a Trump?\": Arrestan a joven en República Dominicana por amenazar a Abinader",
+        "description": "El hombre se presentó ante las autoridades tras viralizarse el video y pidió disculpas por lo sucedido.",
+        "url": "https://actualidad.rt.com/actualidad/516164-arrestan-joven-republica-dominicana-amenazar-abinader",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66956f7459bf5b04576529c8.jpg",
+        "publishedAt": "2024-07-15T20:20:39Z",
+        "content": "Un joven identificado como Starlin Silvestre Corporán, mejor conocido como 'Starlin HD', fue arrestado en República Dominicana tras ser acusado de amenazar al presidente de ese país, Luis Abinader.\r\n… [+1717 chars]"
     },
     {
         "source": {
@@ -951,19 +964,6 @@
     {
         "source": {
             "id": null,
-            "name": "Jornada.com.mx"
-        },
-        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-        "title": "Aseguran 6.8 toneladas de mariguana en el puerto de Veracruz",
-        "description": "Efectivos de la Secretaría de Marina-Armada de México (Semar) y personal de Aduanas aseguraron un embarque de casi 7 toneladas de mariguana que sería enviado del puerto de Veracruz a República Dominicana.",
-        "url": "https://www.jornada.com.mx/2024/07/23/politica/013n2pol",
-        "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-        "publishedAt": "2024-07-23T08:49:47Z",
-        "content": "Periódico La JornadaMartes 23 de julio de 2024, p. 13\r\nEfectivos de la Secretaría de Marina-Armada de México (Semar) y personal de Aduanas aseguraron un embarque de casi 7 toneladas de mariguana que … [+1279 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "Autor Redacción",
@@ -973,6 +973,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/07/05/6687515d32f0b.jpeg",
         "publishedAt": "2024-07-06T17:49:34Z",
         "content": "Este domingo cuatro selecciones conseguirán las últimas plazas para los Juegos Olímpicos de París. Estos han sido los resultados de las semifinales de los diferentes Preolímpicos, disputadas este sáb… [+290 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jornada.com.mx"
+        },
+        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+        "title": "Aseguran 6.8 toneladas de mariguana en el puerto de Veracruz",
+        "description": "Efectivos de la Secretaría de Marina-Armada de México (Semar) y personal de Aduanas aseguraron un embarque de casi 7 toneladas de mariguana que sería enviado del puerto de Veracruz a República Dominicana.",
+        "url": "https://www.jornada.com.mx/2024/07/23/politica/013n2pol",
+        "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+        "publishedAt": "2024-07-23T08:49:47Z",
+        "content": "Periódico La JornadaMartes 23 de julio de 2024, p. 13\r\nEfectivos de la Secretaría de Marina-Armada de México (Semar) y personal de Aduanas aseguraron un embarque de casi 7 toneladas de mariguana que … [+1279 chars]"
     },
     {
         "source": {
@@ -1051,6 +1064,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/05/30/6658947807640.jpeg",
         "publishedAt": "2024-07-28T13:01:38Z",
         "content": "La selección española afronta este domingo (19:00) su segundo partido en el torneo futbolístico femenino de los Juegos Olímpicos. Las de Montse Tomé se enfrentan a Nigeria, con el objetivo de lograr … [+1710 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes.com.mx"
+        },
+        "author": "Forbes Staff",
+        "title": "Cemex venderá sus operaciones en República Dominicana por 950 mdd",
+        "description": "Forbes México.\n Cemex venderá sus operaciones en República Dominicana por 950 mdd\n\nCon la operación, que se prevé se concreté al cierre de 2024, la empresa busca concentrarse en sus mercados prioritarios.\nCemex venderá sus operaciones en República Dominicana …",
+        "url": "https://www.forbes.com.mx/cemex-vendera-sus-operaciones-en-republica-dominicana-por-950-mdd/",
+        "urlToImage": "https://cdn.forbes.com.mx/2016/03/2016-03-14T172416Z_1_LYNXNPEC2D15R_RTROPTP_3_CONSTRUCCION-MEXICO-CEMEX.jpg",
+        "publishedAt": "2024-08-06T01:05:00Z",
+        "content": "Cemex anunció que firmó un acuerdo para la venta de sus operaciones en República Dominicana por 950 millones de dólares. \r\nLa transacción, que incluye el negocio de exportación a Haití, se firmó entr… [+1182 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2164475816.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-01T02:47:18Z",
         "content": "(CNN Español) -- El secretario de Estado adjunto de Estados Unidos para asuntos del hemisferio occidental, Brian Nichols, dijo este miércoles que las autoridades de Venezuela saben que el candidato p… [+2084 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "urielblanco",
-        "title": "Fiscal de Venezuela acusa a María Corina Machado y Leopoldo López de supuesto sabotaje y ataque informático al CNE",
-        "description": "El fiscal general de Venezuela, Tarek William Saab, dijo, sin presentar prueba alguna, que hubo una \"agresión al sistema eléctrico y un ataque informático contra el sistema de transmisión de datos del Consejo Nacional Electoral\". La Fiscalía acusó a María Cor…",
-        "url": "https://cnnespanol.cnn.com/2024/07/29/fiscal-venezuela-acusa-maria-corina-machado-leopoldo-lopez-sobojate-ataque-informatico-cne-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/240326122811-maria-corina-machado-venezuela-lider-opositora-26-de-marzoi-full-169.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-29T17:29:29Z",
-        "content": "CNE da como ganador a Maduro en elecciones en Venezuela 3:02\r\n(CNN Español) -- El Ministerio Público de Venezuela investigará supuestos intentos de sabotaje a las elecciones presidenciales realizadas… [+2708 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Mauricio Torres",
-        "title": "La CIDH y 5 países de América Latina denuncian represión política en Venezuela",
-        "description": "A nueve días de las elecciones presidenciales en Venezuela, la Comisión Interamericana de Derechos Humanos (CIDH) y, por separado, los gobiernos de Argentina, Costa Rica, Guatemala, Paraguay y Uruguay denunciaron actos de represión política en el país sudamer…",
-        "url": "https://cnnespanol.cnn.com/2024/07/19/cidh-paises-america-denuncian-represion-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2159409792-20240704015226578.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-20T02:19:05Z",
-        "content": "(CNN Español) -- A nueve días de las elecciones presidenciales en Venezuela, la Comisión Interamericana de Derechos Humanos (CIDH) y, por separado, los gobiernos de Argentina, Costa Rica, Guatemala, … [+2521 chars]"
     }
 ]
