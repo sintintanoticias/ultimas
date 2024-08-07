@@ -290,6 +290,19 @@
             "id": "marca",
             "name": "Marca"
         },
+        "author": "EUGENIO MUÑOZ",
+        "title": "Españoles por el mundo: los Juegos Olímpicos",
+        "description": "Cuando allá por el 26 de julio desfiló el equipo olímpico español (no al completo) por las aguas del Sena en la Ceremonia de Inauguración más rompedora de la historia de los Juegos",
+        "url": "https://www.marca.com/juegos-olimpicos/2024/08/06/66b1ec71268e3eb8718b4587.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/3608e500ac4512556b6334c54af5a853/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229399321317.jpg",
+        "publishedAt": "2024-08-06T10:31:47Z",
+        "content": "Cuando allá por el 26 de julio desfiló el equipo olímpico español (no al completo) por las aguas del Sena en la Ceremonia de Inauguración más rompedora de la historia de los Juegos Olímpicos, España … [+4428 chars]"
+    },
+    {
+        "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
         "author": "PEDRO DE PABLOS / PABLO LUCENA",
         "title": "La derrota nos complica el camino",
         "description": "Con la derrota de España ante Egipto por 1-2, &apos;La Rojita&apos; ha terminado la fase de grupos como segunda del grupo C, por detrás del país africano que ha sumado siete puntos",
@@ -729,6 +742,19 @@
     },
     {
         "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "DAVID MENAYO",
+        "title": "Fermín se desmelena",
+        "description": "Fermín López está siendo uno de los grandes nombres de la selección española en los Juegos Olímpicos de París, ciudad donde los nuestros arrancaron la aventura el pasado 24 de juli",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/06/66b1d4ab46163f1e1a8b457a.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/08c4b3f1495a2cedfb5de0bb5ffce0cf/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229288002877.jpg",
+        "publishedAt": "2024-08-06T09:37:56Z",
+        "content": "Fermín López está siendo uno de los grandes nombres de la selección española en los Juegos Olímpicos de París, ciudad donde los nuestros arrancaron la aventura el pasado 24 de julio y donde la acabar… [+3226 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Mundodeportivo.com"
         },
@@ -977,19 +1003,6 @@
     {
         "source": {
             "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Autor Redacción",
-        "title": "Los resultados de hoy de los Preolímpicos de baloncesto",
-        "description": "Este domingo cuatro selecciones conseguirán las últimas plazas para los Juegos Olímpicos de París. Estos han sido los resultados de las semifinales de los diferentes Preolímpicos, disputadas este sábado.",
-        "url": "https://www.mundodeportivo.com/baloncesto/20240706/1002277384/resultados-hoy-preolimpicos-baloncesto.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/07/05/6687515d32f0b.jpeg",
-        "publishedAt": "2024-07-06T17:49:34Z",
-        "content": "Este domingo cuatro selecciones conseguirán las últimas plazas para los Juegos Olímpicos de París. Estos han sido los resultados de las semifinales de los diferentes Preolímpicos, disputadas este sáb… [+290 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Jornada.com.mx"
         },
         "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
@@ -999,6 +1012,19 @@
         "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
         "publishedAt": "2024-07-23T08:49:47Z",
         "content": "Periódico La JornadaMartes 23 de julio de 2024, p. 13\r\nEfectivos de la Secretaría de Marina-Armada de México (Semar) y personal de Aduanas aseguraron un embarque de casi 7 toneladas de mariguana que … [+1279 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Autor Redacción",
+        "title": "Los resultados de hoy de los Preolímpicos de baloncesto",
+        "description": "Este domingo cuatro selecciones conseguirán las últimas plazas para los Juegos Olímpicos de París. Estos han sido los resultados de las semifinales de los diferentes Preolímpicos, disputadas este sábado.",
+        "url": "https://www.mundodeportivo.com/baloncesto/20240706/1002277384/resultados-hoy-preolimpicos-baloncesto.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/07/05/6687515d32f0b.jpeg",
+        "publishedAt": "2024-07-06T17:49:34Z",
+        "content": "Este domingo cuatro selecciones conseguirán las últimas plazas para los Juegos Olímpicos de París. Estos han sido los resultados de las semifinales de los diferentes Preolímpicos, disputadas este sáb… [+290 chars]"
     },
     {
         "source": {
@@ -1185,19 +1211,6 @@
     {
         "source": {
             "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "EFE EFE",
@@ -1207,6 +1220,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a530b3ac474.r_d.3451-1699-3099.jpeg",
         "publishedAt": "2024-07-27T17:40:11Z",
         "content": "Egipto venció este sábado a Uzbekistán por 0-1 en la segunda jornada de la fase de grupos masculina de fútbol olímpico, gracias a un gol del centrocampista Ahmed Kouka en el minuto 11, en un resultad… [+533 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/669a9705e9ff7118ce45f5a5.jpg",
         "publishedAt": "2024-07-20T04:15:07Z",
         "content": "El presidente de Nicaragua, Daniel Ortega, ofrece un discurso este viernes por la celebración del 45.º aniversario de la Revolución Popular Sandinista en el país centroamericano.\r\n\"Aquí no se rinde n… [+1389 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost / Agencias",
-        "title": "Un muerto y estatuas de Chávez derribadas: así están las cosas en Venezuela",
-        "description": "<![CDATA[<p>Las últimas horas han sido muy tensas en Venezuela. Las fuerzas de seguridad han disparado gases lacrimógenos y balas de goma contra personas que protestaban por el controvertido resultado de las elecciones del domingo. Miles de ciudadanos llegaro…",
-        "url": "https://www.huffingtonpost.es/global/un-muerto-estatuas-chavez-derribadas-asi-cosas-venezuela.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/30/una-de-las-estatuas-de-hugo-chavez-atacada-por-un-manifestante.jpeg",
-        "publishedAt": "2024-07-30T08:22:11Z",
-        "content": "Las últimas horas han sido muy tensas en Venezuela. Las fuerzas de seguridad han disparado gases lacrimógenos y balas de goma contra personas que protestaban por el controvertido resultado de las ele… [+4873 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Calculan que Google y Microsoft consumen más electricidad que varios países",
-        "description": "Ambas compañías consumieron 24 teravatios-hora (TWh) de electricidad en 2023, el equivalente a la energía que consume Azerbaiyán.",
-        "url": "https://actualidad.rt.com/actualidad/516329-google-microsoft-mas-electricidad-varios-paises",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66976e3059bf5b6ee93a3636.jpg",
-        "publishedAt": "2024-07-18T03:09:23Z",
-        "content": "Las empresas tecnológicas estadounidenses Google y Microsoft consumen más electricidad que más de 100 países, incluidos algunos de grandes dimensiones, reveló un usuario llamado Michael Thomas median… [+954 chars]"
     }
 ]
