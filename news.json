@@ -352,6 +352,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Descubren en República Dominicana una embarcación a la deriva con 14 cadáveres",
+        "description": "La identificación preliminar de los fallecidos se realizó mediante los documentos hallados en la embarcación, que apuntan a que eran originarios de Senegal y Mauritania.",
+        "url": "https://actualidad.rt.com/actualidad/518597-descubren-republica-dominicana-cadaveres",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66b34907e9ff71128961f9d6.jpg",
+        "publishedAt": "2024-08-07T11:15:35Z",
+        "content": "La Armada de República Dominicana (ARD) informó este martes sobre el hallazgo de 14 cadáveres en una embarcación a la deriva en la costa del municipio de Río San Juan, en la provincia de María Trinid… [+1066 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Trendencias.com"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/orden-desfile-inauguracion-paris-2024-olimpicos-e1721917120341.jpg?quality=100&strip=info",
         "publishedAt": "2024-07-25T14:23:32Z",
         "content": "Momentos memorables de las ceremonias de inauguración 3:15\r\n(CNN Español) -- La ceremonia de inauguración de los Juegos Olímpicos de París 2024 tendrá varias primicias. La que probablemente llama más… [+5772 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "EN VIVO: Daniel Ortega celebra el 45.º aniversario de la Revolución Sandinista",
-        "description": "La vicepresidenta Rosario Murillo anunció la llegada de más de 550 delegados de diversos países.",
-        "url": "https://actualidad.rt.com/actualidad/516649-daniel-ortega-aniversario-revolucion-sandinista-nicaragua",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/669a9705e9ff7118ce45f5a5.jpg",
-        "publishedAt": "2024-07-20T04:15:07Z",
-        "content": "El presidente de Nicaragua, Daniel Ortega, ofrece un discurso este viernes por la celebración del 45.º aniversario de la Revolución Popular Sandinista en el país centroamericano.\r\n\"Aquí no se rinde n… [+1389 chars]"
     }
 ]
