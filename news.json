@@ -134,6 +134,19 @@
             "id": "cnn",
             "name": "CNN"
         },
+        "author": "Belén Liotti",
+        "title": "La Armada de República Dominicana halló una embarcación abandonada con al menos 14 osamentas",
+        "description": "La Armada de República Dominicana informó este martes del hallazgo de una embarcación con al menos 14 osamentas. El descubrimiento ocurrió a unas 10 millas náuticas de la costa de Río de San Juan, en la costa norte del paí.\nThe post La Armada de República Dom…",
+        "url": "https://cnnespanol.cnn.com/2024/08/06/republica-dominicana-embarcacion-14-osamentas-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-06-at-8.04.34-PM-1-2.jpeg?quality=100&strip=info",
+        "publishedAt": "2024-08-07T02:14:29Z",
+        "content": "(CNN Español) -- La Armada de República Dominicana informó este martes del hallazgo de una embarcación con al menos 14 osamentas. El descubrimiento ocurrió a unas 10 millas náuticas de la costa de Rí… [+680 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
         "author": "Germán Padinger",
         "title": "El jugador de la MLB Wander Franco es acusado formalmente de explotación sexual y comercial de una menor en República Dominicana",
         "description": "El jugador de los Tampa Bay Rays, Wander Franco, ha sido acusado formalmente de explotación sexual y comercial de un menor en la República Dominicana, informó el lunes el Ministerio Público del país en un comunicado.\nThe post El jugador de la MLB Wander Franc…",
@@ -990,19 +1003,6 @@
     {
         "source": {
             "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost",
-        "title": "Esta es la participación de España en los Juegos Olímpicos de París hoy sábado 27 de julio",
-        "description": "<![CDATA[<p>Con la resaca de la ceremonia de inauguración de los Juegos Olímpicos de París 2024 de ayer viernes, hoy sábado 27 de julio, España se enfrenta a una jornada cargada de pruebas en la capital francesa.wf_cms.rss.read_more]]>",
-        "url": "https://www.huffingtonpost.es/deporte/esta-participacion-espana-juegos-olimpicos-paris-hoy-sabado-27-julio.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/26/el-judoka-espanol-francisco-garrigos.jpeg",
-        "publishedAt": "2024-07-27T04:00:00Z",
-        "content": "Con la resaca de la ceremonia de inauguración de los Juegos Olímpicos de París 2024 de ayer viernes, hoy sábado 27 de julio, España se enfrenta a una jornada cargada de pruebas en la capital francesa… [+2422 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Jornada.com.mx"
         },
         "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
@@ -1012,6 +1012,19 @@
         "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
         "publishedAt": "2024-07-23T08:49:47Z",
         "content": "Periódico La JornadaMartes 23 de julio de 2024, p. 13\r\nEfectivos de la Secretaría de Marina-Armada de México (Semar) y personal de Aduanas aseguraron un embarque de casi 7 toneladas de mariguana que … [+1279 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost",
+        "title": "Esta es la participación de España en los Juegos Olímpicos de París hoy sábado 27 de julio",
+        "description": "<![CDATA[<p>Con la resaca de la ceremonia de inauguración de los Juegos Olímpicos de París 2024 de ayer viernes, hoy sábado 27 de julio, España se enfrenta a una jornada cargada de pruebas en la capital francesa.wf_cms.rss.read_more]]>",
+        "url": "https://www.huffingtonpost.es/deporte/esta-participacion-espana-juegos-olimpicos-paris-hoy-sabado-27-julio.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/26/el-judoka-espanol-francisco-garrigos.jpeg",
+        "publishedAt": "2024-07-27T04:00:00Z",
+        "content": "Con la resaca de la ceremonia de inauguración de los Juegos Olímpicos de París 2024 de ayer viernes, hoy sábado 27 de julio, España se enfrenta a una jornada cargada de pruebas en la capital francesa… [+2422 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/30/una-de-las-estatuas-de-hugo-chavez-atacada-por-un-manifestante.jpeg",
         "publishedAt": "2024-07-30T08:22:11Z",
         "content": "Las últimas horas han sido muy tensas en Venezuela. Las fuerzas de seguridad han disparado gases lacrimógenos y balas de goma contra personas que protestaban por el controvertido resultado de las ele… [+4873 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Calculan que Google y Microsoft consumen más electricidad que varios países",
-        "description": "Ambas compañías consumieron 24 teravatios-hora (TWh) de electricidad en 2023, el equivalente a la energía que consume Azerbaiyán.",
-        "url": "https://actualidad.rt.com/actualidad/516329-google-microsoft-mas-electricidad-varios-paises",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66976e3059bf5b6ee93a3636.jpg",
-        "publishedAt": "2024-07-18T03:09:23Z",
-        "content": "Las empresas tecnológicas estadounidenses Google y Microsoft consumen más electricidad que más de 100 países, incluidos algunos de grandes dimensiones, reveló un usuario llamado Michael Thomas median… [+954 chars]"
     }
 ]
