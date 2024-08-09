@@ -1133,19 +1133,6 @@
     {
         "source": {
             "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Elchapuzasinformatico.com"
         },
         "author": "Borja Colomer",
@@ -1155,6 +1142,19 @@
         "urlToImage": "https://elchapuzasinformatico.com/wp-content/uploads/2024/07/Microsoft-Google-electricidad-paises.jpg",
         "publishedAt": "2024-07-15T16:32:34Z",
         "content": "El mundo cada vez está más dominado por la tecnología y esto es\r\nparte de la evolución hacia esa sociedad futurista que se\r\nimaginaban en el pasado. Es cierto que no hemos conseguido coches\r\nvoladore… [+3152 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
     },
     {
         "source": {
