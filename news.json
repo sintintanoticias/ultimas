@@ -911,19 +911,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -934,6 +921,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2163831996_d7b4a0.jpg?quality=100&strip=info",
         "publishedAt": "2024-07-30T12:32:59Z",
         "content": "Escepticismo en el mundo por las elecciones en Venezuela 1:21\r\n(CNN) -- El Centro Carter, una de las pocas instituciones independientes autorizadas a monitorear las elecciones venezolanas, canceló la… [+1087 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
     },
     {
         "source": {
