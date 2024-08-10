@@ -248,6 +248,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Marileidy Paulino bate récord en 400 metros y se convierte en la primera dominicana en ganar una medalla de oro olímpica",
+        "description": "La corredora dominicana Marileidy Paulino tuvo una gran actuación en sus carreras preliminares en París 2024 y este viernes se coronó como la nueva reina de los 400 metros al ganar la prueba de principio a fin y con récord olímpico: 48.17 segundos.\nThe post M…",
+        "url": "https://cnnespanol.cnn.com/2024/08/09/marileidy-paulino-record-400-metros-primera-dominicana-ganar-oro-olimpica-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/repdomini.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-09T20:56:16Z",
+        "content": "¿Qué significó participar en los Juegos Olímpicos para Simone Biles? 0:44\r\n(CNN) -- La corredora dominicana Marileidy Paulino tuvo una gran actuación en sus carreras preliminares en París 2024 y este… [+1862 chars]"
+    },
+    {
+        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.formulatv.com/images/articulos/129000/129406_GYt9x43Jeq1HP7gcFs0Ra2ozmUivBE8LW-hog.jpg",
         "publishedAt": "2024-07-29T08:04:00Z",
         "content": "El deporte reina a lo largo del sábado 27 de julio. Una vez superada la ceremonia de apertura de los Juegos Olímpicos, la cita parisina demuestra su atractivo al posicionar seis de sus retransmisione… [+1758 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "EN VIVO: Daniel Ortega celebra el 45.º aniversario de la Revolución Sandinista",
-        "description": "La vicepresidenta Rosario Murillo anunció la llegada de más de 550 delegados de diversos países.",
-        "url": "https://actualidad.rt.com/actualidad/516649-daniel-ortega-aniversario-revolucion-sandinista-nicaragua",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/669a9705e9ff7118ce45f5a5.jpg",
-        "publishedAt": "2024-07-20T04:15:07Z",
-        "content": "El presidente de Nicaragua, Daniel Ortega, ofrece un discurso este viernes por la celebración del 45.º aniversario de la Revolución Popular Sandinista en el país centroamericano.\r\n\"Aquí no se rinde n… [+1389 chars]"
     }
 ]
