@@ -1198,19 +1198,6 @@
     {
         "source": {
             "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "EFE EFE",
@@ -1220,6 +1207,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a530b3ac474.r_d.3451-1699-3099.jpeg",
         "publishedAt": "2024-07-27T17:40:11Z",
         "content": "Egipto venció este sábado a Uzbekistán por 0-1 en la segunda jornada de la fase de grupos masculina de fútbol olímpico, gracias a un gol del centrocampista Ahmed Kouka en el minuto 11, en un resultad… [+533 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
     },
     {
         "source": {
@@ -1249,19 +1249,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Rocío Muñoz-Ledo",
-        "title": "Cuál es el orden de los países para desfilar en la inauguración de los Juegos Olímpicos de París 2024",
-        "description": "Por primera vez el Desfile de Naciones no se realizará en un estadio, sino sobre las aguas del río Sena. Las delegaciones olímpicas recorrerán los lugares más emblemáticos de la capital francesa a bordo de embarcaciones durante la inauguración. Este es el ord…",
-        "url": "https://cnnespanol.cnn.com/2024/07/25/orden-paises-desfilar-inauguracion-juegos-olimpicos-paris-2024-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/orden-desfile-inauguracion-paris-2024-olimpicos-e1721917120341.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-25T14:23:32Z",
-        "content": "Momentos memorables de las ceremonias de inauguración 3:15\r\n(CNN Español) -- La ceremonia de inauguración de los Juegos Olímpicos de París 2024 tendrá varias primicias. La que probablemente llama más… [+5772 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Formulatv.com"
         },
@@ -1272,6 +1259,19 @@
         "urlToImage": "https://www.formulatv.com/images/articulos/129000/129406_GYt9x43Jeq1HP7gcFs0Ra2ozmUivBE8LW-hog.jpg",
         "publishedAt": "2024-07-29T08:04:00Z",
         "content": "El deporte reina a lo largo del sábado 27 de julio. Una vez superada la ceremonia de apertura de los Juegos Olímpicos, la cita parisina demuestra su atractivo al posicionar seis de sus retransmisione… [+1758 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Rocío Muñoz-Ledo",
+        "title": "Cuál es el orden de los países para desfilar en la inauguración de los Juegos Olímpicos de París 2024",
+        "description": "Por primera vez el Desfile de Naciones no se realizará en un estadio, sino sobre las aguas del río Sena. Las delegaciones olímpicas recorrerán los lugares más emblemáticos de la capital francesa a bordo de embarcaciones durante la inauguración. Este es el ord…",
+        "url": "https://cnnespanol.cnn.com/2024/07/25/orden-paises-desfilar-inauguracion-juegos-olimpicos-paris-2024-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/orden-desfile-inauguracion-paris-2024-olimpicos-e1721917120341.jpg?quality=100&strip=info",
+        "publishedAt": "2024-07-25T14:23:32Z",
+        "content": "Momentos memorables de las ceremonias de inauguración 3:15\r\n(CNN Español) -- La ceremonia de inauguración de los Juegos Olímpicos de París 2024 tendrá varias primicias. La que probablemente llama más… [+5772 chars]"
     },
     {
         "source": {
@@ -1289,14 +1289,14 @@
     {
         "source": {
             "id": null,
-            "name": "Huffingtonpost.es"
+            "name": "Libertaddigital.com"
         },
-        "author": "Redacción HuffPost / Agencias",
-        "title": "Un muerto y estatuas de Chávez derribadas: así están las cosas en Venezuela",
-        "description": "<![CDATA[<p>Las últimas horas han sido muy tensas en Venezuela. Las fuerzas de seguridad han disparado gases lacrimógenos y balas de goma contra personas que protestaban por el controvertido resultado de las elecciones del domingo. Miles de ciudadanos llegaro…",
-        "url": "https://www.huffingtonpost.es/global/un-muerto-estatuas-chavez-derribadas-asi-cosas-venezuela.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/30/una-de-las-estatuas-de-hugo-chavez-atacada-por-un-manifestante.jpeg",
-        "publishedAt": "2024-07-30T08:22:11Z",
-        "content": "Las últimas horas han sido muy tensas en Venezuela. Las fuerzas de seguridad han disparado gases lacrimógenos y balas de goma contra personas que protestaban por el controvertido resultado de las ele… [+4873 chars]"
+        "author": "M. A. P.",
+        "title": "La acusación del caso Begoña Gómez pide al juez los vuelos oficiales a República Dominicana con Sánchez en la Moncloa",
+        "description": "La asociación Hazte Oír, personada como acusación popular, presenta una tercera ampliación de querella a la que ha tenido acceso Libertad Digital.",
+        "url": "https://www.libertaddigital.com/espana/2024-08-06/acusacion-begona-gomez-pide-juez-vuelos-oficiales-republica-dominicana-sanchez-moncloa-7153628/",
+        "urlToImage": "https://s.libertaddigital.com/2024/03/15/1200/627/947x447/ld/presidente-gobierno-funciones-pedro-sanchez-junto-mujer-begona-gomez.jpg",
+        "publishedAt": "2024-08-06T17:55:03Z",
+        "content": "La asociación Hazte Oír, personada como acusación popular en el caso de la esposa del presidente del Gobierno Begoña Gómez, ha solicitado toda la información sobre los vuelos oficiales efectuados a l… [+5096 chars]"
     }
 ]
