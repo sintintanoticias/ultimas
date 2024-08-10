@@ -261,19 +261,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Trendencias.com"
-        },
-        "author": "Pablo Naranjo",
-        "title": "Álvaro Muñoz Escassi y Raquel Bernal: la única esposa del jinete que no abrirá la boca",
-        "description": "De sobra es conocida la fama de \"mujeriego\" que arrastra Álvaro Muñoz Escassi desde hace décadas. Sin embargo, muchos pensaban que por fin había sentado cabeza a la vera de María José Suárez. Pero quien tuvo, retuvo. Y es que después de que se hiciera pública…",
-        "url": "https://www.trendencias.com/celebrities/alvaro-munoz-escassi-raquel-bernal-unica-esposa-jinete-que-no-abrira-boca",
-        "urlToImage": "https://i.blogs.es/0f7db8/sin-titulo---2024-07-08t121415.679/840_560.jpeg",
-        "publishedAt": "2024-07-08T11:03:21Z",
-        "content": "De sobra es conocida la fama de \"mujeriego\" que arrastra Álvaro Muñoz Escassi desde hace décadas. Sin embargo, muchos pensaban que por fin había sentado cabeza a la vera de María José Suárez. Pero qu… [+2524 chars]"
-    },
-    {
-        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -1146,6 +1133,19 @@
     {
         "source": {
             "id": null,
+            "name": "Marketingdirecto.com"
+        },
+        "author": "Redacción",
+        "title": "Nuevo plazo para confirmar la inscripción con descuentos en El Ojo 2024",
+        "description": "El Ojo permite un descuento especial del 40% por adquisición anticipada hasta el 31 de agosto.\nLa entrada Nuevo plazo para confirmar la inscripción con descuentos en El Ojo 2024 se publicó primero en Marketing Directo.",
+        "url": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/el-ojo-nuevos-plazos-inscripcion-descuentos",
+        "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2024/08/Diseno-sin-titulo-60.jpg",
+        "publishedAt": "2024-08-09T08:15:55Z",
+        "content": "El Ojo permite un descuento especial del 40% por adquisición anticipada hasta el 31 de agosto.El Ojo anuncia un nuevo plazo para participar hasta 31 de agosto. Se podrá inscribir con el beneficio de … [+5076 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "[Removed]"
         },
         "author": null,
@@ -1249,19 +1249,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Rocío Muñoz-Ledo",
-        "title": "Cuál es el orden de los países para desfilar en la inauguración de los Juegos Olímpicos de París 2024",
-        "description": "Por primera vez el Desfile de Naciones no se realizará en un estadio, sino sobre las aguas del río Sena. Las delegaciones olímpicas recorrerán los lugares más emblemáticos de la capital francesa a bordo de embarcaciones durante la inauguración. Este es el ord…",
-        "url": "https://cnnespanol.cnn.com/2024/07/25/orden-paises-desfilar-inauguracion-juegos-olimpicos-paris-2024-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/orden-desfile-inauguracion-paris-2024-olimpicos-e1721917120341.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-25T14:23:32Z",
-        "content": "Momentos memorables de las ceremonias de inauguración 3:15\r\n(CNN Español) -- La ceremonia de inauguración de los Juegos Olímpicos de París 2024 tendrá varias primicias. La que probablemente llama más… [+5772 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Formulatv.com"
         },
@@ -1272,6 +1259,19 @@
         "urlToImage": "https://www.formulatv.com/images/articulos/129000/129406_GYt9x43Jeq1HP7gcFs0Ra2ozmUivBE8LW-hog.jpg",
         "publishedAt": "2024-07-29T08:04:00Z",
         "content": "El deporte reina a lo largo del sábado 27 de julio. Una vez superada la ceremonia de apertura de los Juegos Olímpicos, la cita parisina demuestra su atractivo al posicionar seis de sus retransmisione… [+1758 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Rocío Muñoz-Ledo",
+        "title": "Cuál es el orden de los países para desfilar en la inauguración de los Juegos Olímpicos de París 2024",
+        "description": "Por primera vez el Desfile de Naciones no se realizará en un estadio, sino sobre las aguas del río Sena. Las delegaciones olímpicas recorrerán los lugares más emblemáticos de la capital francesa a bordo de embarcaciones durante la inauguración. Este es el ord…",
+        "url": "https://cnnespanol.cnn.com/2024/07/25/orden-paises-desfilar-inauguracion-juegos-olimpicos-paris-2024-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/orden-desfile-inauguracion-paris-2024-olimpicos-e1721917120341.jpg?quality=100&strip=info",
+        "publishedAt": "2024-07-25T14:23:32Z",
+        "content": "Momentos memorables de las ceremonias de inauguración 3:15\r\n(CNN Español) -- La ceremonia de inauguración de los Juegos Olímpicos de París 2024 tendrá varias primicias. La que probablemente llama más… [+5772 chars]"
     },
     {
         "source": {
