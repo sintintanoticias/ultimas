@@ -950,19 +950,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Karen Esquivel",
-        "title": "¿Cómo afecta la crisis diplomática de varios países con Venezuela a las personas que tienen que hacer trámites?",
-        "description": "Los venezolanos en el extranjero han sido los principales afectados por la salida de personal diplomático de las misiones consulares en siete países de América Latina.\nThe post ¿Cómo afecta la crisis diplomática de varios países con Venezuela a las personas q…",
-        "url": "https://cnnespanol.cnn.com/2024/08/06/como-afecta-la-crisis-diplomatica-paises-venezuela-personas-tramites-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2017/02/venezuelan-passport.png",
-        "publishedAt": "2024-08-06T19:42:51Z",
-        "content": "Washington Post dice que González ganó las elecciones de Venezuela 2:00\r\n(CNN Español) La crisis diplomática en la que se encuentra Venezuela luego de las elecciones presidenciales ha dejado en un li… [+3455 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -973,6 +960,19 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/original/66a7bf9de9ff7122b5341785.jpg",
         "publishedAt": "2024-07-29T16:13:17Z",
         "content": "Los gobiernos de Argentina, Costa Rica, Ecuador, Guatemala, Panamá, Paraguay, Perú, República Dominicana y Uruguay solicitarán una reunión urgente del Consejo Permanente de la Organización de Estados… [+467 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Karen Esquivel",
+        "title": "¿Cómo afecta la crisis diplomática de varios países con Venezuela a las personas que tienen que hacer trámites?",
+        "description": "Los venezolanos en el extranjero han sido los principales afectados por la salida de personal diplomático de las misiones consulares en siete países de América Latina.\nThe post ¿Cómo afecta la crisis diplomática de varios países con Venezuela a las personas q…",
+        "url": "https://cnnespanol.cnn.com/2024/08/06/como-afecta-la-crisis-diplomatica-paises-venezuela-personas-tramites-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2017/02/venezuelan-passport.png",
+        "publishedAt": "2024-08-06T19:42:51Z",
+        "content": "Washington Post dice que González ganó las elecciones de Venezuela 2:00\r\n(CNN Español) La crisis diplomática en la que se encuentra Venezuela luego de las elecciones presidenciales ha dejado en un li… [+3455 chars]"
     },
     {
         "source": {
