@@ -144,19 +144,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Germán Padinger",
-        "title": "El jugador de la MLB Wander Franco es acusado formalmente de explotación sexual y comercial de una menor en República Dominicana",
-        "description": "El jugador de los Tampa Bay Rays, Wander Franco, ha sido acusado formalmente de explotación sexual y comercial de un menor en la República Dominicana, informó el lunes el Ministerio Público del país en un comunicado.\nThe post El jugador de la MLB Wander Franc…",
-        "url": "https://cnnespanol.cnn.com/2024/07/10/wander-franco-acusado-explotacion-sexual-comercial-menor-republica-dominicana-trax/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/01/230822160802-wander-franco-040823-full-169.jpeg?quality=100&strip=info",
-        "publishedAt": "2024-07-10T11:24:38Z",
-        "content": "Las medidas de restricción judicial que recibió Wander Franco 1:26\r\n(CNN) -- El jugador de los Tampa Bay Rays Wander Franco ha sido acusado formalmente de explotación sexual y comercial de un menor e… [+946 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Genbeta.com"
         },
@@ -898,19 +885,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "User Admin",
-        "title": "El Valencia hace oficial el fichaje de Jean Montero",
-        "description": "El exterior Jean Montero, internacional absoluto con República Dominicana, es el nuevo jugador del Valencia Basket para las próximas tres temporadas después de haber abonado su cláusula de salida al MoraBanc Andorra, según confirmó este martes el club de la F…",
-        "url": "https://www.mundodeportivo.com/baloncesto/acb/20240709/1002279044/valencia-oficial-fichaje-jean-montero.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/04/28/662e98d61d1c6.r_d.2862-1883-0.jpeg",
-        "publishedAt": "2024-07-09T17:16:19Z",
-        "content": "El exterior Jean Montero, internacional absoluto con República Dominicana, es el nuevo jugador del Valencia Basket para las próximas tres temporadas después de haber abonado su cláusula de salida al … [+1786 chars]"
-    },
-    {
-        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -1298,5 +1272,31 @@
         "urlToImage": "https://www.formulatv.com/images/articulos/129000/129406_GYt9x43Jeq1HP7gcFs0Ra2ozmUivBE8LW-hog.jpg",
         "publishedAt": "2024-07-29T08:04:00Z",
         "content": "El deporte reina a lo largo del sábado 27 de julio. Una vez superada la ceremonia de apertura de los Juegos Olímpicos, la cita parisina demuestra su atractivo al posicionar seis de sus retransmisione… [+1758 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "M. A. P.",
+        "title": "La acusación del caso Begoña Gómez pide al juez los vuelos oficiales a República Dominicana con Sánchez en la Moncloa",
+        "description": "La asociación Hazte Oír, personada como acusación popular, presenta una tercera ampliación de querella a la que ha tenido acceso Libertad Digital.",
+        "url": "https://www.libertaddigital.com/espana/2024-08-06/acusacion-begona-gomez-pide-juez-vuelos-oficiales-republica-dominicana-sanchez-moncloa-7153628/",
+        "urlToImage": "https://s.libertaddigital.com/2024/03/15/1200/627/947x447/ld/presidente-gobierno-funciones-pedro-sanchez-junto-mujer-begona-gomez.jpg",
+        "publishedAt": "2024-08-06T17:55:03Z",
+        "content": "La asociación Hazte Oír, personada como acusación popular en el caso de la esposa del presidente del Gobierno Begoña Gómez, ha solicitado toda la información sobre los vuelos oficiales efectuados a l… [+5096 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "EN VIVO: Daniel Ortega celebra el 45.º aniversario de la Revolución Sandinista",
+        "description": "La vicepresidenta Rosario Murillo anunció la llegada de más de 550 delegados de diversos países.",
+        "url": "https://actualidad.rt.com/actualidad/516649-daniel-ortega-aniversario-revolucion-sandinista-nicaragua",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/669a9705e9ff7118ce45f5a5.jpg",
+        "publishedAt": "2024-07-20T04:15:07Z",
+        "content": "El presidente de Nicaragua, Daniel Ortega, ofrece un discurso este viernes por la celebración del 45.º aniversario de la Revolución Popular Sandinista en el país centroamericano.\r\n\"Aquí no se rinde n… [+1389 chars]"
     }
 ]
