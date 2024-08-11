@@ -1198,19 +1198,6 @@
     {
         "source": {
             "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "EFE EFE",
@@ -1220,6 +1207,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a530b3ac474.r_d.3451-1699-3099.jpeg",
         "publishedAt": "2024-07-27T17:40:11Z",
         "content": "Egipto venció este sábado a Uzbekistán por 0-1 en la segunda jornada de la fase de grupos masculina de fútbol olímpico, gracias a un gol del centrocampista Ahmed Kouka en el minuto 11, en un resultad… [+533 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
     },
     {
         "source": {
@@ -1275,19 +1275,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "M. A. P.",
-        "title": "La acusación del caso Begoña Gómez pide al juez los vuelos oficiales a República Dominicana con Sánchez en la Moncloa",
-        "description": "La asociación Hazte Oír, personada como acusación popular, presenta una tercera ampliación de querella a la que ha tenido acceso Libertad Digital.",
-        "url": "https://www.libertaddigital.com/espana/2024-08-06/acusacion-begona-gomez-pide-juez-vuelos-oficiales-republica-dominicana-sanchez-moncloa-7153628/",
-        "urlToImage": "https://s.libertaddigital.com/2024/03/15/1200/627/947x447/ld/presidente-gobierno-funciones-pedro-sanchez-junto-mujer-begona-gomez.jpg",
-        "publishedAt": "2024-08-06T17:55:03Z",
-        "content": "La asociación Hazte Oír, personada como acusación popular en el caso de la esposa del presidente del Gobierno Begoña Gómez, ha solicitado toda la información sobre los vuelos oficiales efectuados a l… [+5096 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/669a9705e9ff7118ce45f5a5.jpg",
         "publishedAt": "2024-07-20T04:15:07Z",
         "content": "El presidente de Nicaragua, Daniel Ortega, ofrece un discurso este viernes por la celebración del 45.º aniversario de la Revolución Popular Sandinista en el país centroamericano.\r\n\"Aquí no se rinde n… [+1389 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "M. A. P.",
+        "title": "La acusación del caso Begoña Gómez pide al juez los vuelos oficiales a República Dominicana con Sánchez en la Moncloa",
+        "description": "La asociación Hazte Oír, personada como acusación popular, presenta una tercera ampliación de querella a la que ha tenido acceso Libertad Digital.",
+        "url": "https://www.libertaddigital.com/espana/2024-08-06/acusacion-begona-gomez-pide-juez-vuelos-oficiales-republica-dominicana-sanchez-moncloa-7153628/",
+        "urlToImage": "https://s.libertaddigital.com/2024/03/15/1200/627/947x447/ld/presidente-gobierno-funciones-pedro-sanchez-junto-mujer-begona-gomez.jpg",
+        "publishedAt": "2024-08-06T17:55:03Z",
+        "content": "La asociación Hazte Oír, personada como acusación popular en el caso de la esposa del presidente del Gobierno Begoña Gómez, ha solicitado toda la información sobre los vuelos oficiales efectuados a l… [+5096 chars]"
     }
 ]
