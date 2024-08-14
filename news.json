@@ -105,6 +105,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "España asume intereses internacionales de República Dominicana en Venezuela",
+        "description": "España asume los intereses internacionales de República Dominicana a partir del lunes, anunció este martes el ministro de Asuntos Exteriores, José Manuel Albares, tras la decisión de Nicolás Maduro de expulsar al personal diplomático dominicano de Caracas.\nTh…",
+        "url": "https://cnnespanol.cnn.com/2024/08/13/espana-intereses-republica-dominicana-en-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2165164516_16e685.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-13T16:25:47Z",
+        "content": "Nicolás Maduro pide un artículo legal para regular las redes sociales en Venezuela 3:38\r\n(CNN Español) -- España asume los intereses internacionales de República Dominicana a partir del lunes, anunci… [+1793 chars]"
+    },
+    {
+        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.formulatv.com/images/articulos/129000/129406_GYt9x43Jeq1HP7gcFs0Ra2ozmUivBE8LW-hog.jpg",
         "publishedAt": "2024-07-29T08:04:00Z",
         "content": "El deporte reina a lo largo del sábado 27 de julio. Una vez superada la ceremonia de apertura de los Juegos Olímpicos, la cita parisina demuestra su atractivo al posicionar seis de sus retransmisione… [+1758 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "EN VIVO: Daniel Ortega celebra el 45.º aniversario de la Revolución Sandinista",
-        "description": "La vicepresidenta Rosario Murillo anunció la llegada de más de 550 delegados de diversos países.",
-        "url": "https://actualidad.rt.com/actualidad/516649-daniel-ortega-aniversario-revolucion-sandinista-nicaragua",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/669a9705e9ff7118ce45f5a5.jpg",
-        "publishedAt": "2024-07-20T04:15:07Z",
-        "content": "El presidente de Nicaragua, Daniel Ortega, ofrece un discurso este viernes por la celebración del 45.º aniversario de la Revolución Popular Sandinista en el país centroamericano.\r\n\"Aquí no se rinde n… [+1389 chars]"
     }
 ]
