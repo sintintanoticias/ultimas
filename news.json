@@ -144,19 +144,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Genbeta.com"
-        },
-        "author": "José Alberto Lizana",
-        "title": "La Velada del Año 4 de Ibai: cómo verla en directo, horarios, combates y artistas",
-        "description": "Uno de los eventos del año en el mundo de internet ya lo tenemos aquí. Hoy, sábado 13 de julio se celebra La Velada del Año 4, el macro evento del creador de contenidos Ibai Llanos que reúne a numerosos influencers para que literalmente se suban a un ring de …",
-        "url": "https://www.genbeta.com/a-fondo/velada-ano-4-ibai-como-verla-directo-horarios-combates-artistas",
-        "urlToImage": "https://i.blogs.es/1c68a9/840_560-4/840_560.jpeg",
-        "publishedAt": "2024-07-13T13:30:17Z",
-        "content": "Uno de los eventos del año en el mundo de internet ya lo tenemos aquí. Hoy, sábado 13 de julio se celebra La Velada del Año 4, el macro evento del creador de contenidos Ibai Llanos que reúne a numero… [+5264 chars]"
-    },
-    {
-        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -798,12 +785,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "Aimar Oroz, el pelotero que gana a las cartas",
-        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
-        "publishedAt": "2024-07-30T05:02:43Z",
-        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
+        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
+        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
+        "publishedAt": "2024-08-07T05:24:51Z",
+        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
     },
     {
         "source": {
@@ -811,12 +798,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
-        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
-        "publishedAt": "2024-08-07T05:24:51Z",
-        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
+        "title": "Aimar Oroz, el pelotero que gana a las cartas",
+        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
+        "publishedAt": "2024-07-30T05:02:43Z",
+        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
     },
     {
         "source": {
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://www.formulatv.com/images/articulos/129000/129406_GYt9x43Jeq1HP7gcFs0Ra2ozmUivBE8LW-hog.jpg",
         "publishedAt": "2024-07-29T08:04:00Z",
         "content": "El deporte reina a lo largo del sábado 27 de julio. Una vez superada la ceremonia de apertura de los Juegos Olímpicos, la cita parisina demuestra su atractivo al posicionar seis de sus retransmisione… [+1758 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "EN VIVO: Daniel Ortega celebra el 45.º aniversario de la Revolución Sandinista",
+        "description": "La vicepresidenta Rosario Murillo anunció la llegada de más de 550 delegados de diversos países.",
+        "url": "https://actualidad.rt.com/actualidad/516649-daniel-ortega-aniversario-revolucion-sandinista-nicaragua",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/669a9705e9ff7118ce45f5a5.jpg",
+        "publishedAt": "2024-07-20T04:15:07Z",
+        "content": "El presidente de Nicaragua, Daniel Ortega, ofrece un discurso este viernes por la celebración del 45.º aniversario de la Revolución Popular Sandinista en el país centroamericano.\r\n\"Aquí no se rinde n… [+1389 chars]"
     }
 ]
