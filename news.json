@@ -1016,15 +1016,15 @@
     {
         "source": {
             "id": null,
-            "name": "Aristeguinoticias.com"
+            "name": "Nacion.com"
         },
-        "author": "Redacción AN / JOF",
-        "title": "Incautan en aduana de Veracruz 7 toneladas de marihuana que iban a Dominicana",
-        "description": "Un cargamento de puertas de madera de pino llevaba oculto dentro de los marcos más de 3 mil tabiques de marihuana elaborados con playo y cinta canela. No hay detenidos.",
-        "url": "https://aristeguinoticias.com/2207/mexico/incautan-en-aduana-de-veracruz-7-toneladas-de-marihuana-que-iban-a-dominicana/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/07/Puertas-Marihuana-Dominicana.jpg",
-        "publishedAt": "2024-07-22T20:21:27Z",
-        "content": "Una nueva ruta del narcotráfico fue descubierta este sábado 20 de julio por personal de la Agencia Nacional de Aduanas de México (Anam) tras localizar un cargamento de casi siete toneladas de marihua… [+2084 chars]"
+        "author": "AFP",
+        "title": "Luis Abinader asume segundo mandato como presidente de República Dominicana",
+        "description": "Luis Abinader inicia su segundo mandato en República Dominicana enfrentando la crisis haitiana y reformando la economía.",
+        "url": "https://www.nacion.com/el-mundo/politica/luis-abinader-asume-segundo-mandato-como/ACPFZCWHWRAYZJRCZUBQDHKKTI/story/",
+        "urlToImage": "https://www.nacion.com/resizer/v2/T7E36QZO4VHAHERXKPQHVCP7MA.jpg?smart=true&auth=6e13e7c7c152c1b04c9fa21494b14519d1ee219e47ccea67a30a5f7fa19aa34f&width=1440",
+        "publishedAt": "2024-08-16T18:22:13Z",
+        "content": "Santo Domingo. El presidente de la República Dominicana, Luis Abinader, asumió este viernes su segundo mandato para el período 2024-2028. Su principal desafío será la crisis haitiana y el crecimiento… [+1981 chars]"
     },
     {
         "source": {
@@ -1038,6 +1038,19 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/26/el-judoka-espanol-francisco-garrigos.jpeg",
         "publishedAt": "2024-07-27T04:00:00Z",
         "content": "Con la resaca de la ceremonia de inauguración de los Juegos Olímpicos de París 2024 de ayer viernes, hoy sábado 27 de julio, España se enfrenta a una jornada cargada de pruebas en la capital francesa… [+2422 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aristeguinoticias.com"
+        },
+        "author": "Redacción AN / JOF",
+        "title": "Incautan en aduana de Veracruz 7 toneladas de marihuana que iban a Dominicana",
+        "description": "Un cargamento de puertas de madera de pino llevaba oculto dentro de los marcos más de 3 mil tabiques de marihuana elaborados con playo y cinta canela. No hay detenidos.",
+        "url": "https://aristeguinoticias.com/2207/mexico/incautan-en-aduana-de-veracruz-7-toneladas-de-marihuana-que-iban-a-dominicana/",
+        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/07/Puertas-Marihuana-Dominicana.jpg",
+        "publishedAt": "2024-07-22T20:21:27Z",
+        "content": "Una nueva ruta del narcotráfico fue descubierta este sábado 20 de julio por personal de la Agencia Nacional de Aduanas de México (Anam) tras localizar un cargamento de casi siete toneladas de marihua… [+2084 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.formulatv.com/images/articulos/129000/129406_GYt9x43Jeq1HP7gcFs0Ra2ozmUivBE8LW-hog.jpg",
         "publishedAt": "2024-07-29T08:04:00Z",
         "content": "El deporte reina a lo largo del sábado 27 de julio. Una vez superada la ceremonia de apertura de los Juegos Olímpicos, la cita parisina demuestra su atractivo al posicionar seis de sus retransmisione… [+1758 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Rocío Muñoz-Ledo",
-        "title": "Cuál es el orden de los países para desfilar en la inauguración de los Juegos Olímpicos de París 2024",
-        "description": "Por primera vez el Desfile de Naciones no se realizará en un estadio, sino sobre las aguas del río Sena. Las delegaciones olímpicas recorrerán los lugares más emblemáticos de la capital francesa a bordo de embarcaciones durante la inauguración. Este es el ord…",
-        "url": "https://cnnespanol.cnn.com/2024/07/25/orden-paises-desfilar-inauguracion-juegos-olimpicos-paris-2024-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/orden-desfile-inauguracion-paris-2024-olimpicos-e1721917120341.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-25T14:23:32Z",
-        "content": "Momentos memorables de las ceremonias de inauguración 3:15\r\n(CNN Español) -- La ceremonia de inauguración de los Juegos Olímpicos de París 2024 tendrá varias primicias. La que probablemente llama más… [+5772 chars]"
     }
 ]
