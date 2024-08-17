@@ -121,6 +121,19 @@
             "id": "cnn",
             "name": "CNN"
         },
+        "author": "Ángela Reyes Haczek",
+        "title": "Abinader asume su segundo período como presidente de República Dominicana",
+        "description": "Luis Abinader, presidente de República Dominicana, juró este viernes su segundo mandato y reiteró que presentará una reforma en el Congreso, donde su partido tiene mayoría, para prohibir la reelección por más de dos períodos.\nThe post Abinader asume su segund…",
+        "url": "https://cnnespanol.cnn.com/2024/08/16/abinader-asume-presidente-republica-dominicana-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2166309494-e1723833245426.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-16T18:35:08Z",
+        "content": "Seré el presidente de todos, dice Abinader tras su juramentación 3:13\r\n(CNN Español) -- Luis Abinader, presidente de República Dominicana, juró este viernes su segundo mandato y reiteró que presentar… [+1642 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "España asume intereses internacionales de República Dominicana en Venezuela",
         "description": "España asume los intereses internacionales de República Dominicana a partir del lunes, anunció este martes el ministro de Asuntos Exteriores, José Manuel Albares, tras la decisión de Nicolás Maduro de expulsar al personal diplomático dominicano de Caracas.\nTh…",
@@ -391,6 +404,19 @@
     },
     {
         "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Daniel Lozano",
+        "title": "EEUU y España encabezan un comunicado que reclama la verificación internacional de los resultados y el cese de la represión en Venezuela",
+        "description": "Estados Unidos, España, Argentina y Chile, entre oros países, una veintena en total, han firmado un comunicado conjunto entre Europa y las Américas para pedir el cese inmediato...",
+        "url": "https://www.elmundo.es/internacional/2024/08/16/66bfa0ede85ecea5768b45ac.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/abb180e345a6c09ee8a240a83e6bd03d/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/16/17238346360837.jpg",
+        "publishedAt": "2024-08-16T19:03:21Z",
+        "content": "Estados Unidos, España, Argentina y Chile, entre oros países, una veintena en total, han firmado un comunicado conjunto entre Europa y las Américas para pedir el cese inmediato de la represión en Ven… [+2762 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "La Vanguardia"
         },
@@ -459,19 +485,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Jaume Miserachs Teixidor",
-        "title": "República Dominicana se queda con 10 y Cubarsí se pierde el próximo partido",
-        "description": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra España, correspondiente a la segunda jornada de la fase de grup…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002288440/republica-dominicana-queda-10-cubarsi-pierde-proximo-partido.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4fcefaa350.r_d.2423-1480-2468.jpeg",
-        "publishedAt": "2024-07-27T13:53:51Z",
-        "content": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra Esp… [+739 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "Helena Celma Pérez",
         "title": "República Dominicana - España, en directo | Sigue en vivo el partido de los JJOO de París 2024",
         "description": "Sigue en vivo, minuto a minuto, el partido correspondiente a la jornada 2, que enfrenta a República Dominicana y España, en la categoría Sub-23, en el Stade Matmut-Atlantique.",
@@ -479,6 +492,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4e12b4ef90.r_d.974-369-0.jpeg",
         "publishedAt": "2024-07-27T12:55:54Z",
         "content": "| España ultima la preparación contra República Dominicana en el estadio Chaban DelmasLa selección española llevó a cabo este viernes su último entrenamiento de preparación, en el estadio Chaban Delm… [+582 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Jaume Miserachs Teixidor",
+        "title": "República Dominicana se queda con 10 y Cubarsí se pierde el próximo partido",
+        "description": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra España, correspondiente a la segunda jornada de la fase de grup…",
+        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002288440/republica-dominicana-queda-10-cubarsi-pierde-proximo-partido.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4fcefaa350.r_d.2423-1480-2468.jpeg",
+        "publishedAt": "2024-07-27T13:53:51Z",
+        "content": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra Esp… [+739 chars]"
     },
     {
         "source": {
@@ -691,6 +717,19 @@
     {
         "source": {
             "id": null,
+            "name": "Eldiario.es"
+        },
+        "author": "EFE, elDiario.es",
+        "title": "La UE y 22 países piden la verificación imparcial de los resultados electorales de Venezuela",
+        "description": "Los diferentes países solicitan la \"inmediata publicación de todas las actas originales\" de las elecciones presidenciales venezolanas del 28 de julio y una verificación imparcial e independiente\r\nLula califica Venezuela como un “régimen muy desagradable” de “…",
+        "url": "https://www.eldiario.es/internacional/veintidos-paises-ue-piden-verificacion-imparcial-resultados-electorales-venezuela_1_11593743.html",
+        "urlToImage": "https://static.eldiario.es/clip/2cf5cbb9-fd32-49a1-92a1-d4d7c02c9bc3_facebook-watermarked-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-08-16T18:46:08Z",
+        "content": "Veintidós países y la Unión Europea solicitaron este viernes la “inmediata publicación de todas las actas originales” de las elecciones del 28 de julio en Venezuela y la verificación “imparcial” e “i… [+3310 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "EFE EFE",
@@ -785,12 +824,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
-        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
-        "publishedAt": "2024-08-07T05:24:51Z",
-        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
+        "title": "Aimar Oroz, el pelotero que gana a las cartas",
+        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
+        "publishedAt": "2024-07-30T05:02:43Z",
+        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
     },
     {
         "source": {
@@ -798,12 +837,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "Aimar Oroz, el pelotero que gana a las cartas",
-        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
-        "publishedAt": "2024-07-30T05:02:43Z",
-        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
+        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
+        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
+        "publishedAt": "2024-08-07T05:24:51Z",
+        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
     },
     {
         "source": {
@@ -1259,44 +1298,5 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a530b3ac474.r_d.3451-1699-3099.jpeg",
         "publishedAt": "2024-07-27T17:40:11Z",
         "content": "Egipto venció este sábado a Uzbekistán por 0-1 en la segunda jornada de la fase de grupos masculina de fútbol olímpico, gracias a un gol del centrocampista Ahmed Kouka en el minuto 11, en un resultad… [+533 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "José Luis Artús Tejero",
-        "title": "Impiden a un ex del Barça disputar los Juegos Olímpicos: \"Es una baja sensible\"",
-        "description": "El seleccionador dominicano de fútbol en los Juegos Olímpicos de París, el español Ibai Gómez, anunció  que el principal referente de la plantilla, Junior Firpo, no estará en la cita olímpica por decisión de su club, el Leeds United inglés, que lo quiere en s…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240724/1002286509/leeds-impide-ex-barca-disputar-juegos-olimpicos.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/16/669639ff9f1bc.r_d.2114-507-0.jpeg",
-        "publishedAt": "2024-07-24T05:41:52Z",
-        "content": "El seleccionador dominicano de fútbol en los Juegos Olímpicos de París, el español Ibai Gómez, anunció  que el principal referente de la plantilla, Junior Firpo, no estará en la cita olímpica por dec… [+1952 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Sergio Ruiz Martínez",
-        "title": "Horario y dónde ver por TV el Uzbekistán - España de los Juegos Olímpicos de París 2024",
-        "description": "La selección española de fútbol, dirigida por el seleccionador de la sub-21, Santi Denia, arranca su participación en la fase de grupos de estos Juegos Olímpicos de París contra la modesta Uzbekistán. Se trata de un partido clave para luchar por los dos bille…",
-        "url": "https://www.mundodeportivo.com/horarios/futbol/20240724/1002283039/horario-donde-ver-tv-espana-uzbekistan-juegos-olimpicos-paris-2024.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/03/21/65fc9cbc59c3e.r_d.1604-482-10035.jpeg",
-        "publishedAt": "2024-07-24T00:15:36Z",
-        "content": "La selección española de fútbol, dirigida por el seleccionador de la sub-21, Santi Denia, arranca su participación en la fase de grupos de estos Juegos Olímpicos de París contra la modesta Uzbekistán… [+2334 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Formulatv.com"
-        },
-        "author": "Redacción",
-        "title": "Los Juegos Olímpicos monopolizan el top 10 para aupar a Teledeporte a lo más alto",
-        "description": "AUDIENCIAS TDT 28 JULIO La cadena pública alcanza un gran 4,6% con el fútbol olímpico como principal estandarte.Los Juegos Olímpicos monopolizan el top 10 para aupar a Teledeporte a lo más alto",
-        "url": "https://www.formulatv.com/noticias/audiencias-tdt-28-julio-olimpicos-teledeporte-129406/",
-        "urlToImage": "https://www.formulatv.com/images/articulos/129000/129406_GYt9x43Jeq1HP7gcFs0Ra2ozmUivBE8LW-hog.jpg",
-        "publishedAt": "2024-07-29T08:04:00Z",
-        "content": "El deporte reina a lo largo del sábado 27 de julio. Una vez superada la ceremonia de apertura de los Juegos Olímpicos, la cita parisina demuestra su atractivo al posicionar seis de sus retransmisione… [+1758 chars]"
     }
 ]
