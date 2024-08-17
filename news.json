@@ -459,19 +459,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Helena Celma Pérez",
-        "title": "República Dominicana - España, en directo | Sigue en vivo el partido de los JJOO de París 2024",
-        "description": "Sigue en vivo, minuto a minuto, el partido correspondiente a la jornada 2, que enfrenta a República Dominicana y España, en la categoría Sub-23, en el Stade Matmut-Atlantique.",
-        "url": "https://www.mundodeportivo.com/futbol/20240727/1002288400/republica-dominicana-espana-el-partido-fase-grupos-futbol-hoy-en-directo-juegos-olimpicos-paris-ext-pau.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4e12b4ef90.r_d.974-369-0.jpeg",
-        "publishedAt": "2024-07-27T12:55:54Z",
-        "content": "| España ultima la preparación contra República Dominicana en el estadio Chaban DelmasLa selección española llevó a cabo este viernes su último entrenamiento de preparación, en el estadio Chaban Delm… [+582 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "Jaume Miserachs Teixidor",
         "title": "República Dominicana se queda con 10 y Cubarsí se pierde el próximo partido",
         "description": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra España, correspondiente a la segunda jornada de la fase de grup…",
@@ -479,6 +466,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4fcefaa350.r_d.2423-1480-2468.jpeg",
         "publishedAt": "2024-07-27T13:53:51Z",
         "content": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra Esp… [+739 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Helena Celma Pérez",
+        "title": "República Dominicana - España, en directo | Sigue en vivo el partido de los JJOO de París 2024",
+        "description": "Sigue en vivo, minuto a minuto, el partido correspondiente a la jornada 2, que enfrenta a República Dominicana y España, en la categoría Sub-23, en el Stade Matmut-Atlantique.",
+        "url": "https://www.mundodeportivo.com/futbol/20240727/1002288400/republica-dominicana-espana-el-partido-fase-grupos-futbol-hoy-en-directo-juegos-olimpicos-paris-ext-pau.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4e12b4ef90.r_d.974-369-0.jpeg",
+        "publishedAt": "2024-07-27T12:55:54Z",
+        "content": "| España ultima la preparación contra República Dominicana en el estadio Chaban DelmasLa selección española llevó a cabo este viernes su último entrenamiento de preparación, en el estadio Chaban Delm… [+582 chars]"
     },
     {
         "source": {
@@ -785,12 +785,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "Aimar Oroz, el pelotero que gana a las cartas",
-        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
-        "publishedAt": "2024-07-30T05:02:43Z",
-        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
+        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
+        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
+        "publishedAt": "2024-08-07T05:24:51Z",
+        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
     },
     {
         "source": {
@@ -798,12 +798,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
-        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
-        "publishedAt": "2024-08-07T05:24:51Z",
-        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
+        "title": "Aimar Oroz, el pelotero que gana a las cartas",
+        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
+        "publishedAt": "2024-07-30T05:02:43Z",
+        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
     },
     {
         "source": {
@@ -1094,6 +1094,19 @@
     {
         "source": {
             "id": null,
+            "name": "Publico.es"
+        },
+        "author": "Agencia Atlas",
+        "title": "Felipe VI viaja a República Dominicana para la toma de posesión del presidente Abinader",
+        "description": "El rey Felipe VI ya se encuentra en Santo Domingo para asistir a la toma de posesión del presidente electo de la República Dominicana Luis Abinader. Se trata de su segundo mandato de cuatro años. El rey está acompañado por la secretaria de Estado para Iberoam…",
+        "url": "https://www.publico.es/videos/1658785/felipe-vi-viaja-a-republica-dominicana-para-la-toma-de-posesion-del-presidente-abinader",
+        "urlToImage": "https://ficheracos.publico.es//images/thumbnails/2024/240816AGEWEB-16AG012HQ.jpg",
+        "publishedAt": "2024-08-16T07:00:07Z",
+        "content": "El rey Felipe VI ya se encuentra en Santo Domingo para asistir a la toma de posesión del presidente electo de la República Dominicana Luis Abinader. Se trata de su segundo mandato de cuatro años. El … [+425 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "Jaume Miserachs Teixidor",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/orden-desfile-inauguracion-paris-2024-olimpicos-e1721917120341.jpg?quality=100&strip=info",
         "publishedAt": "2024-07-25T14:23:32Z",
         "content": "Momentos memorables de las ceremonias de inauguración 3:15\r\n(CNN Español) -- La ceremonia de inauguración de los Juegos Olímpicos de París 2024 tendrá varias primicias. La que probablemente llama más… [+5772 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "EN VIVO: Daniel Ortega celebra el 45.º aniversario de la Revolución Sandinista",
-        "description": "La vicepresidenta Rosario Murillo anunció la llegada de más de 550 delegados de diversos países.",
-        "url": "https://actualidad.rt.com/actualidad/516649-daniel-ortega-aniversario-revolucion-sandinista-nicaragua",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/669a9705e9ff7118ce45f5a5.jpg",
-        "publishedAt": "2024-07-20T04:15:07Z",
-        "content": "El presidente de Nicaragua, Daniel Ortega, ofrece un discurso este viernes por la celebración del 45.º aniversario de la Revolución Popular Sandinista en el país centroamericano.\r\n\"Aquí no se rinde n… [+1389 chars]"
     }
 ]
