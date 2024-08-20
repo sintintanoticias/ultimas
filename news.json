@@ -798,12 +798,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
-        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
-        "publishedAt": "2024-08-07T05:24:51Z",
-        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
+        "title": "Aimar Oroz, el pelotero que gana a las cartas",
+        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
+        "publishedAt": "2024-07-30T05:02:43Z",
+        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
     },
     {
         "source": {
@@ -811,12 +811,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "Aimar Oroz, el pelotero que gana a las cartas",
-        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
-        "publishedAt": "2024-07-30T05:02:43Z",
-        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
+        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
+        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
+        "publishedAt": "2024-08-07T05:24:51Z",
+        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
     },
     {
         "source": {
@@ -882,6 +882,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/07/30/66a904ede879b.jpeg",
         "publishedAt": "2024-08-01T05:50:39Z",
         "content": "La selección española ya está en cuartos de final de París 2024, donde se medirá a la peligrosa Japón después de quedar como segunda clasificada del Grupo C. España logró sus victorias contra Uzbekis… [+2453 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Iván Ronda Cabrera",
+        "title": "Expulsan de la pista a uno de los 'juguetes rotos' del tenis cuando intentaba sabotear al rival que le eliminó",
+        "description": "Además del Masters 1000 de Cincinnati, en los últimas días se han jugado una serie de torneos Challenger con jugadores de nivel. Uno de ellos es el de Santo Domingo (República Dominicana), que coronó el domingo a Damir Dzumhur como campeón.",
+        "url": "https://www.mundodeportivo.com/tenis/20240819/1002300558/expulsan-pista-juguetes-rotos-tenis-intentaba-sabotear-rival-le-elimino.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/08/19/66c2f77479291.r_d.719-316-14118.jpeg",
+        "publishedAt": "2024-08-19T08:12:04Z",
+        "content": "Además del Masters 1000 de Cincinnati, en los últimas días se han jugado una serie de torneos Challenger con jugadores de nivel. Uno de ellos es el de Santo Domingo (República Dominicana), que coronó… [+1459 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/16/669639ff9f1bc.r_d.2114-507-0.jpeg",
         "publishedAt": "2024-07-24T05:41:52Z",
         "content": "El seleccionador dominicano de fútbol en los Juegos Olímpicos de París, el español Ibai Gómez, anunció  que el principal referente de la plantilla, Junior Firpo, no estará en la cita olímpica por dec… [+1952 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Sergio Ruiz Martínez",
-        "title": "Horario y dónde ver por TV el Uzbekistán - España de los Juegos Olímpicos de París 2024",
-        "description": "La selección española de fútbol, dirigida por el seleccionador de la sub-21, Santi Denia, arranca su participación en la fase de grupos de estos Juegos Olímpicos de París contra la modesta Uzbekistán. Se trata de un partido clave para luchar por los dos bille…",
-        "url": "https://www.mundodeportivo.com/horarios/futbol/20240724/1002283039/horario-donde-ver-tv-espana-uzbekistan-juegos-olimpicos-paris-2024.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/03/21/65fc9cbc59c3e.r_d.1604-482-10035.jpeg",
-        "publishedAt": "2024-07-24T00:15:36Z",
-        "content": "La selección española de fútbol, dirigida por el seleccionador de la sub-21, Santi Denia, arranca su participación en la fase de grupos de estos Juegos Olímpicos de París contra la modesta Uzbekistán… [+2334 chars]"
     }
 ]
