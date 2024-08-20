@@ -183,6 +183,19 @@
     },
     {
         "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Eduardo Álvarez",
+        "title": "La extraña polémica por el traje del Rey Felipe VI en la toma de posesión del presidente dominicano",
+        "description": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el...",
+        "url": "https://www.elmundo.es/internacional/2024/08/19/66c3085321efa0290c8b4580.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/12f024808461ecc48a26fabf88f9f855/f/webp/assets/multimedia/imagenes/2024/08/19/17240576028077.jpg",
+        "publishedAt": "2024-08-19T09:09:39Z",
+        "content": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el pasado viernes cuando asis… [+6304 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a530b3ac474.r_d.3451-1699-3099.jpeg",
         "publishedAt": "2024-07-27T17:40:11Z",
         "content": "Egipto venció este sábado a Uzbekistán por 0-1 en la segunda jornada de la fase de grupos masculina de fútbol olímpico, gracias a un gol del centrocampista Ahmed Kouka en el minuto 11, en un resultad… [+533 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "José Luis Artús Tejero",
-        "title": "Impiden a un ex del Barça disputar los Juegos Olímpicos: \"Es una baja sensible\"",
-        "description": "El seleccionador dominicano de fútbol en los Juegos Olímpicos de París, el español Ibai Gómez, anunció  que el principal referente de la plantilla, Junior Firpo, no estará en la cita olímpica por decisión de su club, el Leeds United inglés, que lo quiere en s…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240724/1002286509/leeds-impide-ex-barca-disputar-juegos-olimpicos.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/16/669639ff9f1bc.r_d.2114-507-0.jpeg",
-        "publishedAt": "2024-07-24T05:41:52Z",
-        "content": "El seleccionador dominicano de fútbol en los Juegos Olímpicos de París, el español Ibai Gómez, anunció  que el principal referente de la plantilla, Junior Firpo, no estará en la cita olímpica por dec… [+1952 chars]"
     }
 ]
