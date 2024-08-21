@@ -183,6 +183,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Eldiario.es"
+        },
+        "author": "Pol Pareja",
+        "title": "República Dominicana acuerda extraditar a España al líder de la estafa piramidal del cannabis Juicy Fields",
+        "description": "El ciudadano ruso Sergey Berezin, presunto cabecilla del fraude, fue detenido en abril en el marco de una gran operación internacional mientras vivía en el país caribeño bajo una identidad falsa\r\nHemeroteca - Una gran operación internacional contra la estafa …",
+        "url": "https://www.eldiario.es/catalunya/republica-dominicana-acuerda-extraditar-espana-lider-estafa-piramidal-cannabis_1_11599266.html",
+        "urlToImage": "https://static.eldiario.es/clip/c5d97b27-d550-4e8d-88e8-14069fbd94c3_facebook-watermarked-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-08-20T19:51:01Z",
+        "content": "El ciudadano ruso Sergey Berezin, que se ocultó en República Dominicana bajo la identidad falsa de Paul Bergholtz, será extraditado a España acusado de liderar la estafa piramidal de inversión en can… [+5392 chars]"
+    },
+    {
+        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.adslzone.net/app/uploads-adslzone.net/2024/07/Bandera-espana-portero-saltando.jpg",
         "publishedAt": "2024-07-23T05:00:32Z",
         "content": "El equipo de fútbol que representará a España en los Juegos Olímpicos también apunta alto. Hay 16 selecciones en la competición y todas quieren una medalla, pero solo tres la conseguirán. Además de E… [+3390 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
     }
 ]
