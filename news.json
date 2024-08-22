@@ -963,19 +963,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Sol Amaya",
-        "title": "Centro Carter cancela publicación de informe preliminar en Venezuela y retira su personal del país",
-        "description": "El Centro Carter, una de las pocas instituciones independientes autorizadas a monitorear las elecciones venezolanas, canceló la publicación de un informe preliminar programada para el martes por la mañana y está retirando a todo su personal del país, según un…",
-        "url": "https://cnnespanol.cnn.com/2024/07/30/centro-carter-cancela-informe-se-retira-de-venezuela-trax/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2163831996_d7b4a0.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-30T12:32:59Z",
-        "content": "Escepticismo en el mundo por las elecciones en Venezuela 1:21\r\n(CNN) -- El Centro Carter, una de las pocas instituciones independientes autorizadas a monitorear las elecciones venezolanas, canceló la… [+1087 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "[Removed]"
         },
@@ -986,6 +973,19 @@
         "urlToImage": null,
         "publishedAt": "1970-01-01T00:00:00Z",
         "content": "[Removed]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sol Amaya",
+        "title": "Centro Carter cancela publicación de informe preliminar en Venezuela y retira su personal del país",
+        "description": "El Centro Carter, una de las pocas instituciones independientes autorizadas a monitorear las elecciones venezolanas, canceló la publicación de un informe preliminar programada para el martes por la mañana y está retirando a todo su personal del país, según un…",
+        "url": "https://cnnespanol.cnn.com/2024/07/30/centro-carter-cancela-informe-se-retira-de-venezuela-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2163831996_d7b4a0.jpg?quality=100&strip=info",
+        "publishedAt": "2024-07-30T12:32:59Z",
+        "content": "Escepticismo en el mundo por las elecciones en Venezuela 1:21\r\n(CNN) -- El Centro Carter, una de las pocas instituciones independientes autorizadas a monitorear las elecciones venezolanas, canceló la… [+1087 chars]"
     },
     {
         "source": {
