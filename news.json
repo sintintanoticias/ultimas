@@ -781,6 +781,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Venezuela retirará al personal diplomático de 7 países de Latinoamérica",
+        "description": "Caracas acusó a los gobiernos de estas naciones de estar comprometidos con \"los más sórdidos postulados ideológicos del fascismo internacional\".",
+        "url": "https://actualidad.rt.com/actualidad/517613-venezuela-retirar-personal-diplomatico-siete-paises",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66a8039059bf5b11aa37a895.jpg",
+        "publishedAt": "2024-07-29T20:56:49Z",
+        "content": "El Gobierno de Venezuela anunció el retiro de su personal diplomático en siete países latinoamericanos, a raíz de lo que calificó como \"injerencistas acciones y declaraciones\" por parte de \"gobiernos… [+1938 chars]"
+    },
+    {
+        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -804,19 +817,6 @@
         "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
         "publishedAt": "2024-08-07T05:24:51Z",
         "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Venezuela retirará al personal diplomático de 7 países de Latinoamérica",
-        "description": "Caracas acusó a los gobiernos de estas naciones de estar comprometidos con \"los más sórdidos postulados ideológicos del fascismo internacional\".",
-        "url": "https://actualidad.rt.com/actualidad/517613-venezuela-retirar-personal-diplomatico-siete-paises",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66a8039059bf5b11aa37a895.jpg",
-        "publishedAt": "2024-07-29T20:56:49Z",
-        "content": "El Gobierno de Venezuela anunció el retiro de su personal diplomático en siete países latinoamericanos, a raíz de lo que calificó como \"injerencistas acciones y declaraciones\" por parte de \"gobiernos… [+1938 chars]"
     },
     {
         "source": {
