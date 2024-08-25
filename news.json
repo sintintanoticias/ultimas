@@ -824,12 +824,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
-        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
-        "publishedAt": "2024-08-07T05:24:51Z",
-        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
+        "title": "Aimar Oroz, el pelotero que gana a las cartas",
+        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
+        "publishedAt": "2024-07-30T05:02:43Z",
+        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
     },
     {
         "source": {
@@ -837,12 +837,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "Aimar Oroz, el pelotero que gana a las cartas",
-        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
-        "publishedAt": "2024-07-30T05:02:43Z",
-        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
+        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
+        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
+        "publishedAt": "2024-08-07T05:24:51Z",
+        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
     },
     {
         "source": {
@@ -1275,19 +1275,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Las autoridades de Venezuela saben que Edmundo González “claramente” ganó la elección, dice representante de EE.UU.",
-        "description": "El secretario de Estado adjunto de Estados Unidos para asuntos del hemisferio occidental, Brian Nichols, dijo este miércoles que las autoridades de Venezuela “saben” que el candidato presidencial de la mayoría opositora, Edmundo González Urrutia, “claramente”…",
-        "url": "https://cnnespanol.cnn.com/2024/07/31/autoridades-venezuela-saben-edmundo-gonzalez-representante-eeuu-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2164475816.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-01T02:47:18Z",
-        "content": "(CNN Español) -- El secretario de Estado adjunto de Estados Unidos para asuntos del hemisferio occidental, Brian Nichols, dijo este miércoles que las autoridades de Venezuela saben que el candidato p… [+2084 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Europapress.es"
         },
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814120835_1200.jpg",
         "publishedAt": "2024-08-14T10:08:35Z",
         "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones en… [+955 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Valeria Ordóñez Ghio",
+        "title": "Las autoridades de Venezuela saben que Edmundo González “claramente” ganó la elección, dice representante de EE.UU.",
+        "description": "El secretario de Estado adjunto de Estados Unidos para asuntos del hemisferio occidental, Brian Nichols, dijo este miércoles que las autoridades de Venezuela “saben” que el candidato presidencial de la mayoría opositora, Edmundo González Urrutia, “claramente”…",
+        "url": "https://cnnespanol.cnn.com/2024/07/31/autoridades-venezuela-saben-edmundo-gonzalez-representante-eeuu-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2164475816.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-01T02:47:18Z",
+        "content": "(CNN Español) -- El secretario de Estado adjunto de Estados Unidos para asuntos del hemisferio occidental, Brian Nichols, dijo este miércoles que las autoridades de Venezuela saben que el candidato p… [+2084 chars]"
     }
 ]
