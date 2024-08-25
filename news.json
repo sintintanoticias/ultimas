@@ -824,12 +824,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "Aimar Oroz, el pelotero que gana a las cartas",
-        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
-        "publishedAt": "2024-07-30T05:02:43Z",
-        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
+        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
+        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
+        "publishedAt": "2024-08-07T05:24:51Z",
+        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
     },
     {
         "source": {
@@ -837,12 +837,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
-        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
-        "publishedAt": "2024-08-07T05:24:51Z",
-        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
+        "title": "Aimar Oroz, el pelotero que gana a las cartas",
+        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
+        "publishedAt": "2024-07-30T05:02:43Z",
+        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
     },
     {
         "source": {
@@ -934,6 +934,19 @@
         "urlToImage": "https://phantom-marca.unidadeditorial.es/ab87f771ca8cc083f291fa824f80ad72/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/02/17226266646501.jpg",
         "publishedAt": "2024-08-02T19:33:03Z",
         "content": "España se impuso a Japón en cuartos de final del torneo olímpico en el que es, hasta la fecha, el mejor partido de los nuestros. Un triunfo que da el billete para unas semifinales que habrá que jugar… [+3225 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Valeria Ordóñez Ghio",
+        "title": "Un trabajador de la Embajada de Argentina en Venezuela fue detenido por fuerzas de seguridad, denuncia la Cancillería",
+        "description": "Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina.\n<ul>\n<li>Embajada de Argentina en Venezuela denuncia robo de dinero</li>\n<li>Detenciones arbitrarias ge…",
+        "url": "https://cnnespanol.cnn.com/2024/08/24/trabajador-embajada-argentina-venezuela-detenido-fuerzas-seguridad-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-24T21:57:31Z",
+        "content": "(CNN Español) -- Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina. Agregó que por el momento … [+1063 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814120835_1200.jpg",
         "publishedAt": "2024-08-14T10:08:35Z",
         "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones en… [+955 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "CNNEspañol sjv",
-        "title": "OPINIÓN | Anuncian la victoria de Maduro, ¿problema para la izquierda latinoamericana?",
-        "description": "Jorge Dávila Miguel opina que tras el anuncio de resultados de Venezuela, la izquierda latinoamericana no está tranquila. \"No se creen la victoria del bolivariano\".\nThe post OPINIÓN | Anuncian la victoria de Maduro, ¿problema para la izquierda latinoamericana…",
-        "url": "https://cnnespanol.cnn.com/2024/08/14/opinion-davila-izquierda-maduro-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/amlo-petro-lula.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-14T17:12:16Z",
-        "content": "Nota del editor: Jorge Dávila Miguel es Licenciado en Periodismo desde 1973 y ha mantenido una carrera continuada en su profesión hasta la fecha. Ostenta posgrados en Ciencias de la Información Socia… [+5354 chars]"
     }
 ]
