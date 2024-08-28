@@ -655,12 +655,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "Aimar Oroz, el pelotero que gana a las cartas",
-        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
-        "publishedAt": "2024-07-30T05:02:43Z",
-        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
+        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
+        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
+        "publishedAt": "2024-08-07T05:24:51Z",
+        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
     },
     {
         "source": {
@@ -668,12 +668,12 @@
             "name": "Marca"
         },
         "author": "DAVID MENAYO",
-        "title": "El fútbol europeo vuelve a reinar en los Juegos Olímpicos",
-        "description": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos pote",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/07/66b1f31f46163f5f418b4592.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
-        "publishedAt": "2024-08-07T05:24:51Z",
-        "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
+        "title": "Aimar Oroz, el pelotero que gana a las cartas",
+        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
+        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
+        "publishedAt": "2024-07-30T05:02:43Z",
+        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
     },
     {
         "source": {
@@ -1145,6 +1145,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Belén Liotti",
+        "title": "La CIDH presentará un informe sobre “deterioro de DD.HH.” tras las elecciones en Venezuela",
+        "description": "El Consejo Permanente de la OEA llevará a cabo una sesión extraordinaria donde la CIDH informará sobre el “deterioro de la situación de los derechos humanos” tras las elecciones del 28 de julio en Venezuela.\nThe post La CIDH presentará un informe sobre “deter…",
+        "url": "https://cnnespanol.cnn.com/2024/08/27/cidh-informe-deterioro-derechos-humanos-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2166422510-e1724795088110.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-27T21:45:24Z",
+        "content": "¿Puede la presión internacional cambiar panorama en Venezuela? 3:11\r\n(CNN Español) El Consejo Permanente de la Organización de los Estados Americanos (OEA) llevará a cabo este miércoles una sesión ex… [+2655 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Finofilipino.org"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66b0d0ca59bf5b54877f9010.jpg",
         "publishedAt": "2024-08-05T13:07:35Z",
         "content": "El Gobierno de Venezuela informó este lunes que llegó a un acuerdo con Brasil para que ese país custodie las misiones diplomáticas de Argentina y Perú que se encuentran en territorio venezolano.\r\nA t… [+1715 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "\"Un Guaidó 2.0\": Maduro ataca a la oposición por desconocer su victoria mientras el CNE lo proclama presidente reelecto de Venezuela",
-        "description": "El presidente de Venezuela señaló que se están dando los \"primeros pasos\" de desestabilización en su país \"por parte de la derecha local e internacional\".",
-        "url": "https://www.bbc.com/mundo/articles/c724k5glvwko",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f04d/live/b50f69f0-4dcf-11ef-bacb-dda92a319362.jpg",
-        "publishedAt": "2024-07-29T19:32:49Z",
-        "content": "Fuente de la imagen, Reuters\r\nPie de foto, Maduro recibió el reconocimiento oficial de ganador por parte del Consejo Nacional Electoral.\r\nArticle information<ul><li>Author, Redacción</li><li>Role, BB… [+4424 chars]"
     }
 ]
