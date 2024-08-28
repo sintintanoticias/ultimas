@@ -990,19 +990,6 @@
     {
         "source": {
             "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "EFE EFE",
@@ -1012,6 +999,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a530b3ac474.r_d.3451-1699-3099.jpeg",
         "publishedAt": "2024-07-27T17:40:11Z",
         "content": "Egipto venció este sábado a Uzbekistán por 0-1 en la segunda jornada de la fase de grupos masculina de fútbol olímpico, gracias a un gol del centrocampista Ahmed Kouka en el minuto 11, en un resultad… [+533 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
     },
     {
         "source": {
@@ -1054,19 +1054,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Europapress.es"
-        },
-        "author": null,
-        "title": "República Dominicana agradece a España que represente sus intereses diplomáticos en Venezuela",
-        "description": "El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones entre Caracas y Santo Domingo a raíz de las controvertidas elecciones del 28 de julio.",
-        "url": "https://www.europapress.es/internacional/noticia-republica-dominicana-agradece-espana-represente-intereses-diplomaticos-venezuela-20240814120835.html",
-        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814120835_1200.jpg",
-        "publishedAt": "2024-08-14T10:08:35Z",
-        "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones en… [+955 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1077,6 +1064,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2164475816.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-01T02:47:18Z",
         "content": "(CNN Español) -- El secretario de Estado adjunto de Estados Unidos para asuntos del hemisferio occidental, Brian Nichols, dijo este miércoles que las autoridades de Venezuela saben que el candidato p… [+2084 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Europapress.es"
+        },
+        "author": null,
+        "title": "República Dominicana agradece a España que represente sus intereses diplomáticos en Venezuela",
+        "description": "El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones entre Caracas y Santo Domingo a raíz de las controvertidas elecciones del 28 de julio.",
+        "url": "https://www.europapress.es/internacional/noticia-republica-dominicana-agradece-espana-represente-intereses-diplomaticos-venezuela-20240814120835.html",
+        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814120835_1200.jpg",
+        "publishedAt": "2024-08-14T10:08:35Z",
+        "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones en… [+955 chars]"
     },
     {
         "source": {
@@ -1210,19 +1210,6 @@
     },
     {
         "source": {
-            "id": "el-mundo",
-            "name": "El Mundo"
-        },
-        "author": "Efe",
-        "title": "Una de cada tres víctimas de violencia machista bajo protección del VioGén es extranjera",
-        "description": "Uno de cada tres casos con seguimiento policial por violencia de género en España corresponde a víctimas extranjeras, según datos del Ministerio del Interior, mientras que el...",
-        "url": "https://www.elmundo.es/espana/2024/08/23/66c81d87fc6c83b3098b45b6.html",
-        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/a8ff9be240e43b4bd3a48ea5f66220c0/crop/0x2311/3072x4359/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/23/17243913349311.jpg",
-        "publishedAt": "2024-08-23T05:53:15Z",
-        "content": "Uno de cada tres casos con seguimiento policial por violencia de género en España corresponde a víctimas extranjeras, según datos del Ministerio del Interior, mientras que el 67,79% de los casos del … [+3679 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -1233,6 +1220,19 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66a79d2ee9ff71246a0c6018.jpg",
         "publishedAt": "2024-07-30T07:48:56Z",
         "content": "El Gobierno venezolano anunció que \"se reserva todas acciones legales y políticas\" contra el grupo de siete países que tratan de \"reeditar el fracasado y derrotado Grupo de Lima\", con la finalidad de… [+7951 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Efe",
+        "title": "Una de cada tres víctimas de violencia machista bajo protección del VioGén es extranjera",
+        "description": "Uno de cada tres casos con seguimiento policial por violencia de género en España corresponde a víctimas extranjeras, según datos del Ministerio del Interior, mientras que el...",
+        "url": "https://www.elmundo.es/espana/2024/08/23/66c81d87fc6c83b3098b45b6.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/a8ff9be240e43b4bd3a48ea5f66220c0/crop/0x2311/3072x4359/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/23/17243913349311.jpg",
+        "publishedAt": "2024-08-23T05:53:15Z",
+        "content": "Uno de cada tres casos con seguimiento policial por violencia de género en España corresponde a víctimas extranjeras, según datos del Ministerio del Interior, mientras que el 67,79% de los casos del … [+3679 chars]"
     },
     {
         "source": {
