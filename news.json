@@ -14,19 +14,6 @@
     },
     {
         "source": {
-            "id": "marca",
-            "name": "Marca"
-        },
-        "author": "DAVID MENAYO",
-        "title": "España se enfrenta a la República Dominicana más españolizada",
-        "description": "España puede certificar este sábado (15:00 horas, La1, Max y Eursport2), en el Stade de Bordeaux de Nantes, su billete para los cuartos de final del torneo olímpico con un triunfo",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/27/66a3883222601d63398b4586.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/d147a8cd2ea4dded021e0503b7f8b29f/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/26/17219937331767.jpg",
-        "publishedAt": "2024-07-27T05:26:24Z",
-        "content": "España puede certificar este sábado (15:00 horas, La1, Max y Eursport2), en el Stade de Bordeaux de Nantes, su billete para los cuartos de final del torneo olímpico con un triunfo ante República Domi… [+2029 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Xataka.com"
         },
@@ -232,19 +219,6 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/repdomini.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-09T20:56:16Z",
         "content": "¿Qué significó participar en los Juegos Olímpicos para Simone Biles? 0:44\r\n(CNN) -- La corredora dominicana Marileidy Paulino tuvo una gran actuación en sus carreras preliminares en París 2024 y este… [+1862 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Javier Alfaro",
-        "title": "España busca el billete para cuartos ante República Dominicana",
-        "description": "Después del sufrido triunfo ante Uzbekistán en el debut (1-2), el fútbol masculino español buscará este sábado (15.00 horas) una nueva victoria que otorgaría la clasificación para los cuartos de final aunque todavía reste una tercera jornada por disputarse. L…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002287909/espana-busca-billete-cuartos-republica-dominicana.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3a7096e7b8.r_d.1603-883-3850.jpeg",
-        "publishedAt": "2024-07-27T05:00:00Z",
-        "content": "Después del sufrido triunfo ante Uzbekistán en el debut (1-2), el fútbol masculino español buscará este sábado (15.00 horas) una nueva victoria que otorgaría la clasificación para los cuartos de fina… [+2374 chars]"
     },
     {
         "source": {
@@ -466,19 +440,6 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/07/24/66a0fed9ca99e.jpeg",
         "publishedAt": "2024-07-28T12:00:56Z",
         "content": "Marc Pubill, lateral derecho del Almería y de la selección olímpica, completó sin problemas este domingo el entrenamiento de recuperación tras perderse el encuentro del sábado ante República Dominica… [+1025 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Mario Calderón Castaño",
-        "title": "Ibai Gómez, el rival 'amigo' de La Rojita en estos Juegos Olímpicos",
-        "description": "Este sábado a partir de las 15:00 horas, la selección olímpica española se enfrentará a la selección de República Dominicana que, como curiosidad, tiene a un entrenador español liderando su proyecto.",
-        "url": "https://www.mundodeportivo.com/futbol/20240727/1002287410/ibai-gomez-rival-espanol-rojita-juegos-olimpicos.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/24/66a1502895cfd.r_d.1206-612-0.jpeg",
-        "publishedAt": "2024-07-27T05:30:00Z",
-        "content": "Este sábado a partir de las 15:00 horas, la selección olímpica española se enfrentará a la selección de República Dominicana que, como curiosidad, tiene a un entrenador español liderando su proyecto.… [+1057 chars]"
     },
     {
         "source": {
@@ -925,19 +886,6 @@
     {
         "source": {
             "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost",
-        "title": "Esta es la participación de España en los Juegos Olímpicos de París hoy sábado 27 de julio",
-        "description": "<![CDATA[<p>Con la resaca de la ceremonia de inauguración de los Juegos Olímpicos de París 2024 de ayer viernes, hoy sábado 27 de julio, España se enfrenta a una jornada cargada de pruebas en la capital francesa.wf_cms.rss.read_more]]>",
-        "url": "https://www.huffingtonpost.es/deporte/esta-participacion-espana-juegos-olimpicos-paris-hoy-sabado-27-julio.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/26/el-judoka-espanol-francisco-garrigos.jpeg",
-        "publishedAt": "2024-07-27T04:00:00Z",
-        "content": "Con la resaca de la ceremonia de inauguración de los Juegos Olímpicos de París 2024 de ayer viernes, hoy sábado 27 de julio, España se enfrenta a una jornada cargada de pruebas en la capital francesa… [+2422 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "José María Gil-Vernet",
@@ -1298,5 +1246,57 @@
         "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/07/nicolas-maduro-venezuela-elecciones.jpg",
         "publishedAt": "2024-07-29T23:45:55Z",
         "content": "Después de que el Consejo Nacional Electoral de Venezuela proclamó presidente a Nicolás Maduro, el gobierno anunció el rompimiento de relaciones diplomáticas y la expulsión del personal en Argentina,… [+1128 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Dónde ver gratis España - Japón en televisión y online y a qué hora empieza el partido de fútbol masculino en los Juegos Olímpicos de París hoy",
+        "description": "España sigue dando la pelea en el fútbol pese a quedar de segundo de grupo en los Juegos Olímpicos de París 2024 y clasificar por matemáticas a los cuartos de final. El reto es llevarse una medalla y seguir con la racha de los que ganaron la Eurocopa 2024. Lo…",
+        "url": "https://www.abc.es/deportes/juegos-olimpicos/donde-ver-gratis-espana-japon-teleivsion-online-hora-empiea-partido-futbol-masculino-juegos-olimpicos-paris-hoy-20240802165541-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/08/02/abelr-U60534982391zkH-U6029150806720aF-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-08-02T13:31:58Z",
+        "content": "España sigue dando la pelea en el fútbol pese a quedar de segundo de grupo en los Juegos Olímpicos de París 2024 y clasificar por matemáticas a los cuartos de final. El reto es llevarse una medalla y… [+1330 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Brasil representará los intereses diplomáticos de Perú y Argentina en Venezuela",
+        "description": "El acuerdo fue alcanzado con el Gobierno venezolano.",
+        "url": "https://actualidad.rt.com/actualidad/518401-venezuela-brasil-alcanzan-acuerdo-custodia",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66b0d0ca59bf5b54877f9010.jpg",
+        "publishedAt": "2024-08-05T13:07:35Z",
+        "content": "El Gobierno de Venezuela informó este lunes que llegó a un acuerdo con Brasil para que ese país custodie las misiones diplomáticas de Argentina y Perú que se encuentran en territorio venezolano.\r\nA t… [+1715 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "\"Un Guaidó 2.0\": Maduro ataca a la oposición por desconocer su victoria mientras el CNE lo proclama presidente reelecto de Venezuela",
+        "description": "El presidente de Venezuela señaló que se están dando los \"primeros pasos\" de desestabilización en su país \"por parte de la derecha local e internacional\".",
+        "url": "https://www.bbc.com/mundo/articles/c724k5glvwko",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f04d/live/b50f69f0-4dcf-11ef-bacb-dda92a319362.jpg",
+        "publishedAt": "2024-07-29T19:32:49Z",
+        "content": "Fuente de la imagen, Reuters\r\nPie de foto, Maduro recibió el reconocimiento oficial de ganador por parte del Consejo Nacional Electoral.\r\nArticle information<ul><li>Author, Redacción</li><li>Role, BB… [+4424 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Venezuela denuncia \"operación de intervención contra el proceso electoral\"",
+        "description": "",
+        "url": "https://actualidad.rt.com/actualidad/517505-venezuela-denunciar-operacion-intervencion-elecciones",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/original/66a714dae9ff71267860aed2.jpg",
+        "publishedAt": "2024-07-29T04:04:42Z",
+        "content": "Venezuela denunció este domingo lo que calificó como una \"operación de intervención electoral\" perpetrada por \"un grupo de gobiernos y poderes extranjeros\", en referencia a pronunciamientos de funcio… [+1529 chars]"
     }
 ]
