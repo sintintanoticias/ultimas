@@ -1,19 +1,6 @@
 [
     {
         "source": {
-            "id": "marca",
-            "name": "Marca"
-        },
-        "author": "DAVID MENAYO",
-        "title": "Los Reyes vienen de República Dominicana",
-        "description": "Me dijeron los que saben de esto (y no es una crítica, de verdad) que el partido ante República Dominicana iba a ser un paseo. Pero esto es fútbol, deporte, Juegos Olímpicos. Se ga",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/27/66a4e71fca4741243a8b456d.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/4d47a9b2eb368110eeeed2cae9dee09b/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/27/17220914660505.jpg",
-        "publishedAt": "2024-07-27T15:00:25Z",
-        "content": "Me dijeron los que saben de esto (y no es una crítica, de verdad) que el partido ante República Dominicana iba a ser un paseo. Pero esto es fútbol, deporte, Juegos Olímpicos. Se ganó y se consiguió e… [+3388 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Xataka.com"
         },
@@ -24,19 +11,6 @@
         "urlToImage": "https://i.blogs.es/0136e0/corte-ernesto/840_560.jpeg",
         "publishedAt": "2024-08-14T16:02:00Z",
         "content": "El ciclón Ernesto se ha convertido esta semana en la quinta tormenta tropical de la temporada atlántica de huracanes. Si las predicciones se cumplen, en las próximas horas se convertirá en el tercer … [+3107 chars]"
-    },
-    {
-        "source": {
-            "id": "el-mundo",
-            "name": "El Mundo"
-        },
-        "author": "Daniel Gómez-Fontecha",
-        "title": "Fútbol: España se cuadra ante una mermada República Dominicana y certifica su pase a cuartos",
-        "description": "Hacía falta ganar. Era casi una obligación. Para coger confianza y para dejar sellada la clasificación a los cuartos de final de los Juegos. A esa ronda, que a pesar de llegar...",
-        "url": "https://www.elmundo.es/deportes/juegos-olimpicos/2024/07/27/66a4ed5c21efa05d348b45a1.html",
-        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/1e66b3ac7f6476937637865611df7d82/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/27/17220871736405.jpg",
-        "publishedAt": "2024-07-27T15:00:57Z",
-        "content": "Hacía falta ganar. Era casi una obligación. Para coger confianza y para dejar sellada la clasificación a los cuartos de final de los Juegos. A esa ronda, que a pesar de llegar como campeones de Europ… [+2115 chars]"
     },
     {
         "source": {
@@ -184,19 +158,6 @@
     {
         "source": {
             "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Mario Calderón Castaño",
-        "title": "El 1x1 de España ante República Dominicana",
-        "description": "Después de una nueva victoria de la selección española masculina de fútbol en estos Juegos Olímpicos, hoy ante República Dominicana, los de Santi Denia confirman su pase a los cuartos de final. Esto no hace más que confirmarles como claros candidatos a las me…",
-        "url": "https://www.mundodeportivo.com/futbol/real-madrid/20240727/1002288334/1x1-espana-republica-dominicana.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a50aec129a4.r_d.2000-1333-3000.jpeg",
-        "publishedAt": "2024-07-27T15:00:40Z",
-        "content": "Después de una nueva victoria de la selección española masculina de fútbol en estos Juegos Olímpicos, hoy ante República Dominicana, los de Santi Denia confirman su pase a los cuartos de final. Esto … [+2149 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Directoalpaladar.com"
         },
         "author": "Inés Vazquez Noya",
@@ -340,32 +301,6 @@
     {
         "source": {
             "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Helena Celma Pérez",
-        "title": "República Dominicana - España, en directo | Sigue en vivo el partido de los JJOO de París 2024",
-        "description": "Sigue en vivo, minuto a minuto, el partido correspondiente a la jornada 2, que enfrenta a República Dominicana y España, en la categoría Sub-23, en el Stade Matmut-Atlantique.",
-        "url": "https://www.mundodeportivo.com/futbol/20240727/1002288400/republica-dominicana-espana-el-partido-fase-grupos-futbol-hoy-en-directo-juegos-olimpicos-paris-ext-pau.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4e12b4ef90.r_d.974-369-0.jpeg",
-        "publishedAt": "2024-07-27T12:55:54Z",
-        "content": "| España ultima la preparación contra República Dominicana en el estadio Chaban DelmasLa selección española llevó a cabo este viernes su último entrenamiento de preparación, en el estadio Chaban Delm… [+582 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Jaume Miserachs Teixidor",
-        "title": "República Dominicana se queda con 10 y Cubarsí se pierde el próximo partido",
-        "description": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra España, correspondiente a la segunda jornada de la fase de grup…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002288440/republica-dominicana-queda-10-cubarsi-pierde-proximo-partido.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4fcefaa350.r_d.2423-1480-2468.jpeg",
-        "publishedAt": "2024-07-27T13:53:51Z",
-        "content": "Edison Azcona, jugador y capitán de la selección de la República Dominicana, ha sido expulsado con roja directa en los compases finales del encuentro que el combinado de Ibai Gómez disputa contra Esp… [+739 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Www.abc.es"
         },
         "author": "(abc)",
@@ -446,32 +381,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Jaume Miserachs Teixidor",
-        "title": "¡Fermín hace el primero de España!",
-        "description": "España se ha adelantado en el marcador en su partido contra la República Dominicana, correspondiente a la segunda jornada d ela fase de grupos de los Juegos Olímpicos, gracias a un tanto del barcelonista Fermín López.",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002288425/fermin-primero-espana.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4fa170f6f9.r_d.2238-1349-2679.jpeg",
-        "publishedAt": "2024-07-27T13:30:23Z",
-        "content": "España se ha adelantado en el marcador en su partido contra la República Dominicana, correspondiente a la segunda jornada d ela fase de grupos de los Juegos Olímpicos, gracias a un tanto del barcelon… [+515 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "José Luis Artús Tejero",
-        "title": "Así queda la clasificación del grupo de España de fútbol en los Juegos Olímpicos tras ganar a República Dominicana",
-        "description": "Tras ganar en la primera jornada a Uzbekistán por 1-2, la selección española olímpica se impuso también a República Dominicana por 1-3 y logró la clasificación matemática para cuartos de final.",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240728/1002288752/asi-queda-clasificacion-grupo-espana-victoria-republica-dominicana-juegos-olimpicos.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a51f3600b1e.r_d.2234-1189-0.jpeg",
-        "publishedAt": "2024-07-28T06:31:59Z",
-        "content": "Tras ganar en la primera jornada a Uzbekistán por 1-2, la selección española olímpica se impuso también a República Dominicana por 1-3 y logró la clasificación matemática para cuartos de final.\r\nEn e… [+529 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "José Luis Artús Tejero",
         "title": "El posible once inicial de España ante Egipto en los Juegos Olímpicos",
         "description": "España, que cuenta sus dos primeros partidos por victorias ante Uzbekistán y República Dominicana, se enfrenta este martes por la tarde a Egipto (15:00 horas), segundo clasificado, en busca de cerrar esta fase como primera.",
@@ -479,32 +388,6 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/07/22/669eaccd46ab6.jpeg",
         "publishedAt": "2024-07-30T07:03:50Z",
         "content": "España, que cuenta sus dos primeros partidos por victorias ante Uzbekistán y República Dominicana, se enfrenta este martes por la tarde a Egipto (15:00 horas), segundo clasificado, en busca de cerrar… [+441 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "José María Gil-Vernet",
-        "title": "Santi Denia redobla su apuesta por Cubarsí",
-        "description": "Santi Denia ha decidido redoblar su apuesta por Pau Cubarsí y el central del Barcelona vuelve a ser titular en el encuentro contra República Dominicana de la segunda jornada de la fase de grupos del torneo olímpico de fútbol.",
-        "url": "https://www.mundodeportivo.com/seleccion-espanola/20240727/1002288381/santi-denia-redobla-apuesta-cubarsi.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4e12b4ef90.r_d.974-369-8242.jpeg",
-        "publishedAt": "2024-07-27T12:01:12Z",
-        "content": "Santi Denia ha decidido redoblar su apuesta por Pau Cubarsí y el central del Barcelona vuelve a ser titular en el encuentro contra República Dominicana de la segunda jornada de la fase de grupos del … [+814 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "EFE EFE",
-        "title": "Denia: “Estar clasificados tras el segundo partido era el primer objetivo”",
-        "description": "Santi Denia, seleccionador español de fútbol olímpico, aseguró que, antes de empezar París 2024, el primer “objetivo” que se marcaban era “estar clasificados tras el segundo partido”, como han logrado este sábado al derrotar 1-3 a la República Dominicana.",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002288527/denia-clasificados-segundo-partido-primer-objetivo.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/07/27/66a51f36eaf4c.jpeg",
-        "publishedAt": "2024-07-27T16:24:45Z",
-        "content": "Santi Denia, seleccionador español de fútbol olímpico, aseguró que, antes de empezar París 2024, el primer objetivo que se marcaban era estar clasificados tras el segundo partido, como han logrado es… [+1485 chars]"
     },
     {
         "source": {
@@ -596,32 +479,6 @@
         "urlToImage": "https://phantom-marca.unidadeditorial.es/d81f15f194ab2b1b6d0291376506e586/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/19/17240922899890.jpg",
         "publishedAt": "2024-08-20T05:22:05Z",
         "content": "Se cumple un año desde que la selección femenina de fútbol se coronara como campeona del Mundial, un hito histórico para el fútbol español. Sin embargo, este acontecimiento se vio manchado por todo l… [+4097 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Fútbol: España ya está en cuartos",
-        "description": "España ya está en los cuartos de final de los Juegos de París después de desmontar a la República Dominicana en Burdeos (3-1), donde obtuvo el salvoconducto a la siguiente fase del torneo después de las dos primeras jornadas de grupo. Tardó La Rojita en rompe…",
-        "url": "https://www.abc.es/deportes/juegos-olimpicos/futbol-espana-cuartos-20240727173723-nt.html",
-        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2024/07/27/espana-cuartos-final-U44310874386GJa-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-07-27T15:37:24Z",
-        "content": "España ya está en los cuartos de final de los Juegos de París después de desmontar a la República Dominicana en Burdeos (3-1), donde obtuvo el salvoconducto a la siguiente fase del torneo después de … [+4981 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "EFE EFE",
-        "title": "Pide perdón por la patada 'criminal' a Cubarsí: \"Es imperdonable y no puede volver a pasar\"",
-        "description": "Edison Azcona, capitán de la República Dominicana, pidió \"disculpa\" por darle una patada este sábado en la entrepierna al central Paul Cubarsí, lo que le costó su expulsión, en el partido que el país caribeño perdió por 1-3 ante España en los Juegos Olímpicos…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240728/1002288736/capitan-republica-dominicana-pide-disculpa-dar-patada-espanol-cubarsi.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a4fcefaa350.r_d.2423-1480-0.jpeg",
-        "publishedAt": "2024-07-28T06:58:03Z",
-        "content": "Edison Azcona, capitán de la República Dominicana, pidió \"disculpa\" por darle una patada este sábado en la entrepierna al central Paul Cubarsí, lo que le costó su expulsión, en el partido que el país… [+724 chars]"
     },
     {
         "source": {
@@ -794,19 +651,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -882,19 +726,6 @@
         "urlToImage": "https://phantom-expansion.unidadeditorial.es/b114a1160fdabcbc06d5d58590ff01f3/crop/88x23/1956x1268/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/24/17245196619108.jpg",
         "publishedAt": "2024-08-24T17:18:30Z",
         "content": "El Ministerio Público (MP, Fiscalía) de Venezuela citó para el próximo lunes al abanderado de la oposición mayoritaria, Edmundo González Urrutia, por una investigación en su contra, debido a una supu… [+1870 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "José María Gil-Vernet",
-        "title": "1-3: España ya está en cuartos pero no despega",
-        "description": "Más cerca de la lucha por las medallas. España superó a República Dominicana en Burdeos en otro encuentro áspero y con poca chicha y ya tiene el billete para los cuartos de final. El equipo de Santi Denia volvió a ofrecer una pobre imagen tras el estresante d…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002288469/espana-esta-cuartos-despeja-dudas.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/07/27/66a50bdcc59d7.jpeg",
-        "publishedAt": "2024-07-27T15:01:56Z",
-        "content": "Más cerca de la lucha por las medallas. España superó a República Dominicana en Burdeos en otro encuentro áspero y con poca chicha y ya tiene el billete para los cuartos de final. El equipo de Santi … [+3680 chars]"
     },
     {
         "source": {
@@ -1012,19 +843,6 @@
         "urlToImage": null,
         "publishedAt": "1970-01-01T00:00:00Z",
         "content": "[Removed]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "EFE EFE",
-        "title": "1-0: Egipto elimina a Uzbekistán y se la jugará contra España",
-        "description": "Egipto venció este sábado a Uzbekistán por 0-1 en la segunda jornada de la fase de grupos masculina de fútbol olímpico, gracias a un gol del centrocampista Ahmed Kouka en el minuto 11, en un resultado que elimina a la selección uzbeka de París 2024.",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240727/1002288579/egipto-elimina-uzbekistan-jugara-espana.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/27/66a530b3ac474.r_d.3451-1699-3099.jpeg",
-        "publishedAt": "2024-07-27T17:40:11Z",
-        "content": "Egipto venció este sábado a Uzbekistán por 0-1 en la segunda jornada de la fase de grupos masculina de fútbol olímpico, gracias a un gol del centrocampista Ahmed Kouka en el minuto 11, en un resultad… [+533 chars]"
     },
     {
         "source": {
@@ -1298,5 +1116,187 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66b0d0ca59bf5b54877f9010.jpg",
         "publishedAt": "2024-08-05T13:07:35Z",
         "content": "El Gobierno de Venezuela informó este lunes que llegó a un acuerdo con Brasil para que ese país custodie las misiones diplomáticas de Argentina y Perú que se encuentran en territorio venezolano.\r\nA t… [+1715 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "\"Un Guaidó 2.0\": Maduro ataca a la oposición por desconocer su victoria mientras el CNE lo proclama presidente reelecto de Venezuela",
+        "description": "El presidente de Venezuela señaló que se están dando los \"primeros pasos\" de desestabilización en su país \"por parte de la derecha local e internacional\".",
+        "url": "https://www.bbc.com/mundo/articles/c724k5glvwko",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f04d/live/b50f69f0-4dcf-11ef-bacb-dda92a319362.jpg",
+        "publishedAt": "2024-07-29T19:32:49Z",
+        "content": "Fuente de la imagen, Reuters\r\nPie de foto, Maduro recibió el reconocimiento oficial de ganador por parte del Consejo Nacional Electoral.\r\nArticle information<ul><li>Author, Redacción</li><li>Role, BB… [+4424 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Venezuela denuncia \"operación de intervención contra el proceso electoral\"",
+        "description": "",
+        "url": "https://actualidad.rt.com/actualidad/517505-venezuela-denunciar-operacion-intervencion-elecciones",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/original/66a714dae9ff71267860aed2.jpg",
+        "publishedAt": "2024-07-29T04:04:42Z",
+        "content": "Venezuela denunció este domingo lo que calificó como una \"operación de intervención electoral\" perpetrada por \"un grupo de gobiernos y poderes extranjeros\", en referencia a pronunciamientos de funcio… [+1529 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Pablo Planas Piera",
+        "title": "El 'show' de Fermín: ¡Vaya par de golazos ante Japón!",
+        "description": "Una de las grandes virtudes de Fermín López es que es un medio que tiene gol y lo está dejando claro en estos Juegos Olímpicos, sumando su segundo tanto del torneo nada menos que para abrir los cuartos de final ante Japón.",
+        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240802/1002292094/misilazo-fermin-adelantar-espana-japon.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/08/02/66acfae1af508.r_d.1568-890-3846.jpeg",
+        "publishedAt": "2024-08-02T15:30:52Z",
+        "content": "Una de las grandes virtudes de Fermín López es que es un medio que tiene gol y lo está dejando claro en estos Juegos Olímpicos, sumando su segundo tanto del torneo nada menos que para abrir los cuart… [+1094 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Mario Ríos Bayona",
+        "title": "El Barça Atlètic hace oficial su siguiente fichaje",
+        "description": "Ante el gran número de cambios que está sufriendo el Barça Atlètic, típicos de cada temporada en el filial culé, el equipo de Albert Sánchez se sigue reforzando para tratar de lograr ser lo más competitivo posible. El equipo azulgrana hizo oficial este lunes …",
+        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20240819/1002300812/barca-atletic-oficial-siguiente-fichaje.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/08/19/66c3666e85fdb.jpeg",
+        "publishedAt": "2024-08-19T15:40:35Z",
+        "content": "Ante el gran número de cambios que está sufriendo el Barça Atlètic, típicos de cada temporada en el filial culé, el equipo de Albert Sánchez se sigue reforzando para tratar de lograr ser lo más compe… [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Autor Redacción",
+        "title": "Este famoso actor de 'Vis a Vis', fichaje estrella de 'La isla de las tentaciones'",
+        "description": "'La isla de las tentaciones', que triunfa con sus distintas ediciones internacionales, ha estrenado una nueva temporada en Prime Video con ocho únicos episodios y el reencuentro final. Sin embargo, esta temporada, con concursantes argentinos y chilenos, única…",
+        "url": "https://www.mundodeportivo.com/elotromundo/television/20240825/1002303911/famoso-actor-vis-vis-fichaje-estrella-isla-tentaciones-dct.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/08/25/66cb5a14bb4c3.jpeg",
+        "publishedAt": "2024-08-25T16:57:25Z",
+        "content": "'La isla de las tentaciones', que triunfa con sus distintas ediciones internacionales, ha estrenado una nueva temporada en Prime Video con ocho únicos episodios y el reencuentro final. Sin embargo, e… [+1318 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Juanlu disputa la segunda mitad en la derrota de España ante Egipto",
+        "description": "La selección española de fútbol cayó derrotada este martes ante la de Egipto en la última jornada de la fase de grupos en el torneo de fútbol masculino de los Juegos Olímpicos de París 2024 . El sevillista Juanlu participó en el choque llegando a disputar la …",
+        "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/juanlu-disputa-segunda-mitad-derrota-espana-ante-20240730173118-nts.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/deportes/2024/07/30/EgiptoEspanaJuanlu-U38722307168gUB-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-07-30T15:31:18Z",
+        "content": "La selección española de fútbol cayó derrotada este martes ante la de Egipto en la última jornada de la fase de grupos en el torneo de fútbol masculino de los Juegos Olímpicos de París 2024. El sevil… [+996 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Las vacaciones secretas de la Reina Letizia y sus hijas, la Princesa Leonor y la Infanta Sofía",
+        "description": "El verano de la Familia Real española ha sido todo menos tranquilo. La combinación de deberes institucionales, eventos de alta visibilidad y una serie de decisiones personales han marcado las últimas semanas para el Rey Felipe VI, la Reina Letizia y sus hijas…",
+        "url": "https://www.abc.es/gente/vacaciones-secreto-reina-letizia-hijas-princesa-leonor-20240816113936-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/08/16/leonor-letizia-portada-U47535220451MAd-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-08-17T02:29:48Z",
+        "content": "El verano de la Familia Real española ha sido todo menos tranquilo. La combinación de deberes institucionales, eventos de alta visibilidad y una serie de decisiones personales han marcado las últimas… [+5607 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "MARISA DEL BOSQUE",
+        "title": "Las ventajas de mandarlo todo a la mierda: cómo poner en práctica el método NoMeArrepiento y evitar las situaciones que odias, de las horas extra a las bodas por compromiso",
+        "description": "¿Cuánto mejoraría tu vida si pudieras decir no en aquellas situaciones que te disgustan? Sarah Knight dio un portazo y se plantó en el Caribe, más sol y menos estrés. Su método, #NoMeArrepiento, \"es sumamente efectivo\" para no perder el tiempo con la gente y …",
+        "url": "https://www.elmundo.es/yodona/lifestyle/2024/08/22/66c44bfbe9cf4a3f328b456f.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/a2cbf35624d7155b8bddb5d97bd2e3cd/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/20/17241535484929.jpg",
+        "publishedAt": "2024-08-22T00:08:09Z",
+        "content": "Tienes que mandar a la mierda lo que piensen los demás\". Así de rotunda se muestra Sarah Knight, quien fuera editora durante 15 años en Nueva York antes de tomar la aterradora decisión de dejar su pr… [+6730 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Los récords olímpicos y mundiales más extraordinarios que se batieron en París 2024",
+        "description": "En estos Juegos Olímpicos se rompieron más de 50 marcas. Aquí seleccionamos las más impresionantes.",
+        "url": "https://www.bbc.com/mundo/articles/c2kjdkqe1eqo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/d4ac/live/1e7a6eb0-5674-11ef-8f0f-0577398c3339.jpg",
+        "publishedAt": "2024-08-12T08:12:52Z",
+        "content": "Fuente de la imagen, Getty Images\r\nPie de foto, A toda velocidad: \"Mondo\" Duplantis con la garrocha rumbo a su récord mundial. \r\nArticle information<ul><li>Author, Redacción</li><li>Role, BBC News Mu… [+8323 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost / EP",
+        "title": "España insta a Venezuela a liberar a presos y publicar las actas electorales",
+        "description": "<![CDATA[<p>España deja clara su postura con respecto a la situación que vive Venezuela al firmar una declaración conjunta con EEUU y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia.wf_cms.rss.read_more]]>",
+        "url": "https://www.huffingtonpost.es/politica/espana-insta-venezuela-liberar-presos-publicar-actas-electorales.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/16/a-woman-waves-a-venezuelan-flag.jpeg",
+        "publishedAt": "2024-08-16T19:23:15Z",
+        "content": "España deja clara su postura con respecto a la situación que vive Venezuela al firmar una declaración conjunta con EEUU y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la vio… [+4606 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Ramón Fuentes de Juan",
+        "title": "Espen Eskas, el árbitro del Brasil-España",
+        "description": "Esta tarde se cierra la fase de grupos la selección española de Montse Tomé en los Juegos de París. Lo hace, habiéndose ya clasificado para la siguiente eliminatoria, pero en un auténtico partidazo ante Brasil. La selección canarinha está encabezada por Marta…",
+        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240731/1002290701/arbitro-brasil-espana.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/31/66aa25097e83e.r_d.528-236-12500.jpeg",
+        "publishedAt": "2024-07-31T11:50:58Z",
+        "content": "Esta tarde se cierra la fase de grupos la selección española de Montse Tomé en los Juegos de París. Lo hace, habiéndose ya clasificado para la siguiente eliminatoria, pero en un auténtico partidazo a… [+1870 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jornada.com.mx"
+        },
+        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+        "title": "Biden y Lula piden la “divulgación inmediata” de las actas electorales",
+        "description": "Río de Janeiro. El presidente de Brasil, Luiz Inácio Lula da Silva, y su par de Estados Unidos, Joe Biden, pidieron ayer la divulgación “inmediata” de las actas electorales en Venezuela, al aumentar la presión contra la república bolivariana tras los comicios…",
+        "url": "https://www.jornada.com.mx/2024/07/31/mundo/026n2mun",
+        "urlToImage": "https://www.jornada.com.mx/2024/07/31/fotos/026n2mun-1.jpg",
+        "publishedAt": "2024-07-31T10:23:45Z",
+        "content": "Periódico La JornadaMiércoles 31 de julio de 2024, p. 26\r\nRío de Janeiro. El presidente de Brasil, Luiz Inácio Lula da Silva, y su par de Estados Unidos, Joe Biden, pidieron ayer la divulgación inmed… [+4166 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elespanol.com"
+        },
+        "author": "S. D. | Agencias",
+        "title": "Maduro expulsa a los diplomáticos de 7 países latinoamericanos por no reconocer su victoria",
+        "description": "Los países afectados son Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay.",
+        "url": "https://www.elespanol.com/mundo/america/20240730/maduro-expulsa-diplomaticos-paises-latinoamericanos-no-reconocer-victoria/874412561_0.html",
+        "urlToImage": "https://s1.elespanol.com/2024/07/30/mundo/america/874422573_248131696_1706x960.jpg",
+        "publishedAt": "2024-07-30T05:52:32Z",
+        "content": "El Gobierno de Venezuela ha anunciado la expulsión de las representaciones diplomáticas de siete países latinoamericanos -Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay- a… [+1691 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Valeria Ordóñez Ghio",
+        "title": "Boric confirma detención y deportación de 2 periodistas chilenos en Venezuela",
+        "description": "El presidente de Chile, Gabriel Boric, confirmó este viernes que un equipo periodístico de Televisión Nacional de Chile (TVN) fue detenido en Venezuela y posteriormente deportado a Colombia mientras cubría el conflicto poselectoral.\nThe post Boric confirma de…",
+        "url": "https://cnnespanol.cnn.com/2024/08/02/boric-confirma-detencion-deportacion-periodistas-chilenos-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2161823435-e1721838826315.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-03T01:12:58Z",
+        "content": "(CNN Español) -- El presidente de Chile, Gabriel Boric, confirmó este viernes que un equipo periodístico de Televisión Nacional de Chile (TVN) fue detenido en Venezuela y posteriormente deportado a C… [+3407 chars]"
     }
 ]
