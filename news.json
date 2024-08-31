@@ -14,19 +14,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Venezuela ordena la expulsión de los representantes de 7 países latinoamericanos que cuestionaron la victoria de Maduro",
-        "description": "Acusó de \"injerencias\" a Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay tras la cuestionada victoria electoral de Maduro.",
-        "url": "https://www.bbc.com/mundo/articles/cn074xmzm7no",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/dc52/live/99734ef0-4df2-11ef-9cb1-2366fd596d16.jpg",
-        "publishedAt": "2024-07-29T22:16:19Z",
-        "content": "Fuente de la imagen, Getty Images\r\nArticle information<ul><li>Author, Redacción</li><li>Role, BBC News Mundo</li><li></li></ul>\r\nEl gobierno de Venezuela exigió este lunes la retirada del personal di… [+2930 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -209,19 +196,6 @@
     },
     {
         "source": {
-            "id": "marca",
-            "name": "Marca"
-        },
-        "author": "PEDRO DE PABLOS / PABLO LUCENA",
-        "title": "La derrota nos complica el camino",
-        "description": "Con la derrota de España ante Egipto por 1-2, &apos;La Rojita&apos; ha terminado la fase de grupos como segunda del grupo C, por detrás del país africano que ha sumado siete puntos",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a8922c46163f67518b45b2.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/b514913f69619dddd80fd561b098a0a3/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/30/17223518565405.jpg",
-        "publishedAt": "2024-07-30T07:12:03Z",
-        "content": "Con la derrota de España ante Egipto por 1-2, 'La Rojita' ha terminado la fase de grupos como segunda del grupo C, por detrás del país africano que ha sumado siete puntos, uno más que los españoles.\r… [+2716 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -365,32 +339,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "José Luis Artús Tejero",
-        "title": "El posible once inicial de España ante Egipto en los Juegos Olímpicos",
-        "description": "España, que cuenta sus dos primeros partidos por victorias ante Uzbekistán y República Dominicana, se enfrenta este martes por la tarde a Egipto (15:00 horas), segundo clasificado, en busca de cerrar esta fase como primera.",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240730/1002289853/posible-once-inicial-espana-egipto-juegos-olimpicos.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/07/22/669eaccd46ab6.jpeg",
-        "publishedAt": "2024-07-30T07:03:50Z",
-        "content": "España, que cuenta sus dos primeros partidos por victorias ante Uzbekistán y República Dominicana, se enfrenta este martes por la tarde a Egipto (15:00 horas), segundo clasificado, en busca de cerrar… [+441 chars]"
-    },
-    {
-        "source": {
-            "id": "el-mundo",
-            "name": "El Mundo"
-        },
-        "author": "Daniel Gómez-Fontecha",
-        "title": "Fútbol: Un frenazo en seco de España ante Egipto le cuesta el liderato de grupo",
-        "description": "Con seis puntos en el casillero y la clasificación asegurada, Santi Denia decidió revolucionar el once para enfrentarse a Egipto. Era el momento de dar oportunidades y ver a esos...",
-        "url": "https://www.elmundo.es/deportes/juegos-olimpicos/2024/07/30/66a8d5ace85ecec36a8b4589.html",
-        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d007d7af02f7fbe89b55da359dfc6604/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/30/17223515996245.jpg",
-        "publishedAt": "2024-07-30T15:02:31Z",
-        "content": "Con seis puntos en el casillero y la clasificación asegurada, Santi Denia decidió revolucionar el once para enfrentarse a Egipto. Era el momento de dar oportunidades y ver a esos jugadores que durant… [+2732 chars]"
-    },
-    {
-        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -418,19 +366,6 @@
     {
         "source": {
             "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "EFE EFE",
-        "title": "Ibai Gómez dice adiós a los Juegos pese a perder solo ante España con R. Dominicana",
-        "description": "El español Ibai Gómez, seleccionador olímpico de República Dominicana, lamentó la eliminación en la fase de grupos de su equipo y declaró a EFE que se marcha \"orgulloso de los jugadores por el trabajo y lo vivido durante tres semanas pero también con sentimie…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240730/1002290195/ibai-gomez-orgulloso-jugadores-sentimiento-pena.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/30/66a915c252a6b.r_d.4015-1735-2451.jpeg",
-        "publishedAt": "2024-07-30T16:36:36Z",
-        "content": "El español Ibai Gómez, seleccionador olímpico de República Dominicana, lamentó la eliminación en la fase de grupos de su equipo y declaró a EFE que se marcha \"orgulloso de los jugadores por el trabaj… [+1968 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Aristeguinoticias.com"
         },
         "author": "Redacción AN / JGE",
@@ -440,19 +375,6 @@
         "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/chile-venezuela-embajador-expulsado-2-03082024.jpg",
         "publishedAt": "2024-08-03T15:53:41Z",
         "content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl embajador chileno en Venezuela, Jaime Gazmuri, junto a un grupo de diplomáticos llegó este sábado al aeropuerto de Santiago tras la orden de exp… [+2283 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Melissa Velásquez Loaiza",
-        "title": "Resultados de las elecciones en Venezuela 2024, en vivo: última hora de Maduro, Edmundo González, manifestaciones y más",
-        "description": "Las protestas Venezuela expulsará a todo el personal diplomático de Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay tras las acusaciones de fraude electoral en las elecciones del domingo. Las protestas estallaron en varios puntos de…",
-        "url": "https://cnnespanol.cnn.com/2024/07/30/resultados-elecciones-en-venezuela-2024-en-vivo-ultima-hora-de-maduro-edmundo-gonzalez-manifestaciones-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163827358.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-30T04:11:36Z",
-        "content": "Manifestantes huyen de los gases lacrimógenos durante una protesta contra el gobierno del presidente Nicolás Maduro en Caracas el 29 de julio de 2024. Crédito: YURI CORTEZ/AFP vía Getty Images\r\nCrece… [+3037 chars]"
     },
     {
         "source": {
@@ -482,19 +404,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Venezuela retirará al personal diplomático de 7 países de Latinoamérica",
-        "description": "Caracas acusó a los gobiernos de estas naciones de estar comprometidos con \"los más sórdidos postulados ideológicos del fascismo internacional\".",
-        "url": "https://actualidad.rt.com/actualidad/517613-venezuela-retirar-personal-diplomatico-siete-paises",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66a8039059bf5b11aa37a895.jpg",
-        "publishedAt": "2024-07-29T20:56:49Z",
-        "content": "El Gobierno de Venezuela anunció el retiro de su personal diplomático en siete países latinoamericanos, a raíz de lo que calificó como \"injerencistas acciones y declaraciones\" por parte de \"gobiernos… [+1938 chars]"
-    },
-    {
-        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -505,19 +414,6 @@
         "urlToImage": "https://phantom-marca.unidadeditorial.es/6bff5c70801e8b7f46c2d0cd694300e1/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229377345100.jpg",
         "publishedAt": "2024-08-07T05:24:51Z",
         "content": "España y Francia disputarán este viernes (18:00 horas) la final del torneo olímpico masculino de fútbol en el Parque de los Príncipes de París. Será la decimosexta vez que dos potencias europeas disp… [+2499 chars]"
-    },
-    {
-        "source": {
-            "id": "marca",
-            "name": "Marca"
-        },
-        "author": "DAVID MENAYO",
-        "title": "Aimar Oroz, el pelotero que gana a las cartas",
-        "description": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a7d265268e3e23388b45b1.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/e32d8e22b89f9eec5d619f8b5811e7e2/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/29/17222817366724.jpg",
-        "publishedAt": "2024-07-30T05:02:43Z",
-        "content": "Aimar Oroz (Arazuri, 2001) está siendo uno de los nombres propios de la selección olímpica en París 2024, una cita que no entraba en los planes del centrocampista de Osasuna, pero que está intentando… [+2408 chars]"
     },
     {
         "source": {
@@ -586,19 +482,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Aristeguinoticias.com"
-        },
-        "author": "Redacción AN / MDS",
-        "title": "La OEA convoca a una reunión extraordinaria para abordar el proceso electoral en Venezuela",
-        "description": "El gobierno de Venezuela ordenó el retiro de los representantes diplomáticos de Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay tras cuestionar esos países los resultados electorales.",
-        "url": "https://aristeguinoticias.com/3007/mundo/la-oea-convoca-a-una-reunion-extraordinaria-para-abordar-el-proceso-electoral-en-venezuela/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/07/oea-latam-eleccione-venezuela-reunion-29072024.jpg",
-        "publishedAt": "2024-07-30T08:02:22Z",
-        "content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nLa Organización de los Estados Americanos (OEA), con sede en Washington, convocó una reunión extraordinaria para abordar los resultados de las elec… [+1779 chars]"
-    },
-    {
-        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -622,19 +505,6 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-24T21:57:31Z",
         "content": "(CNN Español) -- Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina. Agregó que por el momento … [+1063 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Sol Amaya",
-        "title": "Centro Carter cancela publicación de informe preliminar en Venezuela y retira su personal del país",
-        "description": "El Centro Carter, una de las pocas instituciones independientes autorizadas a monitorear las elecciones venezolanas, canceló la publicación de un informe preliminar programada para el martes por la mañana y está retirando a todo su personal del país, según un…",
-        "url": "https://cnnespanol.cnn.com/2024/07/30/centro-carter-cancela-informe-se-retira-de-venezuela-trax/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2163831996_d7b4a0.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-30T12:32:59Z",
-        "content": "Escepticismo en el mundo por las elecciones en Venezuela 1:21\r\n(CNN) -- El Centro Carter, una de las pocas instituciones independientes autorizadas a monitorear las elecciones venezolanas, canceló la… [+1087 chars]"
     },
     {
         "source": {
@@ -756,19 +626,6 @@
     {
         "source": {
             "id": null,
-            "name": "Aristeguinoticias.com"
-        },
-        "author": "Redacción AN / JOF",
-        "title": "Venezuela ordena retiro a diplomáticos de 7 países por cuestionar ‘triunfo’ de Maduro",
-        "description": "El gobierno de Maduro exigió a Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay \"el retiro, de manera inmediata, de sus representantes en territorio venezolano\", en rechazo a sus \"injerencistas acciones y declaraciones\" sobre las pre…",
-        "url": "https://aristeguinoticias.com/2907/mexico/venezuela-ordena-retiro-a-diplomaticos-de-7-paises-por-cuestionar-elecciones/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/07/Maduro-Eleccciones-Venezuela.jpg",
-        "publishedAt": "2024-07-29T21:25:35Z",
-        "content": "El Gobierno de Venezuela exigió este lunes a Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay “el retiro, de manera inmediata, de sus representantes en territorio venezolano… [+2505 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Marketingdirecto.com"
         },
         "author": "Redacción",
@@ -817,32 +674,6 @@
         "urlToImage": "https://s.libertaddigital.com/2024/03/15/1200/627/947x447/ld/presidente-gobierno-funciones-pedro-sanchez-junto-mujer-begona-gomez.jpg",
         "publishedAt": "2024-08-06T17:55:03Z",
         "content": "La asociación Hazte Oír, personada como acusación popular en el caso de la esposa del presidente del Gobierno Begoña Gómez, ha solicitado toda la información sobre los vuelos oficiales efectuados a l… [+5096 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost / Agencias",
-        "title": "Un muerto y estatuas de Chávez derribadas: así están las cosas en Venezuela",
-        "description": "<![CDATA[<p>Las últimas horas han sido muy tensas en Venezuela. Las fuerzas de seguridad han disparado gases lacrimógenos y balas de goma contra personas que protestaban por el controvertido resultado de las elecciones del domingo. Miles de ciudadanos llegaro…",
-        "url": "https://www.huffingtonpost.es/global/un-muerto-estatuas-chavez-derribadas-asi-cosas-venezuela.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/07/30/una-de-las-estatuas-de-hugo-chavez-atacada-por-un-manifestante.jpeg",
-        "publishedAt": "2024-07-30T08:22:11Z",
-        "content": "Las últimas horas han sido muy tensas en Venezuela. Las fuerzas de seguridad han disparado gases lacrimógenos y balas de goma contra personas que protestaban por el controvertido resultado de las ele… [+4873 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "urielblanco",
-        "title": "Fiscal de Venezuela acusa a María Corina Machado y Leopoldo López de supuesto sabotaje y ataque informático al CNE",
-        "description": "El fiscal general de Venezuela, Tarek William Saab, dijo, sin presentar prueba alguna, que hubo una \"agresión al sistema eléctrico y un ataque informático contra el sistema de transmisión de datos del Consejo Nacional Electoral\". La Fiscalía acusó a María Cor…",
-        "url": "https://cnnespanol.cnn.com/2024/07/29/fiscal-venezuela-acusa-maria-corina-machado-leopoldo-lopez-sobojate-ataque-informatico-cne-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/240326122811-maria-corina-machado-venezuela-lider-opositora-26-de-marzoi-full-169.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-29T17:29:29Z",
-        "content": "CNE da como ganador a Maduro en elecciones en Venezuela 3:02\r\n(CNN Español) -- El Ministerio Público de Venezuela investigará supuestos intentos de sabotaje a las elecciones presidenciales realizadas… [+2708 chars]"
     },
     {
         "source": {
@@ -928,19 +759,6 @@
             "name": "Finofilipino.org"
         },
         "author": "Fino",
-        "title": "La dictadura venezolana acaba de anunciar que suspende sus relaciones diplomáticas con Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay.",
-        "description": "Pues que vaya ampliando la lista, porque se viene otra ronda de disidentes… ÚLTIMA HORA | Noruega pide publicación y verificación independiente de los resultados electorales en Venezuela https://t.co/F6wQNexUG1 pic.twitter.com/edTtaLgbKZ — AlbertoRodNews (@Al…",
-        "url": "https://finofilipino.org/la-dictadura-venezolana-acaba-de-anunciar-que-suspende-sus-relaciones-diplomaticas-con-argentina-chile-costa-rica-peru-panama-republica-dominicana-y-uruguay/",
-        "urlToImage": "https://finofilipino.org/wp-content/uploads/2024/07/GTrrP0nWUAAsjev.jpeg",
-        "publishedAt": "2024-07-30T04:50:35Z",
-        "content": "Enviado por JoseO."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Finofilipino.org"
-        },
-        "author": "Fino",
         "title": "Salen a pescar con una lancha neumática desde El Hierro y acaban en un buque con destino a República Dominicana tras ser rescatados a 600 kilómetros",
         "description": "Salvamento Marítimo coordinó el rescate de tres personas que se encontraban en una lancha neumática, a unos 600 kilómetros de El Hierro, y que habían salido hacía tres días para practicar pesca. Un amigo alertó que había dejado de saber de ellos desde hacía t…",
         "url": "https://finofilipino.org/salen-a-pescar-con-una-lancha-neumatica-desde-el-hierro-y-acaban-en-un-buque-con-destino-a-republica-dominicana-tras-ser-rescatados-a-600-kilometros/",
@@ -960,19 +778,6 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/medallero-juegos-olimpicos-paris-2024-e1723394074204.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-11T16:38:46Z",
         "content": "Así fue el combate de semifinal del mexicano Marco Verde en París 2024 0:30\r\n(CNN Español) -- Estos Juegos Olímpicos dejaron historias de superación, nuevas disciplinas más cercanas a las audiencias … [+17608 chars]"
-    },
-    {
-        "source": {
-            "id": "marca",
-            "name": "Marca"
-        },
-        "author": "DAVID MENAYO",
-        "title": "Santi Denia se la lía al COI: que preparen 22 medallas",
-        "description": "Puede quedar raro hablar de medallas después de una derrota, pero quien escribe apostó por la medalla de oro para la selección masculina de fútbol y sigue en sus trece. El tropiezo",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/07/30/66a8dffb268e3e873e8b4592.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/70e48e705a55c2f8360c9eaf879d7b1b/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/30/17223468050788.jpg",
-        "publishedAt": "2024-07-30T15:02:15Z",
-        "content": "Puede quedar raro hablar de medallas después de una derrota, peroquien escribe apostó por la medalla de oro para la selección masculina de fútboly sigue en sus trece. El tropiezo ante Egipto no es má… [+3634 chars]"
     },
     {
         "source": {
@@ -1015,32 +820,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "¿Se abre la puerta para una reedición del Grupo de Lima tras la victoria de Maduro?",
-        "description": "Antes de conocerse los resultados de las presidenciales en el país suramericano, un grupo de presidentes y cancillerías mostró sus dudas sobre la fiabilidad del proceso comicial.",
-        "url": "https://actualidad.rt.com/actualidad/517565-abrir-puerta-reedicion-grupo-lima-venezuela",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.07/article/66a79d2ee9ff71246a0c6018.jpg",
-        "publishedAt": "2024-07-30T07:48:56Z",
-        "content": "El Gobierno venezolano anunció que \"se reserva todas acciones legales y políticas\" contra el grupo de siete países que tratan de \"reeditar el fracasado y derrotado Grupo de Lima\", con la finalidad de… [+7951 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Sopitas.com"
-        },
-        "author": "Gabriela Espinosa",
-        "title": "Venezuela expulsa a diplomáticos de estos 7 países",
-        "description": "Después de que el Consejo Nacional Electoral de Venezuela proclamó presidente a Nicolás Maduro, el gobierno anunció el rompimiento de relaciones diplomáticas y la expulsión del...\nThe post Venezuela expulsa a diplomáticos de estos 7 países appeared first on S…",
-        "url": "https://www.sopitas.com/noticias/venezuela-expulsa-diplomaticos-paises-elecciones-nicolas-maduro/",
-        "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/07/nicolas-maduro-venezuela-elecciones.jpg",
-        "publishedAt": "2024-07-29T23:45:55Z",
-        "content": "Después de que el Consejo Nacional Electoral de Venezuela proclamó presidente a Nicolás Maduro, el gobierno anunció el rompimiento de relaciones diplomáticas y la expulsión del personal en Argentina,… [+1128 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Www.abc.es"
         },
@@ -1064,19 +843,6 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66b0d0ca59bf5b54877f9010.jpg",
         "publishedAt": "2024-08-05T13:07:35Z",
         "content": "El Gobierno de Venezuela informó este lunes que llegó a un acuerdo con Brasil para que ese país custodie las misiones diplomáticas de Argentina y Perú que se encuentran en territorio venezolano.\r\nA t… [+1715 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "\"Un Guaidó 2.0\": Maduro ataca a la oposición por desconocer su victoria mientras el CNE lo proclama presidente reelecto de Venezuela",
-        "description": "El presidente de Venezuela señaló que se están dando los \"primeros pasos\" de desestabilización en su país \"por parte de la derecha local e internacional\".",
-        "url": "https://www.bbc.com/mundo/articles/c724k5glvwko",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/f04d/live/b50f69f0-4dcf-11ef-bacb-dda92a319362.jpg",
-        "publishedAt": "2024-07-29T19:32:49Z",
-        "content": "Fuente de la imagen, Reuters\r\nPie de foto, Maduro recibió el reconocimiento oficial de ganador por parte del Consejo Nacional Electoral.\r\nArticle information<ul><li>Author, Redacción</li><li>Role, BB… [+4424 chars]"
     },
     {
         "source": {
@@ -1116,19 +882,6 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/08/19/66c3666e85fdb.jpeg",
         "publishedAt": "2024-08-19T15:40:35Z",
         "content": "Ante el gran número de cambios que está sufriendo el Barça Atlètic, típicos de cada temporada en el filial culé, el equipo de Albert Sánchez se sigue reforzando para tratar de lograr ser lo más compe… [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Juanlu disputa la segunda mitad en la derrota de España ante Egipto",
-        "description": "La selección española de fútbol cayó derrotada este martes ante la de Egipto en la última jornada de la fase de grupos en el torneo de fútbol masculino de los Juegos Olímpicos de París 2024 . El sevillista Juanlu participó en el choque llegando a disputar la …",
-        "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/juanlu-disputa-segunda-mitad-derrota-espana-ante-20240730173118-nts.html",
-        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/deportes/2024/07/30/EgiptoEspanaJuanlu-U38722307168gUB-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-07-30T15:31:18Z",
-        "content": "La selección española de fútbol cayó derrotada este martes ante la de Egipto en la última jornada de la fase de grupos en el torneo de fútbol masculino de los Juegos Olímpicos de París 2024. El sevil… [+996 chars]"
     },
     {
         "source": {
@@ -1210,19 +963,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Elespanol.com"
-        },
-        "author": "S. D. | Agencias",
-        "title": "Maduro expulsa a los diplomáticos de 7 países latinoamericanos por no reconocer su victoria",
-        "description": "Los países afectados son Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay.",
-        "url": "https://www.elespanol.com/mundo/america/20240730/maduro-expulsa-diplomaticos-paises-latinoamericanos-no-reconocer-victoria/874412561_0.html",
-        "urlToImage": "https://s1.elespanol.com/2024/07/30/mundo/america/874422573_248131696_1706x960.jpg",
-        "publishedAt": "2024-07-30T05:52:32Z",
-        "content": "El Gobierno de Venezuela ha anunciado la expulsión de las representaciones diplomáticas de siete países latinoamericanos -Argentina, Chile, Costa Rica, Perú, Panamá, República Dominicana y Uruguay- a… [+1691 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1298,5 +1038,265 @@
         "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240821223644_1200.jpg",
         "publishedAt": "2024-08-21T20:36:44Z",
         "content": "Esperan que el Rey pueda visitar \"muy pronto\" Venezuela y citan la Transición española como \"ejemplo\" a seguir\r\n MADRID, 21 Ago. (EUROPA PRESS) - \r\n Los dirigentes opositores venezolanos María Corina… [+2393 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Europapress.es"
+        },
+        "author": null,
+        "title": "El Rey viaja a Santo Domingo para representar a España en la toma de posesión del presidente dominicano",
+        "description": "El Rey Felipe VI viajará este jueves a Santo Domingo, capital de República Dominicana, para representar a España durante la toma de posesión del presidente dominicano, Luis Abinader, que reeditará el cargo y comenzará su segunda legislatura al frente del Ejec…",
+        "url": "https://www.europapress.es/nacional/noticia-rey-viaja-santo-domingo-representar-espana-toma-posesion-presidente-dominicano-20240814111927.html",
+        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814111927_1200.jpg",
+        "publishedAt": "2024-08-14T09:19:27Z",
+        "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Rey Felipe VI viajará este jueves a Santo Domingo, capital de República Dominicana, para representar a España durante la toma de posesión del presidente dominic… [+844 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hola"
+        },
+        "author": "Ana Toro",
+        "title": "El rey Felipe, en una recepción a la que también han asistido Marc Anthony y Nadia Ferreira",
+        "description": "El Monarca se encuentra en República Dominicana con motivo de la toma de posesión del nuevo presidente, Luis Abinader",
+        "url": "https://www.hola.com/realeza/20240816713049/el-rey-felipe-en-una-recepcion-a-la-que-tambien-han-asistido-marc-anthony-y-nadia-ferreira/",
+        "urlToImage": "https://www.hola.com/horizon/landscape/0747baf43955-rey-marc.jpg?im=Resize=(1200)",
+        "publishedAt": "2024-08-16T16:30:43Z",
+        "content": "El rey Felipe VI ha llegado a Santo Domingo en la tarde de este jueves 15 de agosto para asistir a la toma de posesión del presidente de República Dominicana, Luis Abinader. El monarca aterrizó en el… [+2201 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aristeguinoticias.com"
+        },
+        "author": "Redacción AN / JGE",
+        "title": "Conoce el grupo de México para el Clásico Mundial de Béisbol 2026",
+        "description": "La edición 2026 del torneo internacional de béisbol se disputará del 5 al 17 de marzo. En el Clásico Mundial de 2023, México cayó eliminado en Semifinales ante Japón, vigente campeón.",
+        "url": "https://aristeguinoticias.com/2108/deportes/conoce-el-grupo-de-mexico-para-el-clasico-mundial-de-beisbol-2026/",
+        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/03/clasico-mundial-beisbol-mexico-25032023.png",
+        "publishedAt": "2024-08-21T19:02:39Z",
+        "content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl Clásico Mundial de Béisbol dio a conocer este miércoles los grupos para la próxima edición de su torneo, que será disputado del 5 al 17 de marzo… [+2600 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Ángel Mor Montolio",
+        "title": "Sandra Barneda se pronuncia sobre la nueva temporada de 'La isla de las tentaciones'",
+        "description": "Como líder destacado de su franja de emisión, mejorando en casi 2 puntos la anterior edición, arrasando entre los jóvenes y en target comercial y copando al 100 % el ranking de emisiones en diferido del año. Estas cifras sitúan al reality producido en colabor…",
+        "url": "https://www.mundodeportivo.com/elotromundo/television/20240808/1002295753/sandra-barneda-pronuncia-sobre-nueva-temporada-isla-tentaciones-dct.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/08/05/66b0fd4f0baa4.r_d.1824-978-3387.jpeg",
+        "publishedAt": "2024-08-08T21:03:11Z",
+        "content": "Como líder destacado de su franja de emisión, mejorando en casi 2 puntos la anterior edición, arrasando entre los jóvenes y en target comercial y copando al 100 % el ranking de emisiones en diferido … [+1632 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aristeguinoticias.com"
+        },
+        "author": "Redacción AN / ES",
+        "title": "Unión Europea y 22 países piden verificación imparcial de resultados electorales en Venezuela",
+        "description": "En un documento firmado por la UE y los 22 países se urge al respeto de los principios democráticos, así como los derechos humanos de los venezolanos.",
+        "url": "https://aristeguinoticias.com/1608/mundo/union-europea-y-22-paises-piden-verificacion-imparcial-de-resultados-electorales-en-venezuela/",
+        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/Union-Europea-22-paises-piden-verificacion-imparcial-resultados-electorales-Venezuela-16082024.jpg",
+        "publishedAt": "2024-08-16T23:26:28Z",
+        "content": "La Unión Europea y 22 países solicitaron este viernes la “inmediata publicación de todas las actas originales” de las elecciones del 28 de julio en Venezuela y la verificación “imparcial e independie… [+3763 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Javier Escartín",
+        "title": "El Gobierno defiende el papel de Zapatero en Venezuela: \"Hace una labor que se valora y se aprecia\"",
+        "description": "<![CDATA[<p>El ministro de Asuntos Exteriores, Unión Europea y Cooperación del Reino de España, José Manuel Albares, ha defendido este martes el papel del expresidente del Gobierno, José Luis Rodríguez Zapatero, como intermediario en el conflicto político ent…",
+        "url": "https://www.huffingtonpost.es/politica/el-gobierno-defiende-papel-zapatero-venezuela-hace-labor-valora-aprecia.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/13/zapatero-albares-y-pilar-alegria-el-pasado-19-de-enero.jpeg",
+        "publishedAt": "2024-08-13T09:22:46Z",
+        "content": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación del Reino de España, José Manuel Albares, ha defendido este martes el papel del expresidente del Gobierno, José Luis Rodríguez Zapatero,… [+2503 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost",
+        "title": "Las multas a las que te expones si traes estos souvenirs prohibidos a tu regreso a España",
+        "description": "<![CDATA[<p>Cuando uno se va de vacaciones siempre tiene la tentación de traerse un recuerdo. Sin embargo, muchas veces no nos conformamos con una camiseta o un objeto de decoración. Queremos llevarnos elementos que, realmente, no se pueden transportar. El di…",
+        "url": "https://www.huffingtonpost.es/sociedad/las-multas-te-expones-traes-souvenirs-prohibidos-regreso-espana.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/05/conchas-en-la-arena.jpeg",
+        "publishedAt": "2024-08-05T10:45:36Z",
+        "content": "Cuando uno se va de vacaciones siempre tiene la tentación de traerse un recuerdo. Sin embargo, muchas veces no nos conformamos con una camiseta o un objeto de decoración. Queremos llevarnos elementos… [+1944 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Andrea Cadenas de Llano Sosa",
+        "title": "Si quieres irte de España y seguir hablando el mismo idioma: conoce cuál es el país de Sudamérica más barato para vivir",
+        "description": "<![CDATA[<p>Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 2024 es Paraguay. wf_cms.rss.read_more]]>",
+        "url": "https://www.huffingtonpost.es/life/viajes/si-quieres-irte-espana-seguir-hablando-idioma-conoce-cual-pais-sudamerica-mas-barato-vivirbr.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/21/aerial-view-of-the-paraguayan-city-of-ciudad-del-este-and-friendship-bridge-connecting-paraguay-and-brazil-through-the-border-over-the-parana-river.jpeg",
+        "publishedAt": "2024-08-21T14:38:19Z",
+        "content": "Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 20… [+2306 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Maduro revela memorándum de entendimiento de la negociación con EE.UU. en Catar",
+        "description": "El documento, que no tiene carácter vinculante, recoge lo que al poco sería pactado entre el Gobierno y el ala extremista de la oposición venezolana en Barbados.",
+        "url": "https://actualidad.rt.com/actualidad/518070-maduro-revelar-memorandum-negociacion-eeuu",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66ac2ace59bf5b52182c7425.jpg",
+        "publishedAt": "2024-08-02T00:40:09Z",
+        "content": "El presidente venezolano, Nicolás Maduro, reveló este jueves el memorándum de entendimiento \"no vinculante\" que en 2023 suscribiera su administración con el Gobierno de los EE.UU. en Catar, orientado… [+2503 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
+        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
+        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
+        "publishedAt": "2024-08-15T10:53:18Z",
+        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "La Cepal ajusta a la baja el crecimiento económico de América Latina",
+        "description": "De acuerdo con un documento presentado por el organismo, Haití y Argentina son los únicos países que decrecerán este año.",
+        "url": "https://actualidad.rt.com/actualidad/519293-cepal-ajusta-baja-crecimiento-economico-latinomerica",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bb793659bf5b7a920f5feb.jpg",
+        "publishedAt": "2024-08-13T23:07:51Z",
+        "content": "La Comisión Económica para América Latina y el Caribe (Cepal) ajustó a la baja el crecimiento económico de la región para este año, según el último informe de la entidad, publicado este martes.\r\nDe a… [+2335 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Tierras raras: cómo EE.UU. busca apoderarse de los recursos estratégicos latinoamericanos",
+        "description": "Washington ha mostrado un gran interés en los minerales críticos, como el litio, imprescindibles para las tecnologías avanzadas, energías renovables y dispositivos electrónicos.",
+        "url": "https://actualidad.rt.com/actualidad/520439-tierras-raras-eeuu-busca-apoderarse-recursos-estrategicos-latinamericanos",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
+        "publishedAt": "2024-08-23T14:35:20Z",
+        "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "España - Japón: horario, canal de televisión y dónde ver online hoy el partido de fútbol masculino en los Juegos Olímpicos",
+        "description": "España sigue dando la pelea en el fútbol pese a quedar de segundo de grupo en los Juegos Olímpicos de París 2024 y clasificar por matemáticas a los cuartos de final. El reto es llevarse una medalla y seguir con la racha de los que ganaron la Eurocopa 2024. Lo…",
+        "url": "https://www.abc.es/deportes/juegos-olimpicos/espana-japon-horario-canal-television-donde-ver-partido-futbol-masculino-juegos-olimpicos-hoy-20240802165541-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/08/02/1484335436-kahG--1024x512@diario_abc.jpg",
+        "publishedAt": "2024-08-02T03:00:00Z",
+        "content": "España sigue dando la pelea en el fútbol pese a quedar de segundo de grupo en los Juegos Olímpicos de París 2024 y clasificar por matemáticas a los cuartos de final. El reto es llevarse una medalla y… [+1330 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Publico.es"
+        },
+        "author": "Público",
+        "title": "Albares urge al PP a dejar de difundir bulos sobre Venezuela y a respaldar la acción del Gobierno",
+        "description": "En su comparecencia ante la comisión de Asuntos Exteriores del Senado, el ministro ha destacado el compromiso del Gobierno con la democracia en el país latinoamericano.",
+        "url": "https://www.publico.es/politica/albares-urge-pp-dejar-difundir-bulos-venezuela-respaldar-accion-gobierno.html",
+        "urlToImage": "https://www.publico.es/uploads/2024/08/13/66bb5d2e188b1.jpeg",
+        "publishedAt": "2024-08-13T13:21:00Z",
+        "content": "El ministro de Asuntos Exteriores, José Manuel Albares, ha instado este martes al Partido Popular a actuar con responsabilidad y a cesar en la difusión de desinformación y bulos en relación con Venez… [+1865 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Albares vuelve a dejar solo al Rey: no irá a la toma de posesión del dominicano Abinader",
+        "description": "Nuevo plantón de José Manuel Albares a Felipe VI. El ministro de Asuntos Exteriores, UE y Cooperación vuelve a dejar sólo al Rey en un viaje oficial y no le acompañará este viernes por la tarde en la toma de posesión del presidente de República Dominicana Lui…",
+        "url": "https://www.abc.es/espana/albares-vuelve-dejar-solo-rey-ira-toma-20240814192827-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/08/14/albares-khaG--1024x512@diario_abc.jpg",
+        "publishedAt": "2024-08-14T17:28:27Z",
+        "content": "Nuevo plantón de José Manuel Albares a Felipe VI. El ministro de Asuntos Exteriores, UE y Cooperación vuelve a dejar sólo al Rey en un viaje oficial y no le acompañará este viernes por la tarde en la… [+588 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "El Financiero"
+        },
+        "author": "Arturo Bárcenas",
+        "title": "Vende Cemex operaciones en República Dominicana en 950 mdd",
+        "description": "La cementera espera que la transacción concluya al cierre del cuarto trimestre.",
+        "url": "https://www.elfinanciero.com.mx/monterrey/2024/08/05/vende-cemex-operaciones-en-republica-dominicana-en-950-mdd/",
+        "urlToImage": "https://www.elfinanciero.com.mx/resizer/K9V_V0laWOKp7GEjCO4tzcNZ7vE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BEEGFQLCQZHZTHEWIFBNQE7IHM.jpg",
+        "publishedAt": "2024-08-05T15:19:52Z",
+        "content": "Cemex firmó un acuerdo para la venta de sus operaciones en la República Dominicana, por un monto total aproximado de 950 millones de dólares y la a transacción incluye el negocio de exportación a Hai… [+1168 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Criptonoticias.com"
+        },
+        "author": "Jesús Herrera",
+        "title": "Cada vez más comercios de República Dominicana están aceptando bitcoin",
+        "description": "Hasta ahora, 41 negocios aceptan bitcoin y criptomonedas como medio de pago en la isla quisqueyana.\nLeer más",
+        "url": "https://www.criptonoticias.com/comunidad/adopcion/comercios-republicadominicana-aceptando-bitcoin/",
+        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
+        "publishedAt": "2024-08-16T19:19:59Z",
+        "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
+    },
+    {
+        "source": {
+            "id": "la-nacion",
+            "name": "La Nacion"
+        },
+        "author": null,
+        "title": "La OEA no logró consenso para aprobar una resolución que pedía transparencia al régimen de Venezuela",
+        "description": "La abstención de Brasil y Colombia, sumada a la ausencia de México, entre otros, frustraron la votación de una medida de reclamo al gobierno de Maduro, en medio de las acusaciones de fraude en los comicios presidenciales del domingo",
+        "url": "https://www.lanacion.com.ar/el-mundo/la-oea-no-logro-consenso-para-aprobar-una-resolucion-que-pida-transparencia-al-regimen-de-venezuela-nid31072024/",
+        "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-presidente-de-venezuela-nicolas-maduro-FUG3JQFP2RDKXIICGBDYD56UIE.JPG?auth=a3d4fcdf60d3fdfb256e1f5f7d56307a0cc86831f3ae0a9ae6c582f1e338c383&width=768&quality=70&smart=false",
+        "publishedAt": "2024-07-31T22:25:58Z",
+        "content": "WASHINGTON.- Por la notoria abstención de Brasil y Colombia, y la ausencia de México, la Organización de los Estados Americanos (OEA) no logró en Washington la aprobación de una resolución para pedir… [+2976 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elespanol.com"
+        },
+        "author": "Fran G. Matas",
+        "title": "¿A qué hora exacta sale Black Myth: Wukong en PS5 y PC? ¿Cuándo llegará a Xbox?",
+        "description": "<!--cache-->Black Myth: Wukong, la aventura de acción de Game Science inspirada en la mitología china, se estrena primero en PC y PlayStation 5 durante la noche del 20 de agosto.<!--aa--->Black Myth: Wukong es uno de los RPG de acción más esperados del año. D…",
+        "url": "https://vandal.elespanol.com/noticia/1350773614/a-que-hora-exacta-sale-black-myth-wukong-en-ps5-y-pc-cuando-llegara-a-xbox/",
+        "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2024/19/202481916493918_1.jpg",
+        "publishedAt": "2024-08-19T15:06:00Z",
+        "content": "Black Myth: Wukong es uno de los RPG de acción más esperados del año. Desarrollado por el estudio chino Game Science, narra una aventura inspirada en la mitología china formada en la novela Viaje al … [+4564 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "España y otros países como EE.UU. instan a Venezuela a liberar a presos y a publicar las actas electorales",
+        "description": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido detenidos, «incluidos representantes de la oposición», en el marc…",
+        "url": "https://www.abc.es/internacional/espana-paises-eeuu-instan-venezuela-liberar-presos-20240816210639-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/16/maduro-elecciones-k8MB--1024x512@diario_abc.JPG",
+        "publishedAt": "2024-08-16T19:06:39Z",
+        "content": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido deten… [+4408 chars]"
     }
 ]
