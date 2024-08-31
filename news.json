@@ -14,6 +14,19 @@
     },
     {
         "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Israel Zaballa",
+        "title": "El 'arca de Noé de los corales' está en un hotel cinco estrellas del Caribe: \"Una ciencia muy necesaria en un lugar muy inesperado\"",
+        "description": "Hace unos cinco años, tuvo lugar una carrera a vida o muerte para salvar los arrecifes de coral de la República Dominicana. Desprovistos de aletas o extremidades, los corales no...",
+        "url": "https://www.elmundo.es/papel/historias/2024/08/30/66d19c5ffdddff6e768b457e.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/585d3537dca7b1421e7a64b1e6efe874/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/30/17250387970820.jpg",
+        "publishedAt": "2024-08-30T20:56:09Z",
+        "content": "Hace unos cinco años, tuvo lugar una carrera a vida o muerte para salvar los arrecifes de coral de la República Dominicana. Desprovistos de aletas o extremidades, los corales no pueden huir del pelig… [+376 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1032,12 +1045,12 @@
             "name": "Europapress.es"
         },
         "author": null,
-        "title": "El Rey viaja a Santo Domingo para representar a España en la toma de posesión del presidente dominicano",
-        "description": "El Rey Felipe VI viajará este jueves a Santo Domingo, capital de República Dominicana, para representar a España durante la toma de posesión del presidente dominicano, Luis Abinader, que reeditará el cargo y comenzará su segunda legislatura al frente del Ejec…",
-        "url": "https://www.europapress.es/nacional/noticia-rey-viaja-santo-domingo-representar-espana-toma-posesion-presidente-dominicano-20240814111927.html",
-        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814111927_1200.jpg",
-        "publishedAt": "2024-08-14T09:19:27Z",
-        "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Rey Felipe VI viajará este jueves a Santo Domingo, capital de República Dominicana, para representar a España durante la toma de posesión del presidente dominic… [+844 chars]"
+        "title": "Los líderes opositores de Venezuela agradecen a Felipe VI su \"nítido\" apoyo \"a la democracia y la libertad\"",
+        "description": "Los dirigentes opositores venezolanos María Corina Machado y Edmundo González Urrutia han agradecido por carta al Rey Felipe VI su apoyo a \"la lucha por la democracia y la libertad\" en Venezuela, al considerar que el comunicado conjunto suscrito la semana pas…",
+        "url": "https://www.europapress.es/internacional/noticia-lideres-opositores-venezuela-agradecen-felipe-vi-nitido-apoyo-democracia-libertad-20240821223644.html",
+        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240821223644_1200.jpg",
+        "publishedAt": "2024-08-21T20:36:44Z",
+        "content": "Esperan que el Rey pueda visitar \"muy pronto\" Venezuela y citan la Transición española como \"ejemplo\" a seguir\r\n MADRID, 21 Ago. (EUROPA PRESS) - \r\n Los dirigentes opositores venezolanos María Corina… [+2393 chars]"
     },
     {
         "source": {
@@ -1045,12 +1058,12 @@
             "name": "Europapress.es"
         },
         "author": null,
-        "title": "Los líderes opositores de Venezuela agradecen a Felipe VI su \"nítido\" apoyo \"a la democracia y la libertad\"",
-        "description": "Los dirigentes opositores venezolanos María Corina Machado y Edmundo González Urrutia han agradecido por carta al Rey Felipe VI su apoyo a \"la lucha por la democracia y la libertad\" en Venezuela, al considerar que el comunicado conjunto suscrito la semana pas…",
-        "url": "https://www.europapress.es/internacional/noticia-lideres-opositores-venezuela-agradecen-felipe-vi-nitido-apoyo-democracia-libertad-20240821223644.html",
-        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240821223644_1200.jpg",
-        "publishedAt": "2024-08-21T20:36:44Z",
-        "content": "Esperan que el Rey pueda visitar \"muy pronto\" Venezuela y citan la Transición española como \"ejemplo\" a seguir\r\n MADRID, 21 Ago. (EUROPA PRESS) - \r\n Los dirigentes opositores venezolanos María Corina… [+2393 chars]"
+        "title": "El Rey viaja a Santo Domingo para representar a España en la toma de posesión del presidente dominicano",
+        "description": "El Rey Felipe VI viajará este jueves a Santo Domingo, capital de República Dominicana, para representar a España durante la toma de posesión del presidente dominicano, Luis Abinader, que reeditará el cargo y comenzará su segunda legislatura al frente del Ejec…",
+        "url": "https://www.europapress.es/nacional/noticia-rey-viaja-santo-domingo-representar-espana-toma-posesion-presidente-dominicano-20240814111927.html",
+        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814111927_1200.jpg",
+        "publishedAt": "2024-08-14T09:19:27Z",
+        "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Rey Felipe VI viajará este jueves a Santo Domingo, capital de República Dominicana, para representar a España durante la toma de posesión del presidente dominic… [+844 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2024/19/202481916493918_1.jpg",
         "publishedAt": "2024-08-19T15:06:00Z",
         "content": "Black Myth: Wukong es uno de los RPG de acción más esperados del año. Desarrollado por el estudio chino Game Science, narra una aventura inspirada en la mitología china formada en la novela Viaje al … [+4564 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "España y otros países como EE.UU. instan a Venezuela a liberar a presos y a publicar las actas electorales",
-        "description": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido detenidos, «incluidos representantes de la oposición», en el marc…",
-        "url": "https://www.abc.es/internacional/espana-paises-eeuu-instan-venezuela-liberar-presos-20240816210639-nt.html",
-        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/16/maduro-elecciones-k8MB--1024x512@diario_abc.JPG",
-        "publishedAt": "2024-08-16T19:06:39Z",
-        "content": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido deten… [+4408 chars]"
     }
 ]
