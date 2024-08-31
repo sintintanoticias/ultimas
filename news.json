@@ -548,19 +548,6 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Perú se convierte en el primer país en considerar a Edmundo González como \"presidente electo\" de Venezuela y denuncia que Nicolás Maduro cometió \"fraude\"",
-        "description": "\"Esta posición es compartida por numerosos países, gobiernos y organismos internacionales\", dijo Javier González-Olaechea, canciller del país sudamericano.",
-        "url": "https://www.bbc.com/mundo/articles/c6p24vjwj3vo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/5303/live/077db9c0-4eb2-11ef-89d7-8f079f0ef96e.jpg",
-        "publishedAt": "2024-07-30T21:07:20Z",
-        "content": "Fuente de la imagen, Getty Images\r\nPie de foto, El canciller peruano, Javier González-Olaechea.\r\nArticle information<ul><li>Author, Redacción</li><li>Role, BBC News Mundo</li><li>30 julio 2024, 20:26… [+3416 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Nacion.com"
         },
         "author": "AFP",
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2024/19/202481916493918_1.jpg",
         "publishedAt": "2024-08-19T15:06:00Z",
         "content": "Black Myth: Wukong es uno de los RPG de acción más esperados del año. Desarrollado por el estudio chino Game Science, narra una aventura inspirada en la mitología china formada en la novela Viaje al … [+4564 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "España y otros países como EE.UU. instan a Venezuela a liberar a presos y a publicar las actas electorales",
+        "description": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido detenidos, «incluidos representantes de la oposición», en el marc…",
+        "url": "https://www.abc.es/internacional/espana-paises-eeuu-instan-venezuela-liberar-presos-20240816210639-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/16/maduro-elecciones-k8MB--1024x512@diario_abc.JPG",
+        "publishedAt": "2024-08-16T19:06:39Z",
+        "content": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido deten… [+4408 chars]"
     }
 ]
