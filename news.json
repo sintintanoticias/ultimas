@@ -576,19 +576,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Argentina denuncia “hostigamiento” a su embajada en Venezuela",
-        "description": "(CNN Español) -- El Gobierno de Argentina denunció este martes \"el hostigamiento\" que padece su embajada en Caracas, Venezuela, desde el lunes y acusó al Gobierno del presidente Nicolás Maduro de interrumpir el suministro eléctrico en la sede diplomática. \"Al…",
-        "url": "https://cnnespanol.cnn.com/2024/07/31/argentina-denuncia-hostigamiento-a-su-embajada-en-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-1207394477-e1722445422785.jpg?quality=100&strip=info",
-        "publishedAt": "2024-07-31T17:10:31Z",
-        "content": "OPINIÓN | Jorge Castañeda: Todo sugiere que los resultados electorales en Venezuela son falsos 1:21\r\n(CNN Español) -- El Gobierno de Argentina denunció este martes \"el hostigamiento\" que padece su em… [+1583 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "China pide “respetar la voluntad del pueblo venezolano” tras la sentencia del Tribunal Supremo de Justicia",
         "description": "El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"derecho a elegir su propio camino de desarrollo\", anunció el portavoz de la Cancillería en un mensaje compartido en X.\nThe post China pide “respetar la voluntad d…",
@@ -635,19 +622,6 @@
         "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2024/08/Diseno-sin-titulo-60.jpg",
         "publishedAt": "2024-08-09T08:15:55Z",
         "content": "El Ojo permite un descuento especial del 40% por adquisición anticipada hasta el 31 de agosto.El Ojo anuncia un nuevo plazo para participar hasta 31 de agosto. Se podrá inscribir con el beneficio de … [+5076 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
     },
     {
         "source": {
@@ -934,32 +908,6 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/16/a-woman-waves-a-venezuelan-flag.jpeg",
         "publishedAt": "2024-08-16T19:23:15Z",
         "content": "España deja clara su postura con respecto a la situación que vive Venezuela al firmar una declaración conjunta con EEUU y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la vio… [+4606 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Ramón Fuentes de Juan",
-        "title": "Espen Eskas, el árbitro del Brasil-España",
-        "description": "Esta tarde se cierra la fase de grupos la selección española de Montse Tomé en los Juegos de París. Lo hace, habiéndose ya clasificado para la siguiente eliminatoria, pero en un auténtico partidazo ante Brasil. La selección canarinha está encabezada por Marta…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240731/1002290701/arbitro-brasil-espana.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/31/66aa25097e83e.r_d.528-236-12500.jpeg",
-        "publishedAt": "2024-07-31T11:50:58Z",
-        "content": "Esta tarde se cierra la fase de grupos la selección española de Montse Tomé en los Juegos de París. Lo hace, habiéndose ya clasificado para la siguiente eliminatoria, pero en un auténtico partidazo a… [+1870 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Jornada.com.mx"
-        },
-        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-        "title": "Biden y Lula piden la “divulgación inmediata” de las actas electorales",
-        "description": "Río de Janeiro. El presidente de Brasil, Luiz Inácio Lula da Silva, y su par de Estados Unidos, Joe Biden, pidieron ayer la divulgación “inmediata” de las actas electorales en Venezuela, al aumentar la presión contra la república bolivariana tras los comicios…",
-        "url": "https://www.jornada.com.mx/2024/07/31/mundo/026n2mun",
-        "urlToImage": "https://www.jornada.com.mx/2024/07/31/fotos/026n2mun-1.jpg",
-        "publishedAt": "2024-07-31T10:23:45Z",
-        "content": "Periódico La JornadaMiércoles 31 de julio de 2024, p. 26\r\nRío de Janeiro. El presidente de Brasil, Luiz Inácio Lula da Silva, y su par de Estados Unidos, Joe Biden, pidieron ayer la divulgación inmed… [+4166 chars]"
     },
     {
         "source": {
@@ -1298,5 +1246,57 @@
         "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/16/maduro-elecciones-k8MB--1024x512@diario_abc.JPG",
         "publishedAt": "2024-08-16T19:06:39Z",
         "content": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido deten… [+4408 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Criptonoticias.com"
+        },
+        "author": "Jesús Herrera",
+        "title": "“No nos parece que bitcoin y las criptomonedas pretendan reemplazar al peso dominicano”",
+        "description": "El superintendente de bancos República Dominicana, Alejandro Fernández, enfatiza que los criptoactivos “no son monedas”.\nLeer más",
+        "url": "https://www.criptonoticias.com/finanzas/bitcoin-criptomonedas-reemplazo-peso-republicadominicana-alejandrofernandez/",
+        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/superintendente-bancos-republicadominicana.png",
+        "publishedAt": "2024-08-21T13:49:07Z",
+        "content": "Hechos clave:\r\n<ul><li>Fernández afirma que es necesario alertar de los riesgos de las criptomonedas. \r\n</li><li>El superintendente ligó el uso de criptoactivos a las actividades ilícitas.\r\n</li></ul… [+5951 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Ángel Mor Montolio",
+        "title": "El nuevo proyecto profesional de César Muñoz en Telecinco tras el final de 'Así es la vida'",
+        "description": "'Así es la vida' se despedía el pasado 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javier Vázquez volverá a las tardes de Telecinco para presentar …",
+        "url": "https://www.mundodeportivo.com/elotromundo/television/20240817/1002299717/nuevo-proyecto-profesional-cesar-munoz-telecinco-final-asi-vida-dct.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3c42100693.r_d.960-540-6250.jpeg",
+        "publishedAt": "2024-08-17T08:15:32Z",
+        "content": "'Así es la vida' se despedía el pasado 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javi… [+1742 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "Chic",
+        "title": "¿Quién es Ninoska Vásquez, la modelo antichavista que ha conquistado Marbella?",
+        "description": "La modelo venezolana ha sido una de las granes protagonistas de la nueva edición del festival Starlite en Marbella, donde acudió ataviada con la bandera de su país donde escribió \"SOS Venezuela\". Descubrimos quién es esta espectacular modelo que ha acaparado …",
+        "url": "https://www.libertaddigital.com/chic/corazon/2024-08-07/quien-ninoska-vasquez-la-espectacular-modelo-venezolana-que-ha-conquistado-marbella-7153543/",
+        "urlToImage": "https://s.libertaddigital.com/2024/08/06/1200/627/chic/ninoska-vasquez-galeria-10.png",
+        "publishedAt": "2024-08-07T06:33:19Z",
+        "content": "Pero lo cierto es que Ninoksa Vásquez conoce de cerca la fama y los focos, pues en Latinoamérica toda una celebridad debido a su relación con el representante Vicente Saavedra, ex de Clarissa Molina,… [+129 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jenesaispop.com"
+        },
+        "author": "Jordi Bardají",
+        "title": "Por qué ‘Rosas’ de La Oreja se ha colado en el global de Spotify",
+        "description": "Hace unos días informábamos del regreso de ‘Rosas’, el éxito de La Oreja de Van Gogh de 2003, a la lista oficial de singles de España, en un puesto 70. Este dato es inmediatamente posterior a la recuperación de ‘Rosas’ en uno de los cuatro masivos conciertos …",
+        "url": "https://jenesaispop.com/2024/08/04/480066/oreja-global-rosas/",
+        "urlToImage": "https://jenesaispop.com/wp-content/uploads/2024/08/la-oreja-2.jpg",
+        "publishedAt": "2024-08-04T14:32:00Z",
+        "content": "Hace unos días informábamos del regreso de ‘Rosas’, el éxito de La Oreja de Van Gogh de 2003, a la lista oficial de singles de España, en un puesto 70. Este dato es inmediatamente posterior a la recu… [+1985 chars]"
     }
 ]
