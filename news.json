@@ -316,19 +316,6 @@
             "id": null,
             "name": "Trendencias.com"
         },
-        "author": "Carlos Pérez",
-        "title": "Comida a domicilio y colegueo entre presos: la realidad de Daniel Sancho en la cárcel de Koh Samui",
-        "description": "Se cumple un año desde aquel fatídico día. El dos de agosto de 2023, Daniel Sancho se citaban en un hotel de República Dominicana. Al parecer, mantenían algún tipo de relación que nadie ha logrado descifrar. Hicieron el check-in, accedieron a su habitación y …",
-        "url": "https://www.trendencias.com/celebrities/comida-a-domicilio-colegueo-presos-realidad-daniel-sancho-carcel-koh-samui",
-        "urlToImage": "https://i.blogs.es/caf8f3/photo-output-129/840_560.jpeg",
-        "publishedAt": "2024-08-02T07:47:01Z",
-        "content": "Se cumple un año desde aquel fatídico día. El dos de agosto de 2023, Daniel Sancho se citaban en un hotel de República Dominicana. Al parecer, mantenían algún tipo de relación que nadie ha logrado de… [+2114 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Trendencias.com"
-        },
         "author": "Pablo Naranjo",
         "title": "Felipe VI y Letizia Ortiz: la prensa alemana juzga así a los reyes tras la muerte de Juan Gómez-Acebo",
         "description": "La reina Sofía ha sido el único miembro de la familia real que ha asistido al funeral de Juan Gómez-Acebo, fallecido ayer lunes 12 de agosto a los 54 años de edad tras perder la batalla contra un cáncer. Recordemos que su muerte llega apenas cinco meses despu…",
@@ -427,19 +414,6 @@
         "urlToImage": "https://phantom-elmundo.unidadeditorial.es/badd454c677a21dbabbedec70b5c1b08/crop/0x178/3069x2224/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/06/17229289175241.jpg",
         "publishedAt": "2024-08-06T07:22:41Z",
         "content": "La asociación ultracatólica Hazte Oír ha ampliado su querella contra Begoña Gómez, mujer del presidente del Gobierno, Pedro Sánchez, para que se investigue un contrato público adjudicado a Globalia, … [+1753 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Sergio Ruiz Martínez",
-        "title": "España - Japón: horario y dónde ver por TV hoy el partido de fútbol de los Juegos Olímpicos de París 2024",
-        "description": "La selección española ya está en cuartos de final de París 2024, donde se medirá a la peligrosa Japón después de quedar como segunda clasificada del Grupo C. España logró sus victorias contra Uzbekistán (en el debut por 2-1) y ante República Dominicana (1-3),…",
-        "url": "https://www.mundodeportivo.com/horarios/futbol/20240802/1002290939/horario-donde-ver-tv-espana-japon-juegos-olimpicos-2024.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/08/01/66ab5b582e0d8.r_d.1289-860-4653.jpeg",
-        "publishedAt": "2024-08-02T05:54:41Z",
-        "content": "La selección española ya está en cuartos de final de París 2024, donde se medirá a la peligrosa Japón después de quedar como segunda clasificada del Grupo C. España logró sus victorias contra Uzbekis… [+2453 chars]"
     },
     {
         "source": {
@@ -1298,5 +1272,31 @@
         "urlToImage": null,
         "publishedAt": "1970-01-01T00:00:00Z",
         "content": "[Removed]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Lavozdegalicia.es"
+        },
+        "author": "La Voz",
+        "title": "El pescador que halló un cayuco con 14 muertos: «No me creía lo que estaba viendo»",
+        "description": "El trabajador y un compañero suyo fueron quienes se toparon con la embarcación, avistaron el gran número de cadáveres y el olor que desprendían, y decidieron avisar a las autoridades rápidamente",
+        "url": "https://www.lavozdegalicia.es/noticia/internacional/2024/08/09/pescador-hallo-cayuco-14-muertos-me-creia-viendo/00031723201040249626529.htm",
+        "urlToImage": "https://img.lavdg.com/sc/amAg5eEwLgFLaPxdEkaN0G82-ew=/1280x/2024/07/18/00121721333521332931112/Foto/efe_20240718_175844937.jpg",
+        "publishedAt": "2024-08-09T11:09:00Z",
+        "content": "Luis Alberto Polanco, el pescador de República Dominicana que alertó a las autoridades del hallazgo de un cayuco con 14 cadáveres el pasado martes, «no se creía» lo que estaba viendo y sintió «lástim… [+2928 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Lula: \"El compromiso con la paz es el que nos lleva a pedir un diálogo en Venezuela\"",
+        "description": "El mandatario sostuvo un encuentro en la capital chilena con su par Gabriel Boric.",
+        "url": "https://actualidad.rt.com/actualidad/518437-lula-comprometer-paz-pedir-dialogo-venezuela",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66b11a7fe9ff712c106a9fe0.jpg",
+        "publishedAt": "2024-08-05T20:26:44Z",
+        "content": "El presidente de Brasil, Luiz Inácio Lula da Silva, de visita en Chile, donde sostuvo un encuentro con su par Gabriel Boric, se refirió a la posición conjunta que tiene con los gobiernos de Colombia … [+2832 chars]"
     }
 ]
