@@ -443,6 +443,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Venezuela acusa a EE.UU. de \"piratería\" por confiscación \"ilegal\" del avión de Maduro",
+        "description": "Caracas señaló que Washington justicia sus acciones con \"las medidas coercitivas que de manera unilateral e ilegal, impone alrededor del mundo\".",
+        "url": "https://actualidad.rt.com/actualidad/521484-venezuela-eeuu-pirateria-confiscacion-avion-maduro",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66d6252ce9ff717b5f3fb057.jpg",
+        "publishedAt": "2024-09-02T20:47:24Z",
+        "content": "El Gobierno de Venezuela calificó este lunes como un acto de \"piratería\" la confiscación que \"ilegalmente\" ejecutó EE.UU. al avión que utilizaba el presidente venezolano, Nicolás Maduro.\r\nA través de… [+2617 chars]"
+    },
+    {
+        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -872,6 +885,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Musk amenaza al Gobierno de Brasil: \"Espero que a Lula le gusten los vuelos comerciales\"",
+        "description": "El magnate adjuntó un reporte sobre la reciente incautación del avión presidencial de Nicolás Maduro por las autoridades de EE.UU.",
+        "url": "https://actualidad.rt.com/actualidad/521479-musk-amenaza-gobierno-brasil-lula-vuelos",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66d61edfe9ff717b5f3fb054.jpg",
+        "publishedAt": "2024-09-02T20:59:09Z",
+        "content": "El magnate Elon Musk buscará que EE.UU. confisque activos pertenecientes al Gobierno de Brasil en medio de la suspensión de la red social X (antes Twitter) en el país latinoamericano.\r\n\"A menos que e… [+1601 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Mundodeportivo.com"
         },
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://s1.elespanol.com/2024/09/02/mundo/america/eeuu/882922396_248875358_1706x960.jpg",
         "publishedAt": "2024-09-02T16:12:44Z",
         "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó… [+882 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Criptonoticias.com"
-        },
-        "author": "Jesús Herrera",
-        "title": "“No nos parece que bitcoin y las criptomonedas pretendan reemplazar al peso dominicano”",
-        "description": "El superintendente de bancos República Dominicana, Alejandro Fernández, enfatiza que los criptoactivos “no son monedas”.\nLeer más",
-        "url": "https://www.criptonoticias.com/finanzas/bitcoin-criptomonedas-reemplazo-peso-republicadominicana-alejandrofernandez/",
-        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/superintendente-bancos-republicadominicana.png",
-        "publishedAt": "2024-08-21T13:49:07Z",
-        "content": "Hechos clave:\r\n<ul><li>Fernández afirma que es necesario alertar de los riesgos de las criptomonedas. \r\n</li><li>El superintendente ligó el uso de criptoactivos a las actividades ilícitas.\r\n</li></ul… [+5951 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Ángel Mor Montolio",
-        "title": "El nuevo proyecto profesional de César Muñoz en Telecinco tras el final de 'Así es la vida'",
-        "description": "'Así es la vida' se despedía el pasado 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javier Vázquez volverá a las tardes de Telecinco para presentar …",
-        "url": "https://www.mundodeportivo.com/elotromundo/television/20240817/1002299717/nuevo-proyecto-profesional-cesar-munoz-telecinco-final-asi-vida-dct.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3c42100693.r_d.960-540-6250.jpeg",
-        "publishedAt": "2024-08-17T08:15:32Z",
-        "content": "'Así es la vida' se despedía el pasado 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javi… [+1742 chars]"
     }
 ]
