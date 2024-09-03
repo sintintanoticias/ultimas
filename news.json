@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Efe",
+        "title": "EEUU confisca el avión oficial de Maduro por las sanciones que pesan contra Venezuela",
+        "description": "Estados Unidos ha confiscado en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre...",
+        "url": "https://www.elmundo.es/internacional/2024/09/02/66d5e7f521efa0a51d8b4580.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/6d2aec40a22579c42d94d4696c68bf4e/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/02/17252946163359.jpg",
+        "publishedAt": "2024-09-02T16:31:33Z",
+        "content": "Estados Unidos ha confiscado en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según ha informado l… [+2805 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Xataka.com"
         },
@@ -131,6 +144,19 @@
     },
     {
         "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Eduardo Álvarez",
+        "title": "La extraña polémica por el traje del Rey Felipe VI en la toma de posesión del presidente dominicano",
+        "description": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el...",
+        "url": "https://www.elmundo.es/internacional/2024/08/19/66c3085321efa0290c8b4580.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/12f024808461ecc48a26fabf88f9f855/f/webp/assets/multimedia/imagenes/2024/08/19/17240576028077.jpg",
+        "publishedAt": "2024-08-19T09:09:39Z",
+        "content": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el pasado viernes cuando asis… [+6304 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Eldiario.es"
         },
@@ -144,16 +170,16 @@
     },
     {
         "source": {
-            "id": "el-mundo",
-            "name": "El Mundo"
+            "id": null,
+            "name": "Huffingtonpost.es"
         },
-        "author": "Eduardo Álvarez",
-        "title": "La extraña polémica por el traje del Rey Felipe VI en la toma de posesión del presidente dominicano",
-        "description": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el...",
-        "url": "https://www.elmundo.es/internacional/2024/08/19/66c3085321efa0290c8b4580.html",
-        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/12f024808461ecc48a26fabf88f9f855/f/webp/assets/multimedia/imagenes/2024/08/19/17240576028077.jpg",
-        "publishedAt": "2024-08-19T09:09:39Z",
-        "content": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el pasado viernes cuando asis… [+6304 chars]"
+        "author": "Redacción HuffPost / EFE",
+        "title": "EEUU confisca el avión de Nicolás Maduro en República Dominicana",
+        "description": "<![CDATA[<p>El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  wf_cms.rss.read_more]]>",
+        "url": "https://www.huffingtonpost.es/global/eeuu-confiscael-avion-nicolas-maduro-republica-dominicana.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/02/nicolas-maduro-en-un-acto-reciente.jpeg",
+        "publishedAt": "2024-09-02T16:56:43Z",
+        "content": "El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  \r\nLa aeronave ha sido trasladada hasta un aeropuerto en … [+989 chars]"
     },
     {
         "source": {
@@ -609,6 +635,19 @@
         "urlToImage": "https://s.libertaddigital.com/2024/03/15/1200/627/947x447/ld/presidente-gobierno-funciones-pedro-sanchez-junto-mujer-begona-gomez.jpg",
         "publishedAt": "2024-08-06T17:55:03Z",
         "content": "La asociación Hazte Oír, personada como acusación popular en el caso de la esposa del presidente del Gobierno Begoña Gómez, ha solicitado toda la información sobre los vuelos oficiales efectuados a l… [+5096 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "LD / Agencias",
+        "title": "EEUU confisca el avión de Nicolás Maduro en la República Dominicana",
+        "description": "El avión, cuyo costo se estima en alrededor de 13 millones de dólares, había estado en la República Dominicana en los últimos meses.",
+        "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-09-02/eeuu-confisca-el-avion-de-nicolas-maduro-en-la-republica-dominicana-7160067/",
+        "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
+        "publishedAt": "2024-09-02T17:00:23Z",
+        "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
     },
     {
         "source": {
@@ -1159,6 +1198,19 @@
     {
         "source": {
             "id": null,
+            "name": "Elespanol.com"
+        },
+        "author": "L. V.",
+        "title": "EEUU confisca el avión oficial de Maduro en República Dominicana por las sanciones a Venezuela",
+        "description": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó la CNN.",
+        "url": "https://www.elespanol.com/mundo/america/eeuu/20240902/eeuu-confisca-avion-oficial-maduro-republica-dominicana-sanciones-venezuela/882912189_0.html",
+        "urlToImage": "https://s1.elespanol.com/2024/09/02/mundo/america/eeuu/882922396_248875358_1706x960.jpg",
+        "publishedAt": "2024-09-02T16:12:44Z",
+        "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó… [+882 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Criptonoticias.com"
         },
         "author": "Jesús Herrera",
@@ -1246,57 +1298,5 @@
         "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240813112053_1200.jpg",
         "publishedAt": "2024-08-13T09:20:53Z",
         "content": "España asumirá la representación diplomática de República Dominicana en Venezuela\r\n MADRID, 13 Ago. (EUROPA PRESS) - \r\n El ministro de Asuntos Exteriores, UE y Cooperación, José Manuel Albares, ha an… [+1416 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Maduro rechaza la oferta de asilo ofrecida por el presidente de Panamá para «poner fin a la crisis en Venezuela»",
-        "description": "El presidente de Venezuela, Nicolás Maduro , rechazó este viernes la propuesta de asilo de su homólogo de Panamá, José Raúl Mulino , así como las garantías de Estados Unidos para solucionar la crisis tras los comicios presidenciales, cuyo resultado oficial ra…",
-        "url": "https://www.abc.es/internacional/maduro-rechaza-oferta-asilo-ofrecida-presidente-panama-20240810104957-nt.html",
-        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/10/mulino-U75203883656AHm-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-10T08:49:58Z",
-        "content": "El presidente de Venezuela, Nicolás Maduro, rechazó este viernes la propuesta de asilo de su homólogo de Panamá, José Raúl Mulino, así como las garantías de Estados Unidos para solucionar la crisis t… [+2225 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "España - Marruecos: horario, canal de televisión y dónde ver online el partido de semifinales de fútbol masculino en los Juegos Olímpicos de París hoy",
-        "description": "La selección sub-23 de fútbol masculina está a un partido de disputar la segunda final consecutiva en unos Juegos Olímpicos . Los de Santi Denia tienen en mente que si en Tokio se mordió la plata, en París no hay razones para pensar que el éxito vaya a ser me…",
-        "url": "https://www.abc.es/deportes/juegos-olimpicos/espana-marruecos-horario-canal-television-ver-online-juegos-olimpicos-paris-20240805120030-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/08/05/espana-fermin-U04778488184VWC-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-05T10:03:29Z",
-        "content": "La selección sub-23 de fútbol masculina está a un partido de disputar la segunda final consecutiva en unos Juegos Olímpicos. Los de Santi Denia tienen en mente que si en Tokio se mordió la plata, en … [+1701 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Publico.es"
-        },
-        "author": "Público / Europa Press",
-        "title": "La UE y 22 países piden la verificación imparcial de los resultados electorales de Venezuela",
-        "description": "Los Estados firmantes solicitan que se ponga fin a la violencia y se libere a todos aquellos presos que han sido detenidos por ejercer su derecho a la libertad de expresión.",
-        "url": "https://www.publico.es/internacional/ue-22-paises-piden-verificacion-imparcial-resultados-electorales-venezuela.html",
-        "urlToImage": "https://www.publico.es/uploads/2024/08/09/66b66cc3afbe6.jpeg",
-        "publishedAt": "2024-08-16T19:28:00Z",
-        "content": "España ha firmado este viernes una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que h… [+2317 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "content": "[Removed]"
     }
 ]
