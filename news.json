@@ -40,6 +40,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "EE.UU. confisca un avión oficial de Maduro en República Dominicana y lo traslada a Florida",
+        "description": "La aeronave, valorada en US$13 millones, fue incautada en República Dominicana y trasladada a Florida por petición de Estados Unidos.",
+        "url": "https://www.bbc.com/mundo/articles/crmwplpdl72o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c585/live/296def40-6952-11ef-ac86-bd1172384ed1.jpg",
+        "publishedAt": "2024-09-02T17:55:56Z",
+        "content": "Fuente de la imagen, Getty Images\r\nPie de foto, El presidente Nicolás Maduro viajaba en ese avión en visitas oficiales.\r\nInformación del artículo<ul><li>Autor, Redacción</li><li>Título del autor, BBC… [+3444 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -144,6 +157,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Eldiario.es"
+        },
+        "author": "Pol Pareja",
+        "title": "República Dominicana acuerda extraditar a España al líder de la estafa piramidal del cannabis Juicy Fields",
+        "description": "El ciudadano ruso Sergey Berezin, presunto cabecilla del fraude, fue detenido en abril en el marco de una gran operación internacional mientras vivía en el país caribeño bajo una identidad falsa\r\nHemeroteca - Una gran operación internacional contra la estafa …",
+        "url": "https://www.eldiario.es/catalunya/republica-dominicana-acuerda-extraditar-espana-lider-estafa-piramidal-cannabis_1_11599266.html",
+        "urlToImage": "https://static.eldiario.es/clip/c5d97b27-d550-4e8d-88e8-14069fbd94c3_facebook-watermarked-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-08-20T19:51:01Z",
+        "content": "El ciudadano ruso Sergey Berezin, que se ocultó en República Dominicana bajo la identidad falsa de Paul Bergholtz, será extraditado a España acusado de liderar la estafa piramidal de inversión en can… [+5392 chars]"
+    },
+    {
+        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -158,15 +184,15 @@
     {
         "source": {
             "id": null,
-            "name": "Eldiario.es"
+            "name": "Expansion.com"
         },
-        "author": "Pol Pareja",
-        "title": "República Dominicana acuerda extraditar a España al líder de la estafa piramidal del cannabis Juicy Fields",
-        "description": "El ciudadano ruso Sergey Berezin, presunto cabecilla del fraude, fue detenido en abril en el marco de una gran operación internacional mientras vivía en el país caribeño bajo una identidad falsa\r\nHemeroteca - Una gran operación internacional contra la estafa …",
-        "url": "https://www.eldiario.es/catalunya/republica-dominicana-acuerda-extraditar-espana-lider-estafa-piramidal-cannabis_1_11599266.html",
-        "urlToImage": "https://static.eldiario.es/clip/c5d97b27-d550-4e8d-88e8-14069fbd94c3_facebook-watermarked-aspect-ratio_default_0.jpg",
-        "publishedAt": "2024-08-20T19:51:01Z",
-        "content": "El ciudadano ruso Sergey Berezin, que se ocultó en República Dominicana bajo la identidad falsa de Paul Bergholtz, será extraditado a España acusado de liderar la estafa piramidal de inversión en can… [+5392 chars]"
+        "author": "Expansión",
+        "title": "EEUU confisca el avión oficial de Maduro",
+        "description": "La aeronave fue incautada en la República Dominicana con la asistencia de las autoridades del país y transferida a Florida por haber sido \"comprada ilegalmente\" por 13 millones de dólares. Leer",
+        "url": "https://www.expansion.com/latinoamerica/2024/09/02/66d5fa17e5fdea40398b457f.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/df978edb335d284c88b91174dae384d0/crop/0x80/1638x1172/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/02/17252991296188.jpg",
+        "publishedAt": "2024-09-02T17:53:06Z",
+        "content": "La aeronave fue incautada en la República Dominicana con la asistencia de las autoridades del país y transferida a Florida por haber sido \"comprada ilegalmente\" por 13 millones de dólares. Estados Un… [+4352 chars]"
     },
     {
         "source": {
@@ -600,6 +626,19 @@
     {
         "source": {
             "id": null,
+            "name": "Publico.es"
+        },
+        "author": "EFE",
+        "title": "Estados Unidos confisca el avión oficial de Nicolás Maduro en República Dominicana",
+        "description": "Las autoridades de EEUU trasladaron la nave a Florida en base a las sanciones que pesan sobre Venezuela.",
+        "url": "https://www.publico.es/internacional/estados-unidos-confisca-avion-oficial-nicolas-maduro-republica-dominicana.html",
+        "urlToImage": "https://www.publico.es/uploads/2024/09/02/66d5f303e67b4.jpeg",
+        "publishedAt": "2024-09-02T17:17:00Z",
+        "content": "Estados Unidos ha confiscado este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, en base a las sanciones estadounidenses que pesan sobre Venezuela, inf… [+3012 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Forbes.com.mx"
         },
         "author": "Forbes Staff",
@@ -609,6 +648,19 @@
         "urlToImage": "https://cdn.forbes.com.mx/2016/03/2016-03-14T172416Z_1_LYNXNPEC2D15R_RTROPTP_3_CONSTRUCCION-MEXICO-CEMEX.jpg",
         "publishedAt": "2024-08-06T01:05:00Z",
         "content": "Cemex anunció que firmó un acuerdo para la venta de sus operaciones en República Dominicana por 950 millones de dólares. \r\nLa transacción, que incluye el negocio de exportación a Haití, se firmó entr… [+1182 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Sopitas.com"
+        },
+        "author": "Erick Ponce",
+        "title": "¡Por eso, joven! Estados Unidos confisca el avión de Nicolás Maduro",
+        "description": "¿Le habrá aplicado el “oríllese a la orilla”? Con la novedad de que autoridades de Estados Unidos han confiscado el avión del presidente de Venezuela, Nicolás...\nThe post ¡Por eso, joven! Estados Unidos confisca el avión de Nicolás Maduro appeared first on So…",
+        "url": "https://www.sopitas.com/noticias/estados-unidos-confisca-avion-nicolas-maduro-venezuela/",
+        "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/09/confiscan-avion-nicolas-maduro-estados-unidos-venezuela.jpg",
+        "publishedAt": "2024-09-02T17:50:39Z",
+        "content": "Lo que necesitas saber:\r\nEstados Unidos confiscó el avión de Nicolás Maduro por violar algunas sanciones en República Dominicana.\r\n¿Le habrá aplicado el “oríllese a la orilla”? Con la novedad de que … [+2006 chars]"
     },
     {
         "source": {
@@ -752,6 +804,19 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/14db/live/ee15fcd0-50f6-11ef-890f-6b409e9046e1.jpg",
         "publishedAt": "2024-08-02T18:06:13Z",
         "content": "Fuente de la imagen, EPA\r\nPie de foto, Brasil asumió la representación de la embajada de Argentina en Venezuela.\r\nArticle information<ul><li>Author, Redacción</li><li>Role, BBC News Mundo</li><li></l… [+6881 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elperiodico.com"
+        },
+        "author": "EFE",
+        "title": "EEUU confisca el avión oficial de Maduro por las sanciones contra Venezuela",
+        "description": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, según informó en exclusiva CNN.epública Dominicana el avión …",
+        "url": "https://www.elperiodico.com/es/internacional/20240902/estados-unidos-confisca-avion-maduro-107672514",
+        "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/234410d2-ff02-4be0-a666-550844a35dc0_16-9-discover-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-09-02T17:56:52Z",
+        "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela,Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, s… [+3196 chars]"
     },
     {
         "source": {
@@ -1233,70 +1298,5 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3c42100693.r_d.960-540-6250.jpeg",
         "publishedAt": "2024-08-17T08:15:32Z",
         "content": "'Así es la vida' se despedía el pasado 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javi… [+1742 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "Chic",
-        "title": "¿Quién es Ninoska Vásquez, la modelo antichavista que ha conquistado Marbella?",
-        "description": "La modelo venezolana ha sido una de las granes protagonistas de la nueva edición del festival Starlite en Marbella, donde acudió ataviada con la bandera de su país donde escribió \"SOS Venezuela\". Descubrimos quién es esta espectacular modelo que ha acaparado …",
-        "url": "https://www.libertaddigital.com/chic/corazon/2024-08-07/quien-ninoska-vasquez-la-espectacular-modelo-venezolana-que-ha-conquistado-marbella-7153543/",
-        "urlToImage": "https://s.libertaddigital.com/2024/08/06/1200/627/chic/ninoska-vasquez-galeria-10.png",
-        "publishedAt": "2024-08-07T06:33:19Z",
-        "content": "Pero lo cierto es que Ninoksa Vásquez conoce de cerca la fama y los focos, pues en Latinoamérica toda una celebridad debido a su relación con el representante Vicente Saavedra, ex de Clarissa Molina,… [+129 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Jenesaispop.com"
-        },
-        "author": "Jordi Bardají",
-        "title": "Por qué ‘Rosas’ de La Oreja se ha colado en el global de Spotify",
-        "description": "Hace unos días informábamos del regreso de ‘Rosas’, el éxito de La Oreja de Van Gogh de 2003, a la lista oficial de singles de España, en un puesto 70. Este dato es inmediatamente posterior a la recuperación de ‘Rosas’ en uno de los cuatro masivos conciertos …",
-        "url": "https://jenesaispop.com/2024/08/04/480066/oreja-global-rosas/",
-        "urlToImage": "https://jenesaispop.com/wp-content/uploads/2024/08/la-oreja-2.jpg",
-        "publishedAt": "2024-08-04T14:32:00Z",
-        "content": "Hace unos días informábamos del regreso de ‘Rosas’, el éxito de La Oreja de Van Gogh de 2003, a la lista oficial de singles de España, en un puesto 70. Este dato es inmediatamente posterior a la recu… [+1985 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Víctor Cortinas",
-        "title": "El Barça Atlètic ya negocia por 'el nuevo' Pau Víctor",
-        "description": "Óscar Ureña (21 años) podría ser el siguiente fichaje del Barça Atlètic para esta próxima temporada. Según informó el programa 'Què T'hi Jugues', el Girona y el FC Barcelona están en negociaciones por la cesión del internacional extremo dominicano. Además, SE…",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20240812/1002297303/barca-atletic-negocia-nuevo-pau-victor.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2022/02/08/620261b3a4df4.r_d.1520-1066-3953.jpeg",
-        "publishedAt": "2024-08-12T08:08:30Z",
-        "content": "Óscar Ureña (21 años) podría ser el siguiente fichaje del Barça Atlètic para esta próxima temporada. Según informó el programa 'Què T'hi Jugues', el Girona y el FC Barcelona están en negociaciones po… [+1860 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "¿Cuántas medallas de oro, plata y bronce lleva España en París y cómo va hoy martes el medallero de los Juegos Olímpicos?",
-        "description": "Los Juegos Olímpicos de París 2024 ya van a toda máquina. Desde el miércoles 24 de julio hasta el domingo 11 de agosto, miles de deportistas de todo el mundo acuden a la capital francesa para demostrar que son los mejores en su disciplina . La delegación espa…",
-        "url": "https://www.abc.es/deportes/juegos-olimpicos/cuantas-medallas-oro-plata-bronce-lleva-espana-paris-como-va-hoy-martes-medallero-juegos-olimpicos-20240806172232-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/07/28/j-k55H--1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-06T06:24:15Z",
-        "content": "<li>China: 53 medallas (21 oro, 18 plata, 14 bronce)\r\n</li><li>Estados Unidos: 79 medallas (21 oro, 30 plata, 28 bronce)\r\n</li><li>Australia: 33 medallas (13 oro, 12 plata, 8 bronce)\r\n</li><li>Franci… [+3341 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Europapress.es"
-        },
-        "author": null,
-        "title": "Albares confirma nuevos contactos con el Gobierno de Maduro y la oposición venezolana",
-        "description": "El ministro de Asuntos Exteriores, UE y Cooperación, José Manuel Albares, ha anunciado que el lunes habló por teléfono con su homólogo venezolano, Yván Gil y con los principales líderes de la oposición, María Corina Machado y Edmundo González, para avanzar ha…",
-        "url": "https://www.europapress.es/nacional/noticia-albares-confirma-nuevos-contactos-gobierno-maduro-oposicion-venezolana-20240813112053.html",
-        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240813112053_1200.jpg",
-        "publishedAt": "2024-08-13T09:20:53Z",
-        "content": "España asumirá la representación diplomática de República Dominicana en Venezuela\r\n MADRID, 13 Ago. (EUROPA PRESS) - \r\n El ministro de Asuntos Exteriores, UE y Cooperación, José Manuel Albares, ha an… [+1416 chars]"
     }
 ]
