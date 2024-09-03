@@ -1106,6 +1106,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
+        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
+        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
+        "publishedAt": "2024-08-15T10:53:18Z",
+        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Huffingtonpost.es"
         },
@@ -1142,19 +1155,6 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/21/aerial-view-of-the-paraguayan-city-of-ciudad-del-este-and-friendship-bridge-connecting-paraguay-and-brazil-through-the-border-over-the-parana-river.jpeg",
         "publishedAt": "2024-08-21T14:38:19Z",
         "content": "Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 20… [+2306 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
-        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
-        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
-        "publishedAt": "2024-08-15T10:53:18Z",
-        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
     },
     {
         "source": {
