@@ -118,6 +118,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "urielblanco",
+        "title": "Exclusivo: Estados Unidos incauta el avión del presidente de Venezuela, Nicolás Maduro, en la República Dominicana",
+        "description": "La incautación de produjo en República Dominicana luego de que se determinara que su adquisición violaba las sanciones de EE.UU., entre otros asuntos criminales. La aeronave fue enviada a Florida este lunes.\n<ul>\n<li>Maduro se ha burlado de arquitectura de la…",
+        "url": "https://cnnespanol.cnn.com/2024/09/02/exclusiva-estados-unidos-incauta-avion-presidente-venezuela-nicolas-maduro-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/c-still-20925391-442132-957-still.webp",
+        "publishedAt": "2024-09-02T15:58:52Z",
+        "content": "(CNN Español) -- Estados Unidos incautó el avión del presidente de Venezuela, Nicolás Maduro, después de determinar que su adquisición violaba las sanciones estadounidenses, entre otros asuntos crimi… [+3929 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Eldiario.es"
         },
@@ -323,6 +336,19 @@
         "urlToImage": "https://i.blogs.es/ce3f91/sin-titulo---2024-08-13t124303.248/840_560.jpeg",
         "publishedAt": "2024-08-13T13:07:28Z",
         "content": "La reina Sofía ha sido el único miembro de la familia real que ha asistido al funeral de Juan Gómez-Acebo, fallecido ayer lunes 12 de agosto a los 54 años de edad tras perder la batalla contra un cán… [+1798 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Eldiario.es"
+        },
+        "author": "EFE",
+        "title": "EEUU confisca el avión oficial de Maduro por las sanciones que pesan contra Venezuela",
+        "description": "Han trasladado el avión a Florida para mandar el mensaje \"de que nadie está por encima de la ley\", según ha informado la CNN en exclusiva\r\n\n Estados Unidos ha confiscado en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, …",
+        "url": "https://www.eldiario.es/internacional/ee-uu-confisca-avion-oficial-maduro-sanciones-pesan-venezuela_1_11623868.html",
+        "urlToImage": "https://static.eldiario.es/clip/64877bc8-3ef1-43b9-8bd9-7467e080207d_facebook-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-09-02T15:59:00Z",
+        "content": "Estados Unidos ha confiscado en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, en base a las sanciones estadounidenses que pesan sobre Venezuela. Según ha infor… [+2291 chars]"
     },
     {
         "source": {
@@ -1227,12 +1253,12 @@
             "name": "Www.abc.es"
         },
         "author": "(abc)",
-        "title": "España - Marruecos: horario, canal de televisión y dónde ver online el partido de semifinales de fútbol masculino en los Juegos Olímpicos de París hoy",
-        "description": "La selección sub-23 de fútbol masculina está a un partido de disputar la segunda final consecutiva en unos Juegos Olímpicos . Los de Santi Denia tienen en mente que si en Tokio se mordió la plata, en París no hay razones para pensar que el éxito vaya a ser me…",
-        "url": "https://www.abc.es/deportes/juegos-olimpicos/espana-marruecos-horario-canal-television-ver-online-juegos-olimpicos-paris-20240805120030-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/08/05/espana-fermin-U04778488184VWC-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-05T10:03:29Z",
-        "content": "La selección sub-23 de fútbol masculina está a un partido de disputar la segunda final consecutiva en unos Juegos Olímpicos. Los de Santi Denia tienen en mente que si en Tokio se mordió la plata, en … [+1701 chars]"
+        "title": "Maduro rechaza la oferta de asilo ofrecida por el presidente de Panamá para «poner fin a la crisis en Venezuela»",
+        "description": "El presidente de Venezuela, Nicolás Maduro , rechazó este viernes la propuesta de asilo de su homólogo de Panamá, José Raúl Mulino , así como las garantías de Estados Unidos para solucionar la crisis tras los comicios presidenciales, cuyo resultado oficial ra…",
+        "url": "https://www.abc.es/internacional/maduro-rechaza-oferta-asilo-ofrecida-presidente-panama-20240810104957-nt.html",
+        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/10/mulino-U75203883656AHm-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-08-10T08:49:58Z",
+        "content": "El presidente de Venezuela, Nicolás Maduro, rechazó este viernes la propuesta de asilo de su homólogo de Panamá, José Raúl Mulino, así como las garantías de Estados Unidos para solucionar la crisis t… [+2225 chars]"
     },
     {
         "source": {
@@ -1240,12 +1266,12 @@
             "name": "Www.abc.es"
         },
         "author": "(abc)",
-        "title": "Maduro rechaza la oferta de asilo ofrecida por el presidente de Panamá para «poner fin a la crisis en Venezuela»",
-        "description": "El presidente de Venezuela, Nicolás Maduro , rechazó este viernes la propuesta de asilo de su homólogo de Panamá, José Raúl Mulino , así como las garantías de Estados Unidos para solucionar la crisis tras los comicios presidenciales, cuyo resultado oficial ra…",
-        "url": "https://www.abc.es/internacional/maduro-rechaza-oferta-asilo-ofrecida-presidente-panama-20240810104957-nt.html",
-        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/10/mulino-U75203883656AHm-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-10T08:49:58Z",
-        "content": "El presidente de Venezuela, Nicolás Maduro, rechazó este viernes la propuesta de asilo de su homólogo de Panamá, José Raúl Mulino, así como las garantías de Estados Unidos para solucionar la crisis t… [+2225 chars]"
+        "title": "España - Marruecos: horario, canal de televisión y dónde ver online el partido de semifinales de fútbol masculino en los Juegos Olímpicos de París hoy",
+        "description": "La selección sub-23 de fútbol masculina está a un partido de disputar la segunda final consecutiva en unos Juegos Olímpicos . Los de Santi Denia tienen en mente que si en Tokio se mordió la plata, en París no hay razones para pensar que el éxito vaya a ser me…",
+        "url": "https://www.abc.es/deportes/juegos-olimpicos/espana-marruecos-horario-canal-television-ver-online-juegos-olimpicos-paris-20240805120030-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/08/05/espana-fermin-U04778488184VWC-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-08-05T10:03:29Z",
+        "content": "La selección sub-23 de fútbol masculina está a un partido de disputar la segunda final consecutiva en unos Juegos Olímpicos. Los de Santi Denia tienen en mente que si en Tokio se mordió la plata, en … [+1701 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": null,
         "publishedAt": "1970-01-01T00:00:00Z",
         "content": "[Removed]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Lavozdegalicia.es"
-        },
-        "author": "La Voz",
-        "title": "El pescador que halló un cayuco con 14 muertos: «No me creía lo que estaba viendo»",
-        "description": "El trabajador y un compañero suyo fueron quienes se toparon con la embarcación, avistaron el gran número de cadáveres y el olor que desprendían, y decidieron avisar a las autoridades rápidamente",
-        "url": "https://www.lavozdegalicia.es/noticia/internacional/2024/08/09/pescador-hallo-cayuco-14-muertos-me-creia-viendo/00031723201040249626529.htm",
-        "urlToImage": "https://img.lavdg.com/sc/amAg5eEwLgFLaPxdEkaN0G82-ew=/1280x/2024/07/18/00121721333521332931112/Foto/efe_20240718_175844937.jpg",
-        "publishedAt": "2024-08-09T11:09:00Z",
-        "content": "Luis Alberto Polanco, el pescador de República Dominicana que alertó a las autoridades del hallazgo de un cayuco con 14 cadáveres el pasado martes, «no se creía» lo que estaba viendo y sintió «lástim… [+2928 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Lula: \"El compromiso con la paz es el que nos lleva a pedir un diálogo en Venezuela\"",
-        "description": "El mandatario sostuvo un encuentro en la capital chilena con su par Gabriel Boric.",
-        "url": "https://actualidad.rt.com/actualidad/518437-lula-comprometer-paz-pedir-dialogo-venezuela",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66b11a7fe9ff712c106a9fe0.jpg",
-        "publishedAt": "2024-08-05T20:26:44Z",
-        "content": "El presidente de Brasil, Luiz Inácio Lula da Silva, de visita en Chile, donde sostuvo un encuentro con su par Gabriel Boric, se refirió a la posición conjunta que tiene con los gobiernos de Colombia … [+2832 chars]"
     }
 ]
