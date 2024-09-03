@@ -651,6 +651,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sol Amaya",
+        "title": "Últimas noticias de la crisis tras las elecciones en Venezuela: orden de arresto contra Edmundo González y más",
+        "description": "La Fiscalía General de Venezuela solicitó este lunes una orden de arresto contra el candidato presidencial de la opositora Plataforma Unitaria Democrática (PUD), Edmundo González, en el marco de una investigación que busca determinar quiénes son los responsab…",
+        "url": "https://cnnespanol.cnn.com/2024/09/02/ultimas-noticias-de-la-crisis-tras-las-elecciones-en-venezuela-orden-de-arresto-contra-edmundo-gonzalez-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163935650.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-02T22:44:09Z",
+        "content": "Los presidentes de México, Brasil y Colombia. (Crédito: Getty Images)\r\nEl presidente de Colombia, Gustavo Petro; el de Brasil, Luiz Inácio Lula da Silva, y el de México, Andrés Manuel López Obrador, … [+997 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Forbes.com.mx"
         },
@@ -856,6 +869,19 @@
         "urlToImage": "https://phantom-elmundo.unidadeditorial.es/a8ff9be240e43b4bd3a48ea5f66220c0/crop/0x2311/3072x4359/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/23/17243913349311.jpg",
         "publishedAt": "2024-08-23T05:53:15Z",
         "content": "Uno de cada tres casos con seguimiento policial por violencia de género en España corresponde a víctimas extranjeras, según datos del Ministerio del Interior, mientras que el 67,79% de los casos del … [+3679 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aristeguinoticias.com"
+        },
+        "author": "Redacción AN/ SBH",
+        "title": "Estados Unidos incauta avión de Nicolás Maduro",
+        "description": "El gobierno de Venezuela acusó que se trata de piratería.",
+        "url": "https://aristeguinoticias.com/0209/mundo/estados-unidos-incauta-avion-de-nicolas-maduro/",
+        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/avion-nicolas-maduro-asegurado.jpg",
+        "publishedAt": "2024-09-02T22:34:53Z",
+        "content": "Estados Unidos incautó un avión utilizado por el presidente venezolano, Nicolás Maduro, y lo trasladó desde República Dominicana a Florida tras determinar que su compra violaba las sanciones de Washi… [+1886 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2024/19/202481916493918_1.jpg",
         "publishedAt": "2024-08-19T15:06:00Z",
         "content": "Black Myth: Wukong es uno de los RPG de acción más esperados del año. Desarrollado por el estudio chino Game Science, narra una aventura inspirada en la mitología china formada en la novela Viaje al … [+4564 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "España y otros países como EE.UU. instan a Venezuela a liberar a presos y a publicar las actas electorales",
-        "description": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido detenidos, «incluidos representantes de la oposición», en el marc…",
-        "url": "https://www.abc.es/internacional/espana-paises-eeuu-instan-venezuela-liberar-presos-20240816210639-nt.html",
-        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/16/maduro-elecciones-k8MB--1024x512@diario_abc.JPG",
-        "publishedAt": "2024-08-16T19:06:39Z",
-        "content": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido deten… [+4408 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Elespanol.com"
-        },
-        "author": "L. V.",
-        "title": "EEUU confisca el avión oficial de Maduro en República Dominicana por las sanciones a Venezuela",
-        "description": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó la CNN.",
-        "url": "https://www.elespanol.com/mundo/america/eeuu/20240902/eeuu-confisca-avion-oficial-maduro-republica-dominicana-sanciones-venezuela/882912189_0.html",
-        "urlToImage": "https://s1.elespanol.com/2024/09/02/mundo/america/eeuu/882922396_248875358_1706x960.jpg",
-        "publishedAt": "2024-09-02T16:12:44Z",
-        "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó… [+882 chars]"
     }
 ]
