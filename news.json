@@ -300,6 +300,19 @@
     },
     {
         "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "marca.com",
+        "title": "Una de las primeras medidas de Nicolás Maduro: Adelantar la Navidad",
+        "description": "Los resultados electorales en Venezuela están en tela de juicio. Son muchos los gobiernos y los organismos supranacionales los que dudan de la veracidad de la supuesta victoria de",
+        "url": "https://www.marca.com/tiramillas/actualidad/2024/09/03/66d6f36b46163f122c8b456d.html",
+        "urlToImage": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_ypm1bpzt/width/657/type/2/bgcolor/000000/0_ypm1bpzt.jpg",
+        "publishedAt": "2024-09-03T12:08:34Z",
+        "content": "Los resultados electorales en Venezuela están en tela de juicio. Son muchos los gobiernos y los organismos supranacionales los que dudan de la veracidad de la supuesta victoria de Nicolás Maduro el p… [+1742 chars]"
+    },
+    {
+        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -547,6 +560,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Gobierno dominicano aclara que no participó en la incautación del avión presidencial de Venezuela",
+        "description": "La aeronave fue confiscada el lunes por las autoridades de EE.UU. Caracas denunció que se trata de \"una práctica criminal reincidente\".",
+        "url": "https://actualidad.rt.com/actualidad/521527-republica-dominicana-incautacion-avion-maduro",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66d6f42259bf5b196631c3ac.jpg",
+        "publishedAt": "2024-09-03T12:09:24Z",
+        "content": "El Gobierno de República Dominicana aclaró que no había participado en la investigación del Departamento de Justicia estadounidense, que terminó en la incautación del avión que usa el presidente de V… [+2590 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -648,6 +674,19 @@
         "urlToImage": "https://www.publico.es/uploads/2024/09/02/66d5f303e67b4.jpeg",
         "publishedAt": "2024-09-02T17:17:00Z",
         "content": "Estados Unidos ha confiscado este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, en base a las sanciones estadounidenses que pesan sobre Venezuela, inf… [+3012 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ángela Reyes Haczek",
+        "title": "Orden de detención contra Edmundo Gónzalez y elecciones en Venezuela, en vivo: noticias y reacciones",
+        "description": "La Plataforma Unitaria Democrática de Venezuela, a la que Edmundo González representó en las elecciones del pasado 28 de julio, publicó un mensaje en X en el que lamenta que el Gobierno no sea capaz de publicar las actas de escrutinio, pero sí \"construir en m…",
+        "url": "https://cnnespanol.cnn.com/2024/09/03/noticias-detencion-edmundo-gonzalez-resultados-elecciones-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2167199778.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-03T11:12:43Z",
+        "content": "Estados Unidos incautó el avión utilizado por el presidente de Venezuela, Nicolás Maduro, después de determinar que su adquisición violaba las sanciones estadounidenses, entre otros asuntos penales, … [+357 chars]"
     },
     {
         "source": {
@@ -1093,6 +1132,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
+        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
+        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
+        "publishedAt": "2024-08-15T10:53:18Z",
+        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Huffingtonpost.es"
         },
@@ -1129,19 +1181,6 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/21/aerial-view-of-the-paraguayan-city-of-ciudad-del-este-and-friendship-bridge-connecting-paraguay-and-brazil-through-the-border-over-the-parana-river.jpeg",
         "publishedAt": "2024-08-21T14:38:19Z",
         "content": "Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 20… [+2306 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
-        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
-        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
-        "publishedAt": "2024-08-15T10:53:18Z",
-        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
     },
     {
         "source": {
@@ -1259,44 +1298,5 @@
         "urlToImage": "https://s1.elespanol.com/2024/09/02/mundo/america/eeuu/882922396_248875358_1706x960.jpg",
         "publishedAt": "2024-09-02T16:12:44Z",
         "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó… [+882 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Criptonoticias.com"
-        },
-        "author": "Jesús Herrera",
-        "title": "“No nos parece que bitcoin y las criptomonedas pretendan reemplazar al peso dominicano”",
-        "description": "El superintendente de bancos República Dominicana, Alejandro Fernández, enfatiza que los criptoactivos “no son monedas”.\nLeer más",
-        "url": "https://www.criptonoticias.com/finanzas/bitcoin-criptomonedas-reemplazo-peso-republicadominicana-alejandrofernandez/",
-        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/superintendente-bancos-republicadominicana.png",
-        "publishedAt": "2024-08-21T13:49:07Z",
-        "content": "Hechos clave:\r\n<ul><li>Fernández afirma que es necesario alertar de los riesgos de las criptomonedas. \r\n</li><li>El superintendente ligó el uso de criptoactivos a las actividades ilícitas.\r\n</li></ul… [+5951 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Ángel Mor Montolio",
-        "title": "El nuevo proyecto profesional de César Muñoz en Telecinco tras el final de 'Así es la vida'",
-        "description": "'Así es la vida' se despedía el pasado 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javier Vázquez volverá a las tardes de Telecinco para presentar …",
-        "url": "https://www.mundodeportivo.com/elotromundo/television/20240817/1002299717/nuevo-proyecto-profesional-cesar-munoz-telecinco-final-asi-vida-dct.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3c42100693.r_d.960-540-6250.jpeg",
-        "publishedAt": "2024-08-17T08:15:32Z",
-        "content": "'Así es la vida' se despedía el pasado 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javi… [+1742 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "Chic",
-        "title": "¿Quién es Ninoska Vásquez, la modelo antichavista que ha conquistado Marbella?",
-        "description": "La modelo venezolana ha sido una de las granes protagonistas de la nueva edición del festival Starlite en Marbella, donde acudió ataviada con la bandera de su país donde escribió \"SOS Venezuela\". Descubrimos quién es esta espectacular modelo que ha acaparado …",
-        "url": "https://www.libertaddigital.com/chic/corazon/2024-08-07/quien-ninoska-vasquez-la-espectacular-modelo-venezolana-que-ha-conquistado-marbella-7153543/",
-        "urlToImage": "https://s.libertaddigital.com/2024/08/06/1200/627/chic/ninoska-vasquez-galeria-10.png",
-        "publishedAt": "2024-08-07T06:33:19Z",
-        "content": "Pero lo cierto es que Ninoksa Vásquez conoce de cerca la fama y los focos, pues en Latinoamérica toda una celebridad debido a su relación con el representante Vicente Saavedra, ex de Clarissa Molina,… [+129 chars]"
     }
 ]
