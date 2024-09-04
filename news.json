@@ -235,19 +235,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Directoalpaladar.com"
-        },
-        "author": "Inés Vazquez Noya",
-        "title": "Por qué en Perú llaman palta al aguacate: descifrando el misterio de la lingüística",
-        "description": "¿Palta o aguacate? Es curioso cómo un mismo alimento puede tener diferentes nombres según la región.\n\nEn los últimos años, este fruto ha ganado mucha popularidad en la gastronomía y en la cultura de la alimentación en general. En parte dada la creciente conci…",
-        "url": "https://www.directoalpaladar.com/cultura-gastronomica/que-peru-llaman-palta-al-aguacate-descifrando-misterio-linguistica",
-        "urlToImage": "https://i.blogs.es/a7d86c/pexels-photo-3872372-copia_1/840_560.jpeg",
-        "publishedAt": "2024-08-02T16:01:22Z",
-        "content": "¿Palta o aguacate? Es curioso cómo un mismo alimento puede tener diferentes nombres según la región.\r\nEn los últimos años, este fruto ha ganado mucha popularidad en la gastronomía y en la cultura de … [+2392 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -375,19 +362,6 @@
         "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/17/abinader-felipe-k66F--1024x512@diario_abc.jpg",
         "publishedAt": "2024-08-17T00:09:37Z",
         "content": "El Teatro Nacional de Santo Domingo fue, por primera vez, el epicentro de una asunción presidencial. El Congreso Nacional era el escenario acostumbrado para la juramentación de los presidentes de Rep… [+647 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Trendencias.com"
-        },
-        "author": "María Yuste",
-        "title": "Está en España pero es conocida como \"el Punta Cana español\": la playa con aguas tan cristalinas y tranquilas que parece una piscina",
-        "description": "La República Dominicana es, en el imaginario colectivo, sinónimo de paraíso terrenal y con motivos. Sin embargo, unas vacaciones en el Caribe no están al alcance de todos los bolsillos... Por suerte, en España también tenemos unas islas famosas en todo el mun…",
-        "url": "https://www.trendencias.com/viajes/esta-espana-conocida-como-punta-cana-espanol-playa-aguas-cristalinas-tranquilas-que-parece-piscina",
-        "urlToImage": "https://i.blogs.es/34ff1b/pexels-freestockpro-13593499/840_560.jpeg",
-        "publishedAt": "2024-08-02T21:41:55Z",
-        "content": "La República Dominicana es, en el imaginario colectivo, sinónimo de paraíso terrenal y con motivos. Sin embargo, unas vacaciones en el Caribe no están al alcance de todos los bolsillos... Por suerte,… [+2212 chars]"
     },
     {
         "source": {
@@ -547,19 +521,6 @@
     },
     {
         "source": {
-            "id": "marca",
-            "name": "Marca"
-        },
-        "author": "DAVID MENAYO",
-        "title": "Los detalles de un triunfo que acerca los metales",
-        "description": "España se impuso a Japón en cuartos de final del torneo olímpico en el que es, hasta la fecha, el mejor partido de los nuestros. Un triunfo que da el billete para unas semifinales",
-        "url": "https://www.marca.com/juegos-olimpicos/futbol/2024/08/02/66ad305822601d9d608b4576.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/ab87f771ca8cc083f291fa824f80ad72/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/02/17226266646501.jpg",
-        "publishedAt": "2024-08-02T19:33:03Z",
-        "content": "España se impuso a Japón en cuartos de final del torneo olímpico en el que es, hasta la fecha, el mejor partido de los nuestros. Un triunfo que da el billete para unas semifinales que habrá que jugar… [+3225 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -664,19 +625,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Publico.es"
-        },
-        "author": "EFE",
-        "title": "Estados Unidos confisca el avión oficial de Nicolás Maduro en República Dominicana",
-        "description": "Las autoridades de EEUU trasladaron la nave a Florida en base a las sanciones que pesan sobre Venezuela.",
-        "url": "https://www.publico.es/internacional/estados-unidos-confisca-avion-oficial-nicolas-maduro-republica-dominicana.html",
-        "urlToImage": "https://www.publico.es/uploads/2024/09/02/66d5f303e67b4.jpeg",
-        "publishedAt": "2024-09-02T17:17:00Z",
-        "content": "Estados Unidos ha confiscado este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, en base a las sanciones estadounidenses que pesan sobre Venezuela, inf… [+3012 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -687,6 +635,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163935650.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-02T22:44:09Z",
         "content": "Los presidentes de México, Brasil y Colombia. (Crédito: Getty Images)\r\nEl presidente de Colombia, Gustavo Petro; el de Brasil, Luiz Inácio Lula da Silva, y el de México, Andrés Manuel López Obrador, … [+997 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Publico.es"
+        },
+        "author": "EFE",
+        "title": "Estados Unidos confisca el avión oficial de Nicolás Maduro en República Dominicana",
+        "description": "Las autoridades de EEUU trasladaron la nave a Florida en base a las sanciones que pesan sobre Venezuela.",
+        "url": "https://www.publico.es/internacional/estados-unidos-confisca-avion-oficial-nicolas-maduro-republica-dominicana.html",
+        "urlToImage": "https://www.publico.es/uploads/2024/09/02/66d5f303e67b4.jpeg",
+        "publishedAt": "2024-09-02T17:17:00Z",
+        "content": "Estados Unidos ha confiscado este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, en base a las sanciones estadounidenses que pesan sobre Venezuela, inf… [+3012 chars]"
     },
     {
         "source": {
@@ -847,19 +808,6 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Por qué la bandera de Brasil ondea en la embajada de Argentina en Venezuela",
-        "description": "Brasil asumió la representación de la embajada de Argentina y de Perú en Venezuela tras la expulsión del personal diplomático. Te explicamos por qué.",
-        "url": "https://www.bbc.com/mundo/articles/c10l30mgjg9o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/14db/live/ee15fcd0-50f6-11ef-890f-6b409e9046e1.jpg",
-        "publishedAt": "2024-08-02T18:06:13Z",
-        "content": "Fuente de la imagen, EPA\r\nPie de foto, Brasil asumió la representación de la embajada de Argentina en Venezuela.\r\nArticle information<ul><li>Author, Redacción</li><li>Role, BBC News Mundo</li><li></l… [+6881 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Elperiodico.com"
         },
         "author": "EFE",
@@ -911,19 +859,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Dónde ver gratis España - Japón en televisión y online y a qué hora empieza el partido de fútbol masculino en los Juegos Olímpicos de París hoy",
-        "description": "España sigue dando la pelea en el fútbol pese a quedar de segundo de grupo en los Juegos Olímpicos de París 2024 y clasificar por matemáticas a los cuartos de final. El reto es llevarse una medalla y seguir con la racha de los que ganaron la Eurocopa 2024. Lo…",
-        "url": "https://www.abc.es/deportes/juegos-olimpicos/donde-ver-gratis-espana-japon-teleivsion-online-hora-empiea-partido-futbol-masculino-juegos-olimpicos-paris-hoy-20240802165541-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/08/02/abelr-U60534982391zkH-U6029150806720aF-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-02T13:31:58Z",
-        "content": "España sigue dando la pelea en el fútbol pese a quedar de segundo de grupo en los Juegos Olímpicos de París 2024 y clasificar por matemáticas a los cuartos de final. El reto es llevarse una medalla y… [+1330 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -960,19 +895,6 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/08/25/66cb5a14bb4c3.jpeg",
         "publishedAt": "2024-08-25T16:57:25Z",
         "content": "'La isla de las tentaciones', que triunfa con sus distintas ediciones internacionales, ha estrenado una nueva temporada en Prime Video con ocho únicos episodios y el reencuentro final. Sin embargo, e… [+1318 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Pablo Planas Piera",
-        "title": "El 'show' de Fermín: ¡Vaya par de golazos ante Japón!",
-        "description": "Una de las grandes virtudes de Fermín López es que es un medio que tiene gol y lo está dejando claro en estos Juegos Olímpicos, sumando su segundo tanto del torneo nada menos que para abrir los cuartos de final ante Japón.",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240802/1002292094/misilazo-fermin-adelantar-espana-japon.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/08/02/66acfae1af508.r_d.1568-890-3846.jpeg",
-        "publishedAt": "2024-08-02T15:30:52Z",
-        "content": "Una de las grandes virtudes de Fermín López es que es un medio que tiene gol y lo está dejando claro en estos Juegos Olímpicos, sumando su segundo tanto del torneo nada menos que para abrir los cuart… [+1094 chars]"
     },
     {
         "source": {
@@ -1038,19 +960,6 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/16/a-woman-waves-a-venezuelan-flag.jpeg",
         "publishedAt": "2024-08-16T19:23:15Z",
         "content": "España deja clara su postura con respecto a la situación que vive Venezuela al firmar una declaración conjunta con EEUU y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la vio… [+4606 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Boric confirma detención y deportación de 2 periodistas chilenos en Venezuela",
-        "description": "El presidente de Chile, Gabriel Boric, confirmó este viernes que un equipo periodístico de Televisión Nacional de Chile (TVN) fue detenido en Venezuela y posteriormente deportado a Colombia mientras cubría el conflicto poselectoral.\nThe post Boric confirma de…",
-        "url": "https://cnnespanol.cnn.com/2024/08/02/boric-confirma-detencion-deportacion-periodistas-chilenos-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2161823435-e1721838826315.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-03T01:12:58Z",
-        "content": "(CNN Español) -- El presidente de Chile, Gabriel Boric, confirmó este viernes que un equipo periodístico de Televisión Nacional de Chile (TVN) fue detenido en Venezuela y posteriormente deportado a C… [+3407 chars]"
     },
     {
         "source": {
@@ -1184,19 +1093,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
-        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
-        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
-        "publishedAt": "2024-08-15T10:53:18Z",
-        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Huffingtonpost.es"
         },
@@ -1233,6 +1129,19 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/21/aerial-view-of-the-paraguayan-city-of-ciudad-del-este-and-friendship-bridge-connecting-paraguay-and-brazil-through-the-border-over-the-parana-river.jpeg",
         "publishedAt": "2024-08-21T14:38:19Z",
         "content": "Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 20… [+2306 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
+        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
+        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
+        "publishedAt": "2024-08-15T10:53:18Z",
+        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
     },
     {
         "source": {
@@ -1298,5 +1207,96 @@
         "urlToImage": "https://www.elfinanciero.com.mx/resizer/K9V_V0laWOKp7GEjCO4tzcNZ7vE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BEEGFQLCQZHZTHEWIFBNQE7IHM.jpg",
         "publishedAt": "2024-08-05T15:19:52Z",
         "content": "Cemex firmó un acuerdo para la venta de sus operaciones en la República Dominicana, por un monto total aproximado de 950 millones de dólares y la a transacción incluye el negocio de exportación a Hai… [+1168 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Criptonoticias.com"
+        },
+        "author": "Jesús Herrera",
+        "title": "Cada vez más comercios de República Dominicana están aceptando bitcoin",
+        "description": "Hasta ahora, 41 negocios aceptan bitcoin y criptomonedas como medio de pago en la isla quisqueyana.\nLeer más",
+        "url": "https://www.criptonoticias.com/comunidad/adopcion/comercios-republicadominicana-aceptando-bitcoin/",
+        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
+        "publishedAt": "2024-08-16T19:19:59Z",
+        "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elespanol.com"
+        },
+        "author": "Fran G. Matas",
+        "title": "¿A qué hora exacta sale Black Myth: Wukong en PS5 y PC? ¿Cuándo llegará a Xbox?",
+        "description": "<!--cache-->Black Myth: Wukong, la aventura de acción de Game Science inspirada en la mitología china, se estrena primero en PC y PlayStation 5 durante la noche del 20 de agosto.<!--aa--->Black Myth: Wukong es uno de los RPG de acción más esperados del año. D…",
+        "url": "https://vandal.elespanol.com/noticia/1350773614/a-que-hora-exacta-sale-black-myth-wukong-en-ps5-y-pc-cuando-llegara-a-xbox/",
+        "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2024/19/202481916493918_1.jpg",
+        "publishedAt": "2024-08-19T15:06:00Z",
+        "content": "Black Myth: Wukong es uno de los RPG de acción más esperados del año. Desarrollado por el estudio chino Game Science, narra una aventura inspirada en la mitología china formada en la novela Viaje al … [+4564 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "España y otros países como EE.UU. instan a Venezuela a liberar a presos y a publicar las actas electorales",
+        "description": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido detenidos, «incluidos representantes de la oposición», en el marc…",
+        "url": "https://www.abc.es/internacional/espana-paises-eeuu-instan-venezuela-liberar-presos-20240816210639-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/16/maduro-elecciones-k8MB--1024x512@diario_abc.JPG",
+        "publishedAt": "2024-08-16T19:06:39Z",
+        "content": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido deten… [+4408 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elespanol.com"
+        },
+        "author": "L. V.",
+        "title": "EEUU confisca el avión oficial de Maduro en República Dominicana por las sanciones a Venezuela",
+        "description": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó la CNN.",
+        "url": "https://www.elespanol.com/mundo/america/eeuu/20240902/eeuu-confisca-avion-oficial-maduro-republica-dominicana-sanciones-venezuela/882912189_0.html",
+        "urlToImage": "https://s1.elespanol.com/2024/09/02/mundo/america/eeuu/882922396_248875358_1706x960.jpg",
+        "publishedAt": "2024-09-02T16:12:44Z",
+        "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó… [+882 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Criptonoticias.com"
+        },
+        "author": "Jesús Herrera",
+        "title": "“No nos parece que bitcoin y las criptomonedas pretendan reemplazar al peso dominicano”",
+        "description": "El superintendente de bancos República Dominicana, Alejandro Fernández, enfatiza que los criptoactivos “no son monedas”.\nLeer más",
+        "url": "https://www.criptonoticias.com/finanzas/bitcoin-criptomonedas-reemplazo-peso-republicadominicana-alejandrofernandez/",
+        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/superintendente-bancos-republicadominicana.png",
+        "publishedAt": "2024-08-21T13:49:07Z",
+        "content": "Hechos clave:\r\n<ul><li>Fernández afirma que es necesario alertar de los riesgos de las criptomonedas. \r\n</li><li>El superintendente ligó el uso de criptoactivos a las actividades ilícitas.\r\n</li></ul… [+5951 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Ángel Mor Montolio",
+        "title": "El nuevo proyecto profesional de César Muñoz en Telecinco tras el final de 'Así es la vida'",
+        "description": "'Así es la vida' se despedía el pasado 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javier Vázquez volverá a las tardes de Telecinco para presentar …",
+        "url": "https://www.mundodeportivo.com/elotromundo/television/20240817/1002299717/nuevo-proyecto-profesional-cesar-munoz-telecinco-final-asi-vida-dct.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3c42100693.r_d.960-540-6250.jpeg",
+        "publishedAt": "2024-08-17T08:15:32Z",
+        "content": "'Así es la vida' se despedía el pasado 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javi… [+1742 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "Chic",
+        "title": "¿Quién es Ninoska Vásquez, la modelo antichavista que ha conquistado Marbella?",
+        "description": "La modelo venezolana ha sido una de las granes protagonistas de la nueva edición del festival Starlite en Marbella, donde acudió ataviada con la bandera de su país donde escribió \"SOS Venezuela\". Descubrimos quién es esta espectacular modelo que ha acaparado …",
+        "url": "https://www.libertaddigital.com/chic/corazon/2024-08-07/quien-ninoska-vasquez-la-espectacular-modelo-venezolana-que-ha-conquistado-marbella-7153543/",
+        "urlToImage": "https://s.libertaddigital.com/2024/08/06/1200/627/chic/ninoska-vasquez-galeria-10.png",
+        "publishedAt": "2024-08-07T06:33:19Z",
+        "content": "Pero lo cierto es que Ninoksa Vásquez conoce de cerca la fama y los focos, pues en Latinoamérica toda una celebridad debido a su relación con el representante Vicente Saavedra, ex de Clarissa Molina,… [+129 chars]"
     }
 ]
