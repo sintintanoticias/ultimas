@@ -261,6 +261,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "“Una práctica de piratería”: la respuesta del gobierno de Venezuela ante la confiscación por parte de EE.UU. de un avión que usaba Maduro",
+        "description": "En un comunicado divulgado por el canciller venezolano, Yván Gil, se afirma que la medida adoptada por Washington es ilegal.",
+        "url": "https://www.bbc.com/mundo/articles/cly8pp5djk6o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1d37/live/e0c0e0a0-697d-11ef-8878-33cec1c8c7dd.jpg",
+        "publishedAt": "2024-09-03T00:06:40Z",
+        "content": "Fuente de la imagen, Getty Images\r\nPie de foto, El avión incautado es modelo Dassault Falcon 900EX.\r\nInformación del artículo<ul><li>Autor, Redacción</li><li>Título del autor, BBC News Mundo</li><li>… [+3432 chars]"
+    },
+    {
+        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -544,6 +557,19 @@
         "urlToImage": "https://phantom-marca.unidadeditorial.es/ab87f771ca8cc083f291fa824f80ad72/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/02/17226266646501.jpg",
         "publishedAt": "2024-08-02T19:33:03Z",
         "content": "España se impuso a Japón en cuartos de final del torneo olímpico en el que es, hasta la fecha, el mejor partido de los nuestros. Un triunfo que da el billete para unas semifinales que habrá que jugar… [+3225 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Belén Liotti",
+        "title": "Así es el avión utilizado por Nicolás Maduro que incautó Estados Unidos",
+        "description": "Estados Unidos incautó el avión que utilizaba el presidente de Venezuela, Nicolás Maduro, tras considerar que su adquisición violaba las sanciones estadounidenses.\nThe post Así es el avión utilizado por Nicolás Maduro que incautó Estados Unidos appeared first…",
+        "url": "https://cnnespanol.cnn.com/2024/09/02/asi-avion-nicolas-maduro-incauto-estados-unidos-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/c-still-20925391-442132-957-still.webp",
+        "publishedAt": "2024-09-02T23:15:26Z",
+        "content": "Así incautaron el avión de Nicolás Maduro 2:45\r\n(CNN Español) Este lunes, Estados Unidos incautó el avión que utilizaba el presidente de Venezuela, Nicolás Maduro, tras considerar que su adquisición … [+1308 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://www.elfinanciero.com.mx/resizer/K9V_V0laWOKp7GEjCO4tzcNZ7vE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BEEGFQLCQZHZTHEWIFBNQE7IHM.jpg",
         "publishedAt": "2024-08-05T15:19:52Z",
         "content": "Cemex firmó un acuerdo para la venta de sus operaciones en la República Dominicana, por un monto total aproximado de 950 millones de dólares y la a transacción incluye el negocio de exportación a Hai… [+1168 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Criptonoticias.com"
-        },
-        "author": "Jesús Herrera",
-        "title": "Cada vez más comercios de República Dominicana están aceptando bitcoin",
-        "description": "Hasta ahora, 41 negocios aceptan bitcoin y criptomonedas como medio de pago en la isla quisqueyana.\nLeer más",
-        "url": "https://www.criptonoticias.com/comunidad/adopcion/comercios-republicadominicana-aceptando-bitcoin/",
-        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
-        "publishedAt": "2024-08-16T19:19:59Z",
-        "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Elespanol.com"
-        },
-        "author": "Fran G. Matas",
-        "title": "¿A qué hora exacta sale Black Myth: Wukong en PS5 y PC? ¿Cuándo llegará a Xbox?",
-        "description": "<!--cache-->Black Myth: Wukong, la aventura de acción de Game Science inspirada en la mitología china, se estrena primero en PC y PlayStation 5 durante la noche del 20 de agosto.<!--aa--->Black Myth: Wukong es uno de los RPG de acción más esperados del año. D…",
-        "url": "https://vandal.elespanol.com/noticia/1350773614/a-que-hora-exacta-sale-black-myth-wukong-en-ps5-y-pc-cuando-llegara-a-xbox/",
-        "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2024/19/202481916493918_1.jpg",
-        "publishedAt": "2024-08-19T15:06:00Z",
-        "content": "Black Myth: Wukong es uno de los RPG de acción más esperados del año. Desarrollado por el estudio chino Game Science, narra una aventura inspirada en la mitología china formada en la novela Viaje al … [+4564 chars]"
     }
 ]
