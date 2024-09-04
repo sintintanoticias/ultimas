@@ -482,6 +482,19 @@
     },
     {
         "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Afp",
+        "title": "EEUU, la UE y nueve países latinoamericanos condenan la orden de arresto lanzada por el régimen de Maduro contra el candidato opositor Edmundo González",
+        "description": "Nueve países latinoamericanos rechazaron el martes la orden de arresto dictada por un tribunal de Venezuela contra el opositor Edmundo González Urrutia, quien denunció fraude y...",
+        "url": "https://www.elmundo.es/internacional/2024/09/03/66d72a9cfdddff481d8b4590.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/1df9403751abbd6f346573055e99817f/f/webp/assets/multimedia/imagenes/2024/09/03/17253771154259.jpg",
+        "publishedAt": "2024-09-03T15:36:50Z",
+        "content": "Nueve países latinoamericanos rechazaron el martes la orden de arresto dictada por un tribunal de Venezuela contra el opositor Edmundo González Urrutia, quien denunció fraude y reivindica su triunfo … [+3577 chars]"
+    },
+    {
+        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -570,6 +583,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-24T21:57:31Z",
         "content": "(CNN Español) -- Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina. Agregó que por el momento … [+1063 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ivonne Valdés",
+        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
+        "description": "El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una expresión de \"agradecimiento\" al pueblo venezolano.\nThe post Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela ap…",
+        "url": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-03T15:32:32Z",
+        "content": "Estados Unidos incauta avión de Maduro en República Dominicana 2:24\r\n(CNN Español) -- El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una … [+1127 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
         "publishedAt": "2024-08-16T19:19:59Z",
         "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Elespanol.com"
-        },
-        "author": "Fran G. Matas",
-        "title": "¿A qué hora exacta sale Black Myth: Wukong en PS5 y PC? ¿Cuándo llegará a Xbox?",
-        "description": "<!--cache-->Black Myth: Wukong, la aventura de acción de Game Science inspirada en la mitología china, se estrena primero en PC y PlayStation 5 durante la noche del 20 de agosto.<!--aa--->Black Myth: Wukong es uno de los RPG de acción más esperados del año. D…",
-        "url": "https://vandal.elespanol.com/noticia/1350773614/a-que-hora-exacta-sale-black-myth-wukong-en-ps5-y-pc-cuando-llegara-a-xbox/",
-        "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2024/19/202481916493918_1.jpg",
-        "publishedAt": "2024-08-19T15:06:00Z",
-        "content": "Black Myth: Wukong es uno de los RPG de acción más esperados del año. Desarrollado por el estudio chino Game Science, narra una aventura inspirada en la mitología china formada en la novela Viaje al … [+4564 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "España y otros países como EE.UU. instan a Venezuela a liberar a presos y a publicar las actas electorales",
-        "description": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido detenidos, «incluidos representantes de la oposición», en el marc…",
-        "url": "https://www.abc.es/internacional/espana-paises-eeuu-instan-venezuela-liberar-presos-20240816210639-nt.html",
-        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/16/maduro-elecciones-k8MB--1024x512@diario_abc.JPG",
-        "publishedAt": "2024-08-16T19:06:39Z",
-        "content": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido deten… [+4408 chars]"
     }
 ]
