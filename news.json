@@ -300,6 +300,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "VIDEO: Camión a toda velocidad embiste a una multitud en República Dominicana",
+        "description": "La tragedia ocurrió la madrugada del domingo a las afueras de un bar dejando seis muertos y decenas de heridos.",
+        "url": "https://actualidad.rt.com/actualidad/521530-camion-embestir-multitud-republica-dominicana",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66d6f92359bf5b4482568aa0.jpg",
+        "publishedAt": "2024-09-03T14:07:46Z",
+        "content": "Al menos seis personas murieron y unas 41 resultaron heridas luego de que un camión a alta velocidad arrollara a una multitud en el municipio dominicano de Las Yayas de Viajama, en la provincia de Az… [+2783 chars]"
+    },
+    {
+        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -1132,19 +1145,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
-        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
-        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
-        "publishedAt": "2024-08-15T10:53:18Z",
-        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Huffingtonpost.es"
         },
@@ -1181,6 +1181,19 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/21/aerial-view-of-the-paraguayan-city-of-ciudad-del-este-and-friendship-bridge-connecting-paraguay-and-brazil-through-the-border-over-the-parana-river.jpeg",
         "publishedAt": "2024-08-21T14:38:19Z",
         "content": "Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 20… [+2306 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
+        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
+        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
+        "publishedAt": "2024-08-15T10:53:18Z",
+        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/16/maduro-elecciones-k8MB--1024x512@diario_abc.JPG",
         "publishedAt": "2024-08-16T19:06:39Z",
         "content": "España ha firmado una declaración conjunta con Estados Unidos y otros países para exigir al Gobierno de Nicolás Maduro que ponga fin a la violencia y libere a todos aquellos presos que han sido deten… [+4408 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Elespanol.com"
-        },
-        "author": "L. V.",
-        "title": "EEUU confisca el avión oficial de Maduro en República Dominicana por las sanciones a Venezuela",
-        "description": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó la CNN.",
-        "url": "https://www.elespanol.com/mundo/america/eeuu/20240902/eeuu-confisca-avion-oficial-maduro-republica-dominicana-sanciones-venezuela/882912189_0.html",
-        "urlToImage": "https://s1.elespanol.com/2024/09/02/mundo/america/eeuu/882922396_248875358_1706x960.jpg",
-        "publishedAt": "2024-09-02T16:12:44Z",
-        "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre Venezuela, según adelantó… [+882 chars]"
     }
 ]
