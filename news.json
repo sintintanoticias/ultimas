@@ -53,6 +53,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Carlos Prego",
+        "title": "A la Navidad de Vigo le ha salido un nuevo rival: Maduro ha decretado que la de Venezuela empezará el 1 de octubre",
+        "description": "Vigo no será la primera en celebrar la Navidad este año. Aunque la ciudad gallega lleva ya más de un mes instalando adornos y su alcalde, Abel Caballero, suele dar por oficialmente inauguradas las fiestas a finales de noviembre, un mes antes que el resto de l…",
+        "url": "https://www.xataka.com/magnet/a-navidad-vigo-le-ha-salido-nuevo-rival-maduro-ha-decretado-que-venezuela-empezara-1-octubre",
+        "urlToImage": "https://i.blogs.es/158d49/venezuela/840_560.jpeg",
+        "publishedAt": "2024-09-03T17:15:25Z",
+        "content": "Vigo no será la primera en celebrar la Navidad este año. Aunque la ciudad gallega lleva ya más de un mes instalando adornos y su alcalde, Abel Caballero, suele dar por oficialmente inauguradas las fi… [+5208 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.elfinanciero.com.mx/resizer/K9V_V0laWOKp7GEjCO4tzcNZ7vE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BEEGFQLCQZHZTHEWIFBNQE7IHM.jpg",
         "publishedAt": "2024-08-05T15:19:52Z",
         "content": "Cemex firmó un acuerdo para la venta de sus operaciones en la República Dominicana, por un monto total aproximado de 950 millones de dólares y la a transacción incluye el negocio de exportación a Hai… [+1168 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Criptonoticias.com"
-        },
-        "author": "Jesús Herrera",
-        "title": "Cada vez más comercios de República Dominicana están aceptando bitcoin",
-        "description": "Hasta ahora, 41 negocios aceptan bitcoin y criptomonedas como medio de pago en la isla quisqueyana.\nLeer más",
-        "url": "https://www.criptonoticias.com/comunidad/adopcion/comercios-republicadominicana-aceptando-bitcoin/",
-        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
-        "publishedAt": "2024-08-16T19:19:59Z",
-        "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
     }
 ]
