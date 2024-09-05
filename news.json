@@ -317,6 +317,19 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
+        "title": "Reportan que un segundo avión venezolano está bajo custodia militar en República Dominicana",
+        "description": "La aeronave llegó para recibir mantenimiento y habría sido inmovilizada debido a una investigación en curso.",
+        "url": "https://actualidad.rt.com/actualidad/521663-segundo-avion-nicolas-maduro-republica-dominicana",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66d853bd59bf5b097653d326.jpg",
+        "publishedAt": "2024-09-04T14:18:48Z",
+        "content": "Un segundo avión propiedad del Gobierno de Venezuela estaría bajo custodia militar en el Aeropuerto Internacional Doctor Joaquín Balaguer de Santo Domingo, en República Dominicana, según reportan med… [+1420 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
         "title": "Descubren en República Dominicana una embarcación a la deriva con 14 cadáveres",
         "description": "La identificación preliminar de los fallecidos se realizó mediante los documentos hallados en la embarcación, que apuntan a que eran originarios de Senegal y Mauritania.",
         "url": "https://actualidad.rt.com/actualidad/518597-descubren-republica-dominicana-cadaveres",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/21/aerial-view-of-the-paraguayan-city-of-ciudad-del-este-and-friendship-bridge-connecting-paraguay-and-brazil-through-the-border-over-the-parana-river.jpeg",
         "publishedAt": "2024-08-21T14:38:19Z",
         "content": "Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 20… [+2306 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
-        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
-        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
-        "publishedAt": "2024-08-15T10:53:18Z",
-        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
     }
 ]
