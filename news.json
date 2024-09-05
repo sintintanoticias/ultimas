@@ -131,6 +131,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sofía Barruti",
+        "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
+        "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
+        "url": "https://cnnespanol.cnn.com/2024/09/04/segundo-avion-maduro-republica-domincana-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-04T04:44:47Z",
+        "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
+    },
+    {
+        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -170,19 +183,6 @@
     },
     {
         "source": {
-            "id": "el-mundo",
-            "name": "El Mundo"
-        },
-        "author": "Eduardo Álvarez",
-        "title": "La extraña polémica por el traje del Rey Felipe VI en la toma de posesión del presidente dominicano",
-        "description": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el...",
-        "url": "https://www.elmundo.es/internacional/2024/08/19/66c3085321efa0290c8b4580.html",
-        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/12f024808461ecc48a26fabf88f9f855/f/webp/assets/multimedia/imagenes/2024/08/19/17240576028077.jpg",
-        "publishedAt": "2024-08-19T09:09:39Z",
-        "content": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el pasado viernes cuando asis… [+6304 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Eldiario.es"
         },
@@ -193,6 +193,19 @@
         "urlToImage": "https://static.eldiario.es/clip/c5d97b27-d550-4e8d-88e8-14069fbd94c3_facebook-watermarked-aspect-ratio_default_0.jpg",
         "publishedAt": "2024-08-20T19:51:01Z",
         "content": "El ciudadano ruso Sergey Berezin, que se ocultó en República Dominicana bajo la identidad falsa de Paul Bergholtz, será extraditado a España acusado de liderar la estafa piramidal de inversión en can… [+5392 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Eduardo Álvarez",
+        "title": "La extraña polémica por el traje del Rey Felipe VI en la toma de posesión del presidente dominicano",
+        "description": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el...",
+        "url": "https://www.elmundo.es/internacional/2024/08/19/66c3085321efa0290c8b4580.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/12f024808461ecc48a26fabf88f9f855/f/webp/assets/multimedia/imagenes/2024/08/19/17240576028077.jpg",
+        "publishedAt": "2024-08-19T09:09:39Z",
+        "content": "¿Hay alguna razón por la que el Rey de España no pueda vestir con un traje blanco? A falta de respuesta, lo cierto es que su decisión de no hacerlo no pasó desapercibida el pasado viernes cuando asis… [+6304 chars]"
     },
     {
         "source": {
@@ -849,19 +862,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "CNNEspañol sjv",
-        "title": "OPINIÓN | Anuncian la victoria de Maduro, ¿problema para la izquierda latinoamericana?",
-        "description": "Jorge Dávila Miguel opina que tras el anuncio de resultados de Venezuela, la izquierda latinoamericana no está tranquila. \"No se creen la victoria del bolivariano\".\nThe post OPINIÓN | Anuncian la victoria de Maduro, ¿problema para la izquierda latinoamericana…",
-        "url": "https://cnnespanol.cnn.com/2024/08/14/opinion-davila-izquierda-maduro-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/amlo-petro-lula.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-14T17:12:16Z",
-        "content": "Nota del editor: Jorge Dávila Miguel es Licenciado en Periodismo desde 1973 y ha mantenido una carrera continuada en su profesión hasta la fecha. Ostenta posgrados en Ciencias de la Información Socia… [+5354 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Mauricio Torres",
         "title": "Brasil y Colombia expresan “profunda preocupación” por la orden de arresto emitida contra Edmundo González en Venezuela",
         "description": "Los gobiernos de Brasil y de Colombia se sumaron a los países que se han pronunciado en contra de la orden de arresto contra Edmundo González Urrutia.\nThe post Brasil y Colombia expresan “profunda preocupación” por la orden de arresto emitida contra Edmundo G…",
@@ -869,6 +869,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-04T00:37:03Z",
         "content": "Nueve países latinoamericanos y EE.UU. rechazan el pedido de orden de arresto contra Edmundo González 4:29\r\n(CNN Español) Los gobiernos de Brasil y de Colombia se sumaron este martes a los países que… [+2426 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "CNNEspañol sjv",
+        "title": "OPINIÓN | Anuncian la victoria de Maduro, ¿problema para la izquierda latinoamericana?",
+        "description": "Jorge Dávila Miguel opina que tras el anuncio de resultados de Venezuela, la izquierda latinoamericana no está tranquila. \"No se creen la victoria del bolivariano\".\nThe post OPINIÓN | Anuncian la victoria de Maduro, ¿problema para la izquierda latinoamericana…",
+        "url": "https://cnnespanol.cnn.com/2024/08/14/opinion-davila-izquierda-maduro-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/amlo-petro-lula.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-14T17:12:16Z",
+        "content": "Nota del editor: Jorge Dávila Miguel es Licenciado en Periodismo desde 1973 y ha mantenido una carrera continuada en su profesión hasta la fecha. Ostenta posgrados en Ciencias de la Información Socia… [+5354 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bb793659bf5b7a920f5feb.jpg",
         "publishedAt": "2024-08-13T23:07:51Z",
         "content": "La Comisión Económica para América Latina y el Caribe (Cepal) ajustó a la baja el crecimiento económico de la región para este año, según el último informe de la entidad, publicado este martes.\r\nDe a… [+2335 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Tierras raras: cómo EE.UU. busca apoderarse de los recursos estratégicos latinoamericanos",
-        "description": "Washington ha mostrado un gran interés en los minerales críticos, como el litio, imprescindibles para las tecnologías avanzadas, energías renovables y dispositivos electrónicos.",
-        "url": "https://actualidad.rt.com/actualidad/520439-tierras-raras-eeuu-busca-apoderarse-recursos-estrategicos-latinamericanos",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
-        "publishedAt": "2024-08-23T14:35:20Z",
-        "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
     }
 ]
