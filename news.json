@@ -820,6 +820,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "ALBA-TCP denuncia la incautación de un avión presidencial venezolano por parte de EE.UU.",
+        "description": "",
+        "url": "https://actualidad.rt.com/actualidad/521613-alba-denunciar-incautacion-avion-presidencial-venezolano",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/original/66d79f92e9ff71456e5d8a50.jpg",
+        "publishedAt": "2024-09-03T23:45:22Z",
+        "content": "La Alianza Bolivariana para los Pueblos de Nuestra América–Tratado de Comercio de los Pueblos (ALBA-TCP) denunció \"la incautación\" de una aeronave venezolana usada por el presidente de ese país, Nico… [+1049 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -843,6 +856,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/amlo-petro-lula.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-14T17:12:16Z",
         "content": "Nota del editor: Jorge Dávila Miguel es Licenciado en Periodismo desde 1973 y ha mantenido una carrera continuada en su profesión hasta la fecha. Ostenta posgrados en Ciencias de la Información Socia… [+5354 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Mauricio Torres",
+        "title": "Brasil y Colombia expresan “profunda preocupación” por la orden de arresto emitida contra Edmundo González en Venezuela",
+        "description": "Los gobiernos de Brasil y de Colombia se sumaron a los países que se han pronunciado en contra de la orden de arresto contra Edmundo González Urrutia.\nThe post Brasil y Colombia expresan “profunda preocupación” por la orden de arresto emitida contra Edmundo G…",
+        "url": "https://cnnespanol.cnn.com/2024/09/03/brasil-colombia-preocupacion-arresto-edmundo-gonzalez-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-04T00:37:03Z",
+        "content": "Nueve países latinoamericanos y EE.UU. rechazan el pedido de orden de arresto contra Edmundo González 4:29\r\n(CNN Español) Los gobiernos de Brasil y de Colombia se sumaron este martes a los países que… [+2426 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
         "publishedAt": "2024-08-23T14:35:20Z",
         "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Publico.es"
-        },
-        "author": "Público",
-        "title": "Albares urge al PP a dejar de difundir bulos sobre Venezuela y a respaldar la acción del Gobierno",
-        "description": "En su comparecencia ante la comisión de Asuntos Exteriores del Senado, el ministro ha destacado el compromiso del Gobierno con la democracia en el país latinoamericano.",
-        "url": "https://www.publico.es/politica/albares-urge-pp-dejar-difundir-bulos-venezuela-respaldar-accion-gobierno.html",
-        "urlToImage": "https://www.publico.es/uploads/2024/08/13/66bb5d2e188b1.jpeg",
-        "publishedAt": "2024-08-13T13:21:00Z",
-        "content": "El ministro de Asuntos Exteriores, José Manuel Albares, ha instado este martes al Partido Popular a actuar con responsabilidad y a cesar en la difusión de desinformación y bulos en relación con Venez… [+1865 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Albares vuelve a dejar solo al Rey: no irá a la toma de posesión del dominicano Abinader",
-        "description": "Nuevo plantón de José Manuel Albares a Felipe VI. El ministro de Asuntos Exteriores, UE y Cooperación vuelve a dejar sólo al Rey en un viaje oficial y no le acompañará este viernes por la tarde en la toma de posesión del presidente de República Dominicana Lui…",
-        "url": "https://www.abc.es/espana/albares-vuelve-dejar-solo-rey-ira-toma-20240814192827-nt.html",
-        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/08/14/albares-khaG--1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-14T17:28:27Z",
-        "content": "Nuevo plantón de José Manuel Albares a Felipe VI. El ministro de Asuntos Exteriores, UE y Cooperación vuelve a dejar sólo al Rey en un viaje oficial y no le acompañará este viernes por la tarde en la… [+588 chars]"
     }
 ]
