@@ -1275,6 +1275,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
+        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
+        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
+        "publishedAt": "2024-08-15T10:53:18Z",
+        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Huffingtonpost.es"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/13/zapatero-albares-y-pilar-alegria-el-pasado-19-de-enero.jpeg",
         "publishedAt": "2024-08-13T09:22:46Z",
         "content": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación del Reino de España, José Manuel Albares, ha defendido este martes el papel del expresidente del Gobierno, José Luis Rodríguez Zapatero,… [+2503 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost",
-        "title": "Las multas a las que te expones si traes estos souvenirs prohibidos a tu regreso a España",
-        "description": "<![CDATA[<p>Cuando uno se va de vacaciones siempre tiene la tentación de traerse un recuerdo. Sin embargo, muchas veces no nos conformamos con una camiseta o un objeto de decoración. Queremos llevarnos elementos que, realmente, no se pueden transportar. El di…",
-        "url": "https://www.huffingtonpost.es/sociedad/las-multas-te-expones-traes-souvenirs-prohibidos-regreso-espana.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/05/conchas-en-la-arena.jpeg",
-        "publishedAt": "2024-08-05T10:45:36Z",
-        "content": "Cuando uno se va de vacaciones siempre tiene la tentación de traerse un recuerdo. Sin embargo, muchas veces no nos conformamos con una camiseta o un objeto de decoración. Queremos llevarnos elementos… [+1944 chars]"
     }
 ]
