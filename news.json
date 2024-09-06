@@ -300,6 +300,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Diosdado Cabello dice que la incautación del avión de Maduro es un “robo”",
+        "description": "El ministro de Interior, Justicia y Paz de Venezuela, Diosdado Cabello, calificó este miércoles de “robo” la incautación de un avión utilizado por el presidente Nicolás Maduro, que las autoridades estadounidenses ejecutaron el lunes en República Dominicana\nTh…",
+        "url": "https://cnnespanol.cnn.com/2024/09/05/diosdado-cabello-incautacion-avion-maduro-es-robo-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2167203830_38d7ea-e1725558141927.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-05T18:21:44Z",
+        "content": "Diosdado Cabello acusa a la oposición de ataques al sistema eléctrico; aún no presenta pruebas 3:00\r\n(CNN Español) -- El ministro de Interior, Justicia y Paz de Venezuela, Diosdado Cabello, calificó … [+3075 chars]"
+    },
+    {
+        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -1032,19 +1045,6 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Brasil representará los intereses diplomáticos de Perú y Argentina en Venezuela",
-        "description": "El acuerdo fue alcanzado con el Gobierno venezolano.",
-        "url": "https://actualidad.rt.com/actualidad/518401-venezuela-brasil-alcanzan-acuerdo-custodia",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66b0d0ca59bf5b54877f9010.jpg",
-        "publishedAt": "2024-08-05T13:07:35Z",
-        "content": "El Gobierno de Venezuela informó este lunes que llegó a un acuerdo con Brasil para que ese país custodie las misiones diplomáticas de Argentina y Perú que se encuentran en territorio venezolano.\r\nA t… [+1715 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
         "title": "Musk amenaza al Gobierno de Brasil: \"Espero que a Lula le gusten los vuelos comerciales\"",
         "description": "El magnate adjuntó un reporte sobre la reciente incautación del avión presidencial de Nicolás Maduro por las autoridades de EE.UU.",
         "url": "https://actualidad.rt.com/actualidad/521479-musk-amenaza-gobierno-brasil-lula-vuelos",
@@ -1155,19 +1155,6 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/04/230407103305-visa-full-169.jpeg?quality=100&strip=info",
         "publishedAt": "2024-08-23T00:19:50Z",
         "content": "(CNN Español) Estados Unidos cambiará su plataforma de servicios de visa, lo cual impactará en los procesos de solicitud, particularmente desde países de Centroamérica y el Caribe.\r\nUn portavoz del D… [+2947 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "¿Cuántas medallas de oro, plata y bronce lleva España en París y cómo va hoy lunes el medallero de los Juegos Olímpicos?",
-        "description": "Los Juegos Olímpicos de París 2024 ya van a toda máquina. Desde el miércoles 24 de julio hasta el domingo 11 de agosto, miles de deportistas de todo el mundo acuden a la capital francesa para demostrar que son los mejores en su disciplina . La delegación espa…",
-        "url": "https://www.abc.es/deportes/juegos-olimpicos/cuantas-medallas-oro-plata-bronce-lleva-espana-paris-como-va-hoy-lunes-medallero-juegos-olimpicos-20240805172232-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/07/28/j-k55H--1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-05T06:38:59Z",
-        "content": "<li>Estados Unidos: 71 medallas (19 oro, 26 plata, 26 bronce)\r\n</li><li>Francia: 44 medallas (12 oro, 14 plata, 18 bronce)\r\n</li><li>Japón: 16 medallas (8 oro, 3 plata, 5 bronce)\r\n</li><li>China: 45 … [+3192 chars]"
     },
     {
         "source": {
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/13/zapatero-albares-y-pilar-alegria-el-pasado-19-de-enero.jpeg",
         "publishedAt": "2024-08-13T09:22:46Z",
         "content": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación del Reino de España, José Manuel Albares, ha defendido este martes el papel del expresidente del Gobierno, José Luis Rodríguez Zapatero,… [+2503 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Andrea Cadenas de Llano Sosa",
+        "title": "Si quieres irte de España y seguir hablando el mismo idioma: conoce cuál es el país de Sudamérica más barato para vivir",
+        "description": "<![CDATA[<p>Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 2024 es Paraguay. wf_cms.rss.read_more]]>",
+        "url": "https://www.huffingtonpost.es/life/viajes/si-quieres-irte-espana-seguir-hablando-idioma-conoce-cual-pais-sudamerica-mas-barato-vivirbr.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/21/aerial-view-of-the-paraguayan-city-of-ciudad-del-este-and-friendship-bridge-connecting-paraguay-and-brazil-through-the-border-over-the-parana-river.jpeg",
+        "publishedAt": "2024-08-21T14:38:19Z",
+        "content": "Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 20… [+2306 chars]"
     }
 ]
