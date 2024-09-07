@@ -121,19 +121,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
-        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
-        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-06T13:11:37Z",
-        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Sofía Barruti",
         "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
         "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
@@ -141,6 +128,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-04T04:44:47Z",
         "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
+        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
+        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-06T13:11:37Z",
+        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
     },
     {
         "source": {
@@ -388,6 +388,19 @@
         "urlToImage": "https://phantom-elmundo.unidadeditorial.es/abb180e345a6c09ee8a240a83e6bd03d/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/16/17238346360837.jpg",
         "publishedAt": "2024-08-16T19:03:21Z",
         "content": "Estados Unidos, España, Argentina y Chile, entre oros países, una veintena en total, han firmado un comunicado conjunto entre Europa y las Américas para pedir el cese inmediato de la represión en Ven… [+2762 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ángela Reyes Haczek",
+        "title": "Blinken y Abinader afirman que trabajan por encontrar una solución a la crisis de Venezuela",
+        "description": "El presidente de República Dominicana, Luis Abinader, y el secretario de Estado de Estados Unidos, Antony Blinken, afirmaron este viernes en Santo Domingo que están trabajando junto a varios países de la región para encontrar una solución a la crisis desatada…",
+        "url": "https://cnnespanol.cnn.com/2024/09/06/blinken-abinader-crisis-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2169804170-e1725641742906.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-06T17:01:16Z",
+        "content": "OPINIÓN | ¿Cuáles son las opciones que tiene Edmundo González en Venezuela? 5:29\r\n(CNN Español) -- El presidente de República Dominicana, Luis Abinader, y el secretario de Estado de Estados Unidos, A… [+1926 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/Union-Europea-22-paises-piden-verificacion-imparcial-resultados-electorales-Venezuela-16082024.jpg",
         "publishedAt": "2024-08-16T23:26:28Z",
         "content": "La Unión Europea y 22 países solicitaron este viernes la “inmediata publicación de todas las actas originales” de las elecciones del 28 de julio en Venezuela y la verificación “imparcial e independie… [+3763 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Javier Escartín",
-        "title": "El Gobierno defiende el papel de Zapatero en Venezuela: \"Hace una labor que se valora y se aprecia\"",
-        "description": "<![CDATA[<p>El ministro de Asuntos Exteriores, Unión Europea y Cooperación del Reino de España, José Manuel Albares, ha defendido este martes el papel del expresidente del Gobierno, José Luis Rodríguez Zapatero, como intermediario en el conflicto político ent…",
-        "url": "https://www.huffingtonpost.es/politica/el-gobierno-defiende-papel-zapatero-venezuela-hace-labor-valora-aprecia.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/13/zapatero-albares-y-pilar-alegria-el-pasado-19-de-enero.jpeg",
-        "publishedAt": "2024-08-13T09:22:46Z",
-        "content": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación del Reino de España, José Manuel Albares, ha defendido este martes el papel del expresidente del Gobierno, José Luis Rodríguez Zapatero,… [+2503 chars]"
     }
 ]
