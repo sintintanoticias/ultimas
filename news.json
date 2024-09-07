@@ -121,19 +121,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Sofía Barruti",
-        "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
-        "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
-        "url": "https://cnnespanol.cnn.com/2024/09/04/segundo-avion-maduro-republica-domincana-trax/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-04T04:44:47Z",
-        "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
         "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
@@ -141,6 +128,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-06T13:11:37Z",
         "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sofía Barruti",
+        "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
+        "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
+        "url": "https://cnnespanol.cnn.com/2024/09/04/segundo-avion-maduro-republica-domincana-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-04T04:44:47Z",
+        "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
     },
     {
         "source": {
@@ -1250,19 +1250,6 @@
     {
         "source": {
             "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Marta Pérez González",
-        "title": "David José Pineda se cuelga la plata en los 400 metros",
-        "description": "El atletismo español ha tenido este martes la medalla que buscaba. David José Pineda ha terminado segundo en la final de los 400 metros en categoría T20, reservada para deportistas con discapacidad intelectual, para lograr una medalla de plata que amplía el y…",
-        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240903/1002309606/david-jose-pineda-cuelga-plata-400-metros.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/03/66d763c4b8137.jpeg",
-        "publishedAt": "2024-09-03T19:30:21Z",
-        "content": "El atletismo español ha tenido este martes la medalla que buscaba. David José Pineda ha terminado segundo en la final de los 400 metros en categoría T20, reservada para deportistas con discapacidad i… [+1661 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Aristeguinoticias.com"
         },
         "author": "Redacción AN / JGE",
@@ -1272,6 +1259,19 @@
         "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/03/clasico-mundial-beisbol-mexico-25032023.png",
         "publishedAt": "2024-08-21T19:02:39Z",
         "content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl Clásico Mundial de Béisbol dio a conocer este miércoles los grupos para la próxima edición de su torneo, que será disputado del 5 al 17 de marzo… [+2600 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Marta Pérez González",
+        "title": "David José Pineda se cuelga la plata en los 400 metros",
+        "description": "El atletismo español ha tenido este martes la medalla que buscaba. David José Pineda ha terminado segundo en la final de los 400 metros en categoría T20, reservada para deportistas con discapacidad intelectual, para lograr una medalla de plata que amplía el y…",
+        "url": "https://www.mundodeportivo.com/juegos-olimpicos/20240903/1002309606/david-jose-pineda-cuelga-plata-400-metros.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/03/66d763c4b8137.jpeg",
+        "publishedAt": "2024-09-03T19:30:21Z",
+        "content": "El atletismo español ha tenido este martes la medalla que buscaba. David José Pineda ha terminado segundo en la final de los 400 metros en categoría T20, reservada para deportistas con discapacidad i… [+1661 chars]"
     },
     {
         "source": {
