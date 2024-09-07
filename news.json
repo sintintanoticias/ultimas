@@ -482,6 +482,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Blinken y Abinader conversan en Santo Domingo sobre la crisis de Haití",
+        "description": "El mandatario dominicano expresó su preocupación por la situación humanitaria en la nación vecina y la llegada masiva de migrantes de ese país.",
+        "url": "https://actualidad.rt.com/actualidad/521940-blinken-abinader-conversan-crisis-haiti",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66db410a59bf5b5b1420eb73.jpg",
+        "publishedAt": "2024-09-06T20:07:11Z",
+        "content": "El secretario de Estado de EE.UU., Antony Blinken, y el presidente de República Dominicana, Luis Abinader, conversaron este viernes sobre diversos tema de interés mutuo con especial acento en la cris… [+2443 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Eldiario.es"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/08/05/66b0fd4f0baa4.r_d.1824-978-3387.jpeg",
         "publishedAt": "2024-08-08T21:03:11Z",
         "content": "Como líder destacado de su franja de emisión, mejorando en casi 2 puntos la anterior edición, arrasando entre los jóvenes y en target comercial y copando al 100 % el ranking de emisiones en diferido … [+1632 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Aristeguinoticias.com"
-        },
-        "author": "Redacción AN / ES",
-        "title": "Unión Europea y 22 países piden verificación imparcial de resultados electorales en Venezuela",
-        "description": "En un documento firmado por la UE y los 22 países se urge al respeto de los principios democráticos, así como los derechos humanos de los venezolanos.",
-        "url": "https://aristeguinoticias.com/1608/mundo/union-europea-y-22-paises-piden-verificacion-imparcial-de-resultados-electorales-en-venezuela/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/Union-Europea-22-paises-piden-verificacion-imparcial-resultados-electorales-Venezuela-16082024.jpg",
-        "publishedAt": "2024-08-16T23:26:28Z",
-        "content": "La Unión Europea y 22 países solicitaron este viernes la “inmediata publicación de todas las actas originales” de las elecciones del 28 de julio en Venezuela y la verificación “imparcial e independie… [+3763 chars]"
     }
 ]
