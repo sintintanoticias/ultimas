@@ -108,19 +108,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Belén Liotti",
-        "title": "La Armada de República Dominicana halló una embarcación abandonada con al menos 14 osamentas",
-        "description": "La Armada de República Dominicana informó este martes del hallazgo de una embarcación con al menos 14 osamentas. El descubrimiento ocurrió a unas 10 millas náuticas de la costa de Río de San Juan, en la costa norte del paí.\nThe post La Armada de República Dom…",
-        "url": "https://cnnespanol.cnn.com/2024/08/06/republica-dominicana-embarcacion-14-osamentas-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-06-at-8.04.34-PM-1-2.jpeg?quality=100&strip=info",
-        "publishedAt": "2024-08-07T02:14:29Z",
-        "content": "(CNN Español) -- La Armada de República Dominicana informó este martes del hallazgo de una embarcación con al menos 14 osamentas. El descubrimiento ocurrió a unas 10 millas náuticas de la costa de Rí… [+680 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
         "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
         "publishedAt": "2024-08-23T14:35:20Z",
         "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Una española enumera los motivos por los que mantiene una relación con un hombre dominicano: «Este solo quiere...»",
+        "description": "Vivir en otro país y mantener una relación con una pareja extranjera puede ser una experiencia enriquecedora, pero también desafiante. Esto es algo que la tiktoker española @brighidflorido conoce muy bien. Desde que se mudó a la República Dominicana y comenzó…",
+        "url": "https://www.abc.es/recreo/espanola-enumera-motivos-mantiene-relacion-hombre-dominicano-20240907070000-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2024/09/07/rep-dominicana-khME--1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-07T05:00:00Z",
+        "content": "Vivir en otro país y mantener una relación con una pareja extranjera puede ser una experiencia enriquecedora, pero también desafiante. Esto es algo que la tiktoker española @brighidflorido conoce muy… [+1416 chars]"
     }
 ]
