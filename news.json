@@ -859,6 +859,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost/ Agencias",
+        "title": "Albares afirma que España no va a darle nunca la espalda ni va a abandonar a Edmundo González ni a ningún venezolano",
+        "description": "<![CDATA[<p>El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha afirmado que España \"no va a darle nunca la espalda ni va a abandonar ni Edmundo González ni a ningún venezolano\", tras la llegada este domingo al país de Edmu…",
+        "url": "https://www.huffingtonpost.es/politica/albares-afirma-espana-darle-nunca-espalda-abandonar-edmundo-gonzalez-ningun-venezolanobr.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/08/fotonoticia_20240908185330_1920.jpeg",
+        "publishedAt": "2024-09-08T17:02:44Z",
+        "content": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha afirmado que España \"no va a darle nunca la espalda ni va a abandonar ni Edmundo González ni a ningún venezolan… [+3247 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bb793659bf5b7a920f5feb.jpg",
         "publishedAt": "2024-08-13T23:07:51Z",
         "content": "La Comisión Económica para América Latina y el Caribe (Cepal) ajustó a la baja el crecimiento económico de la región para este año, según el último informe de la entidad, publicado este martes.\r\nDe a… [+2335 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Tierras raras: cómo EE.UU. busca apoderarse de los recursos estratégicos latinoamericanos",
-        "description": "Washington ha mostrado un gran interés en los minerales críticos, como el litio, imprescindibles para las tecnologías avanzadas, energías renovables y dispositivos electrónicos.",
-        "url": "https://actualidad.rt.com/actualidad/520439-tierras-raras-eeuu-busca-apoderarse-recursos-estrategicos-latinamericanos",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
-        "publishedAt": "2024-08-23T14:35:20Z",
-        "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
     }
 ]
