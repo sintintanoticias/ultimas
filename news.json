@@ -573,6 +573,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "José Luis Artús Tejero",
+        "title": "Junior Firpo dice que es \"una vergüenza\" tener que jugar a las 11 de la mañana",
+        "description": "Junior Firpo, figura de la selección de fútbol de República Dominicana, dijo sobre al partido contra Bermudas, que dio inicio a su participación en la Liga de Naciones de la Concacaf, que le parece \"una vergüenza\" tener que jugar a las once de la mañana en An…",
+        "url": "https://www.mundodeportivo.com/futbol/internacional/20240908/1002311933/junior.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/08/66dd855f08626.jpeg",
+        "publishedAt": "2024-09-08T11:09:32Z",
+        "content": "Junior Firpo, figura de la selección de fútbol de República Dominicana, dijo sobre al partido contra Bermudas, que dio inicio a su participación en la Liga de Naciones de la Concacaf, que le parece \"… [+1771 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2024/09/07/rep-dominicana-khME--1024x512@diario_abc.jpg",
         "publishedAt": "2024-09-07T05:00:00Z",
         "content": "Vivir en otro país y mantener una relación con una pareja extranjera puede ser una experiencia enriquecedora, pero también desafiante. Esto es algo que la tiktoker española @brighidflorido conoce muy… [+1416 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Publico.es"
-        },
-        "author": "Público",
-        "title": "Albares urge al PP a dejar de difundir bulos sobre Venezuela y a respaldar la acción del Gobierno",
-        "description": "En su comparecencia ante la comisión de Asuntos Exteriores del Senado, el ministro ha destacado el compromiso del Gobierno con la democracia en el país latinoamericano.",
-        "url": "https://www.publico.es/politica/albares-urge-pp-dejar-difundir-bulos-venezuela-respaldar-accion-gobierno.html",
-        "urlToImage": "https://www.publico.es/uploads/2024/08/13/66bb5d2e188b1.jpeg",
-        "publishedAt": "2024-08-13T13:21:00Z",
-        "content": "El ministro de Asuntos Exteriores, José Manuel Albares, ha instado este martes al Partido Popular a actuar con responsabilidad y a cesar en la difusión de desinformación y bulos en relación con Venez… [+1865 chars]"
     }
 ]
