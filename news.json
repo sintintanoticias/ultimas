@@ -820,19 +820,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "ALBA-TCP denuncia la incautación de un avión presidencial venezolano por parte de EE.UU.",
-        "description": "",
-        "url": "https://actualidad.rt.com/actualidad/521613-alba-denunciar-incautacion-avion-presidencial-venezolano",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/original/66d79f92e9ff71456e5d8a50.jpg",
-        "publishedAt": "2024-09-03T23:45:22Z",
-        "content": "La Alianza Bolivariana para los Pueblos de Nuestra América–Tratado de Comercio de los Pueblos (ALBA-TCP) denunció \"la incautación\" de una aeronave venezolana usada por el presidente de ese país, Nico… [+1049 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -843,6 +830,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-25T19:44:01Z",
         "content": "¿Es delito publicar copias de actas electorales en Venezuela? 3:34\r\n(CNN Español) -- En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio … [+2547 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "ALBA-TCP denuncia la incautación de un avión presidencial venezolano por parte de EE.UU.",
+        "description": "",
+        "url": "https://actualidad.rt.com/actualidad/521613-alba-denunciar-incautacion-avion-presidencial-venezolano",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/original/66d79f92e9ff71456e5d8a50.jpg",
+        "publishedAt": "2024-09-03T23:45:22Z",
+        "content": "La Alianza Bolivariana para los Pueblos de Nuestra América–Tratado de Comercio de los Pueblos (ALBA-TCP) denunció \"la incautación\" de una aeronave venezolana usada por el presidente de ese país, Nico… [+1049 chars]"
     },
     {
         "source": {
@@ -859,19 +859,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Europapress.es"
-        },
-        "author": null,
-        "title": "República Dominicana agradece a España que represente sus intereses diplomáticos en Venezuela",
-        "description": "El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones entre Caracas y Santo Domingo a raíz de las controvertidas elecciones del 28 de julio.",
-        "url": "https://www.europapress.es/internacional/noticia-republica-dominicana-agradece-espana-represente-intereses-diplomaticos-venezuela-20240814120835.html",
-        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814120835_1200.jpg",
-        "publishedAt": "2024-08-14T10:08:35Z",
-        "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones en… [+955 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -882,6 +869,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-04T00:37:03Z",
         "content": "Nueve países latinoamericanos y EE.UU. rechazan el pedido de orden de arresto contra Edmundo González 4:29\r\n(CNN Español) Los gobiernos de Brasil y de Colombia se sumaron este martes a los países que… [+2426 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Europapress.es"
+        },
+        "author": null,
+        "title": "República Dominicana agradece a España que represente sus intereses diplomáticos en Venezuela",
+        "description": "El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones entre Caracas y Santo Domingo a raíz de las controvertidas elecciones del 28 de julio.",
+        "url": "https://www.europapress.es/internacional/noticia-republica-dominicana-agradece-espana-represente-intereses-diplomaticos-venezuela-20240814120835.html",
+        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814120835_1200.jpg",
+        "publishedAt": "2024-08-14T10:08:35Z",
+        "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones en… [+955 chars]"
     },
     {
         "source": {
