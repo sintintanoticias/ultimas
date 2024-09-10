@@ -352,19 +352,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "La Vanguardia"
-        },
-        "author": "Fran Besora",
-        "title": "Cómo ver la presentación de los iPhone 16: todas las formas y horario",
-        "description": "Vamos a contarte cuándo y a qué hora es la presentación de los iPhone 16 y iPhone 16 Pro de Apple, los nuevos modelos que Apple desvelará con grandes cambios, y sobre los cuales ya sabemos prácticamente todo gracias a las numerosas filtraciones y rumores que …",
-        "url": "https://www.lavanguardia.com/andro4all/apple/como-ver-la-presentacion-de-los-iphone-16-todas-las-formas-y-horario",
-        "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/09/glowtime-horario.jpg?width=1200",
-        "publishedAt": "2024-09-08T19:01:31Z",
-        "content": "Cómo ver la presentación de los iPhone 16 en directo\r\nVamos a contarte cuándo y a qué hora es la presentación de los iPhone 16 y iPhone 16 Pro de Apple, los nuevos modelos que Apple desvelará con gra… [+2294 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -375,6 +362,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2169804170-e1725641742906.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-06T17:01:16Z",
         "content": "OPINIÓN | ¿Cuáles son las opciones que tiene Edmundo González en Venezuela? 5:29\r\n(CNN Español) -- El presidente de República Dominicana, Luis Abinader, y el secretario de Estado de Estados Unidos, A… [+1926 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "La Vanguardia"
+        },
+        "author": "Fran Besora",
+        "title": "Cómo ver la presentación de los iPhone 16: todas las formas y horario",
+        "description": "Vamos a contarte cuándo y a qué hora es la presentación de los iPhone 16 y iPhone 16 Pro de Apple, los nuevos modelos que Apple desvelará con grandes cambios, y sobre los cuales ya sabemos prácticamente todo gracias a las numerosas filtraciones y rumores que …",
+        "url": "https://www.lavanguardia.com/andro4all/apple/como-ver-la-presentacion-de-los-iphone-16-todas-las-formas-y-horario",
+        "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/09/glowtime-horario.jpg?width=1200",
+        "publishedAt": "2024-09-08T19:01:31Z",
+        "content": "Cómo ver la presentación de los iPhone 16 en directo\r\nVamos a contarte cuándo y a qué hora es la presentación de los iPhone 16 y iPhone 16 Pro de Apple, los nuevos modelos que Apple desvelará con gra… [+2294 chars]"
     },
     {
         "source": {
