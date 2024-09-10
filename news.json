@@ -392,19 +392,6 @@
     {
         "source": {
             "id": null,
-            "name": "Aristeguinoticias.com"
-        },
-        "author": "Redacción AN / GER",
-        "title": "Video | Se incendia mansión de Marc Anthony en República Dominicana",
-        "description": "La propiedad incluye dos piscinas que imitan una playa artificial, rodeadas de senderos y una cuidada jardinería, además de un set de entretenimiento con pantallas, bocinas y otras comodidades.",
-        "url": "https://aristeguinoticias.com/0808/kiosko/video-se-incendia-mansion-de-marc-anthony-en-republica-dominicana/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/marc-anthony-mansion-en-llamas-incendia-incendio-republica-dominicana-el-oasis-080824-2.jpg",
-        "publishedAt": "2024-08-08T20:06:17Z",
-        "content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nLa mañana de este jueves 8 de agosto, un fuerte incendio se reportó en la lujosa mansión del cantante Marc Anthony, ubicada en el exclusivo complej… [+980 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Www.abc.es"
         },
         "author": "(abc)",
@@ -821,19 +808,6 @@
     {
         "source": {
             "id": null,
-            "name": "Marketingdirecto.com"
-        },
-        "author": "Redacción",
-        "title": "Nuevo plazo para confirmar la inscripción con descuentos en El Ojo 2024",
-        "description": "El Ojo permite un descuento especial del 40% por adquisición anticipada hasta el 31 de agosto.\nLa entrada Nuevo plazo para confirmar la inscripción con descuentos en El Ojo 2024 se publicó primero en Marketing Directo.",
-        "url": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/el-ojo-nuevos-plazos-inscripcion-descuentos",
-        "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2024/08/Diseno-sin-titulo-60.jpg",
-        "publishedAt": "2024-08-09T08:15:55Z",
-        "content": "El Ojo permite un descuento especial del 40% por adquisición anticipada hasta el 31 de agosto.El Ojo anuncia un nuevo plazo para participar hasta 31 de agosto. Se podrá inscribir con el beneficio de … [+5076 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Libertaddigital.com"
         },
         "author": "LD / Agencias",
@@ -1224,19 +1198,6 @@
     {
         "source": {
             "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Ángel Mor Montolio",
-        "title": "Sandra Barneda se pronuncia sobre la nueva temporada de 'La isla de las tentaciones'",
-        "description": "Como líder destacado de su franja de emisión, mejorando en casi 2 puntos la anterior edición, arrasando entre los jóvenes y en target comercial y copando al 100 % el ranking de emisiones en diferido del año. Estas cifras sitúan al reality producido en colabor…",
-        "url": "https://www.mundodeportivo.com/elotromundo/television/20240808/1002295753/sandra-barneda-pronuncia-sobre-nueva-temporada-isla-tentaciones-dct.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/08/05/66b0fd4f0baa4.r_d.1824-978-3387.jpeg",
-        "publishedAt": "2024-08-08T21:03:11Z",
-        "content": "Como líder destacado de su franja de emisión, mejorando en casi 2 puntos la anterior edición, arrasando entre los jóvenes y en target comercial y copando al 100 % el ranking de emisiones en diferido … [+1632 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Aristeguinoticias.com"
         },
         "author": "Redacción AN / ES",
@@ -1298,5 +1259,44 @@
         "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2024/09/07/rep-dominicana-khME--1024x512@diario_abc.jpg",
         "publishedAt": "2024-09-07T05:00:00Z",
         "content": "Vivir en otro país y mantener una relación con una pareja extranjera puede ser una experiencia enriquecedora, pero también desafiante. Esto es algo que la tiktoker española @brighidflorido conoce muy… [+1416 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "La Cepal ajusta a la baja el crecimiento económico de América Latina",
+        "description": "De acuerdo con un documento presentado por el organismo, Haití y Argentina son los únicos países que decrecerán este año.",
+        "url": "https://actualidad.rt.com/actualidad/519293-cepal-ajusta-baja-crecimiento-economico-latinomerica",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bb793659bf5b7a920f5feb.jpg",
+        "publishedAt": "2024-08-13T23:07:51Z",
+        "content": "La Comisión Económica para América Latina y el Caribe (Cepal) ajustó a la baja el crecimiento económico de la región para este año, según el último informe de la entidad, publicado este martes.\r\nDe a… [+2335 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Tierras raras: cómo EE.UU. busca apoderarse de los recursos estratégicos latinoamericanos",
+        "description": "Washington ha mostrado un gran interés en los minerales críticos, como el litio, imprescindibles para las tecnologías avanzadas, energías renovables y dispositivos electrónicos.",
+        "url": "https://actualidad.rt.com/actualidad/520439-tierras-raras-eeuu-busca-apoderarse-recursos-estrategicos-latinamericanos",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
+        "publishedAt": "2024-08-23T14:35:20Z",
+        "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Publico.es"
+        },
+        "author": "Público",
+        "title": "Albares urge al PP a dejar de difundir bulos sobre Venezuela y a respaldar la acción del Gobierno",
+        "description": "En su comparecencia ante la comisión de Asuntos Exteriores del Senado, el ministro ha destacado el compromiso del Gobierno con la democracia en el país latinoamericano.",
+        "url": "https://www.publico.es/politica/albares-urge-pp-dejar-difundir-bulos-venezuela-respaldar-accion-gobierno.html",
+        "urlToImage": "https://www.publico.es/uploads/2024/08/13/66bb5d2e188b1.jpeg",
+        "publishedAt": "2024-08-13T13:21:00Z",
+        "content": "El ministro de Asuntos Exteriores, José Manuel Albares, ha instado este martes al Partido Popular a actuar con responsabilidad y a cesar en la difusión de desinformación y bulos en relación con Venez… [+1865 chars]"
     }
 ]
