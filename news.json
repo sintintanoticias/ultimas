@@ -248,19 +248,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Paulina Nares",
-        "title": "Marileidy Paulino bate récord en 400 metros y se convierte en la primera dominicana en ganar una medalla de oro olímpica",
-        "description": "La corredora dominicana Marileidy Paulino tuvo una gran actuación en sus carreras preliminares en París 2024 y este viernes se coronó como la nueva reina de los 400 metros al ganar la prueba de principio a fin y con récord olímpico: 48.17 segundos.\nThe post M…",
-        "url": "https://cnnespanol.cnn.com/2024/08/09/marileidy-paulino-record-400-metros-primera-dominicana-ganar-oro-olimpica-trax/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/repdomini.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-09T20:56:16Z",
-        "content": "¿Qué significó participar en los Juegos Olímpicos para Simone Biles? 0:44\r\n(CNN) -- La corredora dominicana Marileidy Paulino tuvo una gran actuación en sus carreras preliminares en París 2024 y este… [+1862 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -388,19 +375,6 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bb380f59bf5b34291f0047.jpg",
         "publishedAt": "2024-08-13T11:22:52Z",
         "content": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación de España, José Manuel Albares, aseguró este martes que el Gobierno de su país mantiene un \"diálogo con Gobierno y con oposición\" de Ven… [+2396 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Marc Anthony pierde parte de su mansión en República Dominicana a causa de un terrible incendio",
-        "description": "Hace un mes, algunas islas del Caribe se veían afectadas por la trayectoria del huracán Beryl, poniendo en peligro las mansiones que algunas estrellas tienen en el paradisíaco destino. Ni Julio Iglesias , Johnny Depp o Marc Anthony perdieron entonces sus casa…",
-        "url": "https://www.abc.es/gente/marc-anthony-pierde-parte-mansion-republica-dominicana-20240809165920-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/08/09/anthony-U82775756811oak-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-09T14:59:21Z",
-        "content": "Hace un mes, algunas islas del Caribe se veían afectadas por la trayectoria del huracán Beryl, poniendo en peligro las mansiones que algunas estrellas tienen en el paradisíaco destino. Ni Julio Igles… [+2784 chars]"
     },
     {
         "source": {
@@ -833,19 +807,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Rocío Muñoz-Ledo",
-        "title": "Lula y Petro “toman nota” de la sentencia del Tribunal Supremo de Justicia de Venezuela a favor de Maduro, pero insisten en que se publiquen las actas de votación",
-        "description": "En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio Lula da Silva, y de Colombia, Gustavo Petro, dijeron este sábado que “toman nota” de la sentencia del Tribunal Supremo de Justicia (TSJ) que vali…",
-        "url": "https://cnnespanol.cnn.com/2024/08/25/lula-petro-sentencia-tribunal-supremo-justicia-venezuela-maduro-publiquen-actas-votacion-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-25T19:44:01Z",
-        "content": "¿Es delito publicar copias de actas electorales en Venezuela? 3:34\r\n(CNN Español) -- En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio … [+2547 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -856,6 +817,19 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/original/66d79f92e9ff71456e5d8a50.jpg",
         "publishedAt": "2024-09-03T23:45:22Z",
         "content": "La Alianza Bolivariana para los Pueblos de Nuestra América–Tratado de Comercio de los Pueblos (ALBA-TCP) denunció \"la incautación\" de una aeronave venezolana usada por el presidente de ese país, Nico… [+1049 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Rocío Muñoz-Ledo",
+        "title": "Lula y Petro “toman nota” de la sentencia del Tribunal Supremo de Justicia de Venezuela a favor de Maduro, pero insisten en que se publiquen las actas de votación",
+        "description": "En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio Lula da Silva, y de Colombia, Gustavo Petro, dijeron este sábado que “toman nota” de la sentencia del Tribunal Supremo de Justicia (TSJ) que vali…",
+        "url": "https://cnnespanol.cnn.com/2024/08/25/lula-petro-sentencia-tribunal-supremo-justicia-venezuela-maduro-publiquen-actas-votacion-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-25T19:44:01Z",
+        "content": "¿Es delito publicar copias de actas electorales en Venezuela? 3:34\r\n(CNN Español) -- En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio … [+2547 chars]"
     },
     {
         "source": {
@@ -1133,19 +1107,6 @@
     {
         "source": {
             "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Fermín, autor de seis goles, rompe el récord de Kiko vigente desde Barcelona'92",
-        "description": "Si se diese un premio al mejor jugador del torneo, seguro que sería suyo. Fermín López ha sido el protagonista indiscutible del torneo que ha encumbrado a La Rojita en París. El centrocampista del Barcelona, ganador hace un mes de la Eurocopa, ha brillado en …",
-        "url": "https://www.abc.es/deportes/juegos-olimpicos/fermin-autor-seis-goles-rompe-record-kiko-20240809215656-nt.html",
-        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2024/08/09/fermin2-U86686182511ntP-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-08-09T19:56:57Z",
-        "content": "Si se diese un premio al mejor jugador del torneo, seguro que sería suyo. Fermín López ha sido el protagonista indiscutible del torneo que ha encumbrado a La Rojita en París. El centrocampista del Ba… [+2272 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Europapress.es"
         },
         "author": null,
@@ -1298,5 +1259,44 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
         "publishedAt": "2024-08-23T14:35:20Z",
         "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Publico.es"
+        },
+        "author": "Público",
+        "title": "Albares urge al PP a dejar de difundir bulos sobre Venezuela y a respaldar la acción del Gobierno",
+        "description": "En su comparecencia ante la comisión de Asuntos Exteriores del Senado, el ministro ha destacado el compromiso del Gobierno con la democracia en el país latinoamericano.",
+        "url": "https://www.publico.es/politica/albares-urge-pp-dejar-difundir-bulos-venezuela-respaldar-accion-gobierno.html",
+        "urlToImage": "https://www.publico.es/uploads/2024/08/13/66bb5d2e188b1.jpeg",
+        "publishedAt": "2024-08-13T13:21:00Z",
+        "content": "El ministro de Asuntos Exteriores, José Manuel Albares, ha instado este martes al Partido Popular a actuar con responsabilidad y a cesar en la difusión de desinformación y bulos en relación con Venez… [+1865 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Albares vuelve a dejar solo al Rey: no irá a la toma de posesión del dominicano Abinader",
+        "description": "Nuevo plantón de José Manuel Albares a Felipe VI. El ministro de Asuntos Exteriores, UE y Cooperación vuelve a dejar sólo al Rey en un viaje oficial y no le acompañará este viernes por la tarde en la toma de posesión del presidente de República Dominicana Lui…",
+        "url": "https://www.abc.es/espana/albares-vuelve-dejar-solo-rey-ira-toma-20240814192827-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/08/14/albares-khaG--1024x512@diario_abc.jpg",
+        "publishedAt": "2024-08-14T17:28:27Z",
+        "content": "Nuevo plantón de José Manuel Albares a Felipe VI. El ministro de Asuntos Exteriores, UE y Cooperación vuelve a dejar sólo al Rey en un viaje oficial y no le acompañará este viernes por la tarde en la… [+588 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Criptonoticias.com"
+        },
+        "author": "Jesús Herrera",
+        "title": "Cada vez más comercios de República Dominicana están aceptando bitcoin",
+        "description": "Hasta ahora, 41 negocios aceptan bitcoin y criptomonedas como medio de pago en la isla quisqueyana.\nLeer más",
+        "url": "https://www.criptonoticias.com/comunidad/adopcion/comercios-republicadominicana-aceptando-bitcoin/",
+        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
+        "publishedAt": "2024-08-16T19:19:59Z",
+        "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
     }
 ]
