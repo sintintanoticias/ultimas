@@ -561,6 +561,19 @@
     {
         "source": {
             "id": null,
+            "name": "Formulatv.com"
+        },
+        "author": "Fernando S. Palenzuela",
+        "title": "'La isla de las tentaciones' arranca las grabaciones de la octava edición",
+        "description": "EL VIAJE DE SANDRA BARNEDA Sandra Barneda ha mostrado en redes sociales cómo ha sido su viaje hasta llegar a la localización de República Dominicana en la que graban.'La isla de las tentaciones' arranca las grabaciones de la octava edición",
+        "url": "https://www.formulatv.com/noticias/la-isla-de-las-tentaciones-grabaciones-octava-129975/",
+        "urlToImage": "https://www.formulatv.com/images/articulos/129000/129975_CzLvN5oqmY7Ws9x8tecFPig4BkU0Ja3HE-hog.jpg",
+        "publishedAt": "2024-09-10T16:07:13Z",
+        "content": "Después del cierre de 'Así es la vida' a finales de julio y un agosto de ausencia en televisión, Sandra Barneda ya se ha puesto en marcha para comenzar con su siguiente proyecto. 'La isla de las tent… [+1905 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "José Luis Artús Tejero",
@@ -807,19 +820,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "ALBA-TCP denuncia la incautación de un avión presidencial venezolano por parte de EE.UU.",
-        "description": "",
-        "url": "https://actualidad.rt.com/actualidad/521613-alba-denunciar-incautacion-avion-presidencial-venezolano",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/original/66d79f92e9ff71456e5d8a50.jpg",
-        "publishedAt": "2024-09-03T23:45:22Z",
-        "content": "La Alianza Bolivariana para los Pueblos de Nuestra América–Tratado de Comercio de los Pueblos (ALBA-TCP) denunció \"la incautación\" de una aeronave venezolana usada por el presidente de ese país, Nico… [+1049 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -830,6 +830,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-25T19:44:01Z",
         "content": "¿Es delito publicar copias de actas electorales en Venezuela? 3:34\r\n(CNN Español) -- En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio … [+2547 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "ALBA-TCP denuncia la incautación de un avión presidencial venezolano por parte de EE.UU.",
+        "description": "",
+        "url": "https://actualidad.rt.com/actualidad/521613-alba-denunciar-incautacion-avion-presidencial-venezolano",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/original/66d79f92e9ff71456e5d8a50.jpg",
+        "publishedAt": "2024-09-03T23:45:22Z",
+        "content": "La Alianza Bolivariana para los Pueblos de Nuestra América–Tratado de Comercio de los Pueblos (ALBA-TCP) denunció \"la incautación\" de una aeronave venezolana usada por el presidente de ese país, Nico… [+1049 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/08/14/albares-khaG--1024x512@diario_abc.jpg",
         "publishedAt": "2024-08-14T17:28:27Z",
         "content": "Nuevo plantón de José Manuel Albares a Felipe VI. El ministro de Asuntos Exteriores, UE y Cooperación vuelve a dejar sólo al Rey en un viaje oficial y no le acompañará este viernes por la tarde en la… [+588 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Criptonoticias.com"
-        },
-        "author": "Jesús Herrera",
-        "title": "Cada vez más comercios de República Dominicana están aceptando bitcoin",
-        "description": "Hasta ahora, 41 negocios aceptan bitcoin y criptomonedas como medio de pago en la isla quisqueyana.\nLeer más",
-        "url": "https://www.criptonoticias.com/comunidad/adopcion/comercios-republicadominicana-aceptando-bitcoin/",
-        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
-        "publishedAt": "2024-08-16T19:19:59Z",
-        "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
     }
 ]
