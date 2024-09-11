@@ -352,19 +352,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Ángela Reyes Haczek",
-        "title": "Blinken y Abinader afirman que trabajan por encontrar una solución a la crisis de Venezuela",
-        "description": "El presidente de República Dominicana, Luis Abinader, y el secretario de Estado de Estados Unidos, Antony Blinken, afirmaron este viernes en Santo Domingo que están trabajando junto a varios países de la región para encontrar una solución a la crisis desatada…",
-        "url": "https://cnnespanol.cnn.com/2024/09/06/blinken-abinader-crisis-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2169804170-e1725641742906.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-06T17:01:16Z",
-        "content": "OPINIÓN | ¿Cuáles son las opciones que tiene Edmundo González en Venezuela? 5:29\r\n(CNN Español) -- El presidente de República Dominicana, Luis Abinader, y el secretario de Estado de Estados Unidos, A… [+1926 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "La Vanguardia"
         },
@@ -375,6 +362,19 @@
         "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/09/glowtime-horario.jpg?width=1200",
         "publishedAt": "2024-09-08T19:01:31Z",
         "content": "Cómo ver la presentación de los iPhone 16 en directo\r\nVamos a contarte cuándo y a qué hora es la presentación de los iPhone 16 y iPhone 16 Pro de Apple, los nuevos modelos que Apple desvelará con gra… [+2294 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ángela Reyes Haczek",
+        "title": "Blinken y Abinader afirman que trabajan por encontrar una solución a la crisis de Venezuela",
+        "description": "El presidente de República Dominicana, Luis Abinader, y el secretario de Estado de Estados Unidos, Antony Blinken, afirmaron este viernes en Santo Domingo que están trabajando junto a varios países de la región para encontrar una solución a la crisis desatada…",
+        "url": "https://cnnespanol.cnn.com/2024/09/06/blinken-abinader-crisis-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2169804170-e1725641742906.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-06T17:01:16Z",
+        "content": "OPINIÓN | ¿Cuáles son las opciones que tiene Edmundo González en Venezuela? 5:29\r\n(CNN Español) -- El presidente de República Dominicana, Luis Abinader, y el secretario de Estado de Estados Unidos, A… [+1926 chars]"
     },
     {
         "source": {
@@ -440,6 +440,19 @@
         "urlToImage": "https://i.blogs.es/ce3f91/sin-titulo---2024-08-13t124303.248/840_560.jpeg",
         "publishedAt": "2024-08-13T13:07:28Z",
         "content": "La reina Sofía ha sido el único miembro de la familia real que ha asistido al funeral de Juan Gómez-Acebo, fallecido ayer lunes 12 de agosto a los 54 años de edad tras perder la batalla contra un cán… [+1798 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "EFE EFE",
+        "title": "La Sub'17 se prepara para el Mundial con una goleada sobre Inglaterra",
+        "description": "La selección femenina sub-17, actual campeona de Europa, comenzó su preparación para el Mundial de República Dominicana de octubre con una goleada sobre Inglaterra (5-1) en partido amistoso disputado en Alfaz del Pi (Alicante).",
+        "url": "https://www.mundodeportivo.com/futbol/20240910/1002313097/seleccion-femenina-prepara-mundial-goleada-sobre-inglaterra.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/09/10/66e04f4e21411.r_d.434-271-13809.jpeg",
+        "publishedAt": "2024-09-10T13:53:28Z",
+        "content": "La selección femenina sub-17, actual campeona de Europa, comenzó su preparación para el Mundial de República Dominicana de octubre con una goleada sobre Inglaterra (5-1) en partido amistoso disputado… [+898 chars]"
     },
     {
         "source": {
@@ -872,19 +885,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Europapress.es"
-        },
-        "author": null,
-        "title": "República Dominicana agradece a España que represente sus intereses diplomáticos en Venezuela",
-        "description": "El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones entre Caracas y Santo Domingo a raíz de las controvertidas elecciones del 28 de julio.",
-        "url": "https://www.europapress.es/internacional/noticia-republica-dominicana-agradece-espana-represente-intereses-diplomaticos-venezuela-20240814120835.html",
-        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814120835_1200.jpg",
-        "publishedAt": "2024-08-14T10:08:35Z",
-        "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones en… [+955 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -895,6 +895,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/amlo-petro-lula.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-14T17:12:16Z",
         "content": "Nota del editor: Jorge Dávila Miguel es Licenciado en Periodismo desde 1973 y ha mantenido una carrera continuada en su profesión hasta la fecha. Ostenta posgrados en Ciencias de la Información Socia… [+5354 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Europapress.es"
+        },
+        "author": null,
+        "title": "República Dominicana agradece a España que represente sus intereses diplomáticos en Venezuela",
+        "description": "El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones entre Caracas y Santo Domingo a raíz de las controvertidas elecciones del 28 de julio.",
+        "url": "https://www.europapress.es/internacional/noticia-republica-dominicana-agradece-espana-represente-intereses-diplomaticos-venezuela-20240814120835.html",
+        "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240814120835_1200.jpg",
+        "publishedAt": "2024-08-14T10:08:35Z",
+        "content": "MADRID, 14 Ago. (EUROPA PRESS) - \r\n El Gobierno de República Dominicana ha agradecido a España que haya accedido a representar sus intereses diplomáticos en Venezuela tras la ruptura de relaciones en… [+955 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
         "publishedAt": "2024-08-23T14:35:20Z",
         "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Publico.es"
-        },
-        "author": "Público",
-        "title": "Albares urge al PP a dejar de difundir bulos sobre Venezuela y a respaldar la acción del Gobierno",
-        "description": "En su comparecencia ante la comisión de Asuntos Exteriores del Senado, el ministro ha destacado el compromiso del Gobierno con la democracia en el país latinoamericano.",
-        "url": "https://www.publico.es/politica/albares-urge-pp-dejar-difundir-bulos-venezuela-respaldar-accion-gobierno.html",
-        "urlToImage": "https://www.publico.es/uploads/2024/08/13/66bb5d2e188b1.jpeg",
-        "publishedAt": "2024-08-13T13:21:00Z",
-        "content": "El ministro de Asuntos Exteriores, José Manuel Albares, ha instado este martes al Partido Popular a actuar con responsabilidad y a cesar en la difusión de desinformación y bulos en relación con Venez… [+1865 chars]"
     }
 ]
