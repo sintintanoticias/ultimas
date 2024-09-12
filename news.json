@@ -768,6 +768,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Nacion.com"
+        },
+        "author": "Listin Diario / República Dominicana / GDA, Damián Arroyo C.",
+        "title": "Detienen a Luisito Comunica en el Metro de República Dominicana",
+        "description": "Luisito Comunica sufre un incidente con la seguridad del Metro de Santo Domingo, generando polémica en redes sociales.",
+        "url": "https://www.nacion.com/viva/detienen-a-luisito-comunica-en-el-metro-de/W7VTTPYYNRAC5AU2B3NVRSI7FY/story/",
+        "urlToImage": "https://www.nacion.com/resizer/v2/IVRO4RVHSZH5XD2PMI7HCIYSO4.png?smart=true&auth=957a0fec7df356c8ee73c783105d00e5e09cfe975369d19ecc953e49c24f7d68&width=1440",
+        "publishedAt": "2024-09-11T16:00:53Z",
+        "content": "Luisito Comunica, reconocido youtuber mexicano con más de 43 millones de suscriptores en YouTube y 33 millones de seguidores en Instagram, vivió un incómodo episodio en su visita a República Dominica… [+1464 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
         "publishedAt": "2024-08-15T10:53:18Z",
         "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Una española enumera los motivos por los que mantiene una relación con un hombre dominicano: «Este solo quiere...»",
-        "description": "Vivir en otro país y mantener una relación con una pareja extranjera puede ser una experiencia enriquecedora, pero también desafiante. Esto es algo que la tiktoker española @brighidflorido conoce muy bien. Desde que se mudó a la República Dominicana y comenzó…",
-        "url": "https://www.abc.es/recreo/espanola-enumera-motivos-mantiene-relacion-hombre-dominicano-20240907070000-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2024/09/07/rep-dominicana-khME--1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-07T05:00:00Z",
-        "content": "Vivir en otro país y mantener una relación con una pareja extranjera puede ser una experiencia enriquecedora, pero también desafiante. Esto es algo que la tiktoker española @brighidflorido conoce muy… [+1416 chars]"
     }
 ]
