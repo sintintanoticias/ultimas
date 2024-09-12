@@ -392,6 +392,19 @@
     {
         "source": {
             "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Maduro llama «ladrón» y «bandido» al presidente dominicano por la incautación de su avión presidencial",
+        "description": "El presidente de Venezuela, Nicolás Maduro , ha llamado este martes «ladrón» y «bandido» al presidente de República Dominicana, Luis Abinader, por la incautación por parte de Estados Unidos del avión presidencial venezolano en el país caribeño, si bien las au…",
+        "url": "https://www.abc.es/internacional/maduro-llama-ladron-bandido-presidente-dominicano-incautacion-20240911075135-nt.html",
+        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/11/1452693118-khQF--1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-11T05:51:36Z",
+        "content": "«Me dejaron sin avión. El ladrón del presidente de República Dominicana, Abinader, que es un bandido, un ladrón. El pueblo de República Dominicana le pasará cuenta en su momento. No me ponga carita d… [+945 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "EFE EFE",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
         "publishedAt": "2024-08-23T14:35:20Z",
         "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Publico.es"
-        },
-        "author": "Público",
-        "title": "Albares urge al PP a dejar de difundir bulos sobre Venezuela y a respaldar la acción del Gobierno",
-        "description": "En su comparecencia ante la comisión de Asuntos Exteriores del Senado, el ministro ha destacado el compromiso del Gobierno con la democracia en el país latinoamericano.",
-        "url": "https://www.publico.es/politica/albares-urge-pp-dejar-difundir-bulos-venezuela-respaldar-accion-gobierno.html",
-        "urlToImage": "https://www.publico.es/uploads/2024/08/13/66bb5d2e188b1.jpeg",
-        "publishedAt": "2024-08-13T13:21:00Z",
-        "content": "El ministro de Asuntos Exteriores, José Manuel Albares, ha instado este martes al Partido Popular a actuar con responsabilidad y a cesar en la difusión de desinformación y bulos en relación con Venez… [+1865 chars]"
     }
 ]
