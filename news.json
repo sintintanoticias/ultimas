@@ -405,6 +405,19 @@
     {
         "source": {
             "id": null,
+            "name": "Hosteltur.com"
+        },
+        "author": "Hosteltur",
+        "title": "Ávoris amplía su operativa de receptivo en República Dominicana",
+        "description": "Según ha revelado Ávoris en un comunicado difundido este miércoles, la adquisición de DomeX DMC no solo amplía la capacidad operativa de Welcome Incoming Services en la República Dominicana, sino que también reafirma su compromiso con la calidad del servicio.…",
+        "url": "https://www.hosteltur.com/165517_avoris-amplia-su-operativa-de-receptivo-en-republica-dominicana.html",
+        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/11/M_111824_avoris-amplia-su-operativa-de-receptivo-en-republica-dominicana.jpg",
+        "publishedAt": "2024-09-11T09:36:13Z",
+        "content": "Según ha revelado Ávoris en un comunicado difundido este miércoles, la adquisición de DomeX DMC no solo amplía la capacidad operativa de Welcome Incoming Services en la República Dominicana, sino que… [+1846 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Www.abc.es"
         },
         "author": "(abc)",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2024/09/07/rep-dominicana-khME--1024x512@diario_abc.jpg",
         "publishedAt": "2024-09-07T05:00:00Z",
         "content": "Vivir en otro país y mantener una relación con una pareja extranjera puede ser una experiencia enriquecedora, pero también desafiante. Esto es algo que la tiktoker española @brighidflorido conoce muy… [+1416 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "La Cepal ajusta a la baja el crecimiento económico de América Latina",
-        "description": "De acuerdo con un documento presentado por el organismo, Haití y Argentina son los únicos países que decrecerán este año.",
-        "url": "https://actualidad.rt.com/actualidad/519293-cepal-ajusta-baja-crecimiento-economico-latinomerica",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bb793659bf5b7a920f5feb.jpg",
-        "publishedAt": "2024-08-13T23:07:51Z",
-        "content": "La Comisión Económica para América Latina y el Caribe (Cepal) ajustó a la baja el crecimiento económico de la región para este año, según el último informe de la entidad, publicado este martes.\r\nDe a… [+2335 chars]"
     }
 ]
