@@ -391,6 +391,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Maduro tilda de \"ladrón\" a Abinader por permitir la incautación del avión presidencial venezolano",
+        "description": "El mandatario bromeó con querer asistir al debate entre Harris y Trump en EE.UU., y dijo que no podrá hacerlo por el \"robo\" de la aeronave.",
+        "url": "https://actualidad.rt.com/actualidad/522374-maduro-tilda-ladron-abinader-incautacion-avion",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e0e12459bf5b6a023316f8.jpg",
+        "publishedAt": "2024-09-11T08:50:24Z",
+        "content": "El presidente de Venezuela, Nicolás Maduro, calificó de \"ladrón\" a su par de República Dominicana, Luis Abinader, por permitir en su país la incautación del avión presidencial venezolano por parte de… [+2594 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Www.abc.es"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bb793659bf5b7a920f5feb.jpg",
         "publishedAt": "2024-08-13T23:07:51Z",
         "content": "La Comisión Económica para América Latina y el Caribe (Cepal) ajustó a la baja el crecimiento económico de la región para este año, según el último informe de la entidad, publicado este martes.\r\nDe a… [+2335 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Tierras raras: cómo EE.UU. busca apoderarse de los recursos estratégicos latinoamericanos",
-        "description": "Washington ha mostrado un gran interés en los minerales críticos, como el litio, imprescindibles para las tecnologías avanzadas, energías renovables y dispositivos electrónicos.",
-        "url": "https://actualidad.rt.com/actualidad/520439-tierras-raras-eeuu-busca-apoderarse-recursos-estrategicos-latinamericanos",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
-        "publishedAt": "2024-08-23T14:35:20Z",
-        "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
     }
 ]
