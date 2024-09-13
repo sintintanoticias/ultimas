@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "time",
+            "name": "Time"
+        },
+        "author": "Alice Park",
+        "title": "La gimnasta olímpica Hezly Rivera tiene la mira en 2028",
+        "description": "Con solo 16 años, la miembro más joven del equipo olímpico de gimnasia de EE.UU. 2024 ejemplifica determinación y orgullo cultural.",
+        "url": "https://time.com/7020148/spanish-hezly-rivera-latino-leaders/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2024/08/Hezley-Rivera.jpeg?quality=85&w=1200&h=628&crop=1",
+        "publishedAt": "2024-09-12T11:11:59Z",
+        "content": "Read this story in English here\r\nA los 16 años, Hezly Rivera era la miembro más joven del contingente olímpico de EE. UU. en el 2024, y como parte del equipo de gimnasia femenina, ahora es medallista… [+1575 chars]"
+    },
+    {
+        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/13/zapatero-albares-y-pilar-alegria-el-pasado-19-de-enero.jpeg",
         "publishedAt": "2024-08-13T09:22:46Z",
         "content": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación del Reino de España, José Manuel Albares, ha defendido este martes el papel del expresidente del Gobierno, José Luis Rodríguez Zapatero,… [+2503 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Andrea Cadenas de Llano Sosa",
-        "title": "Si quieres irte de España y seguir hablando el mismo idioma: conoce cuál es el país de Sudamérica más barato para vivir",
-        "description": "<![CDATA[<p>Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 2024 es Paraguay. wf_cms.rss.read_more]]>",
-        "url": "https://www.huffingtonpost.es/life/viajes/si-quieres-irte-espana-seguir-hablando-idioma-conoce-cual-pais-sudamerica-mas-barato-vivirbr.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/21/aerial-view-of-the-paraguayan-city-of-ciudad-del-este-and-friendship-bridge-connecting-paraguay-and-brazil-through-the-border-over-the-parana-river.jpeg",
-        "publishedAt": "2024-08-21T14:38:19Z",
-        "content": "Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 20… [+2306 chars]"
     }
 ]
