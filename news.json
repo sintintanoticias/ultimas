@@ -654,19 +654,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Ivonne Valdés",
-        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
-        "description": "El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una expresión de \"agradecimiento\" al pueblo venezolano.\nThe post Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela ap…",
-        "url": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-03T15:32:32Z",
-        "content": "Estados Unidos incauta avión de Maduro en República Dominicana 2:24\r\n(CNN Español) -- El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una … [+1127 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Valeria Ordóñez Ghio",
         "title": "Un trabajador de la Embajada de Argentina en Venezuela fue detenido por fuerzas de seguridad, denuncia la Cancillería",
         "description": "Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina.\n<ul>\n<li>Embajada de Argentina en Venezuela denuncia robo de dinero</li>\n<li>Detenciones arbitrarias ge…",
@@ -674,6 +661,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-24T21:57:31Z",
         "content": "(CNN Español) -- Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina. Agregó que por el momento … [+1063 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ivonne Valdés",
+        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
+        "description": "El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una expresión de \"agradecimiento\" al pueblo venezolano.\nThe post Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela ap…",
+        "url": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-03T15:32:32Z",
+        "content": "Estados Unidos incauta avión de Maduro en República Dominicana 2:24\r\n(CNN Español) -- El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una … [+1127 chars]"
     },
     {
         "source": {
