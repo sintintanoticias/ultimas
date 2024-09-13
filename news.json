@@ -859,19 +859,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Publico.es"
-        },
-        "author": "Agencia Atlas",
-        "title": "Felipe VI viaja a República Dominicana para la toma de posesión del presidente Abinader",
-        "description": "El rey Felipe VI ya se encuentra en Santo Domingo para asistir a la toma de posesión del presidente electo de la República Dominicana Luis Abinader. Se trata de su segundo mandato de cuatro años. El rey está acompañado por la secretaria de Estado para Iberoam…",
-        "url": "https://www.publico.es/videos/1658785/felipe-vi-viaja-a-republica-dominicana-para-la-toma-de-posesion-del-presidente-abinader",
-        "urlToImage": "https://ficheracos.publico.es//images/thumbnails/2024/240816AGEWEB-16AG012HQ.jpg",
-        "publishedAt": "2024-08-16T07:00:07Z",
-        "content": "El rey Felipe VI ya se encuentra en Santo Domingo para asistir a la toma de posesión del presidente electo de la República Dominicana Luis Abinader. Se trata de su segundo mandato de cuatro años. El … [+425 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -882,6 +869,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163935650.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-02T22:44:09Z",
         "content": "Los presidentes de México, Brasil y Colombia. (Crédito: Getty Images)\r\nEl presidente de Colombia, Gustavo Petro; el de Brasil, Luiz Inácio Lula da Silva, y el de México, Andrés Manuel López Obrador, … [+997 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Publico.es"
+        },
+        "author": "Agencia Atlas",
+        "title": "Felipe VI viaja a República Dominicana para la toma de posesión del presidente Abinader",
+        "description": "El rey Felipe VI ya se encuentra en Santo Domingo para asistir a la toma de posesión del presidente electo de la República Dominicana Luis Abinader. Se trata de su segundo mandato de cuatro años. El rey está acompañado por la secretaria de Estado para Iberoam…",
+        "url": "https://www.publico.es/videos/1658785/felipe-vi-viaja-a-republica-dominicana-para-la-toma-de-posesion-del-presidente-abinader",
+        "urlToImage": "https://ficheracos.publico.es//images/thumbnails/2024/240816AGEWEB-16AG012HQ.jpg",
+        "publishedAt": "2024-08-16T07:00:07Z",
+        "content": "El rey Felipe VI ya se encuentra en Santo Domingo para asistir a la toma de posesión del presidente electo de la República Dominicana Luis Abinader. Se trata de su segundo mandato de cuatro años. El … [+425 chars]"
     },
     {
         "source": {
