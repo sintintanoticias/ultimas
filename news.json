@@ -27,19 +27,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Xataka.com"
-        },
-        "author": "Pablo Martínez-Juarez",
-        "title": "La tormenta tropical Ernesto está destinada a convertirse en un huracán mientras se desvía mar adentro",
-        "description": "El ciclón Ernesto se ha convertido esta semana en la quinta tormenta tropical de la temporada atlántica de huracanes. Si las predicciones se cumplen, en las próximas horas se convertirá en el tercer huracán de la temporada después de Beryl y Debby.\n<!-- BREAK…",
-        "url": "https://www.xataka.com/ecologia-y-naturaleza/tormenta-tropical-ernesto-esta-destinada-a-convertirse-huracan-se-desvia-mar-adentro",
-        "urlToImage": "https://i.blogs.es/0136e0/corte-ernesto/840_560.jpeg",
-        "publishedAt": "2024-08-14T16:02:00Z",
-        "content": "El ciclón Ernesto se ha convertido esta semana en la quinta tormenta tropical de la temporada atlántica de huracanes. Si las predicciones se cumplen, en las próximas horas se convertirá en el tercer … [+3107 chars]"
-    },
-    {
-        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -134,19 +121,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
-        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
-        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-06T13:11:37Z",
-        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Sofía Barruti",
         "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
         "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
@@ -154,6 +128,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-04T04:44:47Z",
         "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
+        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
+        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-06T13:11:37Z",
+        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
     },
     {
         "source": {
@@ -235,19 +222,6 @@
     },
     {
         "source": {
-            "id": "el-mundo",
-            "name": "El Mundo"
-        },
-        "author": "Daniel Lozano",
-        "title": "La sentencia del Tribunal Supremo de Justicia de Venezuela divide más a América Latina",
-        "description": "La sentencia del Supremo chavista ha profundizado el parteaguas que divide a las Américas. La estratagema de Nicolás Maduro para no dar a conocer las actas electorales en las que...",
-        "url": "https://www.elmundo.es/internacional/2024/08/23/66c8d9fce9cf4a3d3b8b45ad.html",
-        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/215cb95c822da14314c1854f2adb1265/crop/307x205/2765x1843/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/23/17244395259272.jpg",
-        "publishedAt": "2024-08-23T19:05:04Z",
-        "content": "La sentencia del Supremo chavista ha profundizado el parteaguas que divide a las Américas. La estratagema de Nicolás Maduro para no dar a conocer las actas electorales en las que resulta perdedor por… [+3851 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Huffingtonpost.es"
         },
@@ -258,6 +232,19 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/02/nicolas-maduro-en-un-acto-reciente.jpeg",
         "publishedAt": "2024-09-02T16:56:43Z",
         "content": "El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  \r\nLa aeronave ha sido trasladada hasta un aeropuerto en … [+989 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Daniel Lozano",
+        "title": "La sentencia del Tribunal Supremo de Justicia de Venezuela divide más a América Latina",
+        "description": "La sentencia del Supremo chavista ha profundizado el parteaguas que divide a las Américas. La estratagema de Nicolás Maduro para no dar a conocer las actas electorales en las que...",
+        "url": "https://www.elmundo.es/internacional/2024/08/23/66c8d9fce9cf4a3d3b8b45ad.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/215cb95c822da14314c1854f2adb1265/crop/307x205/2765x1843/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/23/17244395259272.jpg",
+        "publishedAt": "2024-08-23T19:05:04Z",
+        "content": "La sentencia del Supremo chavista ha profundizado el parteaguas que divide a las Américas. La estratagema de Nicolás Maduro para no dar a conocer las actas electorales en las que resulta perdedor por… [+3851 chars]"
     },
     {
         "source": {
@@ -654,19 +641,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Ivonne Valdés",
-        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
-        "description": "El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una expresión de \"agradecimiento\" al pueblo venezolano.\nThe post Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela ap…",
-        "url": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-03T15:32:32Z",
-        "content": "Estados Unidos incauta avión de Maduro en República Dominicana 2:24\r\n(CNN Español) -- El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una … [+1127 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Valeria Ordóñez Ghio",
         "title": "Un trabajador de la Embajada de Argentina en Venezuela fue detenido por fuerzas de seguridad, denuncia la Cancillería",
         "description": "Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina.\n<ul>\n<li>Embajada de Argentina en Venezuela denuncia robo de dinero</li>\n<li>Detenciones arbitrarias ge…",
@@ -674,6 +648,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-24T21:57:31Z",
         "content": "(CNN Español) -- Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina. Agregó que por el momento … [+1063 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ivonne Valdés",
+        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
+        "description": "El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una expresión de \"agradecimiento\" al pueblo venezolano.\nThe post Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela ap…",
+        "url": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-03T15:32:32Z",
+        "content": "Estados Unidos incauta avión de Maduro en República Dominicana 2:24\r\n(CNN Español) -- El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una … [+1127 chars]"
     },
     {
         "source": {
@@ -726,19 +713,6 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1752827-israel-diplomacy-navy-emergency.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-15T03:16:16Z",
         "content": "(CNN) Venezuela dice que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos,  por un supuesto complot para desestabilizar el país que ha estado en crisis desde las elecciones … [+4054 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Puromarketing.com"
-        },
-        "author": "Redacción",
-        "title": "Coca Cola y Oreo se marcan una colaboración para celebrar la amistad",
-        "description": "PuroMarketing - Para celebrar la amistad, las marcas globales y nuevas besties están lanzando golosinas exclusivas y una experiencia única en Spotify para que los fanáticos compartan con sus mejores amigos por tiempo limitado.Las marcas Coca-Cola® y OREO® se …",
-        "url": "https://www.puromarketing.com/146/214224/coca-cola-oreo-marcan-colaboracion-para-celebrar-amistad",
-        "urlToImage": "https://www.puromarketing.com/uploads/img/contents/2024/Bs0pc4YzHbADIVKWirne/Bs0pc4YzHbADIVKWirne_post_imagen_prev.jpg",
-        "publishedAt": "2024-08-15T09:56:00Z",
-        "content": "Para celebrar la amistad, las marcas globales y nuevas besties están lanzando golosinas exclusivas y una experiencia única en Spotify para que\r\n los fanáticos compartan con sus mejores amigos por tie… [+5938 chars]"
     },
     {
         "source": {
@@ -810,19 +784,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Patrulla Fronteriza de EE.UU. y Policía de Puerto Rico incautan dos millonarios cargamentos de cocaína en las costas de la isla",
-        "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos interceptó el domingo una embarcación en Puerto Rico que transportaba un cargamento con 267 kg de cocaína y el 28 de agosto incautó otro cargamento con 300,8 kg de cocaína, ambos suman un valor d…",
-        "url": "https://cnnespanol.cnn.com/2024/09/04/patrulla-fronteriza-ee-uu-policia-puerto-rico-incautan-cargamento-cocaina-isla-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cbp-guardia-costera-e1725466468500.jpeg?quality=100&strip=info",
-        "publishedAt": "2024-09-04T16:14:47Z",
-        "content": "Incautan 7,2 toneladas de cocaína en embarcaciones en México 0:50\r\n(CNN en Español) --  La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) informó que junto a las Fuerzas Unidas de… [+1575 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "China pide “respetar la voluntad del pueblo venezolano” tras la sentencia del Tribunal Supremo de Justicia",
         "description": "El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"derecho a elegir su propio camino de desarrollo\", anunció el portavoz de la Cancillería en un mensaje compartido en X.\nThe post China pide “respetar la voluntad d…",
@@ -830,6 +791,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2167272605.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-27T18:59:25Z",
         "content": "Especialista analiza si tiene fundamento acusación contra Edmundo González 1:16\r\n(CNN Español) -- El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"dere… [+1522 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Patrulla Fronteriza de EE.UU. y Policía de Puerto Rico incautan dos millonarios cargamentos de cocaína en las costas de la isla",
+        "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos interceptó el domingo una embarcación en Puerto Rico que transportaba un cargamento con 267 kg de cocaína y el 28 de agosto incautó otro cargamento con 300,8 kg de cocaína, ambos suman un valor d…",
+        "url": "https://cnnespanol.cnn.com/2024/09/04/patrulla-fronteriza-ee-uu-policia-puerto-rico-incautan-cargamento-cocaina-isla-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cbp-guardia-costera-e1725466468500.jpeg?quality=100&strip=info",
+        "publishedAt": "2024-09-04T16:14:47Z",
+        "content": "Incautan 7,2 toneladas de cocaína en embarcaciones en México 0:50\r\n(CNN en Español) --  La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) informó que junto a las Fuerzas Unidas de… [+1575 chars]"
     },
     {
         "source": {
@@ -937,32 +911,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost/ Agencias",
-        "title": "Albares afirma que España no va a darle nunca la espalda ni va a abandonar a Edmundo González ni a ningún venezolano",
-        "description": "<![CDATA[<p>El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha afirmado que España \"no va a darle nunca la espalda ni va a abandonar ni Edmundo González ni a ningún venezolano\", tras la llegada este domingo al país de Edmu…",
-        "url": "https://www.huffingtonpost.es/politica/albares-afirma-espana-darle-nunca-espalda-abandonar-edmundo-gonzalez-ningun-venezolanobr.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/08/fotonoticia_20240908185330_1920.jpeg",
-        "publishedAt": "2024-09-08T17:02:44Z",
-        "content": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha afirmado que España \"no va a darle nunca la espalda ni va a abandonar ni Edmundo González ni a ningún venezolan… [+3247 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "CNNEspañol sjv",
-        "title": "OPINIÓN | Anuncian la victoria de Maduro, ¿problema para la izquierda latinoamericana?",
-        "description": "Jorge Dávila Miguel opina que tras el anuncio de resultados de Venezuela, la izquierda latinoamericana no está tranquila. \"No se creen la victoria del bolivariano\".\nThe post OPINIÓN | Anuncian la victoria de Maduro, ¿problema para la izquierda latinoamericana…",
-        "url": "https://cnnespanol.cnn.com/2024/08/14/opinion-davila-izquierda-maduro-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/amlo-petro-lula.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-14T17:12:16Z",
-        "content": "Nota del editor: Jorge Dávila Miguel es Licenciado en Periodismo desde 1973 y ha mantenido una carrera continuada en su profesión hasta la fecha. Ostenta posgrados en Ciencias de la Información Socia… [+5354 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -973,6 +921,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1160458555-e1726370151454.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-15T03:16:16Z",
         "content": "EE.UU. sanciona a funcionarios del oficialismo de Venezuela 2:54\r\n(CNN) -- Venezuela informó que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos, por un supuesto complot pa… [+4278 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost/ Agencias",
+        "title": "Albares afirma que España no va a darle nunca la espalda ni va a abandonar a Edmundo González ni a ningún venezolano",
+        "description": "<![CDATA[<p>El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha afirmado que España \"no va a darle nunca la espalda ni va a abandonar ni Edmundo González ni a ningún venezolano\", tras la llegada este domingo al país de Edmu…",
+        "url": "https://www.huffingtonpost.es/politica/albares-afirma-espana-darle-nunca-espalda-abandonar-edmundo-gonzalez-ningun-venezolanobr.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/08/fotonoticia_20240908185330_1920.jpeg",
+        "publishedAt": "2024-09-08T17:02:44Z",
+        "content": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha afirmado que España \"no va a darle nunca la espalda ni va a abandonar ni Edmundo González ni a ningún venezolan… [+3247 chars]"
     },
     {
         "source": {
@@ -1298,5 +1259,44 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66c8934759bf5b724a459636.jpg",
         "publishedAt": "2024-08-23T14:35:20Z",
         "content": "En República Dominicana surgieron varias protestas contra la explotación minera. Los manifestantes se oponen a los posibles daños medioambientales que puede provocar esta actividad en el país caribeñ… [+2194 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Eldiario.es"
+        },
+        "author": "Redacción verTele",
+        "title": "'La isla de las tentaciones' inicia la grabación de su octava edición, con los \"nervios\" de Sandra Barneda",
+        "description": "Cinco meses después de acabar la séptima edición, 'La isla de las tentaciones' pone en marcha las grabaciones de la octava de nuevo en República Dominicana\r\n'La Revuelta' (17.1%) sorprende en su estreno, 'El Hormiguero' (23%) se corona y 'Babylon Show' (3.1%)…",
+        "url": "https://www.eldiario.es/vertele/noticias/isla-tentaciones-inicia-grabacion-octava-edicion-nervios-sandra-barneda_1_11643499.html",
+        "urlToImage": "https://static.eldiario.es/clip/a3b2c320-0fbc-4c8b-b30c-cc8cafa48082_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-09-10T17:52:44Z",
+        "content": "Con Gran Hermano ya establecido de nuevo en Telecinco, Mediaset no pierde de vista el resto de marcas de entretenimiento y telerrealidad. Es el caso de La isla de las tentaciones, que vuelve a abrir … [+1641 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Criptonoticias.com"
+        },
+        "author": "Jesús Herrera",
+        "title": "Cada vez más comercios de República Dominicana están aceptando bitcoin",
+        "description": "Hasta ahora, 41 negocios aceptan bitcoin y criptomonedas como medio de pago en la isla quisqueyana.\nLeer más",
+        "url": "https://www.criptonoticias.com/comunidad/adopcion/comercios-republicadominicana-aceptando-bitcoin/",
+        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
+        "publishedAt": "2024-08-16T19:19:59Z",
+        "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
+    },
+    {
+        "source": {
+            "id": "la-nacion",
+            "name": "La Nacion"
+        },
+        "author": null,
+        "title": "El abuso de las pantallas",
+        "description": "El abuso de las pantallas",
+        "url": "https://www.lanacion.com.ar/editoriales/el-abuso-de-las-pantallas-nid06092024/",
+        "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-porcentaje-de-ninos-adictos-a-las-redes-TX35BUNGDFDTPFXD46YHGW6JRY.jpg?auth=bc71a3d243af0cd1a3f39bf1df77de065ea6ab710b68266447a7167c531c8055&width=768&quality=70&smart=false",
+        "publishedAt": "2024-09-06T03:05:00Z",
+        "content": "El abuso de las pantallas no reconoce edades, pero sus consecuencias se agravan frente a la inmadurez de los más chicos.\r\n La revisión de investigaciones confirma que la dependencia de internet se tr… [+2277 chars]"
     }
 ]
