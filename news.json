@@ -989,19 +989,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Elperiodico.com"
-        },
-        "author": "EFE",
-        "title": "EEUU confisca el avión oficial de Maduro por las sanciones contra Venezuela",
-        "description": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, según informó en exclusiva CNN.epública Dominicana el avión …",
-        "url": "https://www.elperiodico.com/es/internacional/20240902/estados-unidos-confisca-avion-maduro-107672514",
-        "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/234410d2-ff02-4be0-a666-550844a35dc0_16-9-discover-aspect-ratio_default_0.jpg",
-        "publishedAt": "2024-09-02T17:56:52Z",
-        "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela,Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, s… [+3196 chars]"
-    },
-    {
-        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -1012,6 +999,19 @@
         "urlToImage": "https://phantom-elmundo.unidadeditorial.es/a8ff9be240e43b4bd3a48ea5f66220c0/crop/0x2311/3072x4359/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/23/17243913349311.jpg",
         "publishedAt": "2024-08-23T05:53:15Z",
         "content": "Uno de cada tres casos con seguimiento policial por violencia de género en España corresponde a víctimas extranjeras, según datos del Ministerio del Interior, mientras que el 67,79% de los casos del … [+3679 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elperiodico.com"
+        },
+        "author": "EFE",
+        "title": "EEUU confisca el avión oficial de Maduro por las sanciones contra Venezuela",
+        "description": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, según informó en exclusiva CNN.epública Dominicana el avión …",
+        "url": "https://www.elperiodico.com/es/internacional/20240902/estados-unidos-confisca-avion-maduro-107672514",
+        "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/234410d2-ff02-4be0-a666-550844a35dc0_16-9-discover-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-09-02T17:56:52Z",
+        "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela,Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, s… [+3196 chars]"
     },
     {
         "source": {
@@ -1223,19 +1223,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Capturan a secretario de Gobierno de una ciudad colombiana con orden de extradición a EE.UU.",
-        "description": "Kevin Simón López Barros y otras cinco personas son requeridos para comparecer en juicio en un tribunal estadounidense como presuntos responsables de concierto para delinquir y tráfico de drogas.",
-        "url": "https://actualidad.rt.com/actualidad/519531-capturan-secretario-gobierno-colombiano-extradicion",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.08/article/66bdd5f8e9ff7117c02db443.jpg",
-        "publishedAt": "2024-08-15T10:53:18Z",
-        "content": "La Dirección de Investigación Criminal e Interpol de Colombia (DIJIN) capturó el miércoles por orden de la Fiscalía General a Kevin Simón López Barros, secretario de Gobierno del municipio de Maicao,… [+2066 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Huffingtonpost.es"
         },
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
         "publishedAt": "2024-08-16T19:19:59Z",
         "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
+    },
+    {
+        "source": {
+            "id": "la-nacion",
+            "name": "La Nacion"
+        },
+        "author": null,
+        "title": "El abuso de las pantallas",
+        "description": "El abuso de las pantallas",
+        "url": "https://www.lanacion.com.ar/editoriales/el-abuso-de-las-pantallas-nid06092024/",
+        "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-porcentaje-de-ninos-adictos-a-las-redes-TX35BUNGDFDTPFXD46YHGW6JRY.jpg?auth=bc71a3d243af0cd1a3f39bf1df77de065ea6ab710b68266447a7167c531c8055&width=768&quality=70&smart=false",
+        "publishedAt": "2024-09-06T03:05:00Z",
+        "content": "El abuso de las pantallas no reconoce edades, pero sus consecuencias se agravan frente a la inmadurez de los más chicos.\r\n La revisión de investigaciones confirma que la dependencia de internet se tr… [+2277 chars]"
     }
 ]
