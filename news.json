@@ -222,19 +222,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost / EFE",
-        "title": "EEUU confisca el avión de Nicolás Maduro en República Dominicana",
-        "description": "<![CDATA[<p>El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  wf_cms.rss.read_more]]>",
-        "url": "https://www.huffingtonpost.es/global/eeuu-confiscael-avion-nicolas-maduro-republica-dominicana.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/02/nicolas-maduro-en-un-acto-reciente.jpeg",
-        "publishedAt": "2024-09-02T16:56:43Z",
-        "content": "El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  \r\nLa aeronave ha sido trasladada hasta un aeropuerto en … [+989 chars]"
-    },
-    {
-        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -245,6 +232,19 @@
         "urlToImage": "https://phantom-elmundo.unidadeditorial.es/215cb95c822da14314c1854f2adb1265/crop/307x205/2765x1843/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/23/17244395259272.jpg",
         "publishedAt": "2024-08-23T19:05:04Z",
         "content": "La sentencia del Supremo chavista ha profundizado el parteaguas que divide a las Américas. La estratagema de Nicolás Maduro para no dar a conocer las actas electorales en las que resulta perdedor por… [+3851 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost / EFE",
+        "title": "EEUU confisca el avión de Nicolás Maduro en República Dominicana",
+        "description": "<![CDATA[<p>El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  wf_cms.rss.read_more]]>",
+        "url": "https://www.huffingtonpost.es/global/eeuu-confiscael-avion-nicolas-maduro-republica-dominicana.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/02/nicolas-maduro-en-un-acto-reciente.jpeg",
+        "publishedAt": "2024-09-02T16:56:43Z",
+        "content": "El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  \r\nLa aeronave ha sido trasladada hasta un aeropuerto en … [+989 chars]"
     },
     {
         "source": {
@@ -872,6 +872,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Andrea Saint Martin",
+        "title": "Venezuela afirma que un infante de Marina de EE.UU. está entre los extranjeros detenidos por una supuesta \"operación\" de la CIA para matar a Maduro",
+        "description": "El Departamento de Estado rechazó como \"categóricamente falsa\" la afirmación de Diosdado Cabello sobre un supuesto complot dirigido por la CIA que tenía como objetivo matar al líder del país.\n<ul>\n<li>Venezuela incautó 400 fusiles de EE.UU. y detuvo a varios …",
+        "url": "https://cnnespanol.cnn.com/2024/09/15/venezuela-dice-que-un-infante-de-marina-de-ee-uu-esta-entre-los-extranjeros-detenidos-por-una-supuesta-operacion-de-la-cia-para-matar-a-maduro/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2167203758-20240910165331183.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-15T12:05:16Z",
+        "content": "EE.UU. sanciona a funcionarios del oficialismo de Venezuela 2:54\r\n(CNN) -- Venezuela informó que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos, por un supuesto complot pa… [+4698 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Libertaddigital.com"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
         "publishedAt": "2024-08-16T19:19:59Z",
         "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
-    },
-    {
-        "source": {
-            "id": "la-nacion",
-            "name": "La Nacion"
-        },
-        "author": null,
-        "title": "El abuso de las pantallas",
-        "description": "El abuso de las pantallas",
-        "url": "https://www.lanacion.com.ar/editoriales/el-abuso-de-las-pantallas-nid06092024/",
-        "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-porcentaje-de-ninos-adictos-a-las-redes-TX35BUNGDFDTPFXD46YHGW6JRY.jpg?auth=bc71a3d243af0cd1a3f39bf1df77de065ea6ab710b68266447a7167c531c8055&width=768&quality=70&smart=false",
-        "publishedAt": "2024-09-06T03:05:00Z",
-        "content": "El abuso de las pantallas no reconoce edades, pero sus consecuencias se agravan frente a la inmadurez de los más chicos.\r\n La revisión de investigaciones confirma que la dependencia de internet se tr… [+2277 chars]"
     }
 ]
