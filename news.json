@@ -222,19 +222,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost / EFE",
-        "title": "EEUU confisca el avión de Nicolás Maduro en República Dominicana",
-        "description": "<![CDATA[<p>El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  wf_cms.rss.read_more]]>",
-        "url": "https://www.huffingtonpost.es/global/eeuu-confiscael-avion-nicolas-maduro-republica-dominicana.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/02/nicolas-maduro-en-un-acto-reciente.jpeg",
-        "publishedAt": "2024-09-02T16:56:43Z",
-        "content": "El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  \r\nLa aeronave ha sido trasladada hasta un aeropuerto en … [+989 chars]"
-    },
-    {
-        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -245,6 +232,19 @@
         "urlToImage": "https://phantom-elmundo.unidadeditorial.es/215cb95c822da14314c1854f2adb1265/crop/307x205/2765x1843/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/23/17244395259272.jpg",
         "publishedAt": "2024-08-23T19:05:04Z",
         "content": "La sentencia del Supremo chavista ha profundizado el parteaguas que divide a las Américas. La estratagema de Nicolás Maduro para no dar a conocer las actas electorales en las que resulta perdedor por… [+3851 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost / EFE",
+        "title": "EEUU confisca el avión de Nicolás Maduro en República Dominicana",
+        "description": "<![CDATA[<p>El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  wf_cms.rss.read_more]]>",
+        "url": "https://www.huffingtonpost.es/global/eeuu-confiscael-avion-nicolas-maduro-republica-dominicana.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/02/nicolas-maduro-en-un-acto-reciente.jpeg",
+        "publishedAt": "2024-09-02T16:56:43Z",
+        "content": "El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  \r\nLa aeronave ha sido trasladada hasta un aeropuerto en … [+989 chars]"
     },
     {
         "source": {
@@ -1133,6 +1133,19 @@
     {
         "source": {
             "id": null,
+            "name": "Hola"
+        },
+        "author": "María Medina",
+        "title": "Silvia Alonso, a miles de kilómetros de su novio, el presentador del momento David Broncano",
+        "description": "La actriz se encuentra en República Dominicana por motivos de trabajo",
+        "url": "https://www.hola.com/actualidad/20240916718475/silvia-alonso-david-broncano-republica-dominicana/",
+        "urlToImage": "https://www.hola.com/horizon/landscape/5ca6ac194bbe-an-no-puedo-poner-fotos-del-rodaje-pero-s-de-todo-lo-dems.jpg?im=Resize=(1200)",
+        "publishedAt": "2024-09-16T11:32:22Z",
+        "content": "Silvia Alonso se encuentra al otro lado del charco mientras su novio, el presentador David Broncano, conquista a la audiencia con La Revuelta. La actriz, de 34 años, ha compartido varias imágenes de … [+2010 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Huffingtonpost.es"
         },
         "author": "Redacción HuffPost / EP",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/bitcoin-republicadominicana.jpg",
         "publishedAt": "2024-08-16T19:19:59Z",
         "content": "Hechos clave:\r\n<ul><li>Bitcoin Dominicana afirma que el crecimiento de negocios aceptando BTC ha sido constante.\r\n</li><li>República Dominicana es la isla del Caribe con más locales dentro del ecosis… [+2291 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hosteltur.com"
-        },
-        "author": "Hosteltur",
-        "title": "Bahía Príncipe cierra el verano con un crecimiento del 14% en los ingresos",
-        "description": "La división hotelera del Grupo Piñero ha cerrado la temporada de verano mejorando las cifras de ocupación e ingresos, mientras que el turoperador mantuvo el número de pasajeros y mejoró “significativamente” su rentabilidad, pese a un contexto global “desafian…",
-        "url": "https://www.hosteltur.com/165599_bahia-principe-cierra-el-verano-con-un-crecimiento-del-14-en-los-ingresos.html",
-        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/16/M_124032_bahia-principe-cierra-el-verano-con-un-crecimiento-del-14-en-los-ingresos.jpg",
-        "publishedAt": "2024-09-16T10:56:06Z",
-        "content": "Bahía Principe Hotels &amp; Resorts alcanzó este verano una ocupación general del 83% en todos sus hoteles y los ingresos mostraron un “incremento significativo del 14%” si se compara con el verano a… [+1148 chars]"
     }
 ]
