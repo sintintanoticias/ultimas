@@ -1288,15 +1288,15 @@
     },
     {
         "source": {
-            "id": "la-nacion",
-            "name": "La Nacion"
+            "id": null,
+            "name": "Hosteltur.com"
         },
-        "author": null,
-        "title": "El abuso de las pantallas",
-        "description": "El abuso de las pantallas",
-        "url": "https://www.lanacion.com.ar/editoriales/el-abuso-de-las-pantallas-nid06092024/",
-        "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-porcentaje-de-ninos-adictos-a-las-redes-TX35BUNGDFDTPFXD46YHGW6JRY.jpg?auth=bc71a3d243af0cd1a3f39bf1df77de065ea6ab710b68266447a7167c531c8055&width=768&quality=70&smart=false",
-        "publishedAt": "2024-09-06T03:05:00Z",
-        "content": "El abuso de las pantallas no reconoce edades, pero sus consecuencias se agravan frente a la inmadurez de los más chicos.\r\n La revisión de investigaciones confirma que la dependencia de internet se tr… [+2277 chars]"
+        "author": "Hosteltur",
+        "title": "Bahía Príncipe cierra el verano con un crecimiento del 14% en los ingresos",
+        "description": "La división hotelera del Grupo Piñero ha cerrado la temporada de verano mejorando las cifras de ocupación e ingresos, mientras que el turoperador mantuvo el número de pasajeros y mejoró “significativamente” su rentabilidad, pese a un contexto global “desafian…",
+        "url": "https://www.hosteltur.com/165599_bahia-principe-cierra-el-verano-con-un-crecimiento-del-14-en-los-ingresos.html",
+        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/16/M_124032_bahia-principe-cierra-el-verano-con-un-crecimiento-del-14-en-los-ingresos.jpg",
+        "publishedAt": "2024-09-16T10:56:06Z",
+        "content": "Bahía Principe Hotels &amp; Resorts alcanzó este verano una ocupación general del 83% en todos sus hoteles y los ingresos mostraron un “incremento significativo del 14%” si se compara con el verano a… [+1148 chars]"
     }
 ]
