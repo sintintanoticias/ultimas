@@ -108,19 +108,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
-        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
-        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-06T13:11:37Z",
-        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Sofía Barruti",
         "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
         "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
@@ -128,6 +115,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-04T04:44:47Z",
         "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
+        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
+        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-06T13:11:37Z",
+        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
     },
     {
         "source": {
@@ -576,19 +576,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Ivonne Valdés",
-        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
-        "description": "El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una expresión de \"agradecimiento\" al pueblo venezolano.\nThe post Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela ap…",
-        "url": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-03T15:32:32Z",
-        "content": "Estados Unidos incauta avión de Maduro en República Dominicana 2:24\r\n(CNN Español) -- El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una … [+1127 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Valeria Ordóñez Ghio",
         "title": "Un trabajador de la Embajada de Argentina en Venezuela fue detenido por fuerzas de seguridad, denuncia la Cancillería",
         "description": "Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina.\n<ul>\n<li>Embajada de Argentina en Venezuela denuncia robo de dinero</li>\n<li>Detenciones arbitrarias ge…",
@@ -596,6 +583,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-24T21:57:31Z",
         "content": "(CNN Español) -- Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina. Agregó que por el momento … [+1063 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ivonne Valdés",
+        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
+        "description": "El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una expresión de \"agradecimiento\" al pueblo venezolano.\nThe post Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela ap…",
+        "url": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-03T15:32:32Z",
+        "content": "Estados Unidos incauta avión de Maduro en República Dominicana 2:24\r\n(CNN Español) -- El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una … [+1127 chars]"
     },
     {
         "source": {
@@ -706,19 +706,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Patrulla Fronteriza de EE.UU. y Policía de Puerto Rico incautan dos millonarios cargamentos de cocaína en las costas de la isla",
-        "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos interceptó el domingo una embarcación en Puerto Rico que transportaba un cargamento con 267 kg de cocaína y el 28 de agosto incautó otro cargamento con 300,8 kg de cocaína, ambos suman un valor d…",
-        "url": "https://cnnespanol.cnn.com/2024/09/04/patrulla-fronteriza-ee-uu-policia-puerto-rico-incautan-cargamento-cocaina-isla-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cbp-guardia-costera-e1725466468500.jpeg?quality=100&strip=info",
-        "publishedAt": "2024-09-04T16:14:47Z",
-        "content": "Incautan 7,2 toneladas de cocaína en embarcaciones en México 0:50\r\n(CNN en Español) --  La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) informó que junto a las Fuerzas Unidas de… [+1575 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "China pide “respetar la voluntad del pueblo venezolano” tras la sentencia del Tribunal Supremo de Justicia",
         "description": "El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"derecho a elegir su propio camino de desarrollo\", anunció el portavoz de la Cancillería en un mensaje compartido en X.\nThe post China pide “respetar la voluntad d…",
@@ -726,6 +713,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2167272605.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-27T18:59:25Z",
         "content": "Especialista analiza si tiene fundamento acusación contra Edmundo González 1:16\r\n(CNN Español) -- El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"dere… [+1522 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Patrulla Fronteriza de EE.UU. y Policía de Puerto Rico incautan dos millonarios cargamentos de cocaína en las costas de la isla",
+        "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos interceptó el domingo una embarcación en Puerto Rico que transportaba un cargamento con 267 kg de cocaína y el 28 de agosto incautó otro cargamento con 300,8 kg de cocaína, ambos suman un valor d…",
+        "url": "https://cnnespanol.cnn.com/2024/09/04/patrulla-fronteriza-ee-uu-policia-puerto-rico-incautan-cargamento-cocaina-isla-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cbp-guardia-costera-e1725466468500.jpeg?quality=100&strip=info",
+        "publishedAt": "2024-09-04T16:14:47Z",
+        "content": "Incautan 7,2 toneladas de cocaína en embarcaciones en México 0:50\r\n(CNN en Español) --  La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) informó que junto a las Fuerzas Unidas de… [+1575 chars]"
     },
     {
         "source": {
@@ -794,19 +794,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "LD / Agencias",
-        "title": "EEUU confisca el avión de Nicolás Maduro en la República Dominicana",
-        "description": "El avión, cuyo costo se estima en alrededor de 13 millones de dólares, había estado en la República Dominicana en los últimos meses.",
-        "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-09-02/eeuu-confisca-el-avion-de-nicolas-maduro-en-la-republica-dominicana-7160067/",
-        "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
-        "publishedAt": "2024-09-02T17:00:23Z",
-        "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -817,6 +804,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2167203758-20240910165331183.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-15T12:05:16Z",
         "content": "EE.UU. sanciona a funcionarios del oficialismo de Venezuela 2:54\r\n(CNN) -- Venezuela informó que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos, por un supuesto complot pa… [+4698 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "LD / Agencias",
+        "title": "EEUU confisca el avión de Nicolás Maduro en la República Dominicana",
+        "description": "El avión, cuyo costo se estima en alrededor de 13 millones de dólares, había estado en la República Dominicana en los últimos meses.",
+        "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-09-02/eeuu-confisca-el-avion-de-nicolas-maduro-en-la-republica-dominicana-7160067/",
+        "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
+        "publishedAt": "2024-09-02T17:00:23Z",
+        "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
     },
     {
         "source": {
