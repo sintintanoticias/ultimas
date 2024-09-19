@@ -1288,15 +1288,15 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Cnnchile.com"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": "CNN Chile",
-        "title": "Exclusivo CNN: Estados Unidos incauta avión del presidente venezolano Nicolás Maduro en República Dominicana",
-        "description": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la administración norteamericana continúa investigando lo que cons…",
-        "url": "https://www.cnnchile.com/pais/estados-unidos-incauta-avion-presidente-venezuela-nicolas-maduro-en-republica-dominicana_20240902/",
-        "urlToImage": "https://media.cnnchile.com/sites/2/2024/09/gettyimages-462412784.png",
-        "publishedAt": "2024-09-02T12:08:45Z",
-        "content": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la adm… [+5783 chars]"
+        "author": "CNNEspañol sjv",
+        "title": "Las 5 cosas que debes saber este 23 de agosto: TSJ favorece a Maduro y declara a Edmundo González en desacato",
+        "description": "Así le va Kamala Harris con los latinos. El TSJ favorece a Maduro y declara a Edmundo González en desacato. ¿Quiénes son las víctimas del naufragio del superyate Bayesian en Sicilia?\nThe post Las 5 cosas que debes saber este 23 de agosto: TSJ favorece a Madur…",
+        "url": "https://cnnespanol.cnn.com/2024/08/23/5-cosas-23-agosto-kamala-harris-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Kamala-Collinson-e1724405767956.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-23T10:01:01Z",
+        "content": "Kamala Harris acepta histórica candidatura. Así le va Kamala Harris con los latinos. El Tribunal Supremo de Justicia de Venezuela  favorece a Maduro y declara a Edmundo González en desacato. ¿Quiénes… [+5800 chars]"
     }
 ]
