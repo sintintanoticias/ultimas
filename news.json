@@ -108,6 +108,19 @@
             "id": "cnn",
             "name": "CNN"
         },
+        "author": "Valeria Ordóñez Ghio",
+        "title": "Autoridades de República Dominicana despliegan operación contra el tráfico de drogas",
+        "description": "El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas por presunto narcotráfico y se decomisaron más de 2.000 kilogramos de cocaína…",
+        "url": "https://cnnespanol.cnn.com/2024/09/18/autoridades-republica-dominicana-operacion-trafico-de-drogas-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T02:49:22Z",
+        "content": "(CNN Español)  El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas po… [+1015 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
         "author": "Paulina Nares",
         "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
         "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/03/M_182911_reabre-el-hotel-riu-palace-bavaro-tras-una-completa-reforma.jpg",
         "publishedAt": "2024-09-03T16:53:31Z",
         "content": "Tras una amplia reforma de sus instalaciones, que \"marca un antes y un después de la oferta de la cadena tanto en el destino como en el mundo\", según explica Riu Hotels &amp; Resorts, abre de nuevo s… [+3149 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BeInCrypto"
-        },
-        "author": "Andrés Torres",
-        "title": "Bancos de República Dominicana discutirán sobre riesgos de lavado de dinero y scams con criptomonedas",
-        "description": "El Congreso Internacional de Prevención de Lavado de Activos y Financiamiento del Terrorismo (COPLAFT) reunirá en Santo Domingo a expertos internacionales para debatir los riesgos del lavado de dinero con criptomonedas. Organizado por la Asociación de Bancos …",
-        "url": "https://es.beincrypto.com/republica-dominicana-bancos-riesgos-lavado-dinero-criptomonedas-coplaft/",
-        "urlToImage": "https://es.beincrypto.com/wp-content/uploads/2023/01/Republica_Dominicana-Cripto-1.png.webp",
-        "publishedAt": "2024-09-13T17:51:46Z",
-        "content": "El creciente uso de criptomonedas y nuevas tecnologías en Latinoamérica ha generado preocupación entre expertos y reguladores de República Dominicana y el resto de la región por su potencial para fac… [+2817 chars]"
     }
 ]
