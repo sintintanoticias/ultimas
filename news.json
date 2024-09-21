@@ -1119,6 +1119,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Muyinteresante.com"
+        },
+        "author": "José Luis Hernández Garvi Escritor y divulgador histórico",
+        "title": "La Teología de la Liberación, cuando la Iglesia se abrió a los pobres",
+        "description": "A finales de los años sesenta, irrumpió en el catolicismo una nueva corriente que se posicionó del lado de los desheredados e intentó devolverles la esperanza, aunque ello supusiera desafiar a la oligarquía dominante en algunos de los países más castigados de…",
+        "url": "https://www.muyinteresante.com/historia/66102.html",
+        "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/09/20/66ed32f1c0e0e.png",
+        "publishedAt": "2024-09-20T10:00:00Z",
+        "content": "Mucho antes de que la Teología de la Liberación ocupase titulares de prensa y generase encendidas polémicas entre los poderes establecidos, tanto eclesiásticos como civiles, sus principios básicos fu… [+15794 chars]"
+    },
+    {
+        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://es.beincrypto.com/wp-content/uploads/2023/01/Republica_Dominicana-Cripto-1.png.webp",
         "publishedAt": "2024-09-13T17:51:46Z",
         "content": "El creciente uso de criptomonedas y nuevas tecnologías en Latinoamérica ha generado preocupación entre expertos y reguladores de República Dominicana y el resto de la región por su potencial para fac… [+2817 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Eldiario.es"
-        },
-        "author": "elDiario.es",
-        "title": "Edmundo González agradece al Gobierno español salir de Venezuela: \"Lo he hecho para que construyamos una etapa nueva\"",
-        "description": "El líder opositor venezolano pidió asilo al Gobierno español y aterrizó en Madrid este domingo. \"Mi compromiso no se basa en una ambición personal, está decisión es un gesto que tiende la mano a todos y espero que como tal sea correspondido\", afirma en un com…",
-        "url": "https://www.eldiario.es/internacional/edmundo-gonzalez-agradece-gobierno-espanol-salir-venezuela-he-hecho-construyamos-etapa-nueva_1_11639894.html",
-        "urlToImage": "https://static.eldiario.es/clip/545af192-6da4-4a0c-bf83-0592a55fe351_facebook-watermarked-aspect-ratio_default_0.jpg",
-        "publishedAt": "2024-09-09T15:30:27Z",
-        "content": "Edmundo González Urrutia ha hablado por primera vez desde que llegó este domingo a Madrid. Lo ha hecho a través de un comunicado publicado en las redes sociales este lunes en la que intenta explicar … [+3968 chars]"
     }
 ]
