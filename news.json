@@ -833,19 +833,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "LD / Agencias",
-        "title": "EEUU confisca el avión de Nicolás Maduro en la República Dominicana",
-        "description": "El avión, cuyo costo se estima en alrededor de 13 millones de dólares, había estado en la República Dominicana en los últimos meses.",
-        "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-09-02/eeuu-confisca-el-avion-de-nicolas-maduro-en-la-republica-dominicana-7160067/",
-        "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
-        "publishedAt": "2024-09-02T17:00:23Z",
-        "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -856,6 +843,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2167203758-20240910165331183.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-15T12:05:16Z",
         "content": "EE.UU. sanciona a funcionarios del oficialismo de Venezuela 2:54\r\n(CNN) -- Venezuela informó que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos, por un supuesto complot pa… [+4698 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "LD / Agencias",
+        "title": "EEUU confisca el avión de Nicolás Maduro en la República Dominicana",
+        "description": "El avión, cuyo costo se estima en alrededor de 13 millones de dólares, había estado en la República Dominicana en los últimos meses.",
+        "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-09-02/eeuu-confisca-el-avion-de-nicolas-maduro-en-la-republica-dominicana-7160067/",
+        "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
+        "publishedAt": "2024-09-02T17:00:23Z",
+        "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
     },
     {
         "source": {
