@@ -1253,6 +1253,19 @@
             "name": "Www.abc.es"
         },
         "author": "(abc)",
+        "title": "Andrés Feliz, de esquivar la delincuencia y vivir con una viuda en El Prat a fichaje estrella del Madrid",
+        "description": "La temporada de baloncesto español comenzará con un tiroteo de categoría. Real Madrid y Barcelona se enfrentarán hoy ( 18.30 horas, Movistar Plus ) en la primera de las semifinales de la Supercopa de España celebrada en Murcia, un duelo histórico y de lo más …",
+        "url": "https://www.abc.es/deportes/baloncesto/andres-feliz-esquivar-delincuencia-vivir-viuda-prat-20240920174912-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/09/20/feliz_20240920173720-U77216221174XgE-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-21T02:24:11Z",
+        "content": "La temporada de baloncesto español comenzará con un tiroteo de categoría. Real Madrid y Barcelona se enfrentarán hoy (18.30 horas, Movistar Plus) en la primera de las semifinales de la Supercopa de E… [+4596 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
         "title": "La Costa Blanca Cup 2025 abre su proceso de inscripciones para los torneos de fútbol y futsal",
         "description": "La Costa Blanca Cup arranca su proceso de inscripciones para el campeonato de 2025. El torneo internacional de fútbol base llegará a su 31 edición y se desarrollará entre los días 6 y 12 de julio del próximo año mientras que el evento de fútbol sala, que alca…",
         "url": "https://www.abc.es/espana/comunidad-valenciana/costa-blanca-cup-2025-abre-proceso-inscripciones-20240920103527-nt.html",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/03/M_182911_reabre-el-hotel-riu-palace-bavaro-tras-una-completa-reforma.jpg",
         "publishedAt": "2024-09-03T16:53:31Z",
         "content": "Tras una amplia reforma de sus instalaciones, que \"marca un antes y un después de la oferta de la cadena tanto en el destino como en el mundo\", según explica Riu Hotels &amp; Resorts, abre de nuevo s… [+3149 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BeInCrypto"
-        },
-        "author": "Andrés Torres",
-        "title": "Bancos de República Dominicana discutirán sobre riesgos de lavado de dinero y scams con criptomonedas",
-        "description": "El Congreso Internacional de Prevención de Lavado de Activos y Financiamiento del Terrorismo (COPLAFT) reunirá en Santo Domingo a expertos internacionales para debatir los riesgos del lavado de dinero con criptomonedas. Organizado por la Asociación de Bancos …",
-        "url": "https://es.beincrypto.com/republica-dominicana-bancos-riesgos-lavado-dinero-criptomonedas-coplaft/",
-        "urlToImage": "https://es.beincrypto.com/wp-content/uploads/2023/01/Republica_Dominicana-Cripto-1.png.webp",
-        "publishedAt": "2024-09-13T17:51:46Z",
-        "content": "El creciente uso de criptomonedas y nuevas tecnologías en Latinoamérica ha generado preocupación entre expertos y reguladores de República Dominicana y el resto de la región por su potencial para fac… [+2817 chars]"
     }
 ]
