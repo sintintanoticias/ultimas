@@ -66,6 +66,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Xataka.com"
+        },
+        "author": "Javier Jiménez",
+        "title": "Uno de los mejores equipos forenses de España esconde el secreto del origen de Colón. Cada vez falta menos para que lo revelen",
+        "description": "El 20 de mayo de 1506, un hombre moría en Valladolid. El 19, unas horas antes, había dictado su testamento y lo había firmado como \"almirante, virrey y gobernador [...] de las Indias descubiertas y por descubrir\". El 21, unas horas después, un puñado de mozos…",
+        "url": "https://www.xataka.com/investigacion/uno-mejores-equipos-forenses-espana-esconde-secreto-origen-colon-cada-vez-falta-revelen",
+        "urlToImage": "https://i.blogs.es/70a285/jorge-fernandez-salas-dcrl6ihrla4-unsplash/840_560.jpeg",
+        "publishedAt": "2024-09-21T16:30:46Z",
+        "content": "El 20 de mayo de 1506, un hombre moría en Valladolid. El 19, unas horas antes, había dictado su testamento y lo había firmado como \"almirante, virrey y gobernador [...] de las Indias descubiertas y p… [+3794 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1107,19 +1120,6 @@
     {
         "source": {
             "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Andrea Cadenas de Llano Sosa",
-        "title": "Si quieres irte de España y seguir hablando el mismo idioma: conoce cuál es el país de Sudamérica más barato para vivir",
-        "description": "<![CDATA[<p>Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 2024 es Paraguay. wf_cms.rss.read_more]]>",
-        "url": "https://www.huffingtonpost.es/life/viajes/si-quieres-irte-espana-seguir-hablando-idioma-conoce-cual-pais-sudamerica-mas-barato-vivirbr.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/08/21/aerial-view-of-the-paraguayan-city-of-ciudad-del-este-and-friendship-bridge-connecting-paraguay-and-brazil-through-the-border-over-the-parana-river.jpeg",
-        "publishedAt": "2024-08-21T14:38:19Z",
-        "content": "Según un informe llevado a cabo por la plataforma serbia Numbeo, en el que se realizó una comparativa del coste de vida en diferentes países y ciudades, el país con menor índice en Sudamérica este 20… [+2306 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Muyinteresante.com"
         },
         "author": "José Luis Hernández Garvi Escritor y divulgador histórico",
@@ -1211,19 +1211,6 @@
     {
         "source": {
             "id": null,
-            "name": "Criptonoticias.com"
-        },
-        "author": "Jesús Herrera",
-        "title": "“No nos parece que bitcoin y las criptomonedas pretendan reemplazar al peso dominicano”",
-        "description": "El superintendente de bancos República Dominicana, Alejandro Fernández, enfatiza que los criptoactivos “no son monedas”.\nLeer más",
-        "url": "https://www.criptonoticias.com/finanzas/bitcoin-criptomonedas-reemplazo-peso-republicadominicana-alejandrofernandez/",
-        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/08/superintendente-bancos-republicadominicana.png",
-        "publishedAt": "2024-08-21T13:49:07Z",
-        "content": "Hechos clave:\r\n<ul><li>Fernández afirma que es necesario alertar de los riesgos de las criptomonedas. \r\n</li><li>El superintendente ligó el uso de criptoactivos a las actividades ilícitas.\r\n</li></ul… [+5951 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "El Financiero"
         },
         "author": "Redacción",
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/03/M_182911_reabre-el-hotel-riu-palace-bavaro-tras-una-completa-reforma.jpg",
         "publishedAt": "2024-09-03T16:53:31Z",
         "content": "Tras una amplia reforma de sus instalaciones, que \"marca un antes y un después de la oferta de la cadena tanto en el destino como en el mundo\", según explica Riu Hotels &amp; Resorts, abre de nuevo s… [+3149 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BeInCrypto"
+        },
+        "author": "Andrés Torres",
+        "title": "Bancos de República Dominicana discutirán sobre riesgos de lavado de dinero y scams con criptomonedas",
+        "description": "El Congreso Internacional de Prevención de Lavado de Activos y Financiamiento del Terrorismo (COPLAFT) reunirá en Santo Domingo a expertos internacionales para debatir los riesgos del lavado de dinero con criptomonedas. Organizado por la Asociación de Bancos …",
+        "url": "https://es.beincrypto.com/republica-dominicana-bancos-riesgos-lavado-dinero-criptomonedas-coplaft/",
+        "urlToImage": "https://es.beincrypto.com/wp-content/uploads/2023/01/Republica_Dominicana-Cripto-1.png.webp",
+        "publishedAt": "2024-09-13T17:51:46Z",
+        "content": "El creciente uso de criptomonedas y nuevas tecnologías en Latinoamérica ha generado preocupación entre expertos y reguladores de República Dominicana y el resto de la región por su potencial para fac… [+2817 chars]"
     }
 ]
