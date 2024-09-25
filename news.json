@@ -990,6 +990,19 @@
     {
         "source": {
             "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Ángel Mor Montolio",
+        "title": "César Muñoz ya tiene fecha de regreso a Telecinco tras la cancelación de 'Así es la vida'",
+        "description": "'Así es la vida' se despedía el 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javier Vázquez volverá a las tardes de Telecinco para presentar su nuev…",
+        "url": "https://www.mundodeportivo.com/elotromundo/television/20240924/1002321325/cesar-munoz-fecha-regreso-telecinco-cancelacion-asi-vida-dct.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3c42100693.r_d.960-540-0.jpeg",
+        "publishedAt": "2024-09-24T13:14:21Z",
+        "content": "'Así es la vida' se despedía el 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javier Vázq… [+1558 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Muyinteresante.com"
         },
         "author": "José Luis Hernández Garvi Escritor y divulgador histórico",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://meneame.net/img/logo_meneame.png",
         "publishedAt": "2024-09-02T16:59:45Z",
         "content": "#3 Sin embargo por ser un genocida te recompensan. Curioso sistema de valores. Y si hablamos de amañar elecciones, preguntemos a la CIA, que de esto sabe un rato.\r\nLuego nos extrañaremos de que Áfric… [+220 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Meneame.net"
-        },
-        "author": "glezjor",
-        "title": "Estados Unidos incauta el avión del presidente de Venezuela, Nicolás Maduro, en República Dominicana",
-        "description": "Estados Unidos incautó el avión del presidente de Venezuela, Nicolás Maduro, después de determinar que su adquisición violaba las sanciones estadounidenses, entre otros asuntos criminales, y envió la aeronave al estado de Florida el lunes, según dos funcionar…",
-        "url": "https://www.meneame.net/m/politica/estados-unidos-incauta-avion-presidente-venezuela-nicolas-maduro",
-        "urlToImage": "https://meneame.net/img/logo_meneame.png",
-        "publishedAt": "2024-09-02T17:35:12Z",
-        "content": "#1 pedir que digas que es duplicada antes de votar negativo supongo que es pedir mucho. de todas formas gracias."
     }
 ]
