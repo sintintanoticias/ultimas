@@ -121,19 +121,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
-        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
-        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-06T13:11:37Z",
-        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Sofía Barruti",
         "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
         "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
@@ -141,6 +128,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-04T04:44:47Z",
         "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
+        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
+        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-06T13:11:37Z",
+        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
     },
     {
         "source": {
@@ -171,19 +171,6 @@
     {
         "source": {
             "id": null,
-            "name": "Expansion.com"
-        },
-        "author": "Expansión",
-        "title": "EEUU confisca el avión oficial de Maduro",
-        "description": "La aeronave fue incautada en la República Dominicana con la asistencia de las autoridades del país y transferida a Florida por haber sido \"comprada ilegalmente\" por 13 millones de dólares. Leer",
-        "url": "https://www.expansion.com/latinoamerica/2024/09/02/66d5fa17e5fdea40398b457f.html",
-        "urlToImage": "https://phantom-expansion.unidadeditorial.es/df978edb335d284c88b91174dae384d0/crop/0x80/1638x1172/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/02/17252991296188.jpg",
-        "publishedAt": "2024-09-02T17:53:06Z",
-        "content": "La aeronave fue incautada en la República Dominicana con la asistencia de las autoridades del país y transferida a Florida por haber sido \"comprada ilegalmente\" por 13 millones de dólares. Estados Un… [+4352 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Huffingtonpost.es"
         },
         "author": "Redacción HuffPost / EFE",
@@ -193,6 +180,19 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/02/nicolas-maduro-en-un-acto-reciente.jpeg",
         "publishedAt": "2024-09-02T16:56:43Z",
         "content": "El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  \r\nLa aeronave ha sido trasladada hasta un aeropuerto en … [+989 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Expansion.com"
+        },
+        "author": "Expansión",
+        "title": "EEUU confisca el avión oficial de Maduro",
+        "description": "La aeronave fue incautada en la República Dominicana con la asistencia de las autoridades del país y transferida a Florida por haber sido \"comprada ilegalmente\" por 13 millones de dólares. Leer",
+        "url": "https://www.expansion.com/latinoamerica/2024/09/02/66d5fa17e5fdea40398b457f.html",
+        "urlToImage": "https://phantom-expansion.unidadeditorial.es/df978edb335d284c88b91174dae384d0/crop/0x80/1638x1172/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/02/17252991296188.jpg",
+        "publishedAt": "2024-09-02T17:53:06Z",
+        "content": "La aeronave fue incautada en la República Dominicana con la asistencia de las autoridades del país y transferida a Florida por haber sido \"comprada ilegalmente\" por 13 millones de dólares. Estados Un… [+4352 chars]"
     },
     {
         "source": {
@@ -511,19 +511,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Ivonne Valdés",
-        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
-        "description": "El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una expresión de \"agradecimiento\" al pueblo venezolano.\nThe post Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela ap…",
-        "url": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-03T15:32:32Z",
-        "content": "Estados Unidos incauta avión de Maduro en República Dominicana 2:24\r\n(CNN Español) -- El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una … [+1127 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Valeria Ordóñez Ghio",
         "title": "Un trabajador de la Embajada de Argentina en Venezuela fue detenido por fuerzas de seguridad, denuncia la Cancillería",
         "description": "Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina.\n<ul>\n<li>Embajada de Argentina en Venezuela denuncia robo de dinero</li>\n<li>Detenciones arbitrarias ge…",
@@ -531,6 +518,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-24T21:57:31Z",
         "content": "(CNN Español) -- Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina. Agregó que por el momento … [+1063 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ivonne Valdés",
+        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
+        "description": "El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una expresión de \"agradecimiento\" al pueblo venezolano.\nThe post Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela ap…",
+        "url": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-03T15:32:32Z",
+        "content": "Estados Unidos incauta avión de Maduro en República Dominicana 2:24\r\n(CNN Español) -- El presidente de Venezuela, Nicolás Maduro, anunció que la Navidad comenzará el 1 de octubre en el país como una … [+1127 chars]"
     },
     {
         "source": {
@@ -654,19 +654,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Patrulla Fronteriza de EE.UU. y Policía de Puerto Rico incautan dos millonarios cargamentos de cocaína en las costas de la isla",
-        "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos interceptó el domingo una embarcación en Puerto Rico que transportaba un cargamento con 267 kg de cocaína y el 28 de agosto incautó otro cargamento con 300,8 kg de cocaína, ambos suman un valor d…",
-        "url": "https://cnnespanol.cnn.com/2024/09/04/patrulla-fronteriza-ee-uu-policia-puerto-rico-incautan-cargamento-cocaina-isla-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cbp-guardia-costera-e1725466468500.jpeg?quality=100&strip=info",
-        "publishedAt": "2024-09-04T16:14:47Z",
-        "content": "Incautan 7,2 toneladas de cocaína en embarcaciones en México 0:50\r\n(CNN en Español) --  La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) informó que junto a las Fuerzas Unidas de… [+1575 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "China pide “respetar la voluntad del pueblo venezolano” tras la sentencia del Tribunal Supremo de Justicia",
         "description": "El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"derecho a elegir su propio camino de desarrollo\", anunció el portavoz de la Cancillería en un mensaje compartido en X.\nThe post China pide “respetar la voluntad d…",
@@ -680,13 +667,13 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Sol Amaya",
-        "title": "Últimas noticias de la crisis tras las elecciones en Venezuela: orden de arresto contra Edmundo González y más",
-        "description": "La Fiscalía General de Venezuela solicitó este lunes una orden de arresto contra el candidato presidencial de la opositora Plataforma Unitaria Democrática (PUD), Edmundo González, en el marco de una investigación que busca determinar quiénes son los responsab…",
-        "url": "https://cnnespanol.cnn.com/2024/09/02/ultimas-noticias-de-la-crisis-tras-las-elecciones-en-venezuela-orden-de-arresto-contra-edmundo-gonzalez-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163935650.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-02T22:44:09Z",
-        "content": "Los presidentes de México, Brasil y Colombia. (Crédito: Getty Images)\r\nEl presidente de Colombia, Gustavo Petro; el de Brasil, Luiz Inácio Lula da Silva, y el de México, Andrés Manuel López Obrador, … [+997 chars]"
+        "author": "Paulina Nares",
+        "title": "Patrulla Fronteriza de EE.UU. y Policía de Puerto Rico incautan dos millonarios cargamentos de cocaína en las costas de la isla",
+        "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos interceptó el domingo una embarcación en Puerto Rico que transportaba un cargamento con 267 kg de cocaína y el 28 de agosto incautó otro cargamento con 300,8 kg de cocaína, ambos suman un valor d…",
+        "url": "https://cnnespanol.cnn.com/2024/09/04/patrulla-fronteriza-ee-uu-policia-puerto-rico-incautan-cargamento-cocaina-isla-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cbp-guardia-costera-e1725466468500.jpeg?quality=100&strip=info",
+        "publishedAt": "2024-09-04T16:14:47Z",
+        "content": "Incautan 7,2 toneladas de cocaína en embarcaciones en México 0:50\r\n(CNN en Español) --  La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) informó que junto a las Fuerzas Unidas de… [+1575 chars]"
     },
     {
         "source": {
@@ -700,6 +687,19 @@
         "urlToImage": "https://www.publico.es/uploads/2024/09/02/66d5f303e67b4.jpeg",
         "publishedAt": "2024-09-02T17:17:00Z",
         "content": "Estados Unidos ha confiscado este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, en base a las sanciones estadounidenses que pesan sobre Venezuela, inf… [+3012 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sol Amaya",
+        "title": "Últimas noticias de la crisis tras las elecciones en Venezuela: orden de arresto contra Edmundo González y más",
+        "description": "La Fiscalía General de Venezuela solicitó este lunes una orden de arresto contra el candidato presidencial de la opositora Plataforma Unitaria Democrática (PUD), Edmundo González, en el marco de una investigación que busca determinar quiénes son los responsab…",
+        "url": "https://cnnespanol.cnn.com/2024/09/02/ultimas-noticias-de-la-crisis-tras-las-elecciones-en-venezuela-orden-de-arresto-contra-edmundo-gonzalez-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163935650.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-02T22:44:09Z",
+        "content": "Los presidentes de México, Brasil y Colombia. (Crédito: Getty Images)\r\nEl presidente de Colombia, Gustavo Petro; el de Brasil, Luiz Inácio Lula da Silva, y el de México, Andrés Manuel López Obrador, … [+997 chars]"
     },
     {
         "source": {
@@ -781,19 +781,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Rocío Muñoz-Ledo",
-        "title": "Lula y Petro “toman nota” de la sentencia del Tribunal Supremo de Justicia de Venezuela a favor de Maduro, pero insisten en que se publiquen las actas de votación",
-        "description": "En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio Lula da Silva, y de Colombia, Gustavo Petro, dijeron este sábado que “toman nota” de la sentencia del Tribunal Supremo de Justicia (TSJ) que vali…",
-        "url": "https://cnnespanol.cnn.com/2024/08/25/lula-petro-sentencia-tribunal-supremo-justicia-venezuela-maduro-publiquen-actas-votacion-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-25T19:44:01Z",
-        "content": "¿Es delito publicar copias de actas electorales en Venezuela? 3:34\r\n(CNN Español) -- En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio … [+2547 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Libertaddigital.com"
         },
@@ -804,6 +791,19 @@
         "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
         "publishedAt": "2024-09-02T17:00:23Z",
         "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Rocío Muñoz-Ledo",
+        "title": "Lula y Petro “toman nota” de la sentencia del Tribunal Supremo de Justicia de Venezuela a favor de Maduro, pero insisten en que se publiquen las actas de votación",
+        "description": "En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio Lula da Silva, y de Colombia, Gustavo Petro, dijeron este sábado que “toman nota” de la sentencia del Tribunal Supremo de Justicia (TSJ) que vali…",
+        "url": "https://cnnespanol.cnn.com/2024/08/25/lula-petro-sentencia-tribunal-supremo-justicia-venezuela-maduro-publiquen-actas-votacion-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-25T19:44:01Z",
+        "content": "¿Es delito publicar copias de actas electorales en Venezuela? 3:34\r\n(CNN Español) -- En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio … [+2547 chars]"
     },
     {
         "source": {
