@@ -524,19 +524,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Un trabajador de la Embajada de Argentina en Venezuela fue detenido por fuerzas de seguridad, denuncia la Cancillería",
-        "description": "Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina.\n<ul>\n<li>Embajada de Argentina en Venezuela denuncia robo de dinero</li>\n<li>Detenciones arbitrarias ge…",
-        "url": "https://cnnespanol.cnn.com/2024/08/24/trabajador-embajada-argentina-venezuela-detenido-fuerzas-seguridad-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-24T21:57:31Z",
-        "content": "(CNN Español) -- Un trabajador de la Embajada de Argentina en Caracas fue detenido por fuerzas de seguridad de Venezuela, dijo a CNN la vocería de la Cancillería argentina. Agregó que por el momento … [+1063 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Belén Liotti",
         "title": "Expectativas entre haitianos por la visita de Blinken",
         "description": "Hay expectativas entre los haitianos de la zona fronteriza de Dajabón por la visita del secretario de Estado de Estados Unidos, Antony Blinken, a su país.\nThe post Expectativas entre haitianos por la visita de Blinken appeared first on CNN.",
@@ -609,19 +596,6 @@
         "urlToImage": "https://phantom-marca.unidadeditorial.es/97ecbc94de5fd205a19e57d6f9ca6ad2/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/11/17260674642713.jpg",
         "publishedAt": "2024-09-11T17:15:23Z",
         "content": "El cantautor colombiano Juan Fernando Fonseca Carrera, artísticamente conocido como Fonseca, ganador de ocho Latin Grammy, regresa a España para dar continuar su 'Tropicalia Tour 2024', una gira inte… [+11371 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Expansion.com"
-        },
-        "author": "Expansión.com",
-        "title": "La Fiscalía de Venezuela cita a González Urrutia por supuesta \"conspiración\"",
-        "description": "El Ministerio Público (MP, Fiscalía) de Venezuela citó para el próximo lunes al abanderado de la oposición mayoritaria, Edmundo González Urrutia, por una investigación en su contra, debido a una supuesta \"conspiración\" y otros delitos asociados a la denuncia …",
-        "url": "https://www.expansion.com/latinoamerica/2024/08/24/66ca13c2e5fdea63548b45af.html",
-        "urlToImage": "https://phantom-expansion.unidadeditorial.es/b114a1160fdabcbc06d5d58590ff01f3/crop/88x23/1956x1268/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/24/17245196619108.jpg",
-        "publishedAt": "2024-08-24T17:18:30Z",
-        "content": "El Ministerio Público (MP, Fiscalía) de Venezuela citó para el próximo lunes al abanderado de la oposición mayoritaria, Edmundo González Urrutia, por una investigación en su contra, debido a una supu… [+1870 chars]"
     },
     {
         "source": {
@@ -768,19 +742,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "ALBA-TCP denuncia la incautación de un avión presidencial venezolano por parte de EE.UU.",
-        "description": "",
-        "url": "https://actualidad.rt.com/actualidad/521613-alba-denunciar-incautacion-avion-presidencial-venezolano",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/original/66d79f92e9ff71456e5d8a50.jpg",
-        "publishedAt": "2024-09-03T23:45:22Z",
-        "content": "La Alianza Bolivariana para los Pueblos de Nuestra América–Tratado de Comercio de los Pueblos (ALBA-TCP) denunció \"la incautación\" de una aeronave venezolana usada por el presidente de ese país, Nico… [+1049 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Libertaddigital.com"
         },
@@ -791,6 +752,19 @@
         "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
         "publishedAt": "2024-09-02T17:00:23Z",
         "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "ALBA-TCP denuncia la incautación de un avión presidencial venezolano por parte de EE.UU.",
+        "description": "",
+        "url": "https://actualidad.rt.com/actualidad/521613-alba-denunciar-incautacion-avion-presidencial-venezolano",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/original/66d79f92e9ff71456e5d8a50.jpg",
+        "publishedAt": "2024-09-03T23:45:22Z",
+        "content": "La Alianza Bolivariana para los Pueblos de Nuestra América–Tratado de Comercio de los Pueblos (ALBA-TCP) denunció \"la incautación\" de una aeronave venezolana usada por el presidente de ese país, Nico… [+1049 chars]"
     },
     {
         "source": {
@@ -1298,5 +1272,31 @@
         "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/f5a989b0-1f09-41f9-b382-e200141b7dca_16-9-discover-aspect-ratio_default_0.jpg",
         "publishedAt": "2024-09-18T09:17:04Z",
         "content": "Mientras trabaja en cambiar su estética en España para \"abordar la siguiente etapa de desarrollo\" contaba, en julio, su consejero delegado, Juan Pedro Conde, la cadena de panaderías y cafeterías Gran… [+2500 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Meneame.net"
+        },
+        "author": "ikipol",
+        "title": "Identifican segundo avión vinculado al presidente de Venezuela Nicolás Maduro en República Dominicana",
+        "description": "Esta segunda aeronave vinculada a Maduro está bajo vigilancia las 24 horas del día por las autoridades dominicanas, agregó la fuente, pero no confirmó si se había solicitado la inmovilización de esta. Además, confirmó que este avión se encuentra en el país po…",
+        "url": "https://www.meneame.net/m/actualidad/identifican-segundo-avion-vinculado-presidente-venezuela-nicolas",
+        "urlToImage": "https://meneame.net/img/logo_meneame.png",
+        "publishedAt": "2024-09-05T16:39:06Z",
+        "content": "La garrapata voladora. Nueva especie de insecto descubierta en el Caribe."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Meneame.net"
+        },
+        "author": "shake-it",
+        "title": "EEUU confisca el avión oficial de Maduro en República Dominicana por las sanciones a Venezuela",
+        "description": "El decomiso se produce después de que Washington determinara que su adquisición \"violaba las sanciones, entre otras cuestiones penales\".etiquetas: eeuu, maduro, venezuela, aviñón» noticia original (www.elespanol.com)",
+        "url": "https://www.meneame.net/m/actualidad/eeuu-confisca-avion-oficial-maduro-republica-dominicana",
+        "urlToImage": "https://meneame.net/img/logo_meneame.png",
+        "publishedAt": "2024-09-02T16:59:45Z",
+        "content": "#3 Sin embargo por ser un genocida te recompensan. Curioso sistema de valores. Y si hablamos de amañar elecciones, preguntemos a la CIA, que de esto sabe un rato.\r\nLuego nos extrañaremos de que Áfric… [+220 chars]"
     }
 ]
