@@ -755,19 +755,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Rocío Muñoz-Ledo",
-        "title": "Lula y Petro “toman nota” de la sentencia del Tribunal Supremo de Justicia de Venezuela a favor de Maduro, pero insisten en que se publiquen las actas de votación",
-        "description": "En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio Lula da Silva, y de Colombia, Gustavo Petro, dijeron este sábado que “toman nota” de la sentencia del Tribunal Supremo de Justicia (TSJ) que vali…",
-        "url": "https://cnnespanol.cnn.com/2024/08/25/lula-petro-sentencia-tribunal-supremo-justicia-venezuela-maduro-publiquen-actas-votacion-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-25T19:44:01Z",
-        "content": "¿Es delito publicar copias de actas electorales en Venezuela? 3:34\r\n(CNN Español) -- En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio … [+2547 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Libertaddigital.com"
         },
@@ -778,6 +765,19 @@
         "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
         "publishedAt": "2024-09-02T17:00:23Z",
         "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Rocío Muñoz-Ledo",
+        "title": "Lula y Petro “toman nota” de la sentencia del Tribunal Supremo de Justicia de Venezuela a favor de Maduro, pero insisten en que se publiquen las actas de votación",
+        "description": "En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio Lula da Silva, y de Colombia, Gustavo Petro, dijeron este sábado que “toman nota” de la sentencia del Tribunal Supremo de Justicia (TSJ) que vali…",
+        "url": "https://cnnespanol.cnn.com/2024/08/25/lula-petro-sentencia-tribunal-supremo-justicia-venezuela-maduro-publiquen-actas-votacion-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-25T19:44:01Z",
+        "content": "¿Es delito publicar copias de actas electorales en Venezuela? 3:34\r\n(CNN Español) -- En un nuevo posicionamiento sobre el conflicto postelectoral en Venezuela, los presidentes de Brasil, Luiz Inácio … [+2547 chars]"
     },
     {
         "source": {
