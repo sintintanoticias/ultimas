@@ -937,6 +937,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
+        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
+        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-26T17:28:45Z",
+        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Trendencias.com"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://meneame.net/img/logo_meneame.png",
         "publishedAt": "2024-09-05T16:39:06Z",
         "content": "La garrapata voladora. Nueva especie de insecto descubierta en el Caribe."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Meneame.net"
-        },
-        "author": "shake-it",
-        "title": "EEUU confisca el avión oficial de Maduro en República Dominicana por las sanciones a Venezuela",
-        "description": "El decomiso se produce después de que Washington determinara que su adquisición \"violaba las sanciones, entre otras cuestiones penales\".etiquetas: eeuu, maduro, venezuela, aviñón» noticia original (www.elespanol.com)",
-        "url": "https://www.meneame.net/m/actualidad/eeuu-confisca-avion-oficial-maduro-republica-dominicana",
-        "urlToImage": "https://meneame.net/img/logo_meneame.png",
-        "publishedAt": "2024-09-02T16:59:45Z",
-        "content": "#3 Sin embargo por ser un genocida te recompensan. Curioso sistema de valores. Y si hablamos de amañar elecciones, preguntemos a la CIA, que de esto sabe un rato.\r\nLuego nos extrañaremos de que Áfric… [+220 chars]"
     }
 ]
