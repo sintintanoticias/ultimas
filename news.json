@@ -121,19 +121,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
-        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
-        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-06T13:11:37Z",
-        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Sofía Barruti",
         "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
         "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
@@ -141,6 +128,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-04T04:44:47Z",
         "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
+        "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
+        "url": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-06T13:11:37Z",
+        "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
     },
     {
         "source": {
@@ -171,19 +171,6 @@
     {
         "source": {
             "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost / EFE",
-        "title": "EEUU confisca el avión de Nicolás Maduro en República Dominicana",
-        "description": "<![CDATA[<p>El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  wf_cms.rss.read_more]]>",
-        "url": "https://www.huffingtonpost.es/global/eeuu-confiscael-avion-nicolas-maduro-republica-dominicana.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/02/nicolas-maduro-en-un-acto-reciente.jpeg",
-        "publishedAt": "2024-09-02T16:56:43Z",
-        "content": "El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  \r\nLa aeronave ha sido trasladada hasta un aeropuerto en … [+989 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Expansion.com"
         },
         "author": "Expansión",
@@ -193,6 +180,19 @@
         "urlToImage": "https://phantom-expansion.unidadeditorial.es/df978edb335d284c88b91174dae384d0/crop/0x80/1638x1172/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/02/17252991296188.jpg",
         "publishedAt": "2024-09-02T17:53:06Z",
         "content": "La aeronave fue incautada en la República Dominicana con la asistencia de las autoridades del país y transferida a Florida por haber sido \"comprada ilegalmente\" por 13 millones de dólares. Estados Un… [+4352 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost / EFE",
+        "title": "EEUU confisca el avión de Nicolás Maduro en República Dominicana",
+        "description": "<![CDATA[<p>El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  wf_cms.rss.read_more]]>",
+        "url": "https://www.huffingtonpost.es/global/eeuu-confiscael-avion-nicolas-maduro-republica-dominicana.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/02/nicolas-maduro-en-un-acto-reciente.jpeg",
+        "publishedAt": "2024-09-02T16:56:43Z",
+        "content": "El Gobierno de EEUU ha confiscado este lunes el avión del presidente de Venezuela, Nicolás Maduro, que se encontraba en República Dominicana.  \r\nLa aeronave ha sido trasladada hasta un aeropuerto en … [+989 chars]"
     },
     {
         "source": {
@@ -483,19 +483,6 @@
     {
         "source": {
             "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "José Luis Artús Tejero",
-        "title": "Junior Firpo dice que es \"una vergüenza\" tener que jugar a las 11 de la mañana",
-        "description": "Junior Firpo, figura de la selección de fútbol de República Dominicana, dijo sobre al partido contra Bermudas, que dio inicio a su participación en la Liga de Naciones de la Concacaf, que le parece \"una vergüenza\" tener que jugar a las once de la mañana en An…",
-        "url": "https://www.mundodeportivo.com/futbol/internacional/20240908/1002311933/junior.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/08/66dd855f08626.jpeg",
-        "publishedAt": "2024-09-08T11:09:32Z",
-        "content": "Junior Firpo, figura de la selección de fútbol de República Dominicana, dijo sobre al partido contra Bermudas, que dio inicio a su participación en la Liga de Naciones de la Concacaf, que le parece \"… [+1771 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Formulatv.com"
         },
         "author": "Fernando S. Palenzuela",
@@ -505,6 +492,19 @@
         "urlToImage": "https://www.formulatv.com/images/articulos/129000/129975_CzLvN5oqmY7Ws9x8tecFPig4BkU0Ja3HE-hog.jpg",
         "publishedAt": "2024-09-10T16:07:13Z",
         "content": "Después del cierre de 'Así es la vida' a finales de julio y un agosto de ausencia en televisión, Sandra Barneda ya se ha puesto en marcha para comenzar con su siguiente proyecto. 'La isla de las tent… [+1905 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "José Luis Artús Tejero",
+        "title": "Junior Firpo dice que es \"una vergüenza\" tener que jugar a las 11 de la mañana",
+        "description": "Junior Firpo, figura de la selección de fútbol de República Dominicana, dijo sobre al partido contra Bermudas, que dio inicio a su participación en la Liga de Naciones de la Concacaf, que le parece \"una vergüenza\" tener que jugar a las once de la mañana en An…",
+        "url": "https://www.mundodeportivo.com/futbol/internacional/20240908/1002311933/junior.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/08/66dd855f08626.jpeg",
+        "publishedAt": "2024-09-08T11:09:32Z",
+        "content": "Junior Firpo, figura de la selección de fútbol de República Dominicana, dijo sobre al partido contra Bermudas, que dio inicio a su participación en la Liga de Naciones de la Concacaf, que le parece \"… [+1771 chars]"
     },
     {
         "source": {
@@ -641,19 +641,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Patrulla Fronteriza de EE.UU. y Policía de Puerto Rico incautan dos millonarios cargamentos de cocaína en las costas de la isla",
-        "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos interceptó el domingo una embarcación en Puerto Rico que transportaba un cargamento con 267 kg de cocaína y el 28 de agosto incautó otro cargamento con 300,8 kg de cocaína, ambos suman un valor d…",
-        "url": "https://cnnespanol.cnn.com/2024/09/04/patrulla-fronteriza-ee-uu-policia-puerto-rico-incautan-cargamento-cocaina-isla-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cbp-guardia-costera-e1725466468500.jpeg?quality=100&strip=info",
-        "publishedAt": "2024-09-04T16:14:47Z",
-        "content": "Incautan 7,2 toneladas de cocaína en embarcaciones en México 0:50\r\n(CNN en Español) --  La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) informó que junto a las Fuerzas Unidas de… [+1575 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "China pide “respetar la voluntad del pueblo venezolano” tras la sentencia del Tribunal Supremo de Justicia",
         "description": "El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"derecho a elegir su propio camino de desarrollo\", anunció el portavoz de la Cancillería en un mensaje compartido en X.\nThe post China pide “respetar la voluntad d…",
@@ -661,6 +648,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2167272605.jpg?quality=100&strip=info",
         "publishedAt": "2024-08-27T18:59:25Z",
         "content": "Especialista analiza si tiene fundamento acusación contra Edmundo González 1:16\r\n(CNN Español) -- El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"dere… [+1522 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Patrulla Fronteriza de EE.UU. y Policía de Puerto Rico incautan dos millonarios cargamentos de cocaína en las costas de la isla",
+        "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos interceptó el domingo una embarcación en Puerto Rico que transportaba un cargamento con 267 kg de cocaína y el 28 de agosto incautó otro cargamento con 300,8 kg de cocaína, ambos suman un valor d…",
+        "url": "https://cnnespanol.cnn.com/2024/09/04/patrulla-fronteriza-ee-uu-policia-puerto-rico-incautan-cargamento-cocaina-isla-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cbp-guardia-costera-e1725466468500.jpeg?quality=100&strip=info",
+        "publishedAt": "2024-09-04T16:14:47Z",
+        "content": "Incautan 7,2 toneladas de cocaína en embarcaciones en México 0:50\r\n(CNN en Español) --  La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) informó que junto a las Fuerzas Unidas de… [+1575 chars]"
     },
     {
         "source": {
@@ -990,6 +990,19 @@
     {
         "source": {
             "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost",
+        "title": "Maduro ordena al Ejército de Venezuela reforzar planes contra el \"terrorismo\" de EEUU y España",
+        "description": "<![CDATA[<p>El presidente de Venezuela, Nicolás Maduro, ha ordenado este jueves a las Fuerzas Armadas del país reforzar los planes antiterroristas para contrarrestar operaciones que supuestamente se están llevando a cabo en contra de su Gobierno desde otros p…",
+        "url": "https://www.huffingtonpost.es/politica/maduro-ordena-ejercito-venezuela-reforzar-planes-terrorismo-eeuu-espanabr.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/15/nicolas-maduro-4192.jpeg",
+        "publishedAt": "2024-09-27T09:33:03Z",
+        "content": "El presidente de Venezuela, Nicolás Maduro, ha ordenado este jueves a las Fuerzas Armadas del país reforzar los planes antiterroristas para contrarrestar operaciones que supuestamente se están llevan… [+3923 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Muyinteresante.com"
         },
         "author": "José Luis Hernández Garvi Escritor y divulgador histórico",
@@ -1211,19 +1224,6 @@
     {
         "source": {
             "id": null,
-            "name": "BeInCrypto"
-        },
-        "author": "Andrés Torres",
-        "title": "Bancos de República Dominicana discutirán sobre riesgos de lavado de dinero y scams con criptomonedas",
-        "description": "El Congreso Internacional de Prevención de Lavado de Activos y Financiamiento del Terrorismo (COPLAFT) reunirá en Santo Domingo a expertos internacionales para debatir los riesgos del lavado de dinero con criptomonedas. Organizado por la Asociación de Bancos …",
-        "url": "https://es.beincrypto.com/republica-dominicana-bancos-riesgos-lavado-dinero-criptomonedas-coplaft/",
-        "urlToImage": "https://es.beincrypto.com/wp-content/uploads/2023/01/Republica_Dominicana-Cripto-1.png.webp",
-        "publishedAt": "2024-09-13T17:51:46Z",
-        "content": "El creciente uso de criptomonedas y nuevas tecnologías en Latinoamérica ha generado preocupación entre expertos y reguladores de República Dominicana y el resto de la región por su potencial para fac… [+2817 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Elconfidencialdigital.com"
         },
         "author": "Óscar Gutiérrez Martínez",
@@ -1233,6 +1233,19 @@
         "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/31/2024073115022540252.jpg",
         "publishedAt": "2024-09-24T22:00:00Z",
         "content": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año.\r\nQueda menos de una semana para que el Consejo de Indra se vuelva a reunir para debatir qué decisió… [+2349 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BeInCrypto"
+        },
+        "author": "Andrés Torres",
+        "title": "Bancos de República Dominicana discutirán sobre riesgos de lavado de dinero y scams con criptomonedas",
+        "description": "El Congreso Internacional de Prevención de Lavado de Activos y Financiamiento del Terrorismo (COPLAFT) reunirá en Santo Domingo a expertos internacionales para debatir los riesgos del lavado de dinero con criptomonedas. Organizado por la Asociación de Bancos …",
+        "url": "https://es.beincrypto.com/republica-dominicana-bancos-riesgos-lavado-dinero-criptomonedas-coplaft/",
+        "urlToImage": "https://es.beincrypto.com/wp-content/uploads/2023/01/Republica_Dominicana-Cripto-1.png.webp",
+        "publishedAt": "2024-09-13T17:51:46Z",
+        "content": "El creciente uso de criptomonedas y nuevas tecnologías en Latinoamérica ha generado preocupación entre expertos y reguladores de República Dominicana y el resto de la región por su potencial para fac… [+2817 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://media.cnnchile.com/sites/2/2024/09/gettyimages-462412784.png",
         "publishedAt": "2024-09-02T12:08:45Z",
         "content": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la adm… [+5783 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Elperiodico.com"
-        },
-        "author": "Paula Clemente",
-        "title": "La cadena de panaderías Granier se propone duplicar su red de locales fuera de España de aquí a 2026",
-        "description": "Mientras trabaja en cambiar su estética en España para \"abordar la siguiente etapa de desarrollo\" contaba, en julio, su consejero delegado, Juan Pedro Conde, la cadena de panaderías y cafeterías Granier ha decidido, también, agrandar sus planes de expansión. …",
-        "url": "https://www.elperiodico.com/es/economia/20240918/granier-propone-duplicar-red-panaderias-fuera-espana-2026-108272088",
-        "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/f5a989b0-1f09-41f9-b382-e200141b7dca_16-9-discover-aspect-ratio_default_0.jpg",
-        "publishedAt": "2024-09-18T09:17:04Z",
-        "content": "Mientras trabaja en cambiar su estética en España para \"abordar la siguiente etapa de desarrollo\" contaba, en julio, su consejero delegado, Juan Pedro Conde, la cadena de panaderías y cafeterías Gran… [+2500 chars]"
     }
 ]
