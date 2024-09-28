@@ -483,6 +483,19 @@
     {
         "source": {
             "id": null,
+            "name": "Formulatv.com"
+        },
+        "author": "Fernando S. Palenzuela",
+        "title": "'La isla de las tentaciones' arranca las grabaciones de la octava edición",
+        "description": "EL VIAJE DE SANDRA BARNEDA Sandra Barneda ha mostrado en redes sociales cómo ha sido su viaje hasta llegar a la localización de República Dominicana en la que graban.'La isla de las tentaciones' arranca las grabaciones de la octava edición",
+        "url": "https://www.formulatv.com/noticias/la-isla-de-las-tentaciones-grabaciones-octava-129975/",
+        "urlToImage": "https://www.formulatv.com/images/articulos/129000/129975_CzLvN5oqmY7Ws9x8tecFPig4BkU0Ja3HE-hog.jpg",
+        "publishedAt": "2024-09-10T16:07:13Z",
+        "content": "Después del cierre de 'Así es la vida' a finales de julio y un agosto de ausencia en televisión, Sandra Barneda ya se ha puesto en marcha para comenzar con su siguiente proyecto. 'La isla de las tent… [+1905 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "José Luis Artús Tejero",
@@ -505,19 +518,6 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/27/66f6ad8a347ab.jpeg",
         "publishedAt": "2024-09-27T13:05:19Z",
         "content": "La selección española femenina sub'17 se ha impuesto a su homóloga de, por 2-1, gracias a los tantos de Clara Serrajordi y Alba Cerrato, ambos en la primera mitad, pensando en el Mundial de República… [+984 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Formulatv.com"
-        },
-        "author": "Fernando S. Palenzuela",
-        "title": "'La isla de las tentaciones' arranca las grabaciones de la octava edición",
-        "description": "EL VIAJE DE SANDRA BARNEDA Sandra Barneda ha mostrado en redes sociales cómo ha sido su viaje hasta llegar a la localización de República Dominicana en la que graban.'La isla de las tentaciones' arranca las grabaciones de la octava edición",
-        "url": "https://www.formulatv.com/noticias/la-isla-de-las-tentaciones-grabaciones-octava-129975/",
-        "urlToImage": "https://www.formulatv.com/images/articulos/129000/129975_CzLvN5oqmY7Ws9x8tecFPig4BkU0Ja3HE-hog.jpg",
-        "publishedAt": "2024-09-10T16:07:13Z",
-        "content": "Después del cierre de 'Así es la vida' a finales de julio y un agosto de ausencia en televisión, Sandra Barneda ya se ha puesto en marcha para comenzar con su siguiente proyecto. 'La isla de las tent… [+1905 chars]"
     },
     {
         "source": {
@@ -654,19 +654,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Luis Ernesto Quintana Barney",
-        "title": "China pide “respetar la voluntad del pueblo venezolano” tras la sentencia del Tribunal Supremo de Justicia",
-        "description": "El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"derecho a elegir su propio camino de desarrollo\", anunció el portavoz de la Cancillería en un mensaje compartido en X.\nThe post China pide “respetar la voluntad d…",
-        "url": "https://cnnespanol.cnn.com/2024/08/27/reaccion-china-elecciones-venezuela-maduro-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2167272605.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-27T18:59:25Z",
-        "content": "Especialista analiza si tiene fundamento acusación contra Edmundo González 1:16\r\n(CNN Español) -- El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"dere… [+1522 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Patrulla Fronteriza de EE.UU. y Policía de Puerto Rico incautan dos millonarios cargamentos de cocaína en las costas de la isla",
         "description": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos interceptó el domingo una embarcación en Puerto Rico que transportaba un cargamento con 267 kg de cocaína y el 28 de agosto incautó otro cargamento con 300,8 kg de cocaína, ambos suman un valor d…",
@@ -674,6 +661,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cbp-guardia-costera-e1725466468500.jpeg?quality=100&strip=info",
         "publishedAt": "2024-09-04T16:14:47Z",
         "content": "Incautan 7,2 toneladas de cocaína en embarcaciones en México 0:50\r\n(CNN en Español) --  La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) informó que junto a las Fuerzas Unidas de… [+1575 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "China pide “respetar la voluntad del pueblo venezolano” tras la sentencia del Tribunal Supremo de Justicia",
+        "description": "El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"derecho a elegir su propio camino de desarrollo\", anunció el portavoz de la Cancillería en un mensaje compartido en X.\nThe post China pide “respetar la voluntad d…",
+        "url": "https://cnnespanol.cnn.com/2024/08/27/reaccion-china-elecciones-venezuela-maduro-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2167272605.jpg?quality=100&strip=info",
+        "publishedAt": "2024-08-27T18:59:25Z",
+        "content": "Especialista analiza si tiene fundamento acusación contra Edmundo González 1:16\r\n(CNN Español) -- El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"dere… [+1522 chars]"
     },
     {
         "source": {
