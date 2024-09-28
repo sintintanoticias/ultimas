@@ -1172,6 +1172,19 @@
     {
         "source": {
             "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "Carlos Cuesta",
+        "title": "La alianza entre el IE de Begoña Gómez y la OMT sumó al Gobierno dominicano",
+        "description": "La colaboración entre IE y OMT impulsó programas educativos globales, con 300 becas otorgadas por el Gobierno dominicano para estudios en turismo",
+        "url": "https://www.libertaddigital.com/espana/2024-09-27/la-alianza-entre-el-ie-de-begona-gomez-y-la-omt-sumo-al-gobierno-dominicano-7167598/",
+        "urlToImage": "https://s.libertaddigital.com/2024/07/10/1200/627/ld/889911-1-1.jpg",
+        "publishedAt": "2024-09-27T04:34:56Z",
+        "content": "La mujer del presidente Sánchez llegó a la dirección del Africa Center del IE en agosto de 2018, nada más ganar su marido la moción de censura con la que ascendió a La Moncloa. Y dejó el mismo centro… [+6442 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Hosteltur.com"
         },
         "author": "Hosteltur",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/f5a989b0-1f09-41f9-b382-e200141b7dca_16-9-discover-aspect-ratio_default_0.jpg",
         "publishedAt": "2024-09-18T09:17:04Z",
         "content": "Mientras trabaja en cambiar su estética en España para \"abordar la siguiente etapa de desarrollo\" contaba, en julio, su consejero delegado, Juan Pedro Conde, la cadena de panaderías y cafeterías Gran… [+2500 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Meneame.net"
-        },
-        "author": "ikipol",
-        "title": "Identifican segundo avión vinculado al presidente de Venezuela Nicolás Maduro en República Dominicana",
-        "description": "Esta segunda aeronave vinculada a Maduro está bajo vigilancia las 24 horas del día por las autoridades dominicanas, agregó la fuente, pero no confirmó si se había solicitado la inmovilización de esta. Además, confirmó que este avión se encuentra en el país po…",
-        "url": "https://www.meneame.net/m/actualidad/identifican-segundo-avion-vinculado-presidente-venezuela-nicolas",
-        "urlToImage": "https://meneame.net/img/logo_meneame.png",
-        "publishedAt": "2024-09-05T16:39:06Z",
-        "content": "La garrapata voladora. Nueva especie de insecto descubierta en el Caribe."
     }
 ]
