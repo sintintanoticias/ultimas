@@ -496,6 +496,19 @@
     {
         "source": {
             "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "EFE EFE",
+        "title": "2-1: España se impone a México pensando en el Mundial",
+        "description": "La selección española femenina sub'17 se ha impuesto a su homóloga de, por 2-1, gracias a los tantos de Clara Serrajordi y Alba Cerrato, ambos en la primera mitad, pensando en el Mundial de República Dominicana que se disputa del 16 de octubre al 6 de noviemb…",
+        "url": "https://www.mundodeportivo.com/futbol/20240927/1002323277/2-1-espana-impone-mexico-pensando-mundial-femenino-republica-dominicana.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/27/66f6ad8a347ab.jpeg",
+        "publishedAt": "2024-09-27T13:05:19Z",
+        "content": "La selección española femenina sub'17 se ha impuesto a su homóloga de, por 2-1, gracias a los tantos de Clara Serrajordi y Alba Cerrato, ambos en la primera mitad, pensando en el Mundial de República… [+984 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Formulatv.com"
         },
         "author": "Fernando S. Palenzuela",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://static.eldiario.es/clip/f0ab70d8-858a-4397-bdfa-eec542b31617_facebook-watermarked-aspect-ratio_default_0.jpg",
         "publishedAt": "2024-08-30T17:29:30Z",
         "content": "El Hierro sigue siendo el principal destino de los cayucos que toman la ruta canaria. Desde el lunes hasta este viernes han alcanzado la isla menos poblada de Canarias un total de siete embarcaciones… [+4058 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Las 5 cosas que debes saber este 3 de septiembre: La Fiscalía de Venezuela obtiene orden de arresto contra Edmundo González",
-        "description": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se retira de la selección uruguaya. Hallan muerta a una supues…",
-        "url": "https://cnnespanol.cnn.com/2024/09/03/5-cosas-3-septiembre-venezuela-edmundo-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2153695130_9da113.webp?w=1024",
-        "publishedAt": "2024-09-03T09:57:36Z",
-        "content": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se… [+5430 chars]"
     }
 ]
