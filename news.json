@@ -121,19 +121,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Sofía Barruti",
-        "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
-        "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
-        "url": "https://cnnespanol.cnn.com/2024/09/04/segundo-avion-maduro-republica-domincana-trax/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-04T04:44:47Z",
-        "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
         "description": "El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de electricidad a Puerto Rico.\nThe post Gobierno de República Dominicana está int…",
@@ -141,6 +128,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-06T13:11:37Z",
         "content": "(CNN Español) -- El presidente de República Dominicana, Luis Abinader, dio a conocer el miércoles la posibilidad de que su Gobierno pueda establecer en los próximos años un sistema para la venta de e… [+9520 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sofía Barruti",
+        "title": "Un segundo avión vinculado a Maduro está vigilado 24 horas en República Dominicana",
+        "description": "Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por las autoridades en República Dominicana, dijo a CNN una fuente con conocimiento del asunto.\n \nThe post Un segundo avión vinculado a Maduro está …",
+        "url": "https://cnnespanol.cnn.com/2024/09/04/segundo-avion-maduro-republica-domincana-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168154450.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-04T04:44:47Z",
+        "content": "República Dominicana se desvincula de incautación del avión de Maduro 3:24\r\n(CNN) -- Un segundo avión vinculado al régimen de Nicolás Maduro en Venezuela está bajo vigilancia las 24 horas del día por… [+534 chars]"
     },
     {
         "source": {
@@ -717,6 +717,19 @@
     {
         "source": {
             "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "El gobierno de Venezuela suspende los vuelos directos con Chile tras el discurso de Boric en la ONU",
+        "description": "Este es el cuarto destino con el que Venezuela rompe puentes aéreos después de los comicios presidenciales del pasado 28 de julio.",
+        "url": "https://www.bbc.com/mundo/articles/cpdq1l0xdd9o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c8b2/live/972f4b90-7cc7-11ef-b66d-034eed51208d.jpg",
+        "publishedAt": "2024-09-27T12:12:02Z",
+        "content": "Fuente de la imagen, Getty Images\r\nPie de foto, Con la suspensión de los vuelos a Chile, son cuatro destinos con los que Venezuela rompe sus puentes aéreos.\r\nInformación del artículo<ul><li>Autor, Re… [+4255 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Huffingtonpost.es"
         },
         "author": "Redacción HuffPost",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2153695130_9da113.webp?w=1024",
         "publishedAt": "2024-09-03T09:57:36Z",
         "content": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se… [+5430 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Cnnchile.com"
-        },
-        "author": "CNN Chile",
-        "title": "Exclusivo CNN: Estados Unidos incauta avión del presidente venezolano Nicolás Maduro en República Dominicana",
-        "description": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la administración norteamericana continúa investigando lo que cons…",
-        "url": "https://www.cnnchile.com/pais/estados-unidos-incauta-avion-presidente-venezuela-nicolas-maduro-en-republica-dominicana_20240902/",
-        "urlToImage": "https://media.cnnchile.com/sites/2/2024/09/gettyimages-462412784.png",
-        "publishedAt": "2024-09-02T12:08:45Z",
-        "content": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la adm… [+5783 chars]"
     }
 ]
