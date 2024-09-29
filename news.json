@@ -1146,6 +1146,19 @@
     {
         "source": {
             "id": null,
+            "name": "Hosteltur.com"
+        },
+        "author": "Taiana González",
+        "title": "Jaime Batle: “No podemos decir que el turismo nos sobra”",
+        "description": "Los primeros años en la hotelería El camino de Jaime Batle dentro del sector se remonta a la década del 50. “En aquel tiempo Mallorca se dedicaba y vivía de la agricultura, no había hoteles, ni transporte. No había nada, pero vi que el turismo sería el futuro…",
+        "url": "https://www.hosteltur.com/165863_jaime-batle-no-podemos-decir-que-el-turismo-nos-sobra.html",
+        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/27/M_161918_jaime-batle-no-podemos-decir-que-el-turismo-nos-sobra.jpg",
+        "publishedAt": "2024-09-28T22:00:01Z",
+        "content": "Los primeros años en la hotelería\r\nEl camino de Jaime Batle dentro del sector se remonta a la década del 50. “En aquel tiempo Mallorca se dedicaba y vivía de la agricultura, no había hoteles, ni tran… [+5883 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "El Financiero"
         },
         "author": "Redacción",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2153695130_9da113.webp?w=1024",
         "publishedAt": "2024-09-03T09:57:36Z",
         "content": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se… [+5430 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Cnnchile.com"
-        },
-        "author": "CNN Chile",
-        "title": "Exclusivo CNN: Estados Unidos incauta avión del presidente venezolano Nicolás Maduro en República Dominicana",
-        "description": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la administración norteamericana continúa investigando lo que cons…",
-        "url": "https://www.cnnchile.com/pais/estados-unidos-incauta-avion-presidente-venezuela-nicolas-maduro-en-republica-dominicana_20240902/",
-        "urlToImage": "https://media.cnnchile.com/sites/2/2024/09/gettyimages-462412784.png",
-        "publishedAt": "2024-09-02T12:08:45Z",
-        "content": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la adm… [+5783 chars]"
     }
 ]
