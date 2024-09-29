@@ -470,19 +470,6 @@
     {
         "source": {
             "id": null,
-            "name": "Trendencias.com"
-        },
-        "author": "Carlos Pérez",
-        "title": "Lo que no sabías de Miranda Rynsburger, la mujer de Julio Iglesias: de su grave accidente a su labor empresarial",
-        "description": "No acude a grandes eventos ni concede entrevistas. No posa en Instagram y tampoco es la musa de ningún diseñador de éxito. A juzgar por su innegable belleza, Miranda podría dedicarse al modelaje (como ya hizo en su juventud) o ser la protegonista de las mejor…",
-        "url": "https://www.trendencias.com/celebrities/que-no-sabias-miranda-rynsburger-mujer-julio-iglesias-su-grave-accidente-a-su-labor-empresarial",
-        "urlToImage": "https://i.blogs.es/c0b317/photo-output-110/840_560.jpeg",
-        "publishedAt": "2024-08-28T14:12:35Z",
-        "content": "No acude a grandes eventos ni concede entrevistas. No posa en Instagram y tampoco es la musa de ningún diseñador de éxito. A juzgar por su innegable belleza, Miranda podría dedicarse al modelaje (com… [+3171 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Formulatv.com"
         },
         "author": "Fernando S. Palenzuela",
@@ -667,19 +654,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Luis Ernesto Quintana Barney",
-        "title": "China pide “respetar la voluntad del pueblo venezolano” tras la sentencia del Tribunal Supremo de Justicia",
-        "description": "El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"derecho a elegir su propio camino de desarrollo\", anunció el portavoz de la Cancillería en un mensaje compartido en X.\nThe post China pide “respetar la voluntad d…",
-        "url": "https://cnnespanol.cnn.com/2024/08/27/reaccion-china-elecciones-venezuela-maduro-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2167272605.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-27T18:59:25Z",
-        "content": "Especialista analiza si tiene fundamento acusación contra Edmundo González 1:16\r\n(CNN Español) -- El Gobierno de China hizo un llamado para que se respete la voluntad del pueblo venezolano y su \"dere… [+1522 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Sol Amaya",
         "title": "Últimas noticias de la crisis tras las elecciones en Venezuela: orden de arresto contra Edmundo González y más",
         "description": "La Fiscalía General de Venezuela solicitó este lunes una orden de arresto contra el candidato presidencial de la opositora Plataforma Unitaria Democrática (PUD), Edmundo González, en el marco de una investigación que busca determinar quiénes son los responsab…",
@@ -794,19 +768,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "LD / Agencias",
-        "title": "EEUU confisca el avión de Nicolás Maduro en la República Dominicana",
-        "description": "El avión, cuyo costo se estima en alrededor de 13 millones de dólares, había estado en la República Dominicana en los últimos meses.",
-        "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-09-02/eeuu-confisca-el-avion-de-nicolas-maduro-en-la-republica-dominicana-7160067/",
-        "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
-        "publishedAt": "2024-09-02T17:00:23Z",
-        "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -817,6 +778,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1160458555-e1726370151454.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-15T03:16:16Z",
         "content": "EE.UU. sanciona a funcionarios del oficialismo de Venezuela 2:54\r\n(CNN) -- Venezuela informó que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos, por un supuesto complot pa… [+4278 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "LD / Agencias",
+        "title": "EEUU confisca el avión de Nicolás Maduro en la República Dominicana",
+        "description": "El avión, cuyo costo se estima en alrededor de 13 millones de dólares, había estado en la República Dominicana en los últimos meses.",
+        "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-09-02/eeuu-confisca-el-avion-de-nicolas-maduro-en-la-republica-dominicana-7160067/",
+        "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
+        "publishedAt": "2024-09-02T17:00:23Z",
+        "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
     },
     {
         "source": {
@@ -843,19 +817,6 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-04T00:37:03Z",
         "content": "Nueve países latinoamericanos y EE.UU. rechazan el pedido de orden de arresto contra Edmundo González 4:29\r\n(CNN Español) Los gobiernos de Brasil y de Colombia se sumaron este martes a los países que… [+2426 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Belén Liotti",
-        "title": "La CIDH presentará un informe sobre “deterioro de DD.HH.” tras las elecciones en Venezuela",
-        "description": "El Consejo Permanente de la OEA llevará a cabo una sesión extraordinaria donde la CIDH informará sobre el “deterioro de la situación de los derechos humanos” tras las elecciones del 28 de julio en Venezuela.\nThe post La CIDH presentará un informe sobre “deter…",
-        "url": "https://cnnespanol.cnn.com/2024/08/27/cidh-informe-deterioro-derechos-humanos-venezuela-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2166422510-e1724795088110.jpg?quality=100&strip=info",
-        "publishedAt": "2024-08-27T21:45:24Z",
-        "content": "¿Puede la presión internacional cambiar panorama en Venezuela? 3:11\r\n(CNN Español) El Consejo Permanente de la Organización de los Estados Americanos (OEA) llevará a cabo este miércoles una sesión ex… [+2655 chars]"
     },
     {
         "source": {
@@ -1298,5 +1259,44 @@
         "urlToImage": "https://static.eldiario.es/clip/545af192-6da4-4a0c-bf83-0592a55fe351_facebook-watermarked-aspect-ratio_default_0.jpg",
         "publishedAt": "2024-09-09T15:30:27Z",
         "content": "Edmundo González Urrutia ha hablado por primera vez desde que llegó este domingo a Madrid. Lo ha hecho a través de un comunicado publicado en las redes sociales este lunes en la que intenta explicar … [+3968 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Eldiario.es"
+        },
+        "author": "Natalia G. Vargas",
+        "title": "El Hierro vuelve a protagonizar las llegadas de cayucos a Canarias con más de mil personas rescatadas en cinco días",
+        "description": "Cruz Roja prepara camas de campaña en un polideportivo para las próximas llegadas y un equipo de atención primaria se desplazará a la isla para ofrecer atención médica a los supervivientes \r\nSánchez apuesta por abrir en Mauritania, Gambia y Senegal cauces de …",
+        "url": "https://www.eldiario.es/canariasahora/migraciones/hierro-vuelve-protagonizar-llegadas-cayucos-canarias-mil-personas-rescatadas-cinco-dias_1_11619517.html",
+        "urlToImage": "https://static.eldiario.es/clip/f0ab70d8-858a-4397-bdfa-eec542b31617_facebook-watermarked-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-08-30T17:29:30Z",
+        "content": "El Hierro sigue siendo el principal destino de los cayucos que toman la ruta canaria. Desde el lunes hasta este viernes han alcanzado la isla menos poblada de Canarias un total de siete embarcaciones… [+4058 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Valeria Ordóñez Ghio",
+        "title": "Las 5 cosas que debes saber este 3 de septiembre: La Fiscalía de Venezuela obtiene orden de arresto contra Edmundo González",
+        "description": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se retira de la selección uruguaya. Hallan muerta a una supues…",
+        "url": "https://cnnespanol.cnn.com/2024/09/03/5-cosas-3-septiembre-venezuela-edmundo-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2153695130_9da113.webp?w=1024",
+        "publishedAt": "2024-09-03T09:57:36Z",
+        "content": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se… [+5430 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Cnnchile.com"
+        },
+        "author": "CNN Chile",
+        "title": "Exclusivo CNN: Estados Unidos incauta avión del presidente venezolano Nicolás Maduro en República Dominicana",
+        "description": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la administración norteamericana continúa investigando lo que cons…",
+        "url": "https://www.cnnchile.com/pais/estados-unidos-incauta-avion-presidente-venezuela-nicolas-maduro-en-republica-dominicana_20240902/",
+        "urlToImage": "https://media.cnnchile.com/sites/2/2024/09/gettyimages-462412784.png",
+        "publishedAt": "2024-09-02T12:08:45Z",
+        "content": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la adm… [+5783 chars]"
     }
 ]
