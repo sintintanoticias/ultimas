@@ -886,6 +886,19 @@
     {
         "source": {
             "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "'Vinoinfluencers World Awards', una oportunidad para «darse a conocer»",
+        "description": "La vicepresidenta de la Junta, Isabel Blanco, aseguró ayer que la primera edición del 'Vinoinfluencers World Awards', que acogió Valladolid , busca «dar a conocer» a nivel internacional lo que es Castilla y León, es decir, lo «que representa la comunidad autó…",
+        "url": "https://www.abc.es/espana/castilla-leon/vinoinfluencers-world-awards-oportunidad-darse-conocer-20240929085302-nt.html",
+        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/09/29/vino-buena-U48532342584JQa-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-29T06:53:02Z",
+        "content": "La vicepresidenta de la Junta, Isabel Blanco, aseguró ayer que la primera edición del 'Vinoinfluencers World Awards', que acogió Valladolid, busca «dar a conocer» a nivel internacional lo que es Cast… [+2795 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Meneame.net"
         },
         "author": "snowdenknows",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://static.eldiario.es/clip/f0ab70d8-858a-4397-bdfa-eec542b31617_facebook-watermarked-aspect-ratio_default_0.jpg",
         "publishedAt": "2024-08-30T17:29:30Z",
         "content": "El Hierro sigue siendo el principal destino de los cayucos que toman la ruta canaria. Desde el lunes hasta este viernes han alcanzado la isla menos poblada de Canarias un total de siete embarcaciones… [+4058 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Las 5 cosas que debes saber este 3 de septiembre: La Fiscalía de Venezuela obtiene orden de arresto contra Edmundo González",
-        "description": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se retira de la selección uruguaya. Hallan muerta a una supues…",
-        "url": "https://cnnespanol.cnn.com/2024/09/03/5-cosas-3-septiembre-venezuela-edmundo-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2153695130_9da113.webp?w=1024",
-        "publishedAt": "2024-09-03T09:57:36Z",
-        "content": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se… [+5430 chars]"
     }
 ]
