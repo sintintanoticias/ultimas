@@ -213,12 +213,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
-        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
-        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
-        "publishedAt": "2024-09-12T20:27:54Z",
-        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
+        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
+        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
+        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
+        "publishedAt": "2024-09-19T16:32:28Z",
+        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
     },
     {
         "source": {
@@ -226,12 +226,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
-        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
-        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
-        "publishedAt": "2024-09-19T16:32:28Z",
-        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
+        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
+        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
+        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
+        "publishedAt": "2024-09-12T20:27:54Z",
+        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
     },
     {
         "source": {
@@ -924,6 +924,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Hola"
+        },
+        "author": "Adriana Casado",
+        "title": "Sandra Barneda, inmersa en la grabación de la 8ª temporada de La Isla de las Tentaciones, descubre secretos del rodaje",
+        "description": "La periodista ha compartido partes de su día a día en República Dominicana",
+        "url": "https://www.hola.com/actualidad/20240930721370/sandra-barneda-secretos-octava-temporada-isla-de-las-tentaciones/",
+        "urlToImage": "https://www.hola.com/horizon/landscape/6fa6b3de0848-foto-5-ig-sandrabarneda.jpg?im=Resize=(1200)",
+        "publishedAt": "2024-09-30T18:10:15Z",
+        "content": "¡Sandra Barneda ya se encuentra en República Dominicana! La presentadora y su equipo están grabando actualmente la octava temporada del famoso reality La Isla de las Tentaciones, y la que ha sido la … [+554 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1223,6 +1236,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Los detalles de la toma de posesión de Claudia Sheinbaum como presidenta de México",
+        "description": "La ceremonia se llevará a cabo en el Palacio Legislativo.",
+        "url": "https://actualidad.rt.com/actualidad/524819-toma-posesion-claudia-sheinbaum-presidenta-mexico",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66fa9d38e9ff713abe106f27.jpg",
+        "publishedAt": "2024-09-30T17:31:49Z",
+        "content": "Claudia Sheinbaum tomará posesión como presidenta de México este martes, en una ceremonia que se llevará a cabo en el Palacio Legislativo y en la que participará el mandatario saliente, Andrés Manuel… [+2687 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Hosteltur.com"
         },
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/31/2024073115022540252.jpg",
         "publishedAt": "2024-09-24T22:00:00Z",
         "content": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año.\r\nQueda menos de una semana para que el Consejo de Indra se vuelva a reunir para debatir qué decisió… [+2349 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BeInCrypto"
-        },
-        "author": "Andrés Torres",
-        "title": "Bancos de República Dominicana discutirán sobre riesgos de lavado de dinero y scams con criptomonedas",
-        "description": "El Congreso Internacional de Prevención de Lavado de Activos y Financiamiento del Terrorismo (COPLAFT) reunirá en Santo Domingo a expertos internacionales para debatir los riesgos del lavado de dinero con criptomonedas. Organizado por la Asociación de Bancos …",
-        "url": "https://es.beincrypto.com/republica-dominicana-bancos-riesgos-lavado-dinero-criptomonedas-coplaft/",
-        "urlToImage": "https://es.beincrypto.com/wp-content/uploads/2023/01/Republica_Dominicana-Cripto-1.png.webp",
-        "publishedAt": "2024-09-13T17:51:46Z",
-        "content": "El creciente uso de criptomonedas y nuevas tecnologías en Latinoamérica ha generado preocupación entre expertos y reguladores de República Dominicana y el resto de la región por su potencial para fac… [+2817 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Eldiario.es"
-        },
-        "author": "elDiario.es",
-        "title": "Edmundo González agradece al Gobierno español salir de Venezuela: \"Lo he hecho para que construyamos una etapa nueva\"",
-        "description": "El líder opositor venezolano pidió asilo al Gobierno español y aterrizó en Madrid este domingo. \"Mi compromiso no se basa en una ambición personal, está decisión es un gesto que tiende la mano a todos y espero que como tal sea correspondido\", afirma en un com…",
-        "url": "https://www.eldiario.es/internacional/edmundo-gonzalez-agradece-gobierno-espanol-salir-venezuela-he-hecho-construyamos-etapa-nueva_1_11639894.html",
-        "urlToImage": "https://static.eldiario.es/clip/545af192-6da4-4a0c-bf83-0592a55fe351_facebook-watermarked-aspect-ratio_default_0.jpg",
-        "publishedAt": "2024-09-09T15:30:27Z",
-        "content": "Edmundo González Urrutia ha hablado por primera vez desde que llegó este domingo a Madrid. Lo ha hecho a través de un comunicado publicado en las redes sociales este lunes en la que intenta explicar … [+3968 chars]"
     }
 ]
