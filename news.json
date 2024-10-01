@@ -1120,6 +1120,19 @@
     {
         "source": {
             "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Begoña Villarrubia Renom",
+        "title": "Impulso para la selección femenina con Irene del Río y Sonia Bermúdez",
+        "description": "Nuevo impulso a la selección femenina de fútbol. La Real Federación Española de Fútbol (RFEF) anunció este lunes cambios en el departamento para impulsar “un nuevo proyecto deportivo” y “seguir creciendo”, entre los que destacan una nueva entrenadora asistent…",
+        "url": "https://www.mundodeportivo.com/futbol/20240930/1002325223/rfef-cambios-cuerpo-tecnico-tome-categorias-inferiores.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/09/02/66d60b295c516.r_d.764-374-0.jpeg",
+        "publishedAt": "2024-09-30T16:26:57Z",
+        "content": "Nuevo impulso a la selección femenina de fútbol. La Real Federación Española de Fútbol (RFEF) anunció este lunes cambios en el departamento para impulsar un nuevo proyecto deportivo y seguir creciend… [+2094 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Www.abc.es"
         },
         "author": "(abc)",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://static.eldiario.es/clip/545af192-6da4-4a0c-bf83-0592a55fe351_facebook-watermarked-aspect-ratio_default_0.jpg",
         "publishedAt": "2024-09-09T15:30:27Z",
         "content": "Edmundo González Urrutia ha hablado por primera vez desde que llegó este domingo a Madrid. Lo ha hecho a través de un comunicado publicado en las redes sociales este lunes en la que intenta explicar … [+3968 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Las 5 cosas que debes saber este 3 de septiembre: La Fiscalía de Venezuela obtiene orden de arresto contra Edmundo González",
-        "description": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se retira de la selección uruguaya. Hallan muerta a una supues…",
-        "url": "https://cnnespanol.cnn.com/2024/09/03/5-cosas-3-septiembre-venezuela-edmundo-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2153695130_9da113.webp?w=1024",
-        "publishedAt": "2024-09-03T09:57:36Z",
-        "content": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se… [+5430 chars]"
     }
 ]
