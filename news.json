@@ -27,19 +27,6 @@
     },
     {
         "source": {
-            "id": "el-mundo",
-            "name": "El Mundo"
-        },
-        "author": "Israel Zaballa",
-        "title": "El 'arca de Noé de los corales' está en un hotel cinco estrellas del Caribe: \"Una ciencia muy necesaria en un lugar muy inesperado\"",
-        "description": "Hace unos cinco años, tuvo lugar una carrera a vida o muerte para salvar los arrecifes de coral de la República Dominicana. Desprovistos de aletas o extremidades, los corales no...",
-        "url": "https://www.elmundo.es/papel/historias/2024/08/30/66d19c5ffdddff6e768b457e.html",
-        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/585d3537dca7b1421e7a64b1e6efe874/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/30/17250387970820.jpg",
-        "publishedAt": "2024-08-30T20:56:09Z",
-        "content": "Hace unos cinco años, tuvo lugar una carrera a vida o muerte para salvar los arrecifes de coral de la República Dominicana. Desprovistos de aletas o extremidades, los corales no pueden huir del pelig… [+376 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -1288,15 +1275,28 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Eldiario.es"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": "Natalia G. Vargas",
-        "title": "El Hierro vuelve a protagonizar las llegadas de cayucos a Canarias con más de mil personas rescatadas en cinco días",
-        "description": "Cruz Roja prepara camas de campaña en un polideportivo para las próximas llegadas y un equipo de atención primaria se desplazará a la isla para ofrecer atención médica a los supervivientes \r\nSánchez apuesta por abrir en Mauritania, Gambia y Senegal cauces de …",
-        "url": "https://www.eldiario.es/canariasahora/migraciones/hierro-vuelve-protagonizar-llegadas-cayucos-canarias-mil-personas-rescatadas-cinco-dias_1_11619517.html",
-        "urlToImage": "https://static.eldiario.es/clip/f0ab70d8-858a-4397-bdfa-eec542b31617_facebook-watermarked-aspect-ratio_default_0.jpg",
-        "publishedAt": "2024-08-30T17:29:30Z",
-        "content": "El Hierro sigue siendo el principal destino de los cayucos que toman la ruta canaria. Desde el lunes hasta este viernes han alcanzado la isla menos poblada de Canarias un total de siete embarcaciones… [+4058 chars]"
+        "author": "Valeria Ordóñez Ghio",
+        "title": "Las 5 cosas que debes saber este 3 de septiembre: La Fiscalía de Venezuela obtiene orden de arresto contra Edmundo González",
+        "description": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se retira de la selección uruguaya. Hallan muerta a una supues…",
+        "url": "https://cnnespanol.cnn.com/2024/09/03/5-cosas-3-septiembre-venezuela-edmundo-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2153695130_9da113.webp?w=1024",
+        "publishedAt": "2024-09-03T09:57:36Z",
+        "content": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se… [+5430 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Cnnchile.com"
+        },
+        "author": "CNN Chile",
+        "title": "Exclusivo CNN: Estados Unidos incauta avión del presidente venezolano Nicolás Maduro en República Dominicana",
+        "description": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la administración norteamericana continúa investigando lo que cons…",
+        "url": "https://www.cnnchile.com/pais/estados-unidos-incauta-avion-presidente-venezuela-nicolas-maduro-en-republica-dominicana_20240902/",
+        "urlToImage": "https://media.cnnchile.com/sites/2/2024/09/gettyimages-462412784.png",
+        "publishedAt": "2024-09-02T12:08:45Z",
+        "content": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la adm… [+5783 chars]"
     }
 ]
