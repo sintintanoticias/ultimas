@@ -716,6 +716,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Forbes.com.mx"
+        },
+        "author": "Diego Aguilar",
+        "title": "Fernández Noroña se reúne con representantes de Reino Unido, Venezuela, República Dominicana y Azerbaiyán",
+        "description": "Forbes México.\n Fernández Noroña se reúne con representantes de Reino Unido, Venezuela, República Dominicana y Azerbaiyán\n\nUn legislador del Parlamento de K señaló que con AMLO México registra un tiempo de cambio y esperanza. \nFernández Noroña se reúne con re…",
+        "url": "https://www.forbes.com.mx/fernandez-norona-se-reune-con-representantes-de-reino-unido-venezuela-republica-dominicana-y-azerbaiyan/",
+        "urlToImage": "https://cdn.forbes.com.mx/2024/09/Diseno-sin-titulo-_1_.webp",
+        "publishedAt": "2024-09-30T14:09:57Z",
+        "content": "Previo a la toma de posesión de la presidenta electa, Claudia Sheinbaum Pardo, el presidente del Senado, Gerardo Fernández Noroña, sostuvo una serie de encuentros con representantes diplomáticos y le… [+3319 chars]"
+    },
+    {
+        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2153695130_9da113.webp?w=1024",
         "publishedAt": "2024-09-03T09:57:36Z",
         "content": "EE.UU. incauta el avión utilizado por el presidente de Venezuela, Nicolás Maduro. La ultraderecha gana elecciones estatales en Alemania por primera vez desde la época nazi. Luis Suárez anuncia que se… [+5430 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Cnnchile.com"
-        },
-        "author": "CNN Chile",
-        "title": "Exclusivo CNN: Estados Unidos incauta avión del presidente venezolano Nicolás Maduro en República Dominicana",
-        "description": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la administración norteamericana continúa investigando lo que cons…",
-        "url": "https://www.cnnchile.com/pais/estados-unidos-incauta-avion-presidente-venezuela-nicolas-maduro-en-republica-dominicana_20240902/",
-        "urlToImage": "https://media.cnnchile.com/sites/2/2024/09/gettyimages-462412784.png",
-        "publishedAt": "2024-09-02T12:08:45Z",
-        "content": "La acción corresponde al último acontecimiento en lo que desde hace tiempo ha sido una relación fría entre Estados Unidos y Venezuela. La incautación de la nave marca una escalada a medida que la adm… [+5783 chars]"
     }
 ]
