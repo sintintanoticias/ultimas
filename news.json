@@ -213,12 +213,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
-        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
-        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
-        "publishedAt": "2024-09-12T20:27:54Z",
-        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
+        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
+        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
+        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
+        "publishedAt": "2024-09-19T16:32:28Z",
+        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
     },
     {
         "source": {
@@ -226,12 +226,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
-        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
-        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
-        "publishedAt": "2024-09-19T16:32:28Z",
-        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
+        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
+        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
+        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
+        "publishedAt": "2024-09-12T20:27:54Z",
+        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
     },
     {
         "source": {
@@ -1003,19 +1003,6 @@
     {
         "source": {
             "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost",
-        "title": "Maduro ordena al Ejército de Venezuela reforzar planes contra el \"terrorismo\" de EEUU y España",
-        "description": "<![CDATA[<p>El presidente de Venezuela, Nicolás Maduro, ha ordenado este jueves a las Fuerzas Armadas del país reforzar los planes antiterroristas para contrarrestar operaciones que supuestamente se están llevando a cabo en contra de su Gobierno desde otros p…",
-        "url": "https://www.huffingtonpost.es/politica/maduro-ordena-ejercito-venezuela-reforzar-planes-terrorismo-eeuu-espanabr.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/15/nicolas-maduro-4192.jpeg",
-        "publishedAt": "2024-09-27T09:33:03Z",
-        "content": "El presidente de Venezuela, Nicolás Maduro, ha ordenado este jueves a las Fuerzas Armadas del país reforzar los planes antiterroristas para contrarrestar operaciones que supuestamente se están llevan… [+3923 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Muyinteresante.com"
         },
         "author": "José Luis Hernández Garvi Escritor y divulgador histórico",
@@ -1025,6 +1012,19 @@
         "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/09/20/66ed32f1c0e0e.png",
         "publishedAt": "2024-09-20T10:00:00Z",
         "content": "Mucho antes de que la Teología de la Liberación ocupase titulares de prensa y generase encendidas polémicas entre los poderes establecidos, tanto eclesiásticos como civiles, sus principios básicos fu… [+15794 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost",
+        "title": "Maduro ordena al Ejército de Venezuela reforzar planes contra el \"terrorismo\" de EEUU y España",
+        "description": "<![CDATA[<p>El presidente de Venezuela, Nicolás Maduro, ha ordenado este jueves a las Fuerzas Armadas del país reforzar los planes antiterroristas para contrarrestar operaciones que supuestamente se están llevando a cabo en contra de su Gobierno desde otros p…",
+        "url": "https://www.huffingtonpost.es/politica/maduro-ordena-ejercito-venezuela-reforzar-planes-terrorismo-eeuu-espanabr.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/15/nicolas-maduro-4192.jpeg",
+        "publishedAt": "2024-09-27T09:33:03Z",
+        "content": "El presidente de Venezuela, Nicolás Maduro, ha ordenado este jueves a las Fuerzas Armadas del país reforzar los planes antiterroristas para contrarrestar operaciones que supuestamente se están llevan… [+3923 chars]"
     },
     {
         "source": {
