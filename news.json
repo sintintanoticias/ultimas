@@ -444,6 +444,19 @@
     {
         "source": {
             "id": null,
+            "name": "20minutos.es"
+        },
+        "author": "20minutos",
+        "title": "Sheinbaum asume hoy la presidencia de México: sin el rey Felipe y con políticos españoles 'rebeldes'",
+        "description": "La toma de posesión de Claudia Sheinbaum Pardo como presidenta de México tendrá lugar este 1 de octubre del 2024. Es un acto importante, de enorme poder...",
+        "url": "https://www.20minutos.es/noticia/5638727/0/como-va-a-ser-la-toma-de-posesion-de-sheinbaum-la-primer-mujer-presidenta-de-mexico/",
+        "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/06/04/claudia-sheinbaum.jpeg",
+        "publishedAt": "2024-10-01T03:15:22Z",
+        "content": "La toma de posesión de Claudia Sheinbaum como presidenta de México tiene lugar este martes. Es un acto importante, de enorme poder simbólico: es la primera mujer que alcanza la presidencia del país. … [+7044 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "José Luis Artús Tejero",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://meneame.net/img/logo_meneame.png",
         "publishedAt": "2024-09-28T08:58:55Z",
         "content": "Siempre puede recurrir al método nacho cano \r\nSoy inocente, la seño (justicia, el gobierno, la Jenny) me tienen manía y arreglao"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "Carlos Cuesta",
-        "title": "La UCO sitúa a Aldama, contacto de Begoña Gómez, en la cúpula de la organización criminal",
-        "description": "El órgano de la Guardia Civil desvela el papel clave de Aldama en la trama Koldo-PSOE",
-        "url": "https://www.libertaddigital.com/espana/2024-09-23/la-uco-situa-a-aldama-contacto-de-begona-gomez-en-la-cupula-de-la-organizacion-criminal-7165566/",
-        "urlToImage": "https://s.libertaddigital.com/2024/08/01/1200/627/ld/europapress-5972796-presidente-zamaro-cf-victor-aldama-comparece-comision-no-permanente.jpg",
-        "publishedAt": "2024-09-23T04:34:37Z",
-        "content": "La UCO sigue con su trabajo de investigación de la trama Koldo-PSOE. Y todos los datos volcados los móviles confirman un hecho: que Víctor de Aldama, el contacto de Begoña Gómez con Globalia durante … [+3117 chars]"
     }
 ]
