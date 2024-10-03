@@ -95,19 +95,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Belén Liotti",
-        "title": "Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y llama “ladrón” al presidente Abinader",
-        "description": "Nicolás Maduro dijo que la reciente incautación de un avión a su servicio, realizada en República Dominicana a petición del Gobierno de Estados Unidos, fue un “robo”.\nThe post Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y …",
-        "url": "https://cnnespanol.cnn.com/2024/09/10/maduro-incautacion-avion-robo-ladron-abinader-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-462412784-20240902183940580_3df3ba.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-11T02:20:56Z",
-        "content": "Oficialismo califica de piratería incautación de avión de Maduro 4:05\r\n(CNN Español) El presidente de Venezuela, Nicolás Maduro, dijo este martes que la reciente incautación de un avión a su servicio… [+2751 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Valeria Ordóñez Ghio",
         "title": "Autoridades de República Dominicana despliegan operación contra el tráfico de drogas",
         "description": "El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas por presunto narcotráfico y se decomisaron más de 2.000 kilogramos de cocaína…",
@@ -115,6 +102,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-19T02:49:22Z",
         "content": "(CNN Español)  El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas po… [+1015 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Belén Liotti",
+        "title": "Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y llama “ladrón” al presidente Abinader",
+        "description": "Nicolás Maduro dijo que la reciente incautación de un avión a su servicio, realizada en República Dominicana a petición del Gobierno de Estados Unidos, fue un “robo”.\nThe post Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y …",
+        "url": "https://cnnespanol.cnn.com/2024/09/10/maduro-incautacion-avion-robo-ladron-abinader-orix/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-462412784-20240902183940580_3df3ba.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-11T02:20:56Z",
+        "content": "Oficialismo califica de piratería incautación de avión de Maduro 4:05\r\n(CNN Español) El presidente de Venezuela, Nicolás Maduro, dijo este martes que la reciente incautación de un avión a su servicio… [+2751 chars]"
     },
     {
         "source": {
@@ -226,12 +226,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
-        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
-        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
-        "publishedAt": "2024-09-19T16:32:28Z",
-        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
+        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
+        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
+        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
+        "publishedAt": "2024-09-12T20:27:54Z",
+        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
     },
     {
         "source": {
@@ -239,12 +239,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
-        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
-        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
-        "publishedAt": "2024-09-12T20:27:54Z",
-        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
+        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
+        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
+        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
+        "publishedAt": "2024-09-19T16:32:28Z",
+        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
     },
     {
         "source": {
@@ -470,19 +470,6 @@
     {
         "source": {
             "id": null,
-            "name": "Formulatv.com"
-        },
-        "author": "Fernando S. Palenzuela",
-        "title": "'La isla de las tentaciones' arranca las grabaciones de la octava edición",
-        "description": "EL VIAJE DE SANDRA BARNEDA Sandra Barneda ha mostrado en redes sociales cómo ha sido su viaje hasta llegar a la localización de República Dominicana en la que graban.'La isla de las tentaciones' arranca las grabaciones de la octava edición",
-        "url": "https://www.formulatv.com/noticias/la-isla-de-las-tentaciones-grabaciones-octava-129975/",
-        "urlToImage": "https://www.formulatv.com/images/articulos/129000/129975_CzLvN5oqmY7Ws9x8tecFPig4BkU0Ja3HE-hog.jpg",
-        "publishedAt": "2024-09-10T16:07:13Z",
-        "content": "Después del cierre de 'Así es la vida' a finales de julio y un agosto de ausencia en televisión, Sandra Barneda ya se ha puesto en marcha para comenzar con su siguiente proyecto. 'La isla de las tent… [+1905 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "José Luis Artús Tejero",
@@ -505,6 +492,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/27/66f6ad8a347ab.jpeg",
         "publishedAt": "2024-09-27T13:05:19Z",
         "content": "La selección española femenina sub'17 se ha impuesto a su homóloga de, por 2-1, gracias a los tantos de Clara Serrajordi y Alba Cerrato, ambos en la primera mitad, pensando en el Mundial de República… [+984 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Formulatv.com"
+        },
+        "author": "Fernando S. Palenzuela",
+        "title": "'La isla de las tentaciones' arranca las grabaciones de la octava edición",
+        "description": "EL VIAJE DE SANDRA BARNEDA Sandra Barneda ha mostrado en redes sociales cómo ha sido su viaje hasta llegar a la localización de República Dominicana en la que graban.'La isla de las tentaciones' arranca las grabaciones de la octava edición",
+        "url": "https://www.formulatv.com/noticias/la-isla-de-las-tentaciones-grabaciones-octava-129975/",
+        "urlToImage": "https://www.formulatv.com/images/articulos/129000/129975_CzLvN5oqmY7Ws9x8tecFPig4BkU0Ja3HE-hog.jpg",
+        "publishedAt": "2024-09-10T16:07:13Z",
+        "content": "Después del cierre de 'Así es la vida' a finales de julio y un agosto de ausencia en televisión, Sandra Barneda ya se ha puesto en marcha para comenzar con su siguiente proyecto. 'La isla de las tent… [+1905 chars]"
     },
     {
         "source": {
@@ -1005,19 +1005,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
-        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
-        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T14:41:22Z",
-        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
         "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
@@ -1025,6 +1012,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-26T17:28:45Z",
         "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
+        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
+        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T14:41:22Z",
+        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
     },
     {
         "source": {
