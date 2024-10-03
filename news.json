@@ -27,6 +27,19 @@
     },
     {
         "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "marca.com",
+        "title": "Alvise habría promocionado la creación de villas de lujo de 'CryptoSpain' en República Dominicana",
+        "description": "Alvise Pérez se enfrenta a su primera gran polémica tras haber reconocido que cobró 100 mil euros de un particular. Ahora se sabe que ayudó en el Hipódromo de la Zarzuela en lo que",
+        "url": "https://www.marca.com/tiramillas/actualidad/2024/10/02/66fd504ce2704ed7718b45c4.html",
+        "urlToImage": "https://phantom-marca.unidadeditorial.es/3920d8d9998d84af54cfc6bd0d6e6985/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/02/17278771787976.jpg",
+        "publishedAt": "2024-10-02T13:56:10Z",
+        "content": "Alvise Pérez se enfrenta a su primera gran polémica tras haber reconocido que cobró 100 mil euros de un particular. Ahora se sabe que ayudó en el Hipódromo de la Zarzuela en lo que fue la promoción d… [+1993 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -873,19 +886,6 @@
     {
         "source": {
             "id": null,
-            "name": "Elperiodico.com"
-        },
-        "author": "EFE",
-        "title": "EEUU confisca el avión oficial de Maduro por las sanciones contra Venezuela",
-        "description": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, según informó en exclusiva CNN.epública Dominicana el avión …",
-        "url": "https://www.elperiodico.com/es/internacional/20240902/estados-unidos-confisca-avion-maduro-107672514",
-        "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/234410d2-ff02-4be0-a666-550844a35dc0_16-9-discover-aspect-ratio_default_0.jpg",
-        "publishedAt": "2024-09-02T17:56:52Z",
-        "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela,Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, s… [+3196 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Aristeguinoticias.com"
         },
         "author": "Redacción AN/ SBH",
@@ -895,6 +895,19 @@
         "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/avion-nicolas-maduro-asegurado.jpg",
         "publishedAt": "2024-09-02T22:34:53Z",
         "content": "Estados Unidos incautó un avión utilizado por el presidente venezolano, Nicolás Maduro, y lo trasladó desde República Dominicana a Florida tras determinar que su compra violaba las sanciones de Washi… [+1886 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elperiodico.com"
+        },
+        "author": "EFE",
+        "title": "EEUU confisca el avión oficial de Maduro por las sanciones contra Venezuela",
+        "description": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela, Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, según informó en exclusiva CNN.epública Dominicana el avión …",
+        "url": "https://www.elperiodico.com/es/internacional/20240902/estados-unidos-confisca-avion-maduro-107672514",
+        "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/234410d2-ff02-4be0-a666-550844a35dc0_16-9-discover-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-09-02T17:56:52Z",
+        "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela,Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, s… [+3196 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/27/M_161918_jaime-batle-no-podemos-decir-que-el-turismo-nos-sobra.jpg",
         "publishedAt": "2024-09-28T22:00:01Z",
         "content": "Los primeros años en la hotelería\r\nEl camino de Jaime Batle dentro del sector se remonta a la década del 50. “En aquel tiempo Mallorca se dedicaba y vivía de la agricultura, no había hoteles, ni tran… [+5883 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "El Financiero"
-        },
-        "author": "Redacción",
-        "title": "¿Por qué detuvieron a Luisito Comunica en el Metro de República Dominicana?",
-        "description": "Luisito Comunica fue esposado y retirado del Metro de República Dominicana, tal como se muestra en diferentes videos de redes sociales.",
-        "url": "https://www.elfinanciero.com.mx/espectaculos/2024/09/11/por-que-detuvieron-a-luisito-comunica-en-el-metro-de-republica-dominicana/",
-        "urlToImage": "https://elfinanciero.com.mx/resizer/v2/TPVVSVU5KBH5HG4UUCDMJWQ544.jpg?smart=true&auth=264564172bfaa3b0066065909c8d2f75be12b66f1daddc0aad31670dcf907922&width=1200&height=630",
-        "publishedAt": "2024-09-11T18:43:06Z",
-        "content": "Luisito Comunica, el famoso youtuber mexicano, fue detenido por las autoridades de República Dominicana, luego de que violó las leyes al intentar grabar uno de sus blogs de viajes en el Metro de Sant… [+3079 chars]"
     }
 ]
