@@ -1094,6 +1094,19 @@
     {
         "source": {
             "id": null,
+            "name": "Muyinteresante.com"
+        },
+        "author": "Fernando Cohnen Periodista",
+        "title": "Así fueron los cuatros viajes de Colón a América",
+        "description": "La perseverancia de Cristóbal Colón le proporcionó la oportunidad que deseaba: surcar el Atlántico para llegar a las Indias. No alcanzó el destino imaginado, pero halló en el camino todo un continente por descubrir",
+        "url": "https://www.muyinteresante.com/historia/66240.html",
+        "urlToImage": "https://imagenes.muyinteresante.com/files/article_social_75/uploads/2024/10/02/66fd143c7c61e.png",
+        "publishedAt": "2024-10-02T13:00:00Z",
+        "content": "Fray Bartolomé de las Casas aseguró que Cristóbal Colón había recibido información de América de un marino desconocido que murió en sus brazos, una hipótesis que también defendió el historiador españ… [+14203 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Eldiario.es"
         },
         "author": "Redacción verTele",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://elfinanciero.com.mx/resizer/v2/TPVVSVU5KBH5HG4UUCDMJWQ544.jpg?smart=true&auth=264564172bfaa3b0066065909c8d2f75be12b66f1daddc0aad31670dcf907922&width=1200&height=630",
         "publishedAt": "2024-09-11T18:43:06Z",
         "content": "Luisito Comunica, el famoso youtuber mexicano, fue detenido por las autoridades de República Dominicana, luego de que violó las leyes al intentar grabar uno de sus blogs de viajes en el Metro de Sant… [+3079 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "El Financiero"
-        },
-        "author": "Redacción",
-        "title": "‘Ahora sí viene lo chido’: Luisito Comunica revela detalles de su detención en República Dominicana",
-        "description": "Luisito Comunica compartió que los policías de República Dominicana lo tomaron de la camisa, esposaron a sus amigos y les aseguraron que los llevarían presos.",
-        "url": "https://www.elfinanciero.com.mx/espectaculos/2024/09/24/luisito-comunica-revela-detalles-de-su-detencion-en-republica-dominicana-que-dijo/",
-        "urlToImage": "https://elfinanciero.com.mx/resizer/v2/53ZTBJSQ2BHKPJTVP3SNEGHV5Y.jpg?smart=true&auth=286cf4e164323b846dfc2c9e51d80d0e56d3db02cfaafa989d96ca7dd8d11d51&width=1200&height=630",
-        "publishedAt": "2024-09-24T20:11:55Z",
-        "content": "Luisito Comunica subió un video en donde compartió todos los detalles de la detención que vivió en el Metro de Santo Domingo, ubicado en la capital de República Dominicana, hace dos semanas.\r\nHasta e… [+4925 chars]"
     }
 ]
