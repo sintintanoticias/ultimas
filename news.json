@@ -794,19 +794,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "LD / Agencias",
-        "title": "EEUU confisca el avión de Nicolás Maduro en la República Dominicana",
-        "description": "El avión, cuyo costo se estima en alrededor de 13 millones de dólares, había estado en la República Dominicana en los últimos meses.",
-        "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-09-02/eeuu-confisca-el-avion-de-nicolas-maduro-en-la-republica-dominicana-7160067/",
-        "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
-        "publishedAt": "2024-09-02T17:00:23Z",
-        "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -830,6 +817,19 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fc0b2459bf5b7eb81f10c7.png",
         "publishedAt": "2024-10-01T15:47:35Z",
         "content": "El presidente de Colombia, Gustavo Petro, compartió en sus redes una imagen junto a sus pares de Brasil, Luiz Inacio Lula da Silva; de Chile, Gabriel Boric; y de Honduras, Xiomara Castro.\r\n\"Un grupo … [+1148 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "LD / Agencias",
+        "title": "EEUU confisca el avión de Nicolás Maduro en la República Dominicana",
+        "description": "El avión, cuyo costo se estima en alrededor de 13 millones de dólares, había estado en la República Dominicana en los últimos meses.",
+        "url": "https://www.libertaddigital.com/internacional/latinoamerica/2024-09-02/eeuu-confisca-el-avion-de-nicolas-maduro-en-la-republica-dominicana-7160067/",
+        "urlToImage": "https://s.libertaddigital.com/2024/02/05/1200/627/593x509/ld/nicolas-maduro-venezuela.jpg",
+        "publishedAt": "2024-09-02T17:00:23Z",
+        "content": "Estados Unidos ha confiscado este lunes el avión del dictador venezolano, Nicolás Maduro, que se encontraba en la República Dominicana, y ha sido trasladado hasta un aeropuerto en Florida, en lo que … [+3154 chars]"
     },
     {
         "source": {
@@ -1145,6 +1145,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Jornada.com.mx"
+        },
+        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+        "title": "Recibe a 14 mandatarios y dignatarios extranjeros",
+        "description": "El presidente Estados Unidos, Joe Biden, celebró ayer que México tenga su primera Presidenta. En una declaración difundida por la Casa Blanca, envió su felicitación a Claudia Sheinbaum y expresó que su país “está comprometido a continuar trabajando con México…",
+        "url": "https://www.jornada.com.mx/2024/10/02/politica/009n2pol",
+        "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+        "publishedAt": "2024-10-02T08:45:58Z",
+        "content": "Periódico La JornadaMiércoles 2 de octubre de 2024, p. 9\r\nEl presidente Estados Unidos, Joe Biden, celebró ayer que México tenga su primera Presidenta. En una declaración difundida por la Casa Blanca… [+1812 chars]"
+    },
+    {
+        "source": {
             "id": "la-nacion",
             "name": "La Nacion"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://elfinanciero.com.mx/resizer/v2/TPVVSVU5KBH5HG4UUCDMJWQ544.jpg?smart=true&auth=264564172bfaa3b0066065909c8d2f75be12b66f1daddc0aad31670dcf907922&width=1200&height=630",
         "publishedAt": "2024-09-11T18:43:06Z",
         "content": "Luisito Comunica, el famoso youtuber mexicano, fue detenido por las autoridades de República Dominicana, luego de que violó las leyes al intentar grabar uno de sus blogs de viajes en el Metro de Sant… [+3079 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "Carlos Cuesta",
-        "title": "La alianza entre el IE de Begoña Gómez y la OMT sumó al Gobierno dominicano",
-        "description": "La colaboración entre IE y OMT impulsó programas educativos globales, con 300 becas otorgadas por el Gobierno dominicano para estudios en turismo",
-        "url": "https://www.libertaddigital.com/espana/2024-09-27/la-alianza-entre-el-ie-de-begona-gomez-y-la-omt-sumo-al-gobierno-dominicano-7167598/",
-        "urlToImage": "https://s.libertaddigital.com/2024/07/10/1200/627/ld/889911-1-1.jpg",
-        "publishedAt": "2024-09-27T04:34:56Z",
-        "content": "La mujer del presidente Sánchez llegó a la dirección del Africa Center del IE en agosto de 2018, nada más ganar su marido la moción de censura con la que ascendió a La Moncloa. Y dejó el mismo centro… [+6442 chars]"
     }
 ]
