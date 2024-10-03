@@ -703,6 +703,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "CNNEspañol sjv",
+        "title": "OPINIÓN | Homenaje a los creadores hispanoamericanos de la moda",
+        "description": "Mari Rodríguez Ichaso reflexiona sobre el éxito de los creadores latinoamericanos e hispanoamericanos en la moda: el buen gusto natural que desarrollan al ir creciendo en un ambiente diferente, más vibrante, con más contrastes, más llenos de vida —dice— y con…",
+        "url": "https://cnnespanol.cnn.com/2024/10/01/opinion-homenaje-creadores-hispanoamericanos-moda-rodriguez-ichaso-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1760874-carolina-herrera-oscar-de-la-renta-agatha-ruiz-de-la-prada-getty.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-02T00:33:50Z",
+        "content": "Nota del editor: Mari Rodríguez Ichaso ha sido colaboradora de la revista Vanidades durante varias décadas. Especialista en moda, viajes, gastronomía, arte, arquitectura y entretenimiento. Productora… [+5495 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "BBC News"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s.libertaddigital.com/2024/07/10/1200/627/ld/889911-1-1.jpg",
         "publishedAt": "2024-09-27T04:34:56Z",
         "content": "La mujer del presidente Sánchez llegó a la dirección del Africa Center del IE en agosto de 2018, nada más ganar su marido la moción de censura con la que ascendió a La Moncloa. Y dejó el mismo centro… [+6442 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Los detalles de la toma de posesión de Claudia Sheinbaum como presidenta de México",
-        "description": "La ceremonia se llevará a cabo en el Palacio Legislativo.",
-        "url": "https://actualidad.rt.com/actualidad/524819-toma-posesion-claudia-sheinbaum-presidenta-mexico",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66fa9d38e9ff713abe106f27.jpg",
-        "publishedAt": "2024-09-30T17:31:49Z",
-        "content": "Claudia Sheinbaum tomará posesión como presidenta de México este martes, en una ceremonia que se llevará a cabo en el Palacio Legislativo y en la que participará el mandatario saliente, Andrés Manuel… [+2687 chars]"
     }
 ]
