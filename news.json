@@ -157,6 +157,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost",
+        "title": "Un arqueólogo asegura que \"hay más de 65 galeones españoles hundidos\" en República Dominicana",
+        "description": "<![CDATA[<p>La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, ha dirigido este lunes una ponencia en Madrid pa…",
+        "url": "https://www.huffingtonpost.es/sociedad/un-arqueologo-asegura-hay-mas-65-galeones-espanoles-hundidos-republica-dominicana.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/10/03/vista-de-un-buque-hundido-en-el-fondo-del-mar-caribe.jpeg",
+        "publishedAt": "2024-10-03T15:01:08Z",
+        "content": "La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, … [+4351 chars]"
+    },
+    {
+        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/01/M_214053_club-med-tiene-previsto-crecer-en-espana.jpg",
         "publishedAt": "2024-10-01T22:00:01Z",
         "content": "Con 70 resorts repartidos por los cinco continentes, Club Med tiene en cartera 30 nuevos proyectos, aunque de momento ninguno en España, donde ya opera el Magna Marbella desde hace dos años, que en e… [+2487 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Aristeguinoticias.com"
-        },
-        "author": "Redacción AN / MDS",
-        "title": "Lula da Silva llega a México para la toma de posesión de Sheinbaum",
-        "description": "El presidente brasileño se reunirá este lunes con Sheinbaum para tratar asuntos de la agenda bilateral y la crisis venezolana, anticiparon fuentes diplomáticas a la agencia EFE.",
-        "url": "https://aristeguinoticias.com/3009/mexico/lula-da-silva-llega-a-mexico-para-la-toma-de-posesion-de-sheinbaum/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/lula-da-silva-mexico-claudia-sheinbaum-efe-30092024.jpg",
-        "publishedAt": "2024-09-30T07:52:26Z",
-        "content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl presidente brasileño, Luiz Inácio Lula da Silva, llegó el domingo a la Ciudad de México para asistir a la toma de posesión de la presidenta elec… [+2664 chars]"
     }
 ]
