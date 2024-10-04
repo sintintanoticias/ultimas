@@ -95,19 +95,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Autoridades de República Dominicana despliegan operación contra el tráfico de drogas",
-        "description": "El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas por presunto narcotráfico y se decomisaron más de 2.000 kilogramos de cocaína…",
-        "url": "https://cnnespanol.cnn.com/2024/09/18/autoridades-republica-dominicana-operacion-trafico-de-drogas-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T02:49:22Z",
-        "content": "(CNN Español)  El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas po… [+1015 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Belén Liotti",
         "title": "Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y llama “ladrón” al presidente Abinader",
         "description": "Nicolás Maduro dijo que la reciente incautación de un avión a su servicio, realizada en República Dominicana a petición del Gobierno de Estados Unidos, fue un “robo”.\nThe post Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y …",
@@ -115,6 +102,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-462412784-20240902183940580_3df3ba.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-11T02:20:56Z",
         "content": "Oficialismo califica de piratería incautación de avión de Maduro 4:05\r\n(CNN Español) El presidente de Venezuela, Nicolás Maduro, dijo este martes que la reciente incautación de un avión a su servicio… [+2751 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Valeria Ordóñez Ghio",
+        "title": "Autoridades de República Dominicana despliegan operación contra el tráfico de drogas",
+        "description": "El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas por presunto narcotráfico y se decomisaron más de 2.000 kilogramos de cocaína…",
+        "url": "https://cnnespanol.cnn.com/2024/09/18/autoridades-republica-dominicana-operacion-trafico-de-drogas-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T02:49:22Z",
+        "content": "(CNN Español)  El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas po… [+1015 chars]"
     },
     {
         "source": {
@@ -252,12 +252,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
-        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
-        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
-        "publishedAt": "2024-09-12T20:27:54Z",
-        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
+        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
+        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
+        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
+        "publishedAt": "2024-09-19T16:32:28Z",
+        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
     },
     {
         "source": {
@@ -265,12 +265,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
-        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
-        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
-        "publishedAt": "2024-09-19T16:32:28Z",
-        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
+        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
+        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
+        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
+        "publishedAt": "2024-09-12T20:27:54Z",
+        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
     },
     {
         "source": {
@@ -925,19 +925,6 @@
     {
         "source": {
             "id": null,
-            "name": "Aristeguinoticias.com"
-        },
-        "author": "Redacción AN/ SBH",
-        "title": "Estados Unidos incauta avión de Nicolás Maduro",
-        "description": "El gobierno de Venezuela acusó que se trata de piratería.",
-        "url": "https://aristeguinoticias.com/0209/mundo/estados-unidos-incauta-avion-de-nicolas-maduro/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/avion-nicolas-maduro-asegurado.jpg",
-        "publishedAt": "2024-09-02T22:34:53Z",
-        "content": "Estados Unidos incautó un avión utilizado por el presidente venezolano, Nicolás Maduro, y lo trasladó desde República Dominicana a Florida tras determinar que su compra violaba las sanciones de Washi… [+1886 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Elperiodico.com"
         },
         "author": "EFE",
@@ -947,6 +934,19 @@
         "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/234410d2-ff02-4be0-a666-550844a35dc0_16-9-discover-aspect-ratio_default_0.jpg",
         "publishedAt": "2024-09-02T17:56:52Z",
         "content": "Estados Unidos confiscó este lunes en la República Dominicana el avión oficial del presidente de Venezuela,Nicolás Maduro, por las sanciones estadounidenses que pesan sobre el país latinoamericano, s… [+3196 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aristeguinoticias.com"
+        },
+        "author": "Redacción AN/ SBH",
+        "title": "Estados Unidos incauta avión de Nicolás Maduro",
+        "description": "El gobierno de Venezuela acusó que se trata de piratería.",
+        "url": "https://aristeguinoticias.com/0209/mundo/estados-unidos-incauta-avion-de-nicolas-maduro/",
+        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/avion-nicolas-maduro-asegurado.jpg",
+        "publishedAt": "2024-09-02T22:34:53Z",
+        "content": "Estados Unidos incautó un avión utilizado por el presidente venezolano, Nicolás Maduro, y lo trasladó desde República Dominicana a Florida tras determinar que su compra violaba las sanciones de Washi… [+1886 chars]"
     },
     {
         "source": {
@@ -1044,19 +1044,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Luis Ernesto Quintana Barney",
-        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
-        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
-        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-26T17:28:45Z",
-        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
         "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
@@ -1064,6 +1051,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-19T14:41:22Z",
         "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
+        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
+        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-26T17:28:45Z",
+        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
     },
     {
         "source": {
