@@ -95,19 +95,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Autoridades de República Dominicana despliegan operación contra el tráfico de drogas",
-        "description": "El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas por presunto narcotráfico y se decomisaron más de 2.000 kilogramos de cocaína…",
-        "url": "https://cnnespanol.cnn.com/2024/09/18/autoridades-republica-dominicana-operacion-trafico-de-drogas-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T02:49:22Z",
-        "content": "(CNN Español)  El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas po… [+1015 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Belén Liotti",
         "title": "Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y llama “ladrón” al presidente Abinader",
         "description": "Nicolás Maduro dijo que la reciente incautación de un avión a su servicio, realizada en República Dominicana a petición del Gobierno de Estados Unidos, fue un “robo”.\nThe post Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y …",
@@ -115,6 +102,19 @@
         "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-462412784-20240902183940580_3df3ba.jpg?quality=100&strip=info",
         "publishedAt": "2024-09-11T02:20:56Z",
         "content": "Oficialismo califica de piratería incautación de avión de Maduro 4:05\r\n(CNN Español) El presidente de Venezuela, Nicolás Maduro, dijo este martes que la reciente incautación de un avión a su servicio… [+2751 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Valeria Ordóñez Ghio",
+        "title": "Autoridades de República Dominicana despliegan operación contra el tráfico de drogas",
+        "description": "El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas por presunto narcotráfico y se decomisaron más de 2.000 kilogramos de cocaína…",
+        "url": "https://cnnespanol.cnn.com/2024/09/18/autoridades-republica-dominicana-operacion-trafico-de-drogas-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T02:49:22Z",
+        "content": "(CNN Español)  El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas po… [+1015 chars]"
     },
     {
         "source": {
@@ -252,12 +252,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
-        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
-        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
-        "publishedAt": "2024-09-12T20:27:54Z",
-        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
+        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
+        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
+        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
+        "publishedAt": "2024-09-19T16:32:28Z",
+        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
     },
     {
         "source": {
@@ -265,12 +265,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
-        "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
-        "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66ec296059bf5b4c6929e350.png",
-        "publishedAt": "2024-09-19T16:32:28Z",
-        "content": "El Gobierno de República Dominicana comunicó que en la madrugada de este miércoles sus dependencias estatales implementaron, con apoyo de agencias estadounidenses, un operativo denominado Búfalo NK, … [+1383 chars]"
+        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
+        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
+        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
+        "publishedAt": "2024-09-12T20:27:54Z",
+        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
     },
     {
         "source": {
@@ -492,6 +492,19 @@
         "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/06/04/claudia-sheinbaum.jpeg",
         "publishedAt": "2024-10-01T03:15:22Z",
         "content": "La toma de posesión de Claudia Sheinbaum como presidenta de México tiene lugar este martes. Es un acto importante, de enorme poder simbólico: es la primera mujer que alcanza la presidencia del país. … [+7044 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost",
+        "title": "Las playas más blancas del mundo son excrementos de un pez clave para el planeta",
+        "description": "<![CDATA[<p>El pez loro, también conocido como pez cotorra, es una especie esencial en los ecosistemas marinos tropicales, habitando principalmente en aguas poco profundas. Esta especie forma parte de una gran familia con más de 90 variedades, de las cuales 1…",
+        "url": "https://www.huffingtonpost.es/sociedad/las-playas-mas-blancas-mundo-son-excrementos-pez-clave-planeta.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/10/03/pez-loro-en-un-arrecife-del-caribe.jpeg",
+        "publishedAt": "2024-10-03T07:49:20Z",
+        "content": "El pez loro, también conocido como pez cotorra, es una especie esencial en los ecosistemas marinos tropicales, habitando principalmente en aguas poco profundas. Esta especie forma parte de una gran f… [+2746 chars]"
     },
     {
         "source": {
@@ -1031,19 +1044,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Luis Ernesto Quintana Barney",
-        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
-        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
-        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-26T17:28:45Z",
-        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
         "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
@@ -1051,6 +1051,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-19T14:41:22Z",
         "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
+        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
+        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-26T17:28:45Z",
+        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/09/02/66d60b295c516.r_d.764-374-0.jpeg",
         "publishedAt": "2024-09-30T16:26:57Z",
         "content": "Nuevo impulso a la selección femenina de fútbol. La Real Federación Española de Fútbol (RFEF) anunció este lunes cambios en el departamento para impulsar un nuevo proyecto deportivo y seguir creciend… [+2094 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Andrés Feliz, de esquivar la delincuencia y vivir con una viuda en El Prat a fichaje estrella del Madrid",
-        "description": "La temporada de baloncesto español comenzará con un tiroteo de categoría. Real Madrid y Barcelona se enfrentarán hoy ( 18.30 horas, Movistar Plus ) en la primera de las semifinales de la Supercopa de España celebrada en Murcia, un duelo histórico y de lo más …",
-        "url": "https://www.abc.es/deportes/baloncesto/andres-feliz-esquivar-delincuencia-vivir-viuda-prat-20240920174912-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/09/20/feliz_20240920173720-U77216221174XgE-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-21T02:24:11Z",
-        "content": "La temporada de baloncesto español comenzará con un tiroteo de categoría. Real Madrid y Barcelona se enfrentarán hoy (18.30 horas, Movistar Plus) en la primera de las semifinales de la Supercopa de E… [+4596 chars]"
     }
 ]
