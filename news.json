@@ -742,6 +742,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Eldiario.es"
+        },
+        "author": "Elena Herrera",
+        "title": "La Audiencia Nacional abre causa contra el club financiero que patrocinó Alvise por ser una “supuesta estafa piramidal”",
+        "description": "El juez José Luis Calama rechaza por el momento inhibirse en favor del Supremo para que investigue al eurodiputado como pidió una de las acusaciones \n\r\nAlvise Pérez cobró 100.000 euros en metálico de un empresario de criptomonedas durante la campaña\n\r\n\n El ju…",
+        "url": "https://www.eldiario.es/politica/audiencia-nacional-abre-causa-club-financiero-patrocino-alvise-perez-supuesta-estafa-piramidal_1_11706212.html",
+        "urlToImage": "https://static.eldiario.es/clip/8001af34-cf15-4a2c-8b2f-4620e28427fb_facebook-watermarked-aspect-ratio_default_0.jpg",
+        "publishedAt": "2024-10-04T08:56:33Z",
+        "content": "El juez de la Audiencia Nacional José Luis Calama ha admitido a trámite tres denuncias presentadas contra los responsables de Madeira Invest Club (MIC), la oficina de inversión apadrinada por el euro… [+3207 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1081,6 +1094,19 @@
     {
         "source": {
             "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost / EFE",
+        "title": "La Audiencia Nacional investigará el chiringuito financiero que entregó 100.000 euros a Alvise Pérez",
+        "description": "<![CDATA[<p>El juez de la Audiencia Nacional José Luis Calama ha admitido a trámite tres denuncias presentadas contra la plataforma de inversiones Madeira Invest, cuyo cabecilla, Álvaro Romillo, entregó 100.000 euros al eurodiputado Alvise Pérez, por una supu…",
+        "url": "https://www.huffingtonpost.es/politica/la-audiencia-nacional-investigara-chiringuito-financiero-entrego-100000-euros-alvise-perez.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/10/01/el-eurodiputado-alvise-perez.jpeg",
+        "publishedAt": "2024-10-04T09:08:55Z",
+        "content": "El juez de la Audiencia Nacional José Luis Calama ha admitido a trámite tres denuncias presentadas contra la plataforma de inversiones Madeira Invest, cuyo cabecilla, Álvaro Romillo, entregó 100.000 … [+3239 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "El Financiero"
         },
         "author": "Redacción",
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/lula-da-silva-mexico-claudia-sheinbaum-efe-30092024.jpg",
         "publishedAt": "2024-09-30T07:52:26Z",
         "content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl presidente brasileño, Luiz Inácio Lula da Silva, llegó el domingo a la Ciudad de México para asistir a la toma de posesión de la presidenta elec… [+2664 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Cineteca celebra la Hispanidad con grandes clásicos y proyectos olvidados",
-        "description": "Cineteca Madrid , espacio del Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid, acoge este mes de octubre una variada programación que, coincidiendo con la celebración de la Hispanidad, invitará a redescubrir el cine español y acercará la realida…",
-        "url": "https://www.abc.es/espana/madrid/cineteca-celebra-hispanidad-grandes-clasicos-proyectos-olvidados-20241001181412-nt.html",
-        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/10/01/1-Lamansion-U46427477526xLu-1024x512@diario_abc.jpeg",
-        "publishedAt": "2024-10-02T02:41:57Z",
-        "content": "Cineteca Madrid, espacio del Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid, acoge este mes de octubre una variada programación que, coincidiendo con la celebración de la Hispanidad, i… [+5467 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Francisco Javier Muñoz Rovira",
-        "title": "Ureña, goles y asistencias llegados de Girona como Pau Víctor",
-        "description": "Carlos Ureña tiene en Pau Víctor un buen espejo en el que mirarse. Como el actual delantero del primer equipo del Barça, el extremo hispano-dominicano, de 21 años también llegó desde el Girona al Barça Atlètic, donde su aportación inicial está siendo muy nota…",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20240922/1002320032/urena-goles-asistencias-llegados-girona-pau-victor.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/09/21/66ef3ab8d4440.r_d.703-365-0.jpeg",
-        "publishedAt": "2024-09-22T10:09:21Z",
-        "content": "Carlos Ureña tiene en Pau Víctor un buen espejo en el que mirarse. Como el actual delantero del primer equipo del Barça, el extremo hispano-dominicano, de 21 años también llegó desde el Girona al Bar… [+2509 chars]"
     }
 ]
