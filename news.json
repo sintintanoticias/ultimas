@@ -27,6 +27,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Valeria Ordóñez Ghio",
+        "title": "República Dominicana intensifica operativos contra indocumentados haitianos",
+        "description": "La Dirección de Migración en República Dominicana intensificó este viernes los operativos en las calles del Gran Santo Domingo, que incluye el Distrito Nacional y Santo Domingo, y otros puntos del país en busca de haitianos indocumentados para repatriarlos a …",
+        "url": "https://cnnespanol.cnn.com/2024/10/04/republica-dominicana-intensifica-operativos-indocumentados-haitianos-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762640-haitianos-republica-domincana.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-05T01:26:20Z",
+        "content": "(CNN Español)  La Dirección de Migración en República Dominicana intensificó este viernes los operativos en las calles del Gran Santo Domingo, que incluye el Distrito Nacional y Santo Domingo, y otro… [+1070 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Xataka.com"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/09/19/ep-barcelona-U65150354353mmG-1024x512@diario_abc.jpg",
         "publishedAt": "2024-09-20T02:09:35Z",
         "content": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos dat… [+3645 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Juan Magán: «María Pombo no sólo hace una aportación a la cultura, también a la humanidad»",
-        "description": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática durante unos años. Pero nadie le echó de allí, fue él quien se …",
-        "url": "https://www.abc.es/gente/juan-magan-maria-pombo-solo-aportacion-cultura-20240913130007-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/13/1-magan-U28466274050xLh-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-14T06:00:15Z",
-        "content": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática dur… [+3555 chars]"
     }
 ]
