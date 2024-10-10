@@ -795,6 +795,19 @@
     {
         "source": {
             "id": null,
+            "name": "Milenio"
+        },
+        "author": "Agencia EFE",
+        "title": "República Dominicana ordena deportación masiva de haitianos; acusan \"cacería humana\"",
+        "description": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en situación irregular hasta alcanzar las 10 mil semanales, anun…",
+        "url": "https://www.milenio.com/internacional/denuncian-caceria-humana-haitianos-republica-dominicana",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/08/haitianos-llegan-preguntar-familiares-detenidos.jpg",
+        "publishedAt": "2024-10-09T03:54:49Z",
+        "content": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en s… [+3257 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Hosteltur.com"
         },
         "author": "Hosteltur",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s.libertaddigital.com/2024/09/18/1200/627/ld/pedro-sanchez-180924.jpg",
         "publishedAt": "2024-09-25T13:00:00Z",
         "content": "La UCO sigue con su trabajo de investigación de la trama Koldo-PSOE. Y todos los datos volcados de los móviles confirman un hecho: que Víctor de Aldama, el contacto de Begoña Gómez con Globalia duran… [+1175 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Elconfidencialdigital.com"
-        },
-        "author": "Óscar Gutiérrez Martínez",
-        "title": "Cinco empresas presentan ofertas por la filial de operadores de pago de Indra",
-        "description": "Cinco empresas presentan ofertas por la filial de operadores de pago de Indra. \n \n\n Indra celebró una reunión extraordinaria del consejo de administración y se cumplieron los plazos previstos. Como adelantó Confidencial Digital la semana...",
-        "url": "https://www.elconfidencialdigital.com/articulo/dinero/empresas-presentan-ofertas-filial-operadores-pago-indra/20241001084422850641.html",
-        "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/06/27/2024062711423788862.jpg",
-        "publishedAt": "2024-10-01T06:44:22Z",
-        "content": "Cinco empresas presentan ofertas por la filial de operadores de pago de Indra.\r\nIndra celebró una reunión extraordinaria del consejo de administración y se cumplieron los plazos previstos. Como adela… [+2960 chars]"
     }
 ]
