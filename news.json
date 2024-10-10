@@ -118,6 +118,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "\"Se lo llevaron como a un animal\": la deportación \"a gran escala\" de haitianos en República Dominicana y las críticas que despierta",
+        "description": "El 2 de octubre el gobierno dominicano anunció un plan “de ejecución inmediata” para “repatriar hasta 10.000 indocumentados por semana”.",
+        "url": "https://www.bbc.com/mundo/articles/ckg23g7ykpzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1593/live/8928df00-861f-11ef-b51d-7bbb39d6947d.jpg",
+        "publishedAt": "2024-10-09T13:15:32Z",
+        "content": "Fuente de la imagen, EPA\r\nPie de foto, El gobierno dominicano pretende expulsar a 1.100 haitianos indocumentados a la semana.\r\nInformación del artículo<ul><li>Autor, Leire Ventas</li><li>Título del a… [+13485 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://graffica.ams3.digitaloceanspaces.com/2024/10/TODOS.jpg",
         "publishedAt": "2024-10-01T14:30:34Z",
         "content": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una… [+5700 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Joan Cuenca Saldaña",
-        "title": "Marbella se prepara para acoger a Conor McGregor y su competición, Bare Knuckle",
-        "description": "El Marbella Arena acogerá el próximo 12 de octubre la velada de Bare Knuckle Fighting Championship (BKFC), la organización de deportes de combate con el mayor crecimiento global, con un emocionante triple combate por el título mundial en su esperado evento BK…",
-        "url": "https://www.mundodeportivo.com/ufc/20240923/1002320567/marbella-prepara-acoger-conor-mcgregor-competicion-bare-knuckle.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/23/66f12ef5476e6.png",
-        "publishedAt": "2024-09-23T14:00:00Z",
-        "content": "El Marbella Arena acogerá el próximo 12 de octubre la velada de Bare Knuckle Fighting Championship (BKFC), la organización de deportes de combate con el mayor crecimiento global, con un emocionante t… [+5340 chars]"
     }
 ]
