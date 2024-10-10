@@ -379,6 +379,19 @@
     {
         "source": {
             "id": null,
+            "name": "Jornada.com.mx"
+        },
+        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+        "title": "Dominicana deporta a casi 11 mil haitianos",
+        "description": "Santo Domingo. República Dominicana deportó a casi 11 mil haitianos en la última semana mientras el vecino país lucha por manejar esa afluencia en medio del asedio de la pobreza y la violencia de las pandillas. El gobierno dominicano anunció recién que deport…",
+        "url": "https://www.jornada.com.mx/2024/10/09/mundo/021n3mun",
+        "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+        "publishedAt": "2024-10-09T09:32:44Z",
+        "content": "Periódico La JornadaMiércoles 9 de octubre de 2024, p. 21\r\nSanto Domingo. República Dominicana deportó a casi 11 mil haitianos en la última semana mientras el vecino país lucha por manejar esa afluen… [+567 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Nacion.com"
         },
         "author": "Listin Diario / República Dominicana / GDA, Damián Arroyo C.",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/23/66f12ef5476e6.png",
         "publishedAt": "2024-09-23T14:00:00Z",
         "content": "El Marbella Arena acogerá el próximo 12 de octubre la velada de Bare Knuckle Fighting Championship (BKFC), la organización de deportes de combate con el mayor crecimiento global, con un emocionante t… [+5340 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Bare Knuckle, la compañía de boxeo sin guantes de Conor McGregor, se estrenará el 12 de octubre en el Marbella Arena",
-        "description": "Falta menos de un mes para que Bare Knuckle Fighting Championship (BKFC) , la organización de boxeo sin guantes con el mayor crecimiento global, realice su desembarco en nuestro país. La compañía a la que se sumó recientemente la superestrella de la UFC, Cono…",
-        "url": "https://www.abc.es/deportes/bare-knuckle-compania-boxeo-guantes-conor-mcgregor-20240917103109-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/09/17/conor-U37711140070rNt-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-17T08:31:10Z",
-        "content": "Falta menos de un mes para que Bare Knuckle Fighting Championship (BKFC), la organización de boxeo sin guantes con el mayor crecimiento global, realice su desembarco en nuestro país. La compañía a la… [+5683 chars]"
     }
 ]
