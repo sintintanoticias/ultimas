@@ -1185,6 +1185,19 @@
     {
         "source": {
             "id": null,
+            "name": "Hosteltur.com"
+        },
+        "author": "Hosteltur",
+        "title": "Meliá Hotels International: Road to Net Zero Events",
+        "description": "Reducción, Aprendizaje e Innovación Al elegir Meliá, los clientes no solo optan por un servicio de excelencia, sino que también se asocian con un líder en sostenibilidad comprometido con la gestión responsable. La empresa ha implementado un amplio programa de…",
+        "url": "https://www.hosteltur.com/166021_melia-hotels-international-road-to-net-zero-events.html",
+        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/07/M_231250_melia-hotels-international-camino-hacia-eventos-net-zero.jpg",
+        "publishedAt": "2024-10-10T22:00:01Z",
+        "content": "Reducción, Aprendizaje e Innovación\r\nAl elegir Meliá, los clientes no solo optan por un servicio de excelencia, sino que también se asocian con un líder en sostenibilidad comprometido con la gestión … [+2344 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Aristeguinoticias.com"
         },
         "author": "Redacción AN / MDS",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/25/emiten-orden-de-arresto-contra.jpg",
         "publishedAt": "2024-09-25T22:12:27Z",
         "content": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el p… [+1722 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Graffica.info"
-        },
-        "author": "Gràffica",
-        "title": "Diseño gráfico inteligente: proyectos de estudiantes que están a otro nivel",
-        "description": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una diseñadora belgo-peruana que a través de un juego de mesa n…",
-        "url": "https://graffica.info/diseno-grafico-inteligente-proyectos-de-estudiantes-que-estan-a-otro-nivel/",
-        "urlToImage": "https://graffica.ams3.digitaloceanspaces.com/2024/10/TODOS.jpg",
-        "publishedAt": "2024-10-01T14:30:34Z",
-        "content": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una… [+5700 chars]"
     }
 ]
