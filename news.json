@@ -14,6 +14,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Hipertextual"
+        },
+        "author": "Azucena Martín",
+        "title": "Resuelven uno de los grandes misterios sobre Cristóbal Colón y el sábado sabremos el resto",
+        "description": "En 2003, el historiador sevillano Marcial Castro se puso en contacto con el equipo de científicos forenses de José Antonio Lorente, de la Universidad de Granada. Su objetivo era que le ayudase a determinar si los huesos enterrados en la Catedral de Sevilla co…",
+        "url": "http://hipertextual.com/2024/10/misterio-dan-cristobal-colon",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/10/21b3975d6d62a2e8ac178364771c71c7ad1c237c_s2_n2_y1-scaled.jpg",
+        "publishedAt": "2024-10-10T14:30:33Z",
+        "content": "Publicado enCiencia\r\nEste sábado se emitirá un documental en el que sabremos el origen de Cristóbal Colón y su lugar de enterramiento. Aunque los científicos ya han dado una adelanto. \r\nRetrato de un… [+5867 chars]"
+    },
+    {
+        "source": {
             "id": "marca",
             "name": "Marca"
         },
@@ -141,6 +154,19 @@
         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/1593/live/8928df00-861f-11ef-b51d-7bbb39d6947d.jpg",
         "publishedAt": "2024-10-09T13:15:32Z",
         "content": "Fuente de la imagen, EPA\r\nPie de foto, El gobierno dominicano pretende expulsar a 1.100 haitianos indocumentados a la semana.\r\nInformación del artículo<ul><li>Autor, Leire Ventas</li><li>Título del a… [+13485 chars]"
+    },
+    {
+        "source": {
+            "id": "el-mundo",
+            "name": "El Mundo"
+        },
+        "author": "Efe",
+        "title": "Investigadores de la Universidad de Granada confirman que los huesos enterrados en Sevilla son de Cristóbal Colón",
+        "description": "Investigadores forenses de la Universidad de Granada, liderados por el catedrático de Medicina Legal José Antonio Lorente, han confirmado este jueves, de forma definitiva, que...",
+        "url": "https://www.elmundo.es/cultura/2024/10/10/6707e2a5fc6c8380568b458f.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/6d375bdb7b5b620a3f4ee1f3159d6200/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/10/17285699489392.jpg",
+        "publishedAt": "2024-10-10T14:28:26Z",
+        "content": "Investigadores forenses de la Universidad de Granada, liderados por el catedrático de Medicina Legal José Antonio Lorente, han confirmado este jueves, de forma definitiva, que los huesos de Cristóbal… [+3959 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/13/1-magan-U28466274050xLh-1024x512@diario_abc.jpg",
         "publishedAt": "2024-09-14T06:00:15Z",
         "content": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática dur… [+3555 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Milenio"
-        },
-        "author": "Agencia EFE",
-        "title": "Emiten orden de arresto INTERNACIONAL contra el rapero de origen mexicano Tekashi 69",
-        "description": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el país caribeño de violencia de género contra su expareja, la t…",
-        "url": "https://www.milenio.com/espectaculos/famosos/emiten-orden-de-arresto-contra-tekashi-69",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/25/emiten-orden-de-arresto-contra.jpg",
-        "publishedAt": "2024-09-25T22:12:27Z",
-        "content": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el p… [+1722 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Graffica.info"
-        },
-        "author": "Gràffica",
-        "title": "Diseño gráfico inteligente: proyectos de estudiantes que están a otro nivel",
-        "description": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una diseñadora belgo-peruana que a través de un juego de mesa n…",
-        "url": "https://graffica.info/diseno-grafico-inteligente-proyectos-de-estudiantes-que-estan-a-otro-nivel/",
-        "urlToImage": "https://graffica.ams3.digitaloceanspaces.com/2024/10/TODOS.jpg",
-        "publishedAt": "2024-10-01T14:30:34Z",
-        "content": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una… [+5700 chars]"
     }
 ]
