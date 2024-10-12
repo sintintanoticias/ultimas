@@ -782,6 +782,19 @@
     {
         "source": {
             "id": null,
+            "name": "Jornada.com.mx"
+        },
+        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+        "title": "Investigadores revelarán misterio sobre el origen y los restos de Cristóbal Colón",
+        "description": "Madrid. Científicos españoles afirmaron que mañana revelarán detalles sobre la nacionalidad de Cristóbal Colón, tras utilizar análisis de ADN para resolver un misterio de siglos.",
+        "url": "https://www.jornada.com.mx/2024/10/11/ciencias/a07n1cie",
+        "urlToImage": "https://www.jornada.com.mx/2024/10/11/fotos/a07n1cie-1.jpg",
+        "publishedAt": "2024-10-11T08:17:35Z",
+        "content": "Periódico La JornadaViernes 11 de octubre de 2024, p. 7\r\nMadrid. Científicos españoles afirmaron que mañana revelarán detalles sobre la nacionalidad de Cristóbal Colón, tras utilizar análisis de ADN … [+2123 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Libertaddigital.com"
         },
         "author": "Miguel Ángel Pérez",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/13/1-magan-U28466274050xLh-1024x512@diario_abc.jpg",
         "publishedAt": "2024-09-14T06:00:15Z",
         "content": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática dur… [+3555 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Radiografía de la población extranjera en España: cómo ha crecido en los últimos 20 años",
-        "description": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos datos disponibles del INE. Nunca había llegado a cifras tan alt…",
-        "url": "https://www.abc.es/sociedad/poblacion-extranjera-espana-maximos-historicos-espana-20240919130349-nt.html",
-        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/09/19/ep-barcelona-U65150354353mmG-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-20T02:09:35Z",
-        "content": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos dat… [+3645 chars]"
     }
 ]
