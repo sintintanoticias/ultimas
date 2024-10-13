@@ -118,19 +118,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Belén Liotti",
-        "title": "Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y llama “ladrón” al presidente Abinader",
-        "description": "Nicolás Maduro dijo que la reciente incautación de un avión a su servicio, realizada en República Dominicana a petición del Gobierno de Estados Unidos, fue un “robo”.\nThe post Maduro dice que la incautación de su avión en República Dominicana fue un “robo” y …",
-        "url": "https://cnnespanol.cnn.com/2024/09/10/maduro-incautacion-avion-robo-ladron-abinader-orix/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-462412784-20240902183940580_3df3ba.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-11T02:20:56Z",
-        "content": "Oficialismo califica de piratería incautación de avión de Maduro 4:05\r\n(CNN Español) El presidente de Venezuela, Nicolás Maduro, dijo este martes que la reciente incautación de un avión a su servicio… [+2751 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -200,19 +187,6 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
-        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
-        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
-        "publishedAt": "2024-09-12T20:27:54Z",
-        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
         "title": "Ofensiva internacional contra una poderosa red de narcotráfico en República Dominicana",
         "description": "En el operativo se incautaron alrededor de 2 toneladas de cocaína y se detuvo a un grupo de al menos 10 personas.",
         "url": "https://actualidad.rt.com/actualidad/523420-ofensiva-poderosa-red-narcotrafico",
@@ -226,12 +200,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Luis Abinader demanda mayor \"involucramiento\" de la comunidad internacional en Haití",
-        "description": "El mandatario de República Dominicana refirió que solo se han desplegado 400 efectivos pertenecientes a la Misión de la ONU, de los 2.000 que son necesarios para cumplir las metas de pacificación.",
-        "url": "https://actualidad.rt.com/actualidad/524215-abinader-involucramiento-comunidad-internacional-haiti",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66f4532659bf5b0a20784ede.jpg",
-        "publishedAt": "2024-09-25T20:23:56Z",
-        "content": "El presidente dominicano, Luis Abinader, solicitó este miércoles una mayor implicación de la \"comunidad internacional\" en la \"estabilización\" de la situación sociopolítica en Haití, toda vez que, des… [+1820 chars]"
+        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
+        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
+        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
+        "publishedAt": "2024-09-12T20:27:54Z",
+        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
     },
     {
         "source": {
@@ -239,38 +213,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Maduro tilda de \"ladrón\" a Abinader por permitir la incautación del avión presidencial venezolano",
-        "description": "El mandatario bromeó con querer asistir al debate entre Harris y Trump en EE.UU., y dijo que no podrá hacerlo por el \"robo\" de la aeronave.",
-        "url": "https://actualidad.rt.com/actualidad/522374-maduro-tilda-ladron-abinader-incautacion-avion",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e0e12459bf5b6a023316f8.jpg",
-        "publishedAt": "2024-09-11T08:50:24Z",
-        "content": "El presidente de Venezuela, Nicolás Maduro, calificó de \"ladrón\" a su par de República Dominicana, Luis Abinader, por permitir en su país la incautación del avión presidencial venezolano por parte de… [+2594 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hosteltur.com"
-        },
-        "author": "Hosteltur",
-        "title": "Ávoris amplía su operativa de receptivo en República Dominicana",
-        "description": "Según ha revelado Ávoris en un comunicado difundido este miércoles, la adquisición de DomeX DMC no solo amplía la capacidad operativa de Welcome Incoming Services en la República Dominicana, sino que también reafirma su compromiso con la calidad del servicio.…",
-        "url": "https://www.hosteltur.com/165517_avoris-amplia-su-operativa-de-receptivo-en-republica-dominicana.html",
-        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/11/M_111824_avoris-amplia-su-operativa-de-receptivo-en-republica-dominicana.jpg",
-        "publishedAt": "2024-09-11T09:36:13Z",
-        "content": "Según ha revelado Ávoris en un comunicado difundido este miércoles, la adquisición de DomeX DMC no solo amplía la capacidad operativa de Welcome Incoming Services en la República Dominicana, sino que… [+1846 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Maduro llama «ladrón» y «bandido» al presidente dominicano por la incautación de su avión presidencial",
-        "description": "El presidente de Venezuela, Nicolás Maduro , ha llamado este martes «ladrón» y «bandido» al presidente de República Dominicana, Luis Abinader, por la incautación por parte de Estados Unidos del avión presidencial venezolano en el país caribeño, si bien las au…",
-        "url": "https://www.abc.es/internacional/maduro-llama-ladron-bandido-presidente-dominicano-incautacion-20240911075135-nt.html",
-        "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/11/1452693118-khQF--1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-11T05:51:36Z",
-        "content": "«Me dejaron sin avión. El ladrón del presidente de República Dominicana, Abinader, que es un bandido, un ladrón. El pueblo de República Dominicana le pasará cuenta en su momento. No me ponga carita d… [+945 chars]"
+        "title": "Luis Abinader demanda mayor \"involucramiento\" de la comunidad internacional en Haití",
+        "description": "El mandatario de República Dominicana refirió que solo se han desplegado 400 efectivos pertenecientes a la Misión de la ONU, de los 2.000 que son necesarios para cumplir las metas de pacificación.",
+        "url": "https://actualidad.rt.com/actualidad/524215-abinader-involucramiento-comunidad-internacional-haiti",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66f4532659bf5b0a20784ede.jpg",
+        "publishedAt": "2024-09-25T20:23:56Z",
+        "content": "El presidente dominicano, Luis Abinader, solicitó este miércoles una mayor implicación de la \"comunidad internacional\" en la \"estabilización\" de la situación sociopolítica en Haití, toda vez que, des… [+1820 chars]"
     },
     {
         "source": {
@@ -404,19 +352,6 @@
     },
     {
         "source": {
-            "id": "marca",
-            "name": "Marca"
-        },
-        "author": "J. F. BORRELL",
-        "title": "Fonseca: \"La felicidad consiste en conectar el corazón y la mente y en estar a gusto con uno mismo\"",
-        "description": "El cantautor colombiano Juan Fernando Fonseca Carrera, artísticamente conocido como Fonseca, ganador de ocho Latin Grammy, regresa a España para dar continuar su &apos;Tropicalia T",
-        "url": "https://www.marca.com/tiramillas/musica/2024/09/11/66e1ab6f22601d0c518b459f.html",
-        "urlToImage": "https://phantom-marca.unidadeditorial.es/97ecbc94de5fd205a19e57d6f9ca6ad2/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/11/17260674642713.jpg",
-        "publishedAt": "2024-09-11T17:15:23Z",
-        "content": "El cantautor colombiano Juan Fernando Fonseca Carrera, artísticamente conocido como Fonseca, ganador de ocho Latin Grammy, regresa a España para dar continuar su 'Tropicalia Tour 2024', una gira inte… [+11371 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Jornada.com.mx"
         },
@@ -427,19 +362,6 @@
         "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
         "publishedAt": "2024-10-09T09:32:44Z",
         "content": "Periódico La JornadaMiércoles 9 de octubre de 2024, p. 21\r\nSanto Domingo. República Dominicana deportó a casi 11 mil haitianos en la última semana mientras el vecino país lucha por manejar esa afluen… [+567 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Nacion.com"
-        },
-        "author": "Listin Diario / República Dominicana / GDA, Damián Arroyo C.",
-        "title": "Detienen a Luisito Comunica en el Metro de República Dominicana",
-        "description": "Luisito Comunica sufre un incidente con la seguridad del Metro de Santo Domingo, generando polémica en redes sociales.",
-        "url": "https://www.nacion.com/viva/detienen-a-luisito-comunica-en-el-metro-de/W7VTTPYYNRAC5AU2B3NVRSI7FY/story/",
-        "urlToImage": "https://www.nacion.com/resizer/v2/IVRO4RVHSZH5XD2PMI7HCIYSO4.png?smart=true&auth=957a0fec7df356c8ee73c783105d00e5e09cfe975369d19ecc953e49c24f7d68&width=1440",
-        "publishedAt": "2024-09-11T16:00:53Z",
-        "content": "Luisito Comunica, reconocido youtuber mexicano con más de 43 millones de suscriptores en YouTube y 33 millones de seguidores en Instagram, vivió un incómodo episodio en su visita a República Dominica… [+1464 chars]"
     },
     {
         "source": {
@@ -706,19 +628,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Luis Ernesto Quintana Barney",
-        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
-        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
-        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-26T17:28:45Z",
-        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
         "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
@@ -726,6 +635,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-19T14:41:22Z",
         "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
+        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
+        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-26T17:28:45Z",
+        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
     },
     {
         "source": {
@@ -1041,19 +963,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "El Financiero"
-        },
-        "author": "Redacción",
-        "title": "¿Por qué detuvieron a Luisito Comunica en el Metro de República Dominicana?",
-        "description": "Luisito Comunica fue esposado y retirado del Metro de República Dominicana, tal como se muestra en diferentes videos de redes sociales.",
-        "url": "https://www.elfinanciero.com.mx/espectaculos/2024/09/11/por-que-detuvieron-a-luisito-comunica-en-el-metro-de-republica-dominicana/",
-        "urlToImage": "https://elfinanciero.com.mx/resizer/v2/TPVVSVU5KBH5HG4UUCDMJWQ544.jpg?smart=true&auth=264564172bfaa3b0066065909c8d2f75be12b66f1daddc0aad31670dcf907922&width=1200&height=630",
-        "publishedAt": "2024-09-11T18:43:06Z",
-        "content": "Luisito Comunica, el famoso youtuber mexicano, fue detenido por las autoridades de República Dominicana, luego de que violó las leyes al intentar grabar uno de sus blogs de viajes en el Metro de Sant… [+3079 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -1298,5 +1207,96 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/09/21/66ef3ab8d4440.r_d.703-365-0.jpeg",
         "publishedAt": "2024-09-22T10:09:21Z",
         "content": "Carlos Ureña tiene en Pau Víctor un buen espejo en el que mirarse. Como el actual delantero del primer equipo del Barça, el extremo hispano-dominicano, de 21 años también llegó desde el Girona al Bar… [+2509 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes.com.mx"
+        },
+        "author": "Forbes Staff",
+        "title": "Lula, Boric y Petro, entre los mandatarios que asistirán a la toma de protesta de Sheinbaum",
+        "description": "Forbes México.\n Lula, Boric y Petro, entre los mandatarios que asistirán a la toma de protesta de Sheinbaum\n\nLa próxima presidenta informa que hasta este miércoles 105 países y 22 organismos internacionales han confirmado su asistencia. \nLula, Boric y Petro, …",
+        "url": "https://www.forbes.com.mx/lula-boric-y-petro-entre-los-mandatarios-que-asistiran-a-la-toma-de-protesta-de-sheinbaum/",
+        "urlToImage": "https://cdn.forbes.com.mx/2024/09/Sheinbaum-1.webp",
+        "publishedAt": "2024-09-19T01:17:13Z",
+        "content": "La presidenta electa Claudia Sheinbaum anunció que hasta este miércoles 105 países y 22 organismos internacionales han confirmado su asistencia a su toma de protesta el 1 de octubre.\r\nDetalló que los… [+1479 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jenesaispop.com"
+        },
+        "author": "Sebas E. Alonso",
+        "title": "Jhayco da otra victoria a Broncano a pesar de lo desmañado",
+        "description": "El portorriqueño Jhayco es el actual número 1 de álbumes en España con su nuevo disco ‘Le Clique: Vida Rockstar’. 4 de sus 29 canciones se sitúan en el top 100 de singles. El cantante, mega conocido por colaboraciones con Bad Bunny como la multimillonaria ‘DÁ…",
+        "url": "https://jenesaispop.com/2024/09/18/482576/jhayco-broncano-revuelta/",
+        "urlToImage": "https://jenesaispop.com/wp-content/uploads/2024/09/jhayco-broncano.jpg",
+        "publishedAt": "2024-09-18T07:31:00Z",
+        "content": "El portorriqueño Jhayco es el actual número 1 de álbumes en España con su nuevo disco ‘Le Clique: Vida Rockstar’. 4 de sus 29 canciones se sitúan en el top 100 de singles. El cantante, mega conocido … [+3145 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Juan Magán: «María Pombo no sólo hace una aportación a la cultura, también a la humanidad»",
+        "description": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática durante unos años. Pero nadie le echó de allí, fue él quien se …",
+        "url": "https://www.abc.es/gente/juan-magan-maria-pombo-solo-aportacion-cultura-20240913130007-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/13/1-magan-U28466274050xLh-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-14T06:00:15Z",
+        "content": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática dur… [+3555 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Radiografía de la población extranjera en España: cómo ha crecido en los últimos 20 años",
+        "description": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos datos disponibles del INE. Nunca había llegado a cifras tan alt…",
+        "url": "https://www.abc.es/sociedad/poblacion-extranjera-espana-maximos-historicos-espana-20240919130349-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/09/19/ep-barcelona-U65150354353mmG-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-20T02:09:35Z",
+        "content": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos dat… [+3645 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Milenio"
+        },
+        "author": "Agencia EFE",
+        "title": "Emiten orden de arresto INTERNACIONAL contra el rapero de origen mexicano Tekashi 69",
+        "description": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el país caribeño de violencia de género contra su expareja, la t…",
+        "url": "https://www.milenio.com/espectaculos/famosos/emiten-orden-de-arresto-contra-tekashi-69",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/25/emiten-orden-de-arresto-contra.jpg",
+        "publishedAt": "2024-09-25T22:12:27Z",
+        "content": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el p… [+1722 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Graffica.info"
+        },
+        "author": "Gràffica",
+        "title": "Diseño gráfico inteligente: proyectos de estudiantes que están a otro nivel",
+        "description": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una diseñadora belgo-peruana que a través de un juego de mesa n…",
+        "url": "https://graffica.info/diseno-grafico-inteligente-proyectos-de-estudiantes-que-estan-a-otro-nivel/",
+        "urlToImage": "https://graffica.ams3.digitaloceanspaces.com/2024/10/TODOS.jpg",
+        "publishedAt": "2024-10-01T14:30:34Z",
+        "content": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una… [+5700 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Joan Cuenca Saldaña",
+        "title": "Marbella se prepara para acoger a Conor McGregor y su competición, Bare Knuckle",
+        "description": "El Marbella Arena acogerá el próximo 12 de octubre la velada de Bare Knuckle Fighting Championship (BKFC), la organización de deportes de combate con el mayor crecimiento global, con un emocionante triple combate por el título mundial en su esperado evento BK…",
+        "url": "https://www.mundodeportivo.com/ufc/20240923/1002320567/marbella-prepara-acoger-conor-mcgregor-competicion-bare-knuckle.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/23/66f12ef5476e6.png",
+        "publishedAt": "2024-09-23T14:00:00Z",
+        "content": "El Marbella Arena acogerá el próximo 12 de octubre la velada de Bare Knuckle Fighting Championship (BKFC), la organización de deportes de combate con el mayor crecimiento global, con un emocionante t… [+5340 chars]"
     }
 ]
