@@ -1106,19 +1106,6 @@
     },
     {
         "source": {
-            "id": "la-nacion",
-            "name": "La Nacion"
-        },
-        "author": "LA NACION",
-        "title": "Viajó y tuvo “vacaciones silenciosas” durante diez semanas, sin que su jefe lo supiera: “Fui más feliz y productivo”",
-        "description": "Descubre la creciente tendencia del ‘quiet vacationing’ o ‘vacaciones silenciosas’, donde los empleados combinan trabajo remoto y vacaciones sin avisar a sus jefes. Esto constrata con el quiet quitting o “renuncia silenciosa”, una tendencia laboral entre los …",
-        "url": "https://www.lanacion.com.ar/estados-unidos/viajo-y-tuvo-vacaciones-silenciosas-durante-diez-semanas-sin-que-su-jefe-lo-supiera-fui-mas-feliz-y-nid09102024/",
-        "urlToImage": "https://resizer.glanacion.com/resizer/v2/tobi-oluwole-valora-el-hecho-de-no-tener-que-RTNNN4DO7JGDTKIYZVRJKQ2NDI.jpg?auth=a5ffadfd65a56448bb21431e03b572111dd53b393c40a0166a7724dbfd93aa3d&width=768&quality=70&smart=false",
-        "publishedAt": "2024-10-09T14:25:29Z",
-        "content": "A través de un enfoque estratégico hacia su trabajo remoto, Tobi Oluwole disfrutó de 10 semanas de vacaciones silenciosas a lo largo de 15 meses, permitiéndole ser más productivo y feliz en su rol. A… [+3007 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Elperiodico.com"
         },
@@ -1129,6 +1116,19 @@
         "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/f5a989b0-1f09-41f9-b382-e200141b7dca_16-9-discover-aspect-ratio_default_0.jpg",
         "publishedAt": "2024-09-18T09:17:04Z",
         "content": "Mientras trabaja en cambiar su estética en España para \"abordar la siguiente etapa de desarrollo\" contaba, en julio, su consejero delegado, Juan Pedro Conde, la cadena de panaderías y cafeterías Gran… [+2500 chars]"
+    },
+    {
+        "source": {
+            "id": "la-nacion",
+            "name": "La Nacion"
+        },
+        "author": "LA NACION",
+        "title": "Viajó y tuvo “vacaciones silenciosas” durante diez semanas, sin que su jefe lo supiera: “Fui más feliz y productivo”",
+        "description": "Descubre la creciente tendencia del ‘quiet vacationing’ o ‘vacaciones silenciosas’, donde los empleados combinan trabajo remoto y vacaciones sin avisar a sus jefes. Esto constrata con el quiet quitting o “renuncia silenciosa”, una tendencia laboral entre los …",
+        "url": "https://www.lanacion.com.ar/estados-unidos/viajo-y-tuvo-vacaciones-silenciosas-durante-diez-semanas-sin-que-su-jefe-lo-supiera-fui-mas-feliz-y-nid09102024/",
+        "urlToImage": "https://resizer.glanacion.com/resizer/v2/tobi-oluwole-valora-el-hecho-de-no-tener-que-RTNNN4DO7JGDTKIYZVRJKQ2NDI.jpg?auth=a5ffadfd65a56448bb21431e03b572111dd53b393c40a0166a7724dbfd93aa3d&width=768&quality=70&smart=false",
+        "publishedAt": "2024-10-09T14:25:29Z",
+        "content": "A través de un enfoque estratégico hacia su trabajo remoto, Tobi Oluwole disfrutó de 10 semanas de vacaciones silenciosas a lo largo de 15 meses, permitiéndole ser más productivo y feliz en su rol. A… [+3007 chars]"
     },
     {
         "source": {
