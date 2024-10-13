@@ -691,6 +691,19 @@
     {
         "source": {
             "id": null,
+            "name": "Lavozdegalicia.es"
+        },
+        "author": "La Voz",
+        "title": "Los 30 años de María Pombo: invita a treinta amigos a Punta Cana para celebrar su cumpleaños",
+        "description": "«Si estás leyendo esto es que eres una de esas personas que quiero tener cerca el día de mi 30 cumpleaños. ¡Haz las maletas, que nos vamos a República Dominicana!», dice la invitación que la «influencer» ha enviado a sus 30 personas más cercanas",
+        "url": "https://www.lavozdegalicia.es/noticia/gente/2024/10/12/30-anos-maria-pombo-invita-treinta-amigos-punta-cana-celebrar-cumpleanos/00031728746847414761270.htm",
+        "urlToImage": "https://img.lavdg.com/sc/_Qxd7fPMouDz3DHkSwTZ07WsVSM=/1280x/2024/10/12/00121728748660056842890/Foto/mariapombo.jpg",
+        "publishedAt": "2024-10-12T16:11:00Z",
+        "content": "María Pomboha decidido celebrar el estreno de los treinta por todo lo alto. La influencer y empresaria, que se despide de la veintena el próximo jueves 17, ha invitado a treinta amigos a una semana r… [+2283 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Mundodeportivo.com"
         },
         "author": "Ángel Mor Montolio",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/09/19/ep-barcelona-U65150354353mmG-1024x512@diario_abc.jpg",
         "publishedAt": "2024-09-20T02:09:35Z",
         "content": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos dat… [+3645 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Milenio"
-        },
-        "author": "Agencia EFE",
-        "title": "Emiten orden de arresto INTERNACIONAL contra el rapero de origen mexicano Tekashi 69",
-        "description": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el país caribeño de violencia de género contra su expareja, la t…",
-        "url": "https://www.milenio.com/espectaculos/famosos/emiten-orden-de-arresto-contra-tekashi-69",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/25/emiten-orden-de-arresto-contra.jpg",
-        "publishedAt": "2024-09-25T22:12:27Z",
-        "content": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el p… [+1722 chars]"
     }
 ]
