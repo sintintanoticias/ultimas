@@ -248,6 +248,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sofía Benavides",
+        "title": "Investigadores españoles confirman que los restos de Cristóbal Colón se encuentran en Sevilla",
+        "description": "Un grupo de investigadores españoles confirmó este jueves que los restos de Cristóbal Colón reposan, en efecto, en la catedral de Sevilla.\nThe post Investigadores españoles confirman que los restos de Cristóbal Colón se encuentran en Sevilla appeared first on…",
+        "url": "https://cnnespanol.cnn.com/2024/10/12/investigadores-confirman-restos-sevilla-cristobal-colon-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765828-restos-de-cristobal-colon.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-12T14:53:09Z",
+        "content": "(CNN Español) Un grupo de investigadores españoles confirmó este jueves que los restos de Cristóbal Colón reposan, en efecto, en la catedral de Sevilla.\r\nEn una rueda de prensa convocada por el docum… [+1764 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Gizmodo.com"
         },
@@ -482,19 +495,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Detienen a un hombre que utilizaba su vivienda en Tetuán para almacenar y repartir droga",
-        "description": "Agentes de la Policía Nacional han desmantelado un narcopiso del distrito madrileño de Tetuán. La investigación puso de manifiesto que un hombre utilizaba su propio domicilio como punto de adquisición, almacenamiento y reparto de droga, mediante la utilizació…",
-        "url": "https://www.abc.es/espana/madrid/detienen-hombre-utilizaba-vivienda-tetuan-almacenar-repartir-20241008112919-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/10/08/1728379601349-U27824131278ZgH-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-10-08T09:29:20Z",
-        "content": "Agentes de la Policía Nacional han desmantelado un narcopiso del distrito madrileño de Tetuán. La investigación puso de manifiesto que un hombre utilizaba su propio domicilio como punto de adquisició… [+756 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -505,6 +505,19 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fc0b2459bf5b7eb81f10c7.png",
         "publishedAt": "2024-10-01T15:47:35Z",
         "content": "El presidente de Colombia, Gustavo Petro, compartió en sus redes una imagen junto a sus pares de Brasil, Luiz Inacio Lula da Silva; de Chile, Gabriel Boric; y de Honduras, Xiomara Castro.\r\n\"Un grupo … [+1148 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Detienen a un hombre que utilizaba su vivienda en Tetuán para almacenar y repartir droga",
+        "description": "Agentes de la Policía Nacional han desmantelado un narcopiso del distrito madrileño de Tetuán. La investigación puso de manifiesto que un hombre utilizaba su propio domicilio como punto de adquisición, almacenamiento y reparto de droga, mediante la utilizació…",
+        "url": "https://www.abc.es/espana/madrid/detienen-hombre-utilizaba-vivienda-tetuan-almacenar-repartir-20241008112919-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/10/08/1728379601349-U27824131278ZgH-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-10-08T09:29:20Z",
+        "content": "Agentes de la Policía Nacional han desmantelado un narcopiso del distrito madrileño de Tetuán. La investigación puso de manifiesto que un hombre utilizaba su propio domicilio como punto de adquisició… [+756 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/25/emiten-orden-de-arresto-contra.jpg",
         "publishedAt": "2024-09-25T22:12:27Z",
         "content": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el p… [+1722 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Graffica.info"
-        },
-        "author": "Gràffica",
-        "title": "Diseño gráfico inteligente: proyectos de estudiantes que están a otro nivel",
-        "description": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una diseñadora belgo-peruana que a través de un juego de mesa n…",
-        "url": "https://graffica.info/diseno-grafico-inteligente-proyectos-de-estudiantes-que-estan-a-otro-nivel/",
-        "urlToImage": "https://graffica.ams3.digitaloceanspaces.com/2024/10/TODOS.jpg",
-        "publishedAt": "2024-10-01T14:30:34Z",
-        "content": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una… [+5700 chars]"
     }
 ]
