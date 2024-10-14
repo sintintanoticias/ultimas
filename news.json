@@ -418,6 +418,19 @@
     {
         "source": {
             "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "Miguel Ángel Pérez",
+        "title": "La trama Koldo maniobró para reunir al presidente dominicano con Ábalos: \"Verá al 1, sería bueno que el jefe le viera\"",
+        "description": "El informe de la UCO, al que ha tenido acceso LD, recoge una conversación de Whatsapp de abril de 2021 entre Víctor de Aldama y Koldo García.",
+        "url": "https://www.libertaddigital.com/espana/2024-10-13/trama-koldo-maniobro-reunir-presidente-dominicano-abalos-vera-1-seria-bueno-jefe-viera-7173586/",
+        "urlToImage": "https://s.libertaddigital.com/2024/10/12/1200/627/ld/190421-sanchez-abinader2.jpg",
+        "publishedAt": "2024-10-13T19:00:05Z",
+        "content": "La trama Koldo maniobró para que el presidente de la República Dominicana, Luis Rodolfo Abinader Corona, se reuniera el 19 abril de 2021 con el entonces ministro de Transportes, José Luis Ábalos, tra… [+3615 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Forbes.com.mx"
         },
         "author": "Diego Aguilar",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/25/emiten-orden-de-arresto-contra.jpg",
         "publishedAt": "2024-09-25T22:12:27Z",
         "content": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el p… [+1722 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Graffica.info"
-        },
-        "author": "Gràffica",
-        "title": "Diseño gráfico inteligente: proyectos de estudiantes que están a otro nivel",
-        "description": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una diseñadora belgo-peruana que a través de un juego de mesa n…",
-        "url": "https://graffica.info/diseno-grafico-inteligente-proyectos-de-estudiantes-que-estan-a-otro-nivel/",
-        "urlToImage": "https://graffica.ams3.digitaloceanspaces.com/2024/10/TODOS.jpg",
-        "publishedAt": "2024-10-01T14:30:34Z",
-        "content": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una… [+5700 chars]"
     }
 ]
