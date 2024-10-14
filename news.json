@@ -509,6 +509,32 @@
     {
         "source": {
             "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "Francisco Solano Cobos",
+        "title": "Se descarta que Colón naciera en Génova y se apunta a su origen judío en un documental",
+        "description": "Se ha podido comprobar que sus restos son los que descansan en Sevilla, lo que descarta la hipótesis de República Dominicana.",
+        "url": "https://www.libertaddigital.com/cultura/historia/2024-10-13/se-descarta-que-colon-naciera-en-genova-y-se-apunta-a-su-origen-judio-en-un-documental-7174016/",
+        "urlToImage": "https://s.libertaddigital.com/2024/10/13/1200/627/ld/colon-16-9.jpg",
+        "publishedAt": "2024-10-13T12:09:26Z",
+        "content": "Muchos son los rumores y teorías que sobrevuelan sobre la procedencia del almirante Cristóbal Colón, aunque la teoría más extendida socialmente, que no apoyada por parte de los historiadores, es que … [+4986 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "Francisco Solano Cobos",
+        "title": "Un documental descarta que Colón naciera en Génova y apunta a su origen judío",
+        "description": "Se ha podido comprobar que sus restos son los que descansan en Sevilla, lo que descarta la hipótesis de República Dominicana.",
+        "url": "https://www.libertaddigital.com/cultura/historia/2024-10-13/un-documental-descarta-que-colon-naciera-en-genova-y-apunta-a-su-origen-judio-7174016/",
+        "urlToImage": "https://s.libertaddigital.com/2024/10/13/1200/627/ld/colon-16-9.jpg",
+        "publishedAt": "2024-10-13T12:09:26Z",
+        "content": "Muchos son los rumores y teorías que sobrevuelan sobre la procedencia del almirante Cristóbal Colón, aunque la teoría más extendida socialmente, que no apoyada por parte de los historiadores, es que … [+4986 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Sopitas.com"
         },
         "author": "Christian Vázquez",
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://graffica.ams3.digitaloceanspaces.com/2024/10/TODOS.jpg",
         "publishedAt": "2024-10-01T14:30:34Z",
         "content": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una… [+5700 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Joan Cuenca Saldaña",
-        "title": "Marbella se prepara para acoger a Conor McGregor y su competición, Bare Knuckle",
-        "description": "El Marbella Arena acogerá el próximo 12 de octubre la velada de Bare Knuckle Fighting Championship (BKFC), la organización de deportes de combate con el mayor crecimiento global, con un emocionante triple combate por el título mundial en su esperado evento BK…",
-        "url": "https://www.mundodeportivo.com/ufc/20240923/1002320567/marbella-prepara-acoger-conor-mcgregor-competicion-bare-knuckle.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/23/66f12ef5476e6.png",
-        "publishedAt": "2024-09-23T14:00:00Z",
-        "content": "El Marbella Arena acogerá el próximo 12 de octubre la velada de Bare Knuckle Fighting Championship (BKFC), la organización de deportes de combate con el mayor crecimiento global, con un emocionante t… [+5340 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Bare Knuckle, la compañía de boxeo sin guantes de Conor McGregor, se estrenará el 12 de octubre en el Marbella Arena",
-        "description": "Falta menos de un mes para que Bare Knuckle Fighting Championship (BKFC) , la organización de boxeo sin guantes con el mayor crecimiento global, realice su desembarco en nuestro país. La compañía a la que se sumó recientemente la superestrella de la UFC, Cono…",
-        "url": "https://www.abc.es/deportes/bare-knuckle-compania-boxeo-guantes-conor-mcgregor-20240917103109-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/09/17/conor-U37711140070rNt-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-17T08:31:10Z",
-        "content": "Falta menos de un mes para que Bare Knuckle Fighting Championship (BKFC), la organización de boxeo sin guantes con el mayor crecimiento global, realice su desembarco en nuestro país. La compañía a la… [+5683 chars]"
     }
 ]
