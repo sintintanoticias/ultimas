@@ -1,19 +1,6 @@
 [
     {
         "source": {
-            "id": "time",
-            "name": "Time"
-        },
-        "author": "Alice Park",
-        "title": "La gimnasta olímpica Hezly Rivera tiene la mira en 2028",
-        "description": "Con solo 16 años, la miembro más joven del equipo olímpico de gimnasia de EE.UU. 2024 ejemplifica determinación y orgullo cultural.",
-        "url": "https://time.com/7020148/spanish-hezly-rivera-latino-leaders/",
-        "urlToImage": "https://api.time.com/wp-content/uploads/2024/08/Hezley-Rivera.jpeg?quality=85&w=1200&h=628&crop=1",
-        "publishedAt": "2024-09-12T11:11:59Z",
-        "content": "Read this story in English here\r\nA los 16 años, Hezly Rivera era la miembro más joven del contingente olímpico de EE. UU. en el 2024, y como parte del equipo de gimnasia femenina, ahora es medallista… [+1575 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Hipertextual"
         },
@@ -76,19 +63,6 @@
         "urlToImage": "https://i.blogs.es/70a285/jorge-fernandez-salas-dcrl6ihrla4-unsplash/840_560.jpeg",
         "publishedAt": "2024-09-21T16:30:46Z",
         "content": "El 20 de mayo de 1506, un hombre moría en Valladolid. El 19, unas horas antes, había dictado su testamento y lo había firmado como \"almirante, virrey y gobernador [...] de las Indias descubiertas y p… [+3794 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Ángela Reyes Haczek",
-        "title": "Autoridades de República Dominicana retienen a Luisito Comunica",
-        "description": "Guardias de seguridad del Metro de Santo Domingo detuvieron al youtuber Luisito Comunica, informó este miércoles la oficina para el Reordenamiento del Transporte de República Dominicana.\nThe post Autoridades de República Dominicana retienen a Luisito Comunica…",
-        "url": "https://cnnespanol.cnn.com/2024/09/12/republica-dominicana-retienen-luisito-comunica-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1751539-luisito-comunica-1.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-12T12:59:16Z",
-        "content": "(CNN Español) Guardias de seguridad del Metro de Santo Domingo detuvieron al youtuber Luisito Comunica, informó este miércoles la oficina para el Reordenamiento del Transporte de República Dominicana… [+1021 chars]"
     },
     {
         "source": {
@@ -193,19 +167,6 @@
         "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/10/03/vista-de-un-buque-hundido-en-el-fondo-del-mar-caribe.jpeg",
         "publishedAt": "2024-10-03T15:01:08Z",
         "content": "La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, … [+4351 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Vicepresidenta venezolana publica la millonaria deuda de República Dominicana con su país",
-        "description": "\"Póngase a derecho y pague a Venezuela sin dilación alguna\", indicó Delcy Rodríguez al mandatario dominicano, Luis Abinader.",
-        "url": "https://actualidad.rt.com/actualidad/522641-vicepresidenta-venezolana-millonaria-deuda-republica-dominicana",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66e314e5e9ff71574d305033.jpg",
-        "publishedAt": "2024-09-12T20:27:54Z",
-        "content": "La vicepresidenta de Venezuela, Delcy Rodríguez, publicó la escandalosa deuda que mantiene República Dominicana con su país, una millonaria cifra que sobrepasa los 350 millones de dólares, y de la qu… [+1738 chars]"
     },
     {
         "source": {
@@ -654,19 +615,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Luis Ernesto Quintana Barney",
-        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
-        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
-        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-26T17:28:45Z",
-        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
         "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
@@ -674,6 +622,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-19T14:41:22Z",
         "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
+        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
+        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-26T17:28:45Z",
+        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
     },
     {
         "source": {
@@ -908,19 +869,6 @@
         "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/09/20/feliz_20240920173720-U77216221174XgE-1024x512@diario_abc.jpg",
         "publishedAt": "2024-09-21T02:24:11Z",
         "content": "La temporada de baloncesto español comenzará con un tiroteo de categoría. Real Madrid y Barcelona se enfrentarán hoy (18.30 horas, Movistar Plus) en la primera de las semifinales de la Supercopa de E… [+4596 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "El Financiero"
-        },
-        "author": "Redacción",
-        "title": "‘¡Vaya dato perturbador!’: ¿Cuántas veces ha sido detenido Luisito Comunica y por qué?",
-        "description": "Luisito Comunica fue detenido en República Dominicana, hecho que se suma a tres problemas legales más, ¿cuáles fueron?",
-        "url": "https://www.elfinanciero.com.mx/espectaculos/2024/09/12/cuantas-veces-han-detenido-a-luisito-comunica-por-que/",
-        "urlToImage": "https://elfinanciero.com.mx/resizer/v2/2OYTDDXW6ZBERB5D3U2GR54AAM.jpg?smart=true&auth=48defb80fd7dc2e34fe5a3ffd341b06d257d762175a993fa54cca0ebc1690295&width=1200&height=630",
-        "publishedAt": "2024-09-12T20:36:31Z",
-        "content": "¡Luisillo, el pillo! El famoso youtuber mexicano, Luis Arturo Villar, fue detenido por las autoridades en el Metro de Santo Domingo, en República Dominicana este martes, sin embargo, no es la primera… [+4406 chars]"
     },
     {
         "source": {
@@ -1279,6 +1227,19 @@
             "name": "Www.abc.es"
         },
         "author": "(abc)",
+        "title": "Juan Magán: «María Pombo no sólo hace una aportación a la cultura, también a la humanidad»",
+        "description": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática durante unos años. Pero nadie le echó de allí, fue él quien se …",
+        "url": "https://www.abc.es/gente/juan-magan-maria-pombo-solo-aportacion-cultura-20240913130007-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/13/1-magan-U28466274050xLh-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-14T06:00:15Z",
+        "content": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática dur… [+3555 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
         "title": "Radiografía de la población extranjera en España: cómo ha crecido en los últimos 20 años",
         "description": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos datos disponibles del INE. Nunca había llegado a cifras tan alt…",
         "url": "https://www.abc.es/sociedad/poblacion-extranjera-espana-maximos-historicos-espana-20240919130349-nt.html",
@@ -1289,14 +1250,53 @@
     {
         "source": {
             "id": null,
+            "name": "Milenio"
+        },
+        "author": "Agencia EFE",
+        "title": "Emiten orden de arresto INTERNACIONAL contra el rapero de origen mexicano Tekashi 69",
+        "description": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el país caribeño de violencia de género contra su expareja, la t…",
+        "url": "https://www.milenio.com/espectaculos/famosos/emiten-orden-de-arresto-contra-tekashi-69",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/09/25/emiten-orden-de-arresto-contra.jpg",
+        "publishedAt": "2024-09-25T22:12:27Z",
+        "content": "Un tribunal dominicano emitió una orden de arresto internacional contra el rapero estadounidense de origen mexicano Daniel Hernández, de nombre artístico Tekashi 6IX9INE o Tekashi 69, acusado en el p… [+1722 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Graffica.info"
+        },
+        "author": "Gràffica",
+        "title": "Diseño gráfico inteligente: proyectos de estudiantes que están a otro nivel",
+        "description": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una diseñadora belgo-peruana que a través de un juego de mesa n…",
+        "url": "https://graffica.info/diseno-grafico-inteligente-proyectos-de-estudiantes-que-estan-a-otro-nivel/",
+        "urlToImage": "https://graffica.ams3.digitaloceanspaces.com/2024/10/TODOS.jpg",
+        "publishedAt": "2024-10-01T14:30:34Z",
+        "content": "Un diseñador gráfico con daltonismo explicando cómo percibe el mundo una persona con esta afección. Una diseñadora trans reivindicando el derecho a un espacio seguro en aplicaciones para citas. O una… [+5700 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Joan Cuenca Saldaña",
+        "title": "Marbella se prepara para acoger a Conor McGregor y su competición, Bare Knuckle",
+        "description": "El Marbella Arena acogerá el próximo 12 de octubre la velada de Bare Knuckle Fighting Championship (BKFC), la organización de deportes de combate con el mayor crecimiento global, con un emocionante triple combate por el título mundial en su esperado evento BK…",
+        "url": "https://www.mundodeportivo.com/ufc/20240923/1002320567/marbella-prepara-acoger-conor-mcgregor-competicion-bare-knuckle.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/23/66f12ef5476e6.png",
+        "publishedAt": "2024-09-23T14:00:00Z",
+        "content": "El Marbella Arena acogerá el próximo 12 de octubre la velada de Bare Knuckle Fighting Championship (BKFC), la organización de deportes de combate con el mayor crecimiento global, con un emocionante t… [+5340 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Www.abc.es"
         },
         "author": "(abc)",
-        "title": "Juan Magán: «María Pombo no sólo hace una aportación a la cultura, también a la humanidad»",
-        "description": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática durante unos años. Pero nadie le echó de allí, fue él quien se …",
-        "url": "https://www.abc.es/gente/juan-magan-maria-pombo-solo-aportacion-cultura-20240913130007-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/13/1-magan-U28466274050xLh-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-14T06:00:15Z",
-        "content": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática dur… [+3555 chars]"
+        "title": "Haití acusa a República Dominicana de seguir una estrategia de «limpieza étnica» contra sus ciudadanos",
+        "description": "El Gobierno de Haití ha denunciado este martes en una reunión extraordinaria del Consejo Permanente de la Organización de Estados Americanos (OEA) que República Dominicana está llevando a cabo una estrategia de «limpieza étnica» con su política de deportacion…",
+        "url": "https://www.abc.es/internacional/haiti-acusa-republica-dominicana-seguir-estrategia-limpieza-20241009073905-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/09/1486991188-kNtH--1024x512@diario_abc.jpg",
+        "publishedAt": "2024-10-09T05:39:05Z",
+        "content": "El Gobierno de Haití ha denunciado este martes en una reunión extraordinaria del Consejo Permanente de la Organización de Estados Americanos (OEA) que República Dominicana está llevando a cabo una es… [+2287 chars]"
     }
 ]
