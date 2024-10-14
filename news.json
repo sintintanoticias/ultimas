@@ -821,19 +821,6 @@
     {
         "source": {
             "id": null,
-            "name": "Milenio"
-        },
-        "author": "Agencia AFP",
-        "title": "República Dominicana deportará semanalmente a 10 mil haitianos indocumentados",
-        "description": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migracióndesde su país vecino, asolado por la violencia de pandillas y la pobreza.De cumplirse el obje…",
-        "url": "https://www.milenio.com/internacional/republica-dominicana-deportara-semanalmente-haitianos-indocumentados",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
-        "publishedAt": "2024-10-03T00:58:14Z",
-        "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Aristeguinoticias.com"
         },
         "author": "Redacción AN / ES",
@@ -843,6 +830,19 @@
         "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/biden-no-entendio-pregunta-nuevas-elecciones-venezuela-casa-blanca-lula-petro-maduro-3-15082024.jpg",
         "publishedAt": "2024-09-18T22:42:47Z",
         "content": "La presidenta electa Claudia Sheinbaum dio a conocer este miércoles los 16 mandatarios de Estado que asistirán a su toma de protesta como la primera presidenta en México.\r\nEl próximo 1 de octubre She… [+2559 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Milenio"
+        },
+        "author": "Agencia AFP",
+        "title": "República Dominicana deportará semanalmente a 10 mil haitianos indocumentados",
+        "description": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migracióndesde su país vecino, asolado por la violencia de pandillas y la pobreza.De cumplirse el obje…",
+        "url": "https://www.milenio.com/internacional/republica-dominicana-deportara-semanalmente-haitianos-indocumentados",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
+        "publishedAt": "2024-10-03T00:58:14Z",
+        "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
     },
     {
         "source": {
