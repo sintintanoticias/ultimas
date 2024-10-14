@@ -615,19 +615,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
-        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
-        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T14:41:22Z",
-        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
         "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
@@ -635,6 +622,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-26T17:28:45Z",
         "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
+        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
+        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T14:41:22Z",
+        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
     },
     {
         "source": {
@@ -950,19 +950,6 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Libertaddigital.com"
-        },
-        "author": "Carlos Cuesta",
-        "title": "La alianza entre el IE de Begoña Gómez y la OMT sumó al Gobierno dominicano",
-        "description": "La colaboración entre IE y OMT impulsó programas educativos globales, con 300 becas otorgadas por el Gobierno dominicano para estudios en turismo",
-        "url": "https://www.libertaddigital.com/espana/2024-09-27/la-alianza-entre-el-ie-de-begona-gomez-y-la-omt-sumo-al-gobierno-dominicano-7167598/",
-        "urlToImage": "https://s.libertaddigital.com/2024/07/10/1200/627/ld/889911-1-1.jpg",
-        "publishedAt": "2024-09-27T04:34:56Z",
-        "content": "La mujer del presidente Sánchez llegó a la dirección del Africa Center del IE en agosto de 2018, nada más ganar su marido la moción de censura con la que ascendió a La Moncloa. Y dejó el mismo centro… [+6442 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -973,6 +960,19 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fbff4e59bf5b4865597f93.jpg",
         "publishedAt": "2024-10-02T23:33:56Z",
         "content": "La reciente muerte de una mujer británica tras someterse a un procedimiento conocido como levantamiento brasileño de glúteos (BBL, por sus siglas en inglés), no quirúrgico, ha puesto en el centro de … [+3846 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "Carlos Cuesta",
+        "title": "La alianza entre el IE de Begoña Gómez y la OMT sumó al Gobierno dominicano",
+        "description": "La colaboración entre IE y OMT impulsó programas educativos globales, con 300 becas otorgadas por el Gobierno dominicano para estudios en turismo",
+        "url": "https://www.libertaddigital.com/espana/2024-09-27/la-alianza-entre-el-ie-de-begona-gomez-y-la-omt-sumo-al-gobierno-dominicano-7167598/",
+        "urlToImage": "https://s.libertaddigital.com/2024/07/10/1200/627/ld/889911-1-1.jpg",
+        "publishedAt": "2024-09-27T04:34:56Z",
+        "content": "La mujer del presidente Sánchez llegó a la dirección del Africa Center del IE en agosto de 2018, nada más ganar su marido la moción de censura con la que ascendió a La Moncloa. Y dejó el mismo centro… [+6442 chars]"
     },
     {
         "source": {
@@ -1227,12 +1227,12 @@
             "name": "Www.abc.es"
         },
         "author": "(abc)",
-        "title": "Juan Magán: «María Pombo no sólo hace una aportación a la cultura, también a la humanidad»",
-        "description": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática durante unos años. Pero nadie le echó de allí, fue él quien se …",
-        "url": "https://www.abc.es/gente/juan-magan-maria-pombo-solo-aportacion-cultura-20240913130007-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/13/1-magan-U28466274050xLh-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-14T06:00:15Z",
-        "content": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática dur… [+3555 chars]"
+        "title": "Radiografía de la población extranjera en España: cómo ha crecido en los últimos 20 años",
+        "description": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos datos disponibles del INE. Nunca había llegado a cifras tan alt…",
+        "url": "https://www.abc.es/sociedad/poblacion-extranjera-espana-maximos-historicos-espana-20240919130349-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/09/19/ep-barcelona-U65150354353mmG-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-20T02:09:35Z",
+        "content": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos dat… [+3645 chars]"
     },
     {
         "source": {
@@ -1240,12 +1240,12 @@
             "name": "Www.abc.es"
         },
         "author": "(abc)",
-        "title": "Radiografía de la población extranjera en España: cómo ha crecido en los últimos 20 años",
-        "description": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos datos disponibles del INE. Nunca había llegado a cifras tan alt…",
-        "url": "https://www.abc.es/sociedad/poblacion-extranjera-espana-maximos-historicos-espana-20240919130349-nt.html",
-        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/09/19/ep-barcelona-U65150354353mmG-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-20T02:09:35Z",
-        "content": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos dat… [+3645 chars]"
+        "title": "Juan Magán: «María Pombo no sólo hace una aportación a la cultura, también a la humanidad»",
+        "description": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática durante unos años. Pero nadie le echó de allí, fue él quien se …",
+        "url": "https://www.abc.es/gente/juan-magan-maria-pombo-solo-aportacion-cultura-20240913130007-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/13/1-magan-U28466274050xLh-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-14T06:00:15Z",
+        "content": "Tras la explosión de fama con sus correspondientes seguidores y odiadores, allá por finales de la década de los cero, el Dj y productor catalán Juan Magán dejó de estar en primera línea mediática dur… [+3555 chars]"
     },
     {
         "source": {
@@ -1292,11 +1292,11 @@
             "name": "Www.abc.es"
         },
         "author": "(abc)",
-        "title": "Haití acusa a República Dominicana de seguir una estrategia de «limpieza étnica» contra sus ciudadanos",
-        "description": "El Gobierno de Haití ha denunciado este martes en una reunión extraordinaria del Consejo Permanente de la Organización de Estados Americanos (OEA) que República Dominicana está llevando a cabo una estrategia de «limpieza étnica» con su política de deportacion…",
-        "url": "https://www.abc.es/internacional/haiti-acusa-republica-dominicana-seguir-estrategia-limpieza-20241009073905-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/09/1486991188-kNtH--1024x512@diario_abc.jpg",
-        "publishedAt": "2024-10-09T05:39:05Z",
-        "content": "El Gobierno de Haití ha denunciado este martes en una reunión extraordinaria del Consejo Permanente de la Organización de Estados Americanos (OEA) que República Dominicana está llevando a cabo una es… [+2287 chars]"
+        "title": "Bare Knuckle, la compañía de boxeo sin guantes de Conor McGregor, se estrenará el 12 de octubre en el Marbella Arena",
+        "description": "Falta menos de un mes para que Bare Knuckle Fighting Championship (BKFC) , la organización de boxeo sin guantes con el mayor crecimiento global, realice su desembarco en nuestro país. La compañía a la que se sumó recientemente la superestrella de la UFC, Cono…",
+        "url": "https://www.abc.es/deportes/bare-knuckle-compania-boxeo-guantes-conor-mcgregor-20240917103109-nt.html",
+        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/09/17/conor-U37711140070rNt-1024x512@diario_abc.jpg",
+        "publishedAt": "2024-09-17T08:31:10Z",
+        "content": "Falta menos de un mes para que Bare Knuckle Fighting Championship (BKFC), la organización de boxeo sin guantes con el mayor crecimiento global, realice su desembarco en nuestro país. La compañía a la… [+5683 chars]"
     }
 ]
