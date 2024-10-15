@@ -66,6 +66,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Thomas Handley",
+        "title": "Misterios sumergidos: los galeones españoles perdidos en aguas dominicanas",
+        "description": "Más de 65 galeones españoles descansan en las profundidades de las costas dominicanas. Solo una docena ha sido explorada, lo que deja un vasto patrimonio por descubrir y preservar. Arqueólogos subacuáticos de España y República Dominicana insisten en la neces…",
+        "url": "https://es.gizmodo.com/misterios-sumergidos-los-galeones-espanoles-perdidos-en-aguas-dominicanas-2000131378",
+        "urlToImage": "https://es.gizmodo.com/app/uploads/2024/10/Galeones-sumergidos-en-aguas-dominicanas.jpg",
+        "publishedAt": "2024-10-14T10:50:30Z",
+        "content": "Un patrimonio compartido bajo el mar\r\nCarlos León, especialista en arqueología subacuática, ha revelado que en las aguas de la República Dominicana se encuentran más de 65 naufragios de origen españo… [+2117 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -823,13 +836,13 @@
             "id": null,
             "name": "Milenio"
         },
-        "author": "Agencia AFP",
-        "title": "República Dominicana deportará semanalmente a 10 mil haitianos indocumentados",
-        "description": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migracióndesde su país vecino, asolado por la violencia de pandillas y la pobreza.De cumplirse el obje…",
-        "url": "https://www.milenio.com/internacional/republica-dominicana-deportara-semanalmente-haitianos-indocumentados",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
-        "publishedAt": "2024-10-03T00:58:14Z",
-        "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
+        "author": "Agencia EFE",
+        "title": "República Dominicana ordena deportación masiva de haitianos; acusan \"cacería humana\"",
+        "description": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en situación irregular hasta alcanzar las 10 mil semanales, anun…",
+        "url": "https://www.milenio.com/internacional/denuncian-caceria-humana-haitianos-republica-dominicana",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/08/haitianos-llegan-preguntar-familiares-detenidos.jpg",
+        "publishedAt": "2024-10-09T03:54:49Z",
+        "content": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en s… [+3257 chars]"
     },
     {
         "source": {
@@ -849,13 +862,13 @@
             "id": null,
             "name": "Milenio"
         },
-        "author": "Agencia EFE",
-        "title": "República Dominicana ordena deportación masiva de haitianos; acusan \"cacería humana\"",
-        "description": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en situación irregular hasta alcanzar las 10 mil semanales, anun…",
-        "url": "https://www.milenio.com/internacional/denuncian-caceria-humana-haitianos-republica-dominicana",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/08/haitianos-llegan-preguntar-familiares-detenidos.jpg",
-        "publishedAt": "2024-10-09T03:54:49Z",
-        "content": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en s… [+3257 chars]"
+        "author": "Agencia AFP",
+        "title": "República Dominicana deportará semanalmente a 10 mil haitianos indocumentados",
+        "description": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migracióndesde su país vecino, asolado por la violencia de pandillas y la pobreza.De cumplirse el obje…",
+        "url": "https://www.milenio.com/internacional/republica-dominicana-deportara-semanalmente-haitianos-indocumentados",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
+        "publishedAt": "2024-10-03T00:58:14Z",
+        "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
     },
     {
         "source": {
@@ -960,6 +973,19 @@
         "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/09/20/feliz_20240920173720-U77216221174XgE-1024x512@diario_abc.jpg",
         "publishedAt": "2024-09-21T02:24:11Z",
         "content": "La temporada de baloncesto español comenzará con un tiroteo de categoría. Real Madrid y Barcelona se enfrentarán hoy (18.30 horas, Movistar Plus) en la primera de las semifinales de la Supercopa de E… [+4596 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "No solo su tumba: Sevilla tiene una joya viva de la familia de Cristóbal Colón",
+        "description": "El paso de la familia Colón por Sevilla sigue manteniéndose sobre todo en el monasterio de La Cartuja, donde aún sigue vivo hasta un ombú que según la leyenda fue plantado por Hernando, el hijo del almirante que descubrió América . Esta planta no es técnicame…",
+        "url": "https://www.abc.es/sevilla/ciudad/solo-tumba-sevilla-joya-viva-familia-cristobal-20241014124829-nts.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2024/10/14/ombu-de-colon-U88105007531oXh-1024x512@diario_abc.JPG",
+        "publishedAt": "2024-10-14T10:48:30Z",
+        "content": "El paso de la familia Colón por Sevilla sigue manteniéndose sobre todo en el monasterio de La Cartuja, donde aún sigue vivo hasta un ombú que según la leyenda fue plantado por Hernando, el hijo del a… [+1955 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/10/01/1-Lamansion-U46427477526xLu-1024x512@diario_abc.jpeg",
         "publishedAt": "2024-10-02T02:41:57Z",
         "content": "Cineteca Madrid, espacio del Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid, acoge este mes de octubre una variada programación que, coincidiendo con la celebración de la Hispanidad, i… [+5467 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Francisco Javier Muñoz Rovira",
-        "title": "Ureña, goles y asistencias llegados de Girona como Pau Víctor",
-        "description": "Carlos Ureña tiene en Pau Víctor un buen espejo en el que mirarse. Como el actual delantero del primer equipo del Barça, el extremo hispano-dominicano, de 21 años también llegó desde el Girona al Barça Atlètic, donde su aportación inicial está siendo muy nota…",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20240922/1002320032/urena-goles-asistencias-llegados-girona-pau-victor.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/09/21/66ef3ab8d4440.r_d.703-365-0.jpeg",
-        "publishedAt": "2024-09-22T10:09:21Z",
-        "content": "Carlos Ureña tiene en Pau Víctor un buen espejo en el que mirarse. Como el actual delantero del primer equipo del Barça, el extremo hispano-dominicano, de 21 años también llegó desde el Girona al Bar… [+2509 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes.com.mx"
-        },
-        "author": "Forbes Staff",
-        "title": "Lula, Boric y Petro, entre los mandatarios que asistirán a la toma de protesta de Sheinbaum",
-        "description": "Forbes México.\n Lula, Boric y Petro, entre los mandatarios que asistirán a la toma de protesta de Sheinbaum\n\nLa próxima presidenta informa que hasta este miércoles 105 países y 22 organismos internacionales han confirmado su asistencia. \nLula, Boric y Petro, …",
-        "url": "https://www.forbes.com.mx/lula-boric-y-petro-entre-los-mandatarios-que-asistiran-a-la-toma-de-protesta-de-sheinbaum/",
-        "urlToImage": "https://cdn.forbes.com.mx/2024/09/Sheinbaum-1.webp",
-        "publishedAt": "2024-09-19T01:17:13Z",
-        "content": "La presidenta electa Claudia Sheinbaum anunció que hasta este miércoles 105 países y 22 organismos internacionales han confirmado su asistencia a su toma de protesta el 1 de octubre.\r\nDetalló que los… [+1479 chars]"
     }
 ]
