@@ -693,19 +693,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
-        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
-        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T14:41:22Z",
-        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
         "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
@@ -713,6 +700,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-26T17:28:45Z",
         "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
+        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
+        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T14:41:22Z",
+        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
     },
     {
         "source": {
@@ -1159,19 +1159,6 @@
     {
         "source": {
             "id": null,
-            "name": "BeInCrypto"
-        },
-        "author": "Andrés Torres",
-        "title": "Bancos de República Dominicana discutirán sobre riesgos de lavado de dinero y scams con criptomonedas",
-        "description": "El Congreso Internacional de Prevención de Lavado de Activos y Financiamiento del Terrorismo (COPLAFT) reunirá en Santo Domingo a expertos internacionales para debatir los riesgos del lavado de dinero con criptomonedas. Organizado por la Asociación de Bancos …",
-        "url": "https://es.beincrypto.com/republica-dominicana-bancos-riesgos-lavado-dinero-criptomonedas-coplaft/",
-        "urlToImage": "https://es.beincrypto.com/wp-content/uploads/2023/01/Republica_Dominicana-Cripto-1.png.webp",
-        "publishedAt": "2024-09-13T17:51:46Z",
-        "content": "El creciente uso de criptomonedas y nuevas tecnologías en Latinoamérica ha generado preocupación entre expertos y reguladores de República Dominicana y el resto de la región por su potencial para fac… [+2817 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Milenio"
         },
         "author": "Agencia EFE",
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/10/01/1-Lamansion-U46427477526xLu-1024x512@diario_abc.jpeg",
         "publishedAt": "2024-10-02T02:41:57Z",
         "content": "Cineteca Madrid, espacio del Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid, acoge este mes de octubre una variada programación que, coincidiendo con la celebración de la Hispanidad, i… [+5467 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Francisco Javier Muñoz Rovira",
+        "title": "Ureña, goles y asistencias llegados de Girona como Pau Víctor",
+        "description": "Carlos Ureña tiene en Pau Víctor un buen espejo en el que mirarse. Como el actual delantero del primer equipo del Barça, el extremo hispano-dominicano, de 21 años también llegó desde el Girona al Barça Atlètic, donde su aportación inicial está siendo muy nota…",
+        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20240922/1002320032/urena-goles-asistencias-llegados-girona-pau-victor.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/09/21/66ef3ab8d4440.r_d.703-365-0.jpeg",
+        "publishedAt": "2024-09-22T10:09:21Z",
+        "content": "Carlos Ureña tiene en Pau Víctor un buen espejo en el que mirarse. Como el actual delantero del primer equipo del Barça, el extremo hispano-dominicano, de 21 años también llegó desde el Girona al Bar… [+2509 chars]"
     }
 ]
