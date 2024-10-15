@@ -379,6 +379,19 @@
     {
         "source": {
             "id": null,
+            "name": "Elespanol.com"
+        },
+        "author": "Manu Delgado",
+        "title": "Xbox anuncia un evento para esta semana: Habrá Xbox Partner Preview el jueves 17 de octubre",
+        "description": "Anunciado un nuevo Xbox Partner Preview para este mismo jueves: durará unos 25 minutos y veremos una docena de tráileres de videojuegos. Te contamos a qué hora verlo en España y el resto del mundo.<!--aa--->Xbox ha anunciado el próximo Xbox Partner Preview, u…",
+        "url": "https://vandal.elespanol.com/noticia/1350774953/xbox-anuncia-un-evento-para-esta-semana-habra-xbox-partner-preview-el-jueves-17-de-octubre/",
+        "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/10/10-2024/14/2024101419234530_1.jpg",
+        "publishedAt": "2024-10-14T17:24:00Z",
+        "content": "Xbox ha anunciado el próximo Xbox Partner Preview, un evento dedicado exclusivamente a mostrar avances de juegos, que se transmitirá el jueves 17 de octubre. Durante unos 25 minutos podremos ver más … [+2009 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Jornada.com.mx"
         },
         "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/10/01/1-Lamansion-U46427477526xLu-1024x512@diario_abc.jpeg",
         "publishedAt": "2024-10-02T02:41:57Z",
         "content": "Cineteca Madrid, espacio del Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid, acoge este mes de octubre una variada programación que, coincidiendo con la celebración de la Hispanidad, i… [+5467 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Francisco Javier Muñoz Rovira",
-        "title": "Ureña, goles y asistencias llegados de Girona como Pau Víctor",
-        "description": "Carlos Ureña tiene en Pau Víctor un buen espejo en el que mirarse. Como el actual delantero del primer equipo del Barça, el extremo hispano-dominicano, de 21 años también llegó desde el Girona al Barça Atlètic, donde su aportación inicial está siendo muy nota…",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20240922/1002320032/urena-goles-asistencias-llegados-girona-pau-victor.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/09/21/66ef3ab8d4440.r_d.703-365-0.jpeg",
-        "publishedAt": "2024-09-22T10:09:21Z",
-        "content": "Carlos Ureña tiene en Pau Víctor un buen espejo en el que mirarse. Como el actual delantero del primer equipo del Barça, el extremo hispano-dominicano, de 21 años también llegó desde el Girona al Bar… [+2509 chars]"
     }
 ]
