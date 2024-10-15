@@ -680,19 +680,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Luis Ernesto Quintana Barney",
-        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
-        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
-        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-26T17:28:45Z",
-        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
         "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
@@ -700,6 +687,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-19T14:41:22Z",
         "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
+        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
+        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-26T17:28:45Z",
+        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
     },
     {
         "source": {
@@ -895,6 +895,32 @@
         "urlToImage": "https://img.lavdg.com/sc/20NpImNwaN9IsVmYjAoZHvzxrkM=/1280x/2024/10/11/00121728675481764603666/Foto/efe_20241010_001057822.jpg",
         "publishedAt": "2024-10-12T03:00:00Z",
         "content": "Por las calles de Reading, en Pensilvania, lo raro es escuchar inglés. Aquí el idioma predominante es un español impregnado, en la mayor parte de los casos, de los acentos de República Dominicana y P… [+123 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hola"
+        },
+        "author": null,
+        "title": "Playas paradisíacas, naturaleza y gastronomía: la luna de miel perfecta en República Dominicana",
+        "description": "",
+        "url": "https://www.hola.com/viajes/20241014720790/luna-de-miel-en-republica-dominicana-galeria/",
+        "urlToImage": "https://www.hola.com/horizon/landscape/6c53297304d8-cayolevantado-samana-beautifuldestinations.jpg?im=Resize=(1200)",
+        "publishedAt": "2024-10-14T08:35:06Z",
+        "content": "Para los amantes de la cultura y la historia, Santo Domingo es una joya imperdible. Su mágica Ciudad Colonial, Patrimonio de la Humanidad, te transporta al pasado entre calles adoquinadas y monumento… [+138 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hola"
+        },
+        "author": null,
+        "title": "Playas paradisíacas, naturaleza y gastronomía: la luna de miel perfecta en República Dominicana",
+        "description": "Desde aventuras en Samaná o ecoturismo por Jarabacoa hasta disfrutar del mar en Punta Cana, Nautalia Viajes propone un recorrido de ensueño para los recién casados",
+        "url": "https://www.hola.com/viajes/20241014720769/luna-de-miel-en-republica-dominicana/",
+        "urlToImage": "https://www.hola.com/horizon/landscape/6c53297304d8-cayolevantado-samana-beautifuldestinations.jpg?im=Resize=(1200)",
+        "publishedAt": "2024-10-14T08:34:24Z",
+        "content": "Si hay un destino completo por su belleza, oferta gastronómica, lujo y mucha diversión, ese es sin duda República Dominicana. ¿Te imaginas despertar con tu persona especial disfrutando del murmullo d… [+5214 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://cdn.forbes.com.mx/2024/09/Sheinbaum-1.webp",
         "publishedAt": "2024-09-19T01:17:13Z",
         "content": "La presidenta electa Claudia Sheinbaum anunció que hasta este miércoles 105 países y 22 organismos internacionales han confirmado su asistencia a su toma de protesta el 1 de octubre.\r\nDetalló que los… [+1479 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Jenesaispop.com"
-        },
-        "author": "Sebas E. Alonso",
-        "title": "Jhayco da otra victoria a Broncano a pesar de lo desmañado",
-        "description": "El portorriqueño Jhayco es el actual número 1 de álbumes en España con su nuevo disco ‘Le Clique: Vida Rockstar’. 4 de sus 29 canciones se sitúan en el top 100 de singles. El cantante, mega conocido por colaboraciones con Bad Bunny como la multimillonaria ‘DÁ…",
-        "url": "https://jenesaispop.com/2024/09/18/482576/jhayco-broncano-revuelta/",
-        "urlToImage": "https://jenesaispop.com/wp-content/uploads/2024/09/jhayco-broncano.jpg",
-        "publishedAt": "2024-09-18T07:31:00Z",
-        "content": "El portorriqueño Jhayco es el actual número 1 de álbumes en España con su nuevo disco ‘Le Clique: Vida Rockstar’. 4 de sus 29 canciones se sitúan en el top 100 de singles. El cantante, mega conocido … [+3145 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
-        "title": "Radiografía de la población extranjera en España: cómo ha crecido en los últimos 20 años",
-        "description": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos datos disponibles del INE. Nunca había llegado a cifras tan alt…",
-        "url": "https://www.abc.es/sociedad/poblacion-extranjera-espana-maximos-historicos-espana-20240919130349-nt.html",
-        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/09/19/ep-barcelona-U65150354353mmG-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-20T02:09:35Z",
-        "content": "La población de origen extranjero está en máximos históricos en España. Los habitantes nacidos en otro país superan los 8,2 millones de personas y ya suponen el 17,1% del censo, según los últimos dat… [+3645 chars]"
     }
 ]
