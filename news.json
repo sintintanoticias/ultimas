@@ -249,19 +249,6 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Lucas Handley",
-        "title": "Impresionante: Investigadores aseguran haber encontrado los huesos de Cristóbal Colón en una iglesia española",
-        "description": "Un equipo de investigadores ha afirmado que los restos del explorador Cristóbal Colón se encuentran en una catedral en Sevilla, España.",
-        "url": "https://es.gizmodo.com/impresionante-investigadores-aseguran-haber-encontrado-los-huesos-de-cristobal-colon-en-una-iglesia-espanola-2000131122",
-        "urlToImage": "https://es.gizmodo.com/app/uploads/2024/10/Diseno-sin-titulo-2024-10-11T133035.774.jpg",
-        "publishedAt": "2024-10-11T17:10:25Z",
-        "content": "A través de pruebas de ADN, confirmaron que un conjunto incompleto de restos en la catedral corresponde al explorador del siglo XV.\r\nPoco se sabe sobre los orígenes de Colón, quien navegó en 1492 y l… [+1999 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Finofilipino.org"
         },
         "author": "Fino",
@@ -271,6 +258,19 @@
         "urlToImage": "https://finofilipino.org/wp-content/uploads/2024/10/qwefderttyerh.jpg",
         "publishedAt": "2024-10-10T10:30:42Z",
         "content": "La policía de Tampa sugiere a esas personas que se hagan una foto, que escriban encima su nombre y fecha de nacimiento, y luego se peguen la foto a la ropa. Les facilitará la identificación de cadávr… [+380 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Lucas Handley",
+        "title": "Impresionante: Investigadores aseguran haber encontrado los huesos de Cristóbal Colón en una iglesia española",
+        "description": "Un equipo de investigadores ha afirmado que los restos del explorador Cristóbal Colón se encuentran en una catedral en Sevilla, España.",
+        "url": "https://es.gizmodo.com/impresionante-investigadores-aseguran-haber-encontrado-los-huesos-de-cristobal-colon-en-una-iglesia-espanola-2000131122",
+        "urlToImage": "https://es.gizmodo.com/app/uploads/2024/10/Diseno-sin-titulo-2024-10-11T133035.774.jpg",
+        "publishedAt": "2024-10-11T17:10:25Z",
+        "content": "A través de pruebas de ADN, confirmaron que un conjunto incompleto de restos en la catedral corresponde al explorador del siglo XV.\r\nPoco se sabe sobre los orígenes de Colón, quien navegó en 1492 y l… [+1999 chars]"
     },
     {
         "source": {
@@ -427,6 +427,19 @@
         "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
         "publishedAt": "2024-10-09T09:32:44Z",
         "content": "Periódico La JornadaMiércoles 9 de octubre de 2024, p. 21\r\nSanto Domingo. República Dominicana deportó a casi 11 mil haitianos en la última semana mientras el vecino país lucha por manejar esa afluen… [+567 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Álvaro Palazón",
+        "title": "Un escritor inglés conquista a miles de personas al definir así lo que es el \"cuñadismo\"",
+        "description": "<![CDATA[<p>El escritor de origen británico Adam Sharp ha elaborado un curioso hilo con motivo del 12 de octubre, Día de la Hispanidad, con algunas expresiones en español que le han llamado la atención y la primera es muy típica de España. wf_cms.rss.read_mor…",
+        "url": "https://www.huffingtonpost.es/virales/un-escritor-ingles-conquista-miles-personas-definir-asi-cunadismo.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/10/15/tuit-de-adam-sharp-que-da-inicio-a-un-hilo.jpeg",
+        "publishedAt": "2024-10-15T14:03:58Z",
+        "content": "El escritor de origen británico Adam Sharp ha elaborado un curioso hilo con motivo del 12 de octubre, Día de la Hispanidad, con algunas expresiones en español que le han llamado la atención y la prim… [+720 chars]"
     },
     {
         "source": {
@@ -732,19 +745,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Luis Ernesto Quintana Barney",
-        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
-        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
-        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-26T17:28:45Z",
-        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
         "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
@@ -752,6 +752,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-19T14:41:22Z",
         "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
+        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
+        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-26T17:28:45Z",
+        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/09/M_091833_kirk-deja-mas-de-una-docena-de-vuelos-cancelados-y-desviados.jpg",
         "publishedAt": "2024-10-09T07:28:40Z",
         "content": "Aunque ya no ha tocado tierra en forma de huracán, las consecuencias de la borrasca Kirk se están dejando notar en los aeropuertos españoles, especialmente en el norte. De hecho, desde Enaire, ante l… [+2064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hosteltur.com"
-        },
-        "author": "Hosteltur",
-        "title": "Meliá Hotels International: Road to Net Zero Events",
-        "description": "Reducción, Aprendizaje e Innovación Al elegir Meliá, los clientes no solo optan por un servicio de excelencia, sino que también se asocian con un líder en sostenibilidad comprometido con la gestión responsable. La empresa ha implementado un amplio programa de…",
-        "url": "https://www.hosteltur.com/166021_melia-hotels-international-road-to-net-zero-events.html",
-        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/07/M_231250_melia-hotels-international-camino-hacia-eventos-net-zero.jpg",
-        "publishedAt": "2024-10-10T22:00:01Z",
-        "content": "Reducción, Aprendizaje e Innovación\r\nAl elegir Meliá, los clientes no solo optan por un servicio de excelencia, sino que también se asocian con un líder en sostenibilidad comprometido con la gestión … [+2344 chars]"
     }
 ]
