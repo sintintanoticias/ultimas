@@ -860,19 +860,6 @@
     {
         "source": {
             "id": null,
-            "name": "Aristeguinoticias.com"
-        },
-        "author": "Redacción AN / ES",
-        "title": "Confirman 16 mandatarios a toma de protesta de Sheinbaum: Lula, Petro, Boric, Díaz-Canel…",
-        "description": "En representación del presidente de Alemania, Frank-Walter Steinmeier, acude el expresidente Christian Walter.",
-        "url": "https://aristeguinoticias.com/1809/mexico/confirman-16-mandatarios-a-toma-de-protesta-de-sheinbaum-lula-petro-boric-diaz-canel/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/biden-no-entendio-pregunta-nuevas-elecciones-venezuela-casa-blanca-lula-petro-maduro-3-15082024.jpg",
-        "publishedAt": "2024-09-18T22:42:47Z",
-        "content": "La presidenta electa Claudia Sheinbaum dio a conocer este miércoles los 16 mandatarios de Estado que asistirán a su toma de protesta como la primera presidenta en México.\r\nEl próximo 1 de octubre She… [+2559 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Milenio"
         },
         "author": "Agencia EFE",
@@ -882,6 +869,19 @@
         "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/08/haitianos-llegan-preguntar-familiares-detenidos.jpg",
         "publishedAt": "2024-10-09T03:54:49Z",
         "content": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en s… [+3257 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aristeguinoticias.com"
+        },
+        "author": "Redacción AN / ES",
+        "title": "Confirman 16 mandatarios a toma de protesta de Sheinbaum: Lula, Petro, Boric, Díaz-Canel…",
+        "description": "En representación del presidente de Alemania, Frank-Walter Steinmeier, acude el expresidente Christian Walter.",
+        "url": "https://aristeguinoticias.com/1809/mexico/confirman-16-mandatarios-a-toma-de-protesta-de-sheinbaum-lula-petro-boric-diaz-canel/",
+        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/biden-no-entendio-pregunta-nuevas-elecciones-venezuela-casa-blanca-lula-petro-maduro-3-15082024.jpg",
+        "publishedAt": "2024-09-18T22:42:47Z",
+        "content": "La presidenta electa Claudia Sheinbaum dio a conocer este miércoles los 16 mandatarios de Estado que asistirán a su toma de protesta como la primera presidenta en México.\r\nEl próximo 1 de octubre She… [+2559 chars]"
     },
     {
         "source": {
