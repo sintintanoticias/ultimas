@@ -521,19 +521,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Andrea Saint Martin",
-        "title": "Venezuela afirma que un infante de Marina de EE.UU. está entre los extranjeros detenidos por una supuesta \"operación\" de la CIA para matar a Maduro",
-        "description": "El Departamento de Estado rechazó como \"categóricamente falsa\" la afirmación de Diosdado Cabello sobre un supuesto complot dirigido por la CIA que tenía como objetivo matar al líder del país.\n<ul>\n<li>Venezuela incautó 400 fusiles de EE.UU. y detuvo a varios …",
-        "url": "https://cnnespanol.cnn.com/2024/09/15/venezuela-dice-que-un-infante-de-marina-de-ee-uu-esta-entre-los-extranjeros-detenidos-por-una-supuesta-operacion-de-la-cia-para-matar-a-maduro/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2167203758-20240910165331183.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-15T12:05:16Z",
-        "content": "EE.UU. sanciona a funcionarios del oficialismo de Venezuela 2:54\r\n(CNN) -- Venezuela informó que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos, por un supuesto complot pa… [+4698 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -544,6 +531,19 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fc0b2459bf5b7eb81f10c7.png",
         "publishedAt": "2024-10-01T15:47:35Z",
         "content": "El presidente de Colombia, Gustavo Petro, compartió en sus redes una imagen junto a sus pares de Brasil, Luiz Inacio Lula da Silva; de Chile, Gabriel Boric; y de Honduras, Xiomara Castro.\r\n\"Un grupo … [+1148 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Andrea Saint Martin",
+        "title": "Venezuela afirma que un infante de Marina de EE.UU. está entre los extranjeros detenidos por una supuesta \"operación\" de la CIA para matar a Maduro",
+        "description": "El Departamento de Estado rechazó como \"categóricamente falsa\" la afirmación de Diosdado Cabello sobre un supuesto complot dirigido por la CIA que tenía como objetivo matar al líder del país.\n<ul>\n<li>Venezuela incautó 400 fusiles de EE.UU. y detuvo a varios …",
+        "url": "https://cnnespanol.cnn.com/2024/09/15/venezuela-dice-que-un-infante-de-marina-de-ee-uu-esta-entre-los-extranjeros-detenidos-por-una-supuesta-operacion-de-la-cia-para-matar-a-maduro/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2167203758-20240910165331183.jpg?quality=100&strip=info",
+        "publishedAt": "2024-09-15T12:05:16Z",
+        "content": "EE.UU. sanciona a funcionarios del oficialismo de Venezuela 2:54\r\n(CNN) -- Venezuela informó que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos, por un supuesto complot pa… [+4698 chars]"
     },
     {
         "source": {
@@ -732,19 +732,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
-        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
-        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T14:41:22Z",
-        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
         "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
@@ -752,6 +739,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-26T17:28:45Z",
         "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
+        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
+        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T14:41:22Z",
+        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
     },
     {
         "source": {
