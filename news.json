@@ -365,19 +365,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Andrea Saint Martin",
-        "title": "Venezuela dice que un infante de Marina de EE.UU. está entre los extranjeros detenidos por una supuesta \"operación\" de la CIA para asesinar a Maduro",
-        "description": "Venezuela dice que detuvo a seis extranjeros, incluido un infante de Marina de EE.UU., por un supuesto complot para “desestabilizar” el país.\n<ul>\n<li>Venezuela incautó 400 fusiles de EE.UU. y detuvo a varios extranjeros </li>\n<li>ANÁLISIS | ¿Cómo sigue la lu…",
-        "url": "https://cnnespanol.cnn.com/2024/09/14/venezuela-dice-que-un-infante-de-marina-de-ee-uu-esta-entre-los-extranjeros-detenidos-por-una-supuesta-operacion-de-la-cia-para-asesinar-a-maduro",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1752827-israel-diplomacy-navy-emergency.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-15T03:16:16Z",
-        "content": "(CNN) Venezuela dice que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos,  por un supuesto complot para desestabilizar el país que ha estado en crisis desde las elecciones … [+4054 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -550,13 +537,13 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Andrea Saint Martin",
-        "title": "Venezuela afirma que un infante de Marina de EE.UU. está entre los extranjeros detenidos por una supuesta \"operación\" de la CIA para matar a Maduro",
-        "description": "El Departamento de Estado rechazó como \"categóricamente falsa\" la afirmación de Diosdado Cabello sobre un supuesto complot dirigido por la CIA que tenía como objetivo matar al líder del país.\n<ul>\n<li>Venezuela incautó 400 fusiles de EE.UU. y detuvo a varios …",
-        "url": "https://cnnespanol.cnn.com/2024/09/15/venezuela-dice-que-un-infante-de-marina-de-ee-uu-esta-entre-los-extranjeros-detenidos-por-una-supuesta-operacion-de-la-cia-para-matar-a-maduro/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2167203758-20240910165331183.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-15T12:05:16Z",
-        "content": "EE.UU. sanciona a funcionarios del oficialismo de Venezuela 2:54\r\n(CNN) -- Venezuela informó que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos, por un supuesto complot pa… [+4698 chars]"
+        "author": "urielblanco",
+        "title": "Nuevo estudio revela el misterio de hace siglos sobre los verdaderos orígenes de Cristóbal Colón",
+        "description": "Cristóbal Colón era un judío sefardí de Europa Occidental, según afirmaron científicos españoles el sábado, tras utilizar análisis de ADN para resolver un misterio de hace siglos.\nThe post Nuevo estudio revela el misterio de hace siglos sobre los verdaderos o…",
+        "url": "https://cnnespanol.cnn.com/2024/10/13/estudio-misterio-secular-verdaderos-origenes-cristobal-colon-reux",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766118-copia-de-foto-para-wp-2024-10-13t115127-240.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-13T19:21:05Z",
+        "content": "(Reuters) El explorador del siglo XV Cristóbal Colón era un judío sefardí de Europa Occidental, según afirmaron científicos españoles este sábado, tras utilizar análisis de ADN para resolver un miste… [+2312 chars]"
     },
     {
         "source": {
@@ -570,32 +557,6 @@
         "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/10/08/1728379601349-U27824131278ZgH-1024x512@diario_abc.jpg",
         "publishedAt": "2024-10-08T09:29:20Z",
         "content": "Agentes de la Policía Nacional han desmantelado un narcopiso del distrito madrileño de Tetuán. La investigación puso de manifiesto que un hombre utilizaba su propio domicilio como punto de adquisició… [+756 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "urielblanco",
-        "title": "Nuevo estudio revela el misterio de hace siglos sobre los verdaderos orígenes de Cristóbal Colón",
-        "description": "Cristóbal Colón era un judío sefardí de Europa Occidental, según afirmaron científicos españoles el sábado, tras utilizar análisis de ADN para resolver un misterio de hace siglos.\nThe post Nuevo estudio revela el misterio de hace siglos sobre los verdaderos o…",
-        "url": "https://cnnespanol.cnn.com/2024/10/13/estudio-misterio-secular-verdaderos-origenes-cristobal-colon-reux",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766118-copia-de-foto-para-wp-2024-10-13t115127-240.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-10-13T19:21:05Z",
-        "content": "(Reuters) El explorador del siglo XV Cristóbal Colón era un judío sefardí de Europa Occidental, según afirmaron científicos españoles este sábado, tras utilizar análisis de ADN para resolver un miste… [+2312 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Andrea Saint Martin",
-        "title": "Venezuela afirma que un infante de Marina de EE.UU. está entre los extranjeros detenidos por una supuesta \"operación\" de la CIA para matar a Maduro",
-        "description": "Venezuela dice que detuvo a seis extranjeros, incluido un infante de Marina de EE.UU., por un supuesto complot para “desestabilizar” el país.\n<ul>\n<li>Venezuela incautó 400 fusiles de EE.UU. y detuvo a varios extranjeros </li>\n<li>ANÁLISIS | ¿Cómo sigue la lu…",
-        "url": "https://cnnespanol.cnn.com/2024/09/14/venezuela-dice-que-un-infante-de-marina-de-ee-uu-esta-entre-los-extranjeros-detenidos-por-una-supuesta-operacion-de-la-cia-para-matar-a-maduro/",
-        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1160458555-e1726370151454.jpg?quality=100&strip=info",
-        "publishedAt": "2024-09-15T03:16:16Z",
-        "content": "EE.UU. sanciona a funcionarios del oficialismo de Venezuela 2:54\r\n(CNN) -- Venezuela informó que detuvo a seis extranjeros, incluido un infante de Marina de Estados Unidos, por un supuesto complot pa… [+4278 chars]"
     },
     {
         "source": {
@@ -745,19 +706,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
-        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
-        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T14:41:22Z",
-        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
         "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
@@ -765,6 +713,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-26T17:28:45Z",
         "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
+        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
+        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T14:41:22Z",
+        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
     },
     {
         "source": {
@@ -888,19 +849,6 @@
             "id": null,
             "name": "Milenio"
         },
-        "author": "Agencia AFP",
-        "title": "República Dominicana deportará semanalmente a 10 mil haitianos indocumentados",
-        "description": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migracióndesde su país vecino, asolado por la violencia de pandillas y la pobreza.De cumplirse el obje…",
-        "url": "https://www.milenio.com/internacional/republica-dominicana-deportara-semanalmente-haitianos-indocumentados",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
-        "publishedAt": "2024-10-03T00:58:14Z",
-        "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Milenio"
-        },
         "author": "Agencia EFE",
         "title": "República Dominicana ordena deportación masiva de haitianos; acusan \"cacería humana\"",
         "description": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en situación irregular hasta alcanzar las 10 mil semanales, anun…",
@@ -908,6 +856,19 @@
         "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/08/haitianos-llegan-preguntar-familiares-detenidos.jpg",
         "publishedAt": "2024-10-09T03:54:49Z",
         "content": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en s… [+3257 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Milenio"
+        },
+        "author": "Agencia AFP",
+        "title": "República Dominicana deportará semanalmente a 10 mil haitianos indocumentados",
+        "description": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migracióndesde su país vecino, asolado por la violencia de pandillas y la pobreza.De cumplirse el obje…",
+        "url": "https://www.milenio.com/internacional/republica-dominicana-deportara-semanalmente-haitianos-indocumentados",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
+        "publishedAt": "2024-10-03T00:58:14Z",
+        "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
     },
     {
         "source": {
@@ -1298,5 +1259,44 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/09/M_091833_kirk-deja-mas-de-una-docena-de-vuelos-cancelados-y-desviados.jpg",
         "publishedAt": "2024-10-09T07:28:40Z",
         "content": "Aunque ya no ha tocado tierra en forma de huracán, las consecuencias de la borrasca Kirk se están dejando notar en los aeropuertos españoles, especialmente en el norte. De hecho, desde Enaire, ante l… [+2064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hosteltur.com"
+        },
+        "author": "Hosteltur",
+        "title": "Meliá Hotels International: Road to Net Zero Events",
+        "description": "Reducción, Aprendizaje e Innovación Al elegir Meliá, los clientes no solo optan por un servicio de excelencia, sino que también se asocian con un líder en sostenibilidad comprometido con la gestión responsable. La empresa ha implementado un amplio programa de…",
+        "url": "https://www.hosteltur.com/166021_melia-hotels-international-road-to-net-zero-events.html",
+        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/07/M_231250_melia-hotels-international-camino-hacia-eventos-net-zero.jpg",
+        "publishedAt": "2024-10-10T22:00:01Z",
+        "content": "Reducción, Aprendizaje e Innovación\r\nAl elegir Meliá, los clientes no solo optan por un servicio de excelencia, sino que también se asocian con un líder en sostenibilidad comprometido con la gestión … [+2344 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Aristeguinoticias.com"
+        },
+        "author": "Redacción AN / MDS",
+        "title": "Lula da Silva llega a México para la toma de posesión de Sheinbaum",
+        "description": "El presidente brasileño se reunirá este lunes con Sheinbaum para tratar asuntos de la agenda bilateral y la crisis venezolana, anticiparon fuentes diplomáticas a la agencia EFE.",
+        "url": "https://aristeguinoticias.com/3009/mexico/lula-da-silva-llega-a-mexico-para-la-toma-de-posesion-de-sheinbaum/",
+        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/lula-da-silva-mexico-claudia-sheinbaum-efe-30092024.jpg",
+        "publishedAt": "2024-09-30T07:52:26Z",
+        "content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl presidente brasileño, Luiz Inácio Lula da Silva, llegó el domingo a la Ciudad de México para asistir a la toma de posesión de la presidenta elec… [+2664 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.abc.es"
+        },
+        "author": "(abc)",
+        "title": "Cineteca celebra la Hispanidad con grandes clásicos y proyectos olvidados",
+        "description": "Cineteca Madrid , espacio del Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid, acoge este mes de octubre una variada programación que, coincidiendo con la celebración de la Hispanidad, invitará a redescubrir el cine español y acercará la realida…",
+        "url": "https://www.abc.es/espana/madrid/cineteca-celebra-hispanidad-grandes-clasicos-proyectos-olvidados-20241001181412-nt.html",
+        "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/10/01/1-Lamansion-U46427477526xLu-1024x512@diario_abc.jpeg",
+        "publishedAt": "2024-10-02T02:41:57Z",
+        "content": "Cineteca Madrid, espacio del Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid, acoge este mes de octubre una variada programación que, coincidiendo con la celebración de la Hispanidad, i… [+5467 chars]"
     }
 ]
