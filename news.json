@@ -157,6 +157,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Hipertextual"
+        },
+        "author": "Azucena Martín",
+        "title": "Hablamos con uno de los científicos que abandonaron el proyecto del ADN de Colón: «No hay rigor y me alegro de no salir en el documental»",
+        "description": "El pasado sábado, 12 de octubre, se emitió en TVE el documental Colón ADN: su verdadero origen. En él, José Antonio Lorente, el genetista que se ha encargado de analizar el ADN de Colón en los últimos 20 años, ha dado respuesta a dos grandes misterios de la h…",
+        "url": "http://hipertextual.com/2024/10/adn-colon-lorente-miguel-botella",
+        "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/10/98.jpg-2.jpg?fit=1900%2C1069&quality=70&strip=all&ssl=1",
+        "publishedAt": "2024-10-16T06:59:00Z",
+        "content": "Publicado enCiencia\r\nLa publicación del documental sobre el ADN de Colón ha sido de lo más polémica. Por eso, en ‘Hipertextual’ hemos hablado con Miguel Botella, uno de los científicos que abandonaro… [+13311 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -290,19 +303,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Begoña Villarrubia Renom",
-        "title": "España busca su tercer Mundial Sub'17 para mantener su reinado",
-        "description": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su tercera Copa del Mundo consecutiva y alargar su reinado mundia…",
-        "url": "https://www.mundodeportivo.com/futbol/20241015/1002334015/espana-busca-tercer-mundial-sub-17-seguir-reinado.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/03/07/65e9a06799622.r_d.639-444-0.jpeg",
-        "publishedAt": "2024-10-15T17:37:25Z",
-        "content": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su te… [+1672 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "Autor Redacción",
         "title": "'La isla de las tentaciones 8' sufre la primera filtración: este famoso rostro será tentador",
         "description": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana para grabar la octava temporada y ya han regresado con todo…",
@@ -310,6 +310,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/01/09/659db64e21b70.r_d.1413-466-0.jpeg",
         "publishedAt": "2024-10-14T19:37:49Z",
         "content": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana… [+1453 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Begoña Villarrubia Renom",
+        "title": "España busca su tercer Mundial Sub'17 para mantener su reinado",
+        "description": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su tercera Copa del Mundo consecutiva y alargar su reinado mundia…",
+        "url": "https://www.mundodeportivo.com/futbol/20241015/1002334015/espana-busca-tercer-mundial-sub-17-seguir-reinado.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/03/07/65e9a06799622.r_d.639-444-0.jpeg",
+        "publishedAt": "2024-10-15T17:37:25Z",
+        "content": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su te… [+1672 chars]"
     },
     {
         "source": {
@@ -719,19 +732,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
-        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
-        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T14:41:22Z",
-        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
         "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
@@ -739,6 +739,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-26T17:28:45Z",
         "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
+        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
+        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T14:41:22Z",
+        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/07/M_231250_melia-hotels-international-camino-hacia-eventos-net-zero.jpg",
         "publishedAt": "2024-10-10T22:00:01Z",
         "content": "Reducción, Aprendizaje e Innovación\r\nAl elegir Meliá, los clientes no solo optan por un servicio de excelencia, sino que también se asocian con un líder en sostenibilidad comprometido con la gestión … [+2344 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Aristeguinoticias.com"
-        },
-        "author": "Redacción AN / MDS",
-        "title": "Lula da Silva llega a México para la toma de posesión de Sheinbaum",
-        "description": "El presidente brasileño se reunirá este lunes con Sheinbaum para tratar asuntos de la agenda bilateral y la crisis venezolana, anticiparon fuentes diplomáticas a la agencia EFE.",
-        "url": "https://aristeguinoticias.com/3009/mexico/lula-da-silva-llega-a-mexico-para-la-toma-de-posesion-de-sheinbaum/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/09/lula-da-silva-mexico-claudia-sheinbaum-efe-30092024.jpg",
-        "publishedAt": "2024-09-30T07:52:26Z",
-        "content": "[Síguenos ahora también en WhatsApp. Da clic aquí]\r\nEl presidente brasileño, Luiz Inácio Lula da Silva, llegó el domingo a la Ciudad de México para asistir a la toma de posesión de la presidenta elec… [+2664 chars]"
     }
 ]
