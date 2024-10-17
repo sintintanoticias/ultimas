@@ -667,19 +667,6 @@
             "id": null,
             "name": "Hola"
         },
-        "author": "María Medina",
-        "title": "Silvia Alonso, a miles de kilómetros de su novio, el presentador del momento David Broncano",
-        "description": "La actriz se encuentra en República Dominicana por motivos de trabajo",
-        "url": "https://www.hola.com/actualidad/20240916718475/silvia-alonso-david-broncano-republica-dominicana/",
-        "urlToImage": "https://www.hola.com/horizon/landscape/5ca6ac194bbe-an-no-puedo-poner-fotos-del-rodaje-pero-s-de-todo-lo-dems.jpg?im=Resize=(1200)",
-        "publishedAt": "2024-09-16T11:32:22Z",
-        "content": "Silvia Alonso se encuentra al otro lado del charco mientras su novio, el presentador David Broncano, conquista a la audiencia con La Revuelta. La actriz, de 34 años, ha compartido varias imágenes de … [+2010 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hola"
-        },
         "author": "Adriana Casado",
         "title": "Sandra Barneda, inmersa en la grabación de la 8ª temporada de La Isla de las Tentaciones, descubre secretos del rodaje",
         "description": "La periodista ha compartido partes de su día a día en República Dominicana",
@@ -873,6 +860,19 @@
     {
         "source": {
             "id": null,
+            "name": "Record.com.mx"
+        },
+        "author": "Record.com.mx",
+        "title": "La Selección Mexicana Femenil está lista para la Copa Mundial Sub-17",
+        "description": "El certamen juvenil comenzó este miércoles en República Dominicana",
+        "url": "https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/la-seleccion-mexicana-femenil-esta-lista-para-la-copa",
+        "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/16/gzvlvvmx0aae0ms.jpg",
+        "publishedAt": "2024-10-16T21:49:00Z",
+        "content": "La Copa Mundial Sub-17 Femenil comenzó este miércoles en República Dominicana y la Selección Mexicana está lista para el reto que será la competición en la isla caribeña. El equipo Tricolor se coloca… [+2386 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Milenio"
         },
         "author": "Agencia EFE",
@@ -908,19 +908,6 @@
         "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/biden-no-entendio-pregunta-nuevas-elecciones-venezuela-casa-blanca-lula-petro-maduro-3-15082024.jpg",
         "publishedAt": "2024-09-18T22:42:47Z",
         "content": "La presidenta electa Claudia Sheinbaum dio a conocer este miércoles los 16 mandatarios de Estado que asistirán a su toma de protesta como la primera presidenta en México.\r\nEl próximo 1 de octubre She… [+2559 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hosteltur.com"
-        },
-        "author": "Hosteltur",
-        "title": "Bahía Príncipe cierra el verano con un crecimiento del 14% en los ingresos",
-        "description": "La división hotelera del Grupo Piñero ha cerrado la temporada de verano mejorando las cifras de ocupación e ingresos, mientras que el turoperador mantuvo el número de pasajeros y mejoró “significativamente” su rentabilidad, pese a un contexto global “desafian…",
-        "url": "https://www.hosteltur.com/165599_bahia-principe-cierra-el-verano-con-un-crecimiento-del-14-en-los-ingresos.html",
-        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/16/M_124032_bahia-principe-cierra-el-verano-con-un-crecimiento-del-14-en-los-ingresos.jpg",
-        "publishedAt": "2024-09-16T10:56:06Z",
-        "content": "Bahía Principe Hotels &amp; Resorts alcanzó este verano una ocupación general del 83% en todos sus hoteles y los ingresos mostraron un “incremento significativo del 14%” si se compara con el verano a… [+1148 chars]"
     },
     {
         "source": {
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/09/M_091833_kirk-deja-mas-de-una-docena-de-vuelos-cancelados-y-desviados.jpg",
         "publishedAt": "2024-10-09T07:28:40Z",
         "content": "Aunque ya no ha tocado tierra en forma de huracán, las consecuencias de la borrasca Kirk se están dejando notar en los aeropuertos españoles, especialmente en el norte. De hecho, desde Enaire, ante l… [+2064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hosteltur.com"
+        },
+        "author": "Hosteltur",
+        "title": "Meliá Hotels International: Road to Net Zero Events",
+        "description": "Reducción, Aprendizaje e Innovación Al elegir Meliá, los clientes no solo optan por un servicio de excelencia, sino que también se asocian con un líder en sostenibilidad comprometido con la gestión responsable. La empresa ha implementado un amplio programa de…",
+        "url": "https://www.hosteltur.com/166021_melia-hotels-international-road-to-net-zero-events.html",
+        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/07/M_231250_melia-hotels-international-camino-hacia-eventos-net-zero.jpg",
+        "publishedAt": "2024-10-10T22:00:01Z",
+        "content": "Reducción, Aprendizaje e Innovación\r\nAl elegir Meliá, los clientes no solo optan por un servicio de excelencia, sino que también se asocian con un líder en sostenibilidad comprometido con la gestión … [+2344 chars]"
     }
 ]
