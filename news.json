@@ -222,19 +222,6 @@
     },
     {
         "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Luis Abinader demanda mayor \"involucramiento\" de la comunidad internacional en Haití",
-        "description": "El mandatario de República Dominicana refirió que solo se han desplegado 400 efectivos pertenecientes a la Misión de la ONU, de los 2.000 que son necesarios para cumplir las metas de pacificación.",
-        "url": "https://actualidad.rt.com/actualidad/524215-abinader-involucramiento-comunidad-internacional-haiti",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66f4532659bf5b0a20784ede.jpg",
-        "publishedAt": "2024-09-25T20:23:56Z",
-        "content": "El presidente dominicano, Luis Abinader, solicitó este miércoles una mayor implicación de la \"comunidad internacional\" en la \"estabilización\" de la situación sociopolítica en Haití, toda vez que, des… [+1820 chars]"
-    },
-    {
-        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -245,6 +232,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765828-restos-de-cristobal-colon.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-10-12T14:53:09Z",
         "content": "(CNN Español) Un grupo de investigadores españoles confirmó este jueves que los restos de Cristóbal Colón reposan, en efecto, en la catedral de Sevilla.\r\nEn una rueda de prensa convocada por el docum… [+1764 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Luis Abinader demanda mayor \"involucramiento\" de la comunidad internacional en Haití",
+        "description": "El mandatario de República Dominicana refirió que solo se han desplegado 400 efectivos pertenecientes a la Misión de la ONU, de los 2.000 que son necesarios para cumplir las metas de pacificación.",
+        "url": "https://actualidad.rt.com/actualidad/524215-abinader-involucramiento-comunidad-internacional-haiti",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66f4532659bf5b0a20784ede.jpg",
+        "publishedAt": "2024-09-25T20:23:56Z",
+        "content": "El presidente dominicano, Luis Abinader, solicitó este miércoles una mayor implicación de la \"comunidad internacional\" en la \"estabilización\" de la situación sociopolítica en Haití, toda vez que, des… [+1820 chars]"
     },
     {
         "source": {
@@ -303,13 +303,13 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Autor Redacción",
-        "title": "'La isla de las tentaciones 8' sufre la primera filtración: este famoso rostro será tentador",
-        "description": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana para grabar la octava temporada y ya han regresado con todo…",
-        "url": "https://www.mundodeportivo.com/elotromundo/television/20241014/1002333466/isla-tentaciones-8-sufre-primera-filtracion-famoso-rostro-sera-tentador-dct.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/01/09/659db64e21b70.r_d.1413-466-0.jpeg",
-        "publishedAt": "2024-10-14T19:37:49Z",
-        "content": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana… [+1453 chars]"
+        "author": "Agencias Genérico",
+        "title": "Rubiales niega que tenga cuentas en Dominicana y dinero en Arabia y avisa una querella contra Galán",
+        "description": "El expresidente de la Real Federación Española de Fútbol (RFEF) Luis Rubiales ha calificado de \"falso\" que disponga \"de 36 ni 10\" cuentas corrientes en bancos en República Dominicana y que tampoco ha llevado a cabo movimientos en Arabia Saudí porque \"no tengo…",
+        "url": "https://www.mundodeportivo.com/futbol/20241015/1002333799/rubiales-niega-tenga-cuentas-dominicana-dinero-arabia-anuncia-querella-galan.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/15/670e56ab587ec.r_d.2830-1576-2708.jpeg",
+        "publishedAt": "2024-10-15T11:58:22Z",
+        "content": "El expresidente de la Real Federación Española de Fútbol (RFEF) Luis Rubiales ha calificado de \"falso\" que disponga \"de 36 ni 10\" cuentas corrientes en bancos en República Dominicana y que tampoco ha… [+1460 chars]"
     },
     {
         "source": {
@@ -329,13 +329,13 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Agencias Genérico",
-        "title": "Rubiales niega que tenga cuentas en Dominicana y dinero en Arabia y avisa una querella contra Galán",
-        "description": "El expresidente de la Real Federación Española de Fútbol (RFEF) Luis Rubiales ha calificado de \"falso\" que disponga \"de 36 ni 10\" cuentas corrientes en bancos en República Dominicana y que tampoco ha llevado a cabo movimientos en Arabia Saudí porque \"no tengo…",
-        "url": "https://www.mundodeportivo.com/futbol/20241015/1002333799/rubiales-niega-tenga-cuentas-dominicana-dinero-arabia-anuncia-querella-galan.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/15/670e56ab587ec.r_d.2830-1576-2708.jpeg",
-        "publishedAt": "2024-10-15T11:58:22Z",
-        "content": "El expresidente de la Real Federación Española de Fútbol (RFEF) Luis Rubiales ha calificado de \"falso\" que disponga \"de 36 ni 10\" cuentas corrientes en bancos en República Dominicana y que tampoco ha… [+1460 chars]"
+        "author": "Autor Redacción",
+        "title": "'La isla de las tentaciones 8' sufre la primera filtración: este famoso rostro será tentador",
+        "description": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana para grabar la octava temporada y ya han regresado con todo…",
+        "url": "https://www.mundodeportivo.com/elotromundo/television/20241014/1002333466/isla-tentaciones-8-sufre-primera-filtracion-famoso-rostro-sera-tentador-dct.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/01/09/659db64e21b70.r_d.1413-466-0.jpeg",
+        "publishedAt": "2024-10-14T19:37:49Z",
+        "content": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana… [+1453 chars]"
     },
     {
         "source": {
@@ -732,19 +732,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Luis Ernesto Quintana Barney",
-        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
-        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
-        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-26T17:28:45Z",
-        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Paulina Nares",
         "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
         "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
@@ -752,6 +739,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-19T14:41:22Z",
         "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Luis Ernesto Quintana Barney",
+        "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
+        "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
+        "url": "https://cnnespanol.cnn.com/2024/09/26/suspension-vuelos-venezuela-chile-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-26T17:28:45Z",
+        "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
     },
     {
         "source": {
