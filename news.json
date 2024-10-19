@@ -691,6 +691,19 @@
     {
         "source": {
             "id": null,
+            "name": "Jornada.com.mx"
+        },
+        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+        "title": "El Tricolor femenil debuta con derrota en el Mundial Sub-17",
+        "description": "La selección mexicana Sub-17 femenil tuvo un debut desastroso en el Mundial de la categoría que se disputa en República Dominicana al ser goleada 4-1 por Corea del Norte, ayer en su primer partido de la fase de grupos, con lo que complicó su pase a la siguien…",
+        "url": "https://www.jornada.com.mx/2024/10/18/deportes/a11n1dep",
+        "urlToImage": "https://www.jornada.com.mx/2024/10/18/fotos/a11n1dep-1.jpg",
+        "publishedAt": "2024-10-18T08:27:57Z",
+        "content": "Periódico La JornadaViernes 18 de octubre de 2024, p. a11\r\nLa selección mexicana Sub-17 femenil tuvo un debut desastroso en el Mundial de la categoría que se disputa en República Dominicana al ser go… [+2346 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Sopitas.com"
         },
         "author": "Christian Vázquez",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/08/educacion-sexual-embarazo-adolescente-libros.jpeg",
         "publishedAt": "2024-10-11T02:15:07Z",
         "content": "Una de cada cinco mujeres de 15 a 19 años en República Dominicana (20 por ciento) ya ha tenido un hijo o está embarazada por primera vez, alertó el Fondo de Naciones Unidas para la Infancia (Unicef).… [+3120 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Elperiodico.com"
-        },
-        "author": "Paula Clemente",
-        "title": "La cadena de panaderías Granier se propone duplicar su red de locales fuera de España de aquí a 2026",
-        "description": "Mientras trabaja en cambiar su estética en España para \"abordar la siguiente etapa de desarrollo\" contaba, en julio, su consejero delegado, Juan Pedro Conde, la cadena de panaderías y cafeterías Granier ha decidido, también, agrandar sus planes de expansión. …",
-        "url": "https://www.elperiodico.com/es/economia/20240918/granier-propone-duplicar-red-panaderias-fuera-espana-2026-108272088",
-        "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/f5a989b0-1f09-41f9-b382-e200141b7dca_16-9-discover-aspect-ratio_default_0.jpg",
-        "publishedAt": "2024-09-18T09:17:04Z",
-        "content": "Mientras trabaja en cambiar su estética en España para \"abordar la siguiente etapa de desarrollo\" contaba, en julio, su consejero delegado, Juan Pedro Conde, la cadena de panaderías y cafeterías Gran… [+2500 chars]"
     }
 ]
