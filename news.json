@@ -131,6 +131,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sofía Benavides",
+        "title": "La Asamblea Nacional de República Dominicana aprueba reformas a la Constitución propuestas por Abinader",
+        "description": "El presidente y el vicepresidente de la Asamblea Nacional de República Dominicana, Ricardo de los Santos y Alfredo Pacheco, firmaron este viernes el documento con las nuevas reformas a la Constitución del país impulsadas por el presidente Luis Abinader, entre…",
+        "url": "https://cnnespanol.cnn.com/2024/10/19/asamblea-nacional-republica-dominicana-reformas-constitucion-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769014-luis-abinder.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-19T15:49:10Z",
+        "content": "(CNN Español) El presidente y el vicepresidente de la Asamblea Nacional de República Dominicana, Ricardo de los Santos y Alfredo Pacheco, firmaron este viernes el documento con las nuevas reformas a … [+2077 chars]"
+    },
+    {
+        "source": {
             "id": "el-mundo",
             "name": "El Mundo"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://meneame.net/img/logo_meneame.png",
         "publishedAt": "2024-09-27T11:29:00Z",
         "content": "Yo esto ya lo he visto antes..."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hosteltur.com"
-        },
-        "author": "Vivi Hinojosa",
-        "title": "Club Med no incluye a España en sus planes de expansión… de momento",
-        "description": "Con 70 resorts repartidos por los cinco continentes, Club Med tiene en cartera 30 nuevos proyectos, aunque de momento ninguno en España, donde ya opera el Magna Marbella desde hace dos años, que en el primer semestre de 2024 se ha posicionado en el segmento d…",
-        "url": "https://www.hosteltur.com/165930_club-med-no-incluye-a-espana-en-sus-planes-de-expansion-de-momento.html",
-        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/01/M_214053_club-med-tiene-previsto-crecer-en-espana.jpg",
-        "publishedAt": "2024-10-01T22:00:01Z",
-        "content": "Con 70 resorts repartidos por los cinco continentes, Club Med tiene en cartera 30 nuevos proyectos, aunque de momento ninguno en España, donde ya opera el Magna Marbella desde hace dos años, que en e… [+2487 chars]"
     }
 ]
