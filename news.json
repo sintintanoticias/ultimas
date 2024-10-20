@@ -92,19 +92,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Valeria Ordóñez Ghio",
-        "title": "Autoridades de República Dominicana despliegan operación contra el tráfico de drogas",
-        "description": "El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas por presunto narcotráfico y se decomisaron más de 2.000 kilogramos de cocaína…",
-        "url": "https://cnnespanol.cnn.com/2024/09/18/autoridades-republica-dominicana-operacion-trafico-de-drogas-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T02:49:22Z",
-        "content": "(CNN Español)  El Gobierno de República Dominicana informó este miércoles que implementó, con apoyo de agencias estadounidenses, un operativo en el que se detuvo a un grupo de al menos 10 personas po… [+1015 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -316,19 +303,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "José Luis Artús Tejero",
-        "title": "Resumen de la primera jornada del Mundial Sub-17: España, Ecuador y Nigeria avisan",
-        "description": "España propinó este miércoles un sonoro golpe de autoridad en el comienzo de la octava edición del Mundial femenino sub-17 que organiza por primera vez República Dominicana al dejar en la lona a Estados Unidos, otro candidato al título.",
-        "url": "https://www.mundodeportivo.com/futbol/femenino/20241017/1002334828/espana-ecuador-nigeria-avisan.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/17/6710a06541bae.r_d.3031-1866-2445.jpeg",
-        "publishedAt": "2024-10-17T05:29:30Z",
-        "content": "España propinó este miércoles un sonoro golpe de autoridad en el comienzo de la octava edición del Mundial femenino sub-17 que organiza por primera vez República Dominicana al dejar en la lona a Esta… [+4105 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "Autor Redacción",
         "title": "3-1: España debuta con triunfo en el Mundial Sub-17",
         "description": "España empezó la defensa del título en el Mundial Sub-17 femenino al derrotar por 3-1 a Estados Unidos, otra de las candidatas al éxito final en el torneo que hoy ha empezado a disputarse en la República Dominicana.",
@@ -336,6 +310,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/17/671041f33d6bd.r_d.2330-1164-2998.jpeg",
         "publishedAt": "2024-10-16T22:48:56Z",
         "content": "España empezó la defensa del título en el Mundial Sub-17 femenino al derrotar por 3-1 a Estados Unidos, otra de las candidatas al éxito final en el torneo que hoy ha empezado a disputarse en la Repúb… [+1294 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "José Luis Artús Tejero",
+        "title": "Resumen de la primera jornada del Mundial Sub-17: España, Ecuador y Nigeria avisan",
+        "description": "España propinó este miércoles un sonoro golpe de autoridad en el comienzo de la octava edición del Mundial femenino sub-17 que organiza por primera vez República Dominicana al dejar en la lona a Estados Unidos, otro candidato al título.",
+        "url": "https://www.mundodeportivo.com/futbol/femenino/20241017/1002334828/espana-ecuador-nigeria-avisan.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/17/6710a06541bae.r_d.3031-1866-2445.jpeg",
+        "publishedAt": "2024-10-17T05:29:30Z",
+        "content": "España propinó este miércoles un sonoro golpe de autoridad en el comienzo de la octava edición del Mundial femenino sub-17 que organiza por primera vez República Dominicana al dejar en la lona a Esta… [+4105 chars]"
     },
     {
         "source": {
@@ -355,19 +342,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Begoña Villarrubia Renom",
-        "title": "España busca su tercer Mundial Sub'17 para mantener su reinado",
-        "description": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su tercera Copa del Mundo consecutiva y alargar su reinado mundia…",
-        "url": "https://www.mundodeportivo.com/futbol/20241015/1002334015/espana-busca-tercer-mundial-sub-17-seguir-reinado.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/03/07/65e9a06799622.r_d.639-444-0.jpeg",
-        "publishedAt": "2024-10-15T17:37:25Z",
-        "content": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su te… [+1672 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "Autor Redacción",
         "title": "'La isla de las tentaciones 8' sufre la primera filtración: este famoso rostro será tentador",
         "description": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana para grabar la octava temporada y ya han regresado con todo…",
@@ -375,6 +349,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/01/09/659db64e21b70.r_d.1413-466-0.jpeg",
         "publishedAt": "2024-10-14T19:37:49Z",
         "content": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana… [+1453 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Begoña Villarrubia Renom",
+        "title": "España busca su tercer Mundial Sub'17 para mantener su reinado",
+        "description": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su tercera Copa del Mundo consecutiva y alargar su reinado mundia…",
+        "url": "https://www.mundodeportivo.com/futbol/20241015/1002334015/espana-busca-tercer-mundial-sub-17-seguir-reinado.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/03/07/65e9a06799622.r_d.639-444-0.jpeg",
+        "publishedAt": "2024-10-15T17:37:25Z",
+        "content": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su te… [+1672 chars]"
     },
     {
         "source": {
@@ -453,19 +440,6 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/27/66f6ad8a347ab.jpeg",
         "publishedAt": "2024-09-27T13:05:19Z",
         "content": "La selección española femenina sub'17 se ha impuesto a su homóloga de, por 2-1, gracias a los tantos de Clara Serrajordi y Alba Cerrato, ambos en la primera mitad, pensando en el Mundial de República… [+984 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "Sheinbaum divulga la lista de presidentes latinoamericanos que asistirán a su investidura",
-        "description": "",
-        "url": "https://actualidad.rt.com/actualidad/523357-sheinbaum-confirmar-presidentes-asistir-investidura-mexico",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/original/66eb5693e9ff716b4b4fd76e.jpg",
-        "publishedAt": "2024-09-18T22:39:15Z",
-        "content": "La presidenta electa de México, Claudia Sheinbaum, confirmó este miércoles la lista de 16 invitados extranjeros que asistirán el próximo 1° de octubre a su toma de posesión, entre los que sobresalen … [+538 chars]"
     },
     {
         "source": {
@@ -557,19 +531,6 @@
         "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/cultura/2024/10/01/michelen-U56517151373nSH-1024x512@diario_abc.jpg",
         "publishedAt": "2024-10-01T11:43:13Z",
         "content": "El viceministro de Patrimonio Cultural de la República Dominicana, Gamal Michelén, se desmarcó ayer del «afán de descolonización» de otros países latinoamericanos, como México o Colombia, que a su ju… [+5166 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost",
-        "title": "El Observatorio de Libertad Religiosa avisa de que en España \"va a salir gratis mofarse\" de los creyentes",
-        "description": "<![CDATA[<p>El Observatorio para la Libertad Religiosa ha advertido de que, con la reforma del Código Penal que quiere hacer el Gobierno de España, para eliminar el delito de ofensa a los sentimientos religiosos \"va a salir completamente gratis mofarse\" de qu…",
-        "url": "https://www.huffingtonpost.es/politica/el-observatorio-libertad-religiosa-avisa-espana-va-salir-gratis-mofarse-creyentesbr.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/18/cofradias-de-la-semana-santa-de-sevilla-espana.jpeg",
-        "publishedAt": "2024-09-18T09:17:27Z",
-        "content": "El Observatorio para la Libertad Religiosa ha advertido de que, con la reforma del Código Penal que quiere hacer el Gobierno de España, para eliminar el delito de ofensa a los sentimientos religiosos… [+1403 chars]"
     },
     {
         "source": {
@@ -797,19 +758,6 @@
             "id": "cnn",
             "name": "CNN"
         },
-        "author": "Paulina Nares",
-        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
-        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
-        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-09-19T14:41:22Z",
-        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
         "author": "Luis Ernesto Quintana Barney",
         "title": "Gobierno de Venezuela suspende los vuelos desde y hacia Chile",
         "description": "El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas afectadas con la medida.\nThe post Gobierno de Venezuela suspende l…",
@@ -817,6 +765,19 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758414-gettyimages-540949814.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-09-26T17:28:45Z",
         "content": "(CNN) El Instituto Nacional de Aeronáutica Civil (Inac) de Venezuela suspendió indefinidamente los vuelos comerciales desde y hacia Chile, dijo este miércoles Aerolíneas Estelar, una de las empresas … [+2835 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Paulina Nares",
+        "title": "Jill Biden, Petro y Lula da Silva, entre los asistentes a la toma de posesión de Claudia Sheinbaum como presidenta de México",
+        "description": "Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo primero de octubre en la Cámara de Diputados. Al evento asistirán 105 países y 22 organismos internacionales, informó Sheinbaum este jueves en un comunicado publicado en X.\nThe …",
+        "url": "https://cnnespanol.cnn.com/2024/09/19/boric-petro-lula-y-jill-biden-asistentes-posesion-sheinbaum-presidenta-mexico-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755107-president-elect-claudia-sheinbaum-announces-her-government-cabinet.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-09-19T14:41:22Z",
+        "content": "(CNN Español) Claudia Sheinbaum tomará posesión como la primera presidenta de México el próximo 1 de octubre en la Cámara de Diputados. Al evento asistirán representantes de 105 países y 22 organismo… [+2734 chars]"
     },
     {
         "source": {
@@ -986,19 +947,6 @@
         "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
         "publishedAt": "2024-10-17T10:24:36Z",
         "content": "Periódico La JornadaJueves 17 de octubre de 2024, p. a11\r\nLa selección española Sub-17 femenil, vigente campeona, comenzó con buen pie la defensa del título al derrotar ayer por 3-1 a Estados Unidos,… [+1696 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Aristeguinoticias.com"
-        },
-        "author": "Redacción AN / ES",
-        "title": "Confirman 16 mandatarios a toma de protesta de Sheinbaum: Lula, Petro, Boric, Díaz-Canel…",
-        "description": "En representación del presidente de Alemania, Frank-Walter Steinmeier, acude el expresidente Christian Walter.",
-        "url": "https://aristeguinoticias.com/1809/mexico/confirman-16-mandatarios-a-toma-de-protesta-de-sheinbaum-lula-petro-boric-diaz-canel/",
-        "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/08/biden-no-entendio-pregunta-nuevas-elecciones-venezuela-casa-blanca-lula-petro-maduro-3-15082024.jpg",
-        "publishedAt": "2024-09-18T22:42:47Z",
-        "content": "La presidenta electa Claudia Sheinbaum dio a conocer este miércoles los 16 mandatarios de Estado que asistirán a su toma de protesta como la primera presidenta en México.\r\nEl próximo 1 de octubre She… [+2559 chars]"
     },
     {
         "source": {
@@ -1298,5 +1246,57 @@
         "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/08/educacion-sexual-embarazo-adolescente-libros.jpeg",
         "publishedAt": "2024-10-11T02:15:07Z",
         "content": "Una de cada cinco mujeres de 15 a 19 años en República Dominicana (20 por ciento) ya ha tenido un hijo o está embarazada por primera vez, alertó el Fondo de Naciones Unidas para la Infancia (Unicef).… [+3120 chars]"
+    },
+    {
+        "source": {
+            "id": "la-nacion",
+            "name": "La Nacion"
+        },
+        "author": "LA NACION",
+        "title": "Viajó y tuvo “vacaciones silenciosas” durante diez semanas, sin que su jefe lo supiera: “Fui más feliz y productivo”",
+        "description": "Descubre la creciente tendencia del ‘quiet vacationing’ o ‘vacaciones silenciosas’, donde los empleados combinan trabajo remoto y vacaciones sin avisar a sus jefes. Esto constrata con el quiet quitting o “renuncia silenciosa”, una tendencia laboral entre los …",
+        "url": "https://www.lanacion.com.ar/estados-unidos/viajo-y-tuvo-vacaciones-silenciosas-durante-diez-semanas-sin-que-su-jefe-lo-supiera-fui-mas-feliz-y-nid09102024/",
+        "urlToImage": "https://resizer.glanacion.com/resizer/v2/tobi-oluwole-valora-el-hecho-de-no-tener-que-RTNNN4DO7JGDTKIYZVRJKQ2NDI.jpg?auth=a5ffadfd65a56448bb21431e03b572111dd53b393c40a0166a7724dbfd93aa3d&width=768&quality=70&smart=false",
+        "publishedAt": "2024-10-09T14:25:29Z",
+        "content": "A través de un enfoque estratégico hacia su trabajo remoto, Tobi Oluwole disfrutó de 10 semanas de vacaciones silenciosas a lo largo de 15 meses, permitiéndole ser más productivo y feliz en su rol. A… [+3007 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Meneame.net"
+        },
+        "author": "blodhemn",
+        "title": "Julián Muñoz ya se encuentra en República Dominicana tras morir esta semana en Marbella",
+        "description": "Sus seres queridos confían en que las paradisiacas playas del mar Caribe le hagan olvidar sus problemas con la justicia y también sus achaques de salud. “La persecución que ha sufrido en vida Julián es una vergüenza, por suerte ahora podrá descansar eternamen…",
+        "url": "https://www.meneame.net/m/ocio/julian-munoz-ya-encuentra-republica-dominicana-tras-morir-esta",
+        "urlToImage": "https://meneame.net/img/logo_meneame.png",
+        "publishedAt": "2024-09-27T11:29:00Z",
+        "content": "Yo esto ya lo he visto antes..."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hosteltur.com"
+        },
+        "author": "Vivi Hinojosa",
+        "title": "Club Med no incluye a España en sus planes de expansión… de momento",
+        "description": "Con 70 resorts repartidos por los cinco continentes, Club Med tiene en cartera 30 nuevos proyectos, aunque de momento ninguno en España, donde ya opera el Magna Marbella desde hace dos años, que en el primer semestre de 2024 se ha posicionado en el segmento d…",
+        "url": "https://www.hosteltur.com/165930_club-med-no-incluye-a-espana-en-sus-planes-de-expansion-de-momento.html",
+        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/01/M_214053_club-med-tiene-previsto-crecer-en-espana.jpg",
+        "publishedAt": "2024-10-01T22:00:01Z",
+        "content": "Con 70 resorts repartidos por los cinco continentes, Club Med tiene en cartera 30 nuevos proyectos, aunque de momento ninguno en España, donde ya opera el Magna Marbella desde hace dos años, que en e… [+2487 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "El Programa de Cuesta",
+        "title": "¿Han disparado a Aldama para que no hable de los negocios de Begoña Gómez?",
+        "description": "Carlos Cuesta expone todo lo sucedido en el ataque a Aldama",
+        "url": "https://www.libertaddigital.com/espana/politica/2024-10-06/han-disparado-a-aldama-para-que-no-hable-de-los-negocios-de-begona-gomez-7170727/",
+        "urlToImage": "https://s.libertaddigital.com/2024/10/04/1200/627/ld/aldama-portada.jpg",
+        "publishedAt": "2024-10-06T17:31:07Z",
+        "content": "La UCO sigue con su trabajo de investigación de la trama Koldo-PSOE. Y todos los datos volcados de los móviles confirman un hecho: que Víctor de Aldama, el contacto de Begoña Gómez con Globalia duran… [+551 chars]"
     }
 ]
