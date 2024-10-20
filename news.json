@@ -209,6 +209,19 @@
     },
     {
         "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Gonzalo Zegarra",
+        "title": "Posible trayectoria del huracán Oscar: dónde está y hacia dónde se dirige",
+        "description": "El huracán Oscar, que se formó este sábado y llegó a categoría 1 en cuestión de horas tras comenzar la jornada como una depresión tropical, avanza por el Atlántico al norte de República Dominicana.\nThe post Posible trayectoria del huracán Oscar: dónde está y …",
+        "url": "https://cnnespanol.cnn.com/2024/10/19/posible-trayectoria-huracan-oscar-donde-esta-y-hacia-donde-se-dirige",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769077-oscar-2pm.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-19T19:09:31Z",
+        "content": "(CNN) El huracán Oscar, que se formó este sábado y llegó a categoría 1 en cuestión de horas tras comenzar la jornada como una depresión tropical, avanza por el Atlántico al norte de República Dominic… [+1261 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Huffingtonpost.es"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://resizer.glanacion.com/resizer/v2/tobi-oluwole-valora-el-hecho-de-no-tener-que-RTNNN4DO7JGDTKIYZVRJKQ2NDI.jpg?auth=a5ffadfd65a56448bb21431e03b572111dd53b393c40a0166a7724dbfd93aa3d&width=768&quality=70&smart=false",
         "publishedAt": "2024-10-09T14:25:29Z",
         "content": "A través de un enfoque estratégico hacia su trabajo remoto, Tobi Oluwole disfrutó de 10 semanas de vacaciones silenciosas a lo largo de 15 meses, permitiéndole ser más productivo y feliz en su rol. A… [+3007 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Meneame.net"
-        },
-        "author": "blodhemn",
-        "title": "Julián Muñoz ya se encuentra en República Dominicana tras morir esta semana en Marbella",
-        "description": "Sus seres queridos confían en que las paradisiacas playas del mar Caribe le hagan olvidar sus problemas con la justicia y también sus achaques de salud. “La persecución que ha sufrido en vida Julián es una vergüenza, por suerte ahora podrá descansar eternamen…",
-        "url": "https://www.meneame.net/m/ocio/julian-munoz-ya-encuentra-republica-dominicana-tras-morir-esta",
-        "urlToImage": "https://meneame.net/img/logo_meneame.png",
-        "publishedAt": "2024-09-27T11:29:00Z",
-        "content": "Yo esto ya lo he visto antes..."
     }
 ]
