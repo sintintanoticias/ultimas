@@ -196,6 +196,19 @@
     },
     {
         "source": {
+            "id": null,
+            "name": "Huffingtonpost.es"
+        },
+        "author": "Redacción HuffPost",
+        "title": "Un arqueólogo asegura que \"hay más de 65 galeones españoles hundidos\" en República Dominicana",
+        "description": "<![CDATA[<p>La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, ha dirigido este lunes una ponencia en Madrid pa…",
+        "url": "https://www.huffingtonpost.es/sociedad/un-arqueologo-asegura-hay-mas-65-galeones-espanoles-hundidos-republica-dominicana.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/10/03/vista-de-un-buque-hundido-en-el-fondo-del-mar-caribe.jpeg",
+        "publishedAt": "2024-10-03T15:01:08Z",
+        "content": "La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, … [+4351 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -219,19 +232,6 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769077-oscar-2pm.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-10-19T19:09:31Z",
         "content": "(CNN) El huracán Oscar, que se formó este sábado y llegó a categoría 1 en cuestión de horas tras comenzar la jornada como una depresión tropical, avanza por el Atlántico al norte de República Dominic… [+1261 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost",
-        "title": "Un arqueólogo asegura que \"hay más de 65 galeones españoles hundidos\" en República Dominicana",
-        "description": "<![CDATA[<p>La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, ha dirigido este lunes una ponencia en Madrid pa…",
-        "url": "https://www.huffingtonpost.es/sociedad/un-arqueologo-asegura-hay-mas-65-galeones-espanoles-hundidos-republica-dominicana.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/10/03/vista-de-un-buque-hundido-en-el-fondo-del-mar-caribe.jpeg",
-        "publishedAt": "2024-10-03T15:01:08Z",
-        "content": "La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, … [+4351 chars]"
     },
     {
         "source": {
@@ -951,19 +951,6 @@
     {
         "source": {
             "id": null,
-            "name": "Record.com.mx"
-        },
-        "author": "Record.com.mx",
-        "title": "La Selección Mexicana Femenil está lista para la Copa Mundial Sub-17",
-        "description": "El certamen juvenil comenzó este miércoles en República Dominicana",
-        "url": "https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/la-seleccion-mexicana-femenil-esta-lista-para-la-copa",
-        "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/16/gzvlvvmx0aae0ms.jpg",
-        "publishedAt": "2024-10-16T21:49:00Z",
-        "content": "La Copa Mundial Sub-17 Femenil comenzó este miércoles en República Dominicana y la Selección Mexicana está lista para el reto que será la competición en la isla caribeña. El equipo Tricolor se coloca… [+2386 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Milenio"
         },
         "author": "Agencia AFP",
@@ -973,6 +960,19 @@
         "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
         "publishedAt": "2024-10-03T00:58:14Z",
         "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Record.com.mx"
+        },
+        "author": "Record.com.mx",
+        "title": "La Selección Mexicana Femenil está lista para la Copa Mundial Sub-17",
+        "description": "El certamen juvenil comenzó este miércoles en República Dominicana",
+        "url": "https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/la-seleccion-mexicana-femenil-esta-lista-para-la-copa",
+        "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/16/gzvlvvmx0aae0ms.jpg",
+        "publishedAt": "2024-10-16T21:49:00Z",
+        "content": "La Copa Mundial Sub-17 Femenil comenzó este miércoles en República Dominicana y la Selección Mexicana está lista para el reto que será la competición en la isla caribeña. El equipo Tricolor se coloca… [+2386 chars]"
     },
     {
         "source": {
