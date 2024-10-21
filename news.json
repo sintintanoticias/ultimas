@@ -716,6 +716,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Cuba emite una advertencia ante el avance del huracán Oscar",
+        "description": "Se espera que aumenten las lluvias y tormentas eléctricas, así como la intensidad de los vientos, en las provincias orientales de la isla.",
+        "url": "https://actualidad.rt.com/actualidad/527050-cuba-emite-advertencia-huracan-oscar",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/67143c7759bf5b050d7a88f8.jpg",
+        "publishedAt": "2024-10-19T23:41:30Z",
+        "content": "El Centro de Pronósticos del Instituto de Meteorología de Cuba (Insmet) informó que la tormenta tropical Oscar se intensificó como un huracán de categoría 1 la tarde de este sábado, después de habers… [+1617 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Sopitas.com"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/31/2024073115022540252.jpg",
         "publishedAt": "2024-09-24T22:00:00Z",
         "content": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año.\r\nQueda menos de una semana para que el Consejo de Indra se vuelva a reunir para debatir qué decisió… [+2349 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Milenio"
-        },
-        "author": "Agencia EFE",
-        "title": "En República Dominicana, 1 de cada 5 menores de edad es madre o está embarazada",
-        "description": "Una de cada cinco mujeres de 15 a 19 años en República Dominicana (20 por ciento) ya ha tenido un hijo o está embarazada por primera vez, alertó el Fondo de Naciones Unidas para la Infancia (Unicef).Unicef destaca la necesidad urgente de fortalecer la educaci…",
-        "url": "https://www.milenio.com/internacional/unicef-alerta-embarazos-adolescentes-republica-dominicana",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/08/educacion-sexual-embarazo-adolescente-libros.jpeg",
-        "publishedAt": "2024-10-11T02:15:07Z",
-        "content": "Una de cada cinco mujeres de 15 a 19 años en República Dominicana (20 por ciento) ya ha tenido un hijo o está embarazada por primera vez, alertó el Fondo de Naciones Unidas para la Infancia (Unicef).… [+3120 chars]"
     }
 ]
