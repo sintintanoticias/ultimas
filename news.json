@@ -301,19 +301,6 @@
     {
         "source": {
             "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Lucas Handley",
-        "title": "Impresionante: Investigadores aseguran haber encontrado los huesos de Cristóbal Colón en una iglesia española",
-        "description": "Un equipo de investigadores ha afirmado que los restos del explorador Cristóbal Colón se encuentran en una catedral en Sevilla, España.",
-        "url": "https://es.gizmodo.com/impresionante-investigadores-aseguran-haber-encontrado-los-huesos-de-cristobal-colon-en-una-iglesia-espanola-2000131122",
-        "urlToImage": "https://es.gizmodo.com/app/uploads/2024/10/Diseno-sin-titulo-2024-10-11T133035.774.jpg",
-        "publishedAt": "2024-10-11T17:10:25Z",
-        "content": "A través de pruebas de ADN, confirmaron que un conjunto incompleto de restos en la catedral corresponde al explorador del siglo XV.\r\nPoco se sabe sobre los orígenes de Colón, quien navegó en 1492 y l… [+1999 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Finofilipino.org"
         },
         "author": "Fino",
@@ -327,15 +314,28 @@
     {
         "source": {
             "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Lucas Handley",
+        "title": "Impresionante: Investigadores aseguran haber encontrado los huesos de Cristóbal Colón en una iglesia española",
+        "description": "Un equipo de investigadores ha afirmado que los restos del explorador Cristóbal Colón se encuentran en una catedral en Sevilla, España.",
+        "url": "https://es.gizmodo.com/impresionante-investigadores-aseguran-haber-encontrado-los-huesos-de-cristobal-colon-en-una-iglesia-espanola-2000131122",
+        "urlToImage": "https://es.gizmodo.com/app/uploads/2024/10/Diseno-sin-titulo-2024-10-11T133035.774.jpg",
+        "publishedAt": "2024-10-11T17:10:25Z",
+        "content": "A través de pruebas de ADN, confirmaron que un conjunto incompleto de restos en la catedral corresponde al explorador del siglo XV.\r\nPoco se sabe sobre los orígenes de Colón, quien navegó en 1492 y l… [+1999 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Autor Redacción",
-        "title": "3-1: España debuta con triunfo en el Mundial Sub-17",
-        "description": "España empezó la defensa del título en el Mundial Sub-17 femenino al derrotar por 3-1 a Estados Unidos, otra de las candidatas al éxito final en el torneo que hoy ha empezado a disputarse en la República Dominicana.",
-        "url": "https://www.mundodeportivo.com/futbol/femenino/20241017/1002334803/3-1-espana-debuta-triunfo-mundial-sub-17.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/17/671041f33d6bd.r_d.2330-1164-2998.jpeg",
-        "publishedAt": "2024-10-16T22:48:56Z",
-        "content": "España empezó la defensa del título en el Mundial Sub-17 femenino al derrotar por 3-1 a Estados Unidos, otra de las candidatas al éxito final en el torneo que hoy ha empezado a disputarse en la Repúb… [+1294 chars]"
+        "author": "José Luis Artús Tejero",
+        "title": "Así está la clasificación de los cuatro grupos del Mundial Sub-17, con España lanzada",
+        "description": "Va avanzando el Mundial Sub-17 femenino que se está disputando en la República Dominicana. Son dos los partidos que cada selección ha jugado ya y sólo queda un tercero antes de los cuartos de final.",
+        "url": "https://www.mundodeportivo.com/futbol/femenino/20241021/1002337442/asi-esta-clasificacion-cuatro-grupos-mundial-sub-17-espana-lanzada.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/21/6715ee6106452.jpeg",
+        "publishedAt": "2024-10-21T06:02:24Z",
+        "content": "Va avanzando el Mundial Sub-17 femenino que se está disputando en la República Dominicana. Son dos los partidos que cada selección ha jugado ya y sólo queda un tercero antes de los cuartos de final.\r… [+632 chars]"
     },
     {
         "source": {
@@ -349,6 +349,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/17/6710a06541bae.r_d.3031-1866-2445.jpeg",
         "publishedAt": "2024-10-17T05:29:30Z",
         "content": "España propinó este miércoles un sonoro golpe de autoridad en el comienzo de la octava edición del Mundial femenino sub-17 que organiza por primera vez República Dominicana al dejar en la lona a Esta… [+4105 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Autor Redacción",
+        "title": "3-1: España debuta con triunfo en el Mundial Sub-17",
+        "description": "España empezó la defensa del título en el Mundial Sub-17 femenino al derrotar por 3-1 a Estados Unidos, otra de las candidatas al éxito final en el torneo que hoy ha empezado a disputarse en la República Dominicana.",
+        "url": "https://www.mundodeportivo.com/futbol/femenino/20241017/1002334803/3-1-espana-debuta-triunfo-mundial-sub-17.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/17/671041f33d6bd.r_d.2330-1164-2998.jpeg",
+        "publishedAt": "2024-10-16T22:48:56Z",
+        "content": "España empezó la defensa del título en el Mundial Sub-17 femenino al derrotar por 3-1 a Estados Unidos, otra de las candidatas al éxito final en el torneo que hoy ha empezado a disputarse en la Repúb… [+1294 chars]"
     },
     {
         "source": {
@@ -381,19 +394,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Autor Redacción",
-        "title": "'La isla de las tentaciones 8' sufre la primera filtración: este famoso rostro será tentador",
-        "description": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana para grabar la octava temporada y ya han regresado con todo…",
-        "url": "https://www.mundodeportivo.com/elotromundo/television/20241014/1002333466/isla-tentaciones-8-sufre-primera-filtracion-famoso-rostro-sera-tentador-dct.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/01/09/659db64e21b70.r_d.1413-466-0.jpeg",
-        "publishedAt": "2024-10-14T19:37:49Z",
-        "content": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana… [+1453 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "Begoña Villarrubia Renom",
         "title": "España busca su tercer Mundial Sub'17 para mantener su reinado",
         "description": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su tercera Copa del Mundo consecutiva y alargar su reinado mundia…",
@@ -407,19 +407,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "José Luis Artús Tejero",
-        "title": "Así ha ido la segunda jornada del Mundial Sub-17: resúmenes de los cuatro partidos",
-        "description": "Corea del Norte goleó este jueves a México y Brasil se impuso a una combativa Zambia en la segunda jornada del Mundial Femenino Sub-17 que se celebra en República Dominicana, en el que Inglaterra también salió airosa frente a Kenia, mientras Japón y Polonia n…",
-        "url": "https://www.mundodeportivo.com/futbol/femenino/20241018/1002335478/asi-ido-segunda-jornada-mundial-sub-17.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/18/6711f12d46956.jpeg",
-        "publishedAt": "2024-10-18T05:25:39Z",
-        "content": "Corea del Norte goleó este jueves a México y Brasil se impuso a una combativa Zambia en la segunda jornada del Mundial Femenino Sub-17 que se celebra en República Dominicana, en el que Inglaterra tam… [+2925 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "EFE EFE",
         "title": "5-0: España toca a la puerta de los cuartos de final del Mundial sub-17",
         "description": "La selección femenina sub-17 de España no dio opción este sábado a la de Corea del Sur y con una goleada por 5-0 certificó con anticipación su paso a los cuartos de final del Mundial de República Dominicana en la segunda jornada del Grupo B, que completan Col…",
@@ -427,6 +414,32 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/20/6714a10ee8a4b.r_d.1381-764-4430.jpeg",
         "publishedAt": "2024-10-20T06:23:54Z",
         "content": "La selección femenina sub-17 de España no dio opción este sábado a la de Corea del Sur y con una goleada por 5-0 certificó con anticipación su paso a los cuartos de final del Mundial de República Dom… [+1973 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Autor Redacción",
+        "title": "'La isla de las tentaciones 8' sufre la primera filtración: este famoso rostro será tentador",
+        "description": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana para grabar la octava temporada y ya han regresado con todo…",
+        "url": "https://www.mundodeportivo.com/elotromundo/television/20241014/1002333466/isla-tentaciones-8-sufre-primera-filtracion-famoso-rostro-sera-tentador-dct.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/01/09/659db64e21b70.r_d.1413-466-0.jpeg",
+        "publishedAt": "2024-10-14T19:37:49Z",
+        "content": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana… [+1453 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "José Luis Artús Tejero",
+        "title": "Así ha ido la segunda jornada del Mundial Sub-17: resúmenes de los cuatro partidos",
+        "description": "Corea del Norte goleó este jueves a México y Brasil se impuso a una combativa Zambia en la segunda jornada del Mundial Femenino Sub-17 que se celebra en República Dominicana, en el que Inglaterra también salió airosa frente a Kenia, mientras Japón y Polonia n…",
+        "url": "https://www.mundodeportivo.com/futbol/femenino/20241018/1002335478/asi-ido-segunda-jornada-mundial-sub-17.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/18/6711f12d46956.jpeg",
+        "publishedAt": "2024-10-18T05:25:39Z",
+        "content": "Corea del Norte goleó este jueves a México y Brasil se impuso a una combativa Zambia en la segunda jornada del Mundial Femenino Sub-17 que se celebra en República Dominicana, en el que Inglaterra tam… [+2925 chars]"
     },
     {
         "source": {
@@ -492,6 +505,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/20/67142bf6542c2.r_d.339-226-17673.jpeg",
         "publishedAt": "2024-10-19T22:00:47Z",
         "content": "La selección española femenina Sub-17 se impuso este sábado a Corea del Sur (5-0) en la segunda jornada de fase de grupos del Mundial de la categoría que está celebrándose en República Dominicana y c… [+275 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "EFE EFE",
+        "title": "Resumen de la jornada : ya hay más selecciones clasificadas para cuartos",
+        "description": "Corea del Norte e Inglaterra avanzaron este domingo a los cuartos de final del Mundial Femenino Sub-17 desde el Grupo C, en tanto que las selecciones de México, Kenia y Zambia anticiparon su adiós al cambiar por derrotas sus dos primeras salidas en el torneo …",
+        "url": "https://www.mundodeportivo.com/futbol/femenino/20241021/1002337431/corea-norte-e-inglaterra-cuartos-brasil-apuros-mexico-despide.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/21/6715ea28c1b38.jpeg",
+        "publishedAt": "2024-10-21T05:44:25Z",
+        "content": "Corea del Norte e Inglaterra avanzaron este domingo a los cuartos de final del Mundial Femenino Sub-17 desde el Grupo C, en tanto que las selecciones de México, Kenia y Zambia anticiparon su adiós al… [+2093 chars]"
     },
     {
         "source": {
@@ -1272,31 +1298,5 @@
         "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/31/2024073115022540252.jpg",
         "publishedAt": "2024-09-24T22:00:00Z",
         "content": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año.\r\nQueda menos de una semana para que el Consejo de Indra se vuelva a reunir para debatir qué decisió… [+2349 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Milenio"
-        },
-        "author": "Agencia EFE",
-        "title": "En República Dominicana, 1 de cada 5 menores de edad es madre o está embarazada",
-        "description": "Una de cada cinco mujeres de 15 a 19 años en República Dominicana (20 por ciento) ya ha tenido un hijo o está embarazada por primera vez, alertó el Fondo de Naciones Unidas para la Infancia (Unicef).Unicef destaca la necesidad urgente de fortalecer la educaci…",
-        "url": "https://www.milenio.com/internacional/unicef-alerta-embarazos-adolescentes-republica-dominicana",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/08/educacion-sexual-embarazo-adolescente-libros.jpeg",
-        "publishedAt": "2024-10-11T02:15:07Z",
-        "content": "Una de cada cinco mujeres de 15 a 19 años en República Dominicana (20 por ciento) ya ha tenido un hijo o está embarazada por primera vez, alertó el Fondo de Naciones Unidas para la Infancia (Unicef).… [+3120 chars]"
-    },
-    {
-        "source": {
-            "id": "la-nacion",
-            "name": "La Nacion"
-        },
-        "author": "LA NACION",
-        "title": "Viajó y tuvo “vacaciones silenciosas” durante diez semanas, sin que su jefe lo supiera: “Fui más feliz y productivo”",
-        "description": "Descubre la creciente tendencia del ‘quiet vacationing’ o ‘vacaciones silenciosas’, donde los empleados combinan trabajo remoto y vacaciones sin avisar a sus jefes. Esto constrata con el quiet quitting o “renuncia silenciosa”, una tendencia laboral entre los …",
-        "url": "https://www.lanacion.com.ar/estados-unidos/viajo-y-tuvo-vacaciones-silenciosas-durante-diez-semanas-sin-que-su-jefe-lo-supiera-fui-mas-feliz-y-nid09102024/",
-        "urlToImage": "https://resizer.glanacion.com/resizer/v2/tobi-oluwole-valora-el-hecho-de-no-tener-que-RTNNN4DO7JGDTKIYZVRJKQ2NDI.jpg?auth=a5ffadfd65a56448bb21431e03b572111dd53b393c40a0166a7724dbfd93aa3d&width=768&quality=70&smart=false",
-        "publishedAt": "2024-10-09T14:25:29Z",
-        "content": "A través de un enfoque estratégico hacia su trabajo remoto, Tobi Oluwole disfrutó de 10 semanas de vacaciones silenciosas a lo largo de 15 meses, permitiéndole ser más productivo y feliz en su rol. A… [+3007 chars]"
     }
 ]
