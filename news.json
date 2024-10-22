@@ -1158,6 +1158,19 @@
     },
     {
         "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Revelan un inusual medio de transmisión de un virus mortal",
+        "description": "En un nuevo estudio se reportó que el material genético del virus de Oropouche persistió durante mucho más tiempo en el semen que en otros fluidos corporales.",
+        "url": "https://actualidad.rt.com/actualidad/527122-revelan-inusual-metodo-transmision-virus-mortal",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/6715bd90e9ff7165156dcd11.jpg",
+        "publishedAt": "2024-10-21T03:01:14Z",
+        "content": "Un grupo de investigadores de instituciones de Italia sugirió que el virus de Oropouche también podría transmitirse entre humanos a través del contacto sexual, luego de detectar al agente infeccioso … [+2800 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Libertaddigital.com"
         },
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://resizer.glanacion.com/resizer/v2/tobi-oluwole-valora-el-hecho-de-no-tener-que-RTNNN4DO7JGDTKIYZVRJKQ2NDI.jpg?auth=a5ffadfd65a56448bb21431e03b572111dd53b393c40a0166a7724dbfd93aa3d&width=768&quality=70&smart=false",
         "publishedAt": "2024-10-09T14:25:29Z",
         "content": "A través de un enfoque estratégico hacia su trabajo remoto, Tobi Oluwole disfrutó de 10 semanas de vacaciones silenciosas a lo largo de 15 meses, permitiéndole ser más productivo y feliz en su rol. A… [+3007 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Meneame.net"
-        },
-        "author": "blodhemn",
-        "title": "Julián Muñoz ya se encuentra en República Dominicana tras morir esta semana en Marbella",
-        "description": "Sus seres queridos confían en que las paradisiacas playas del mar Caribe le hagan olvidar sus problemas con la justicia y también sus achaques de salud. “La persecución que ha sufrido en vida Julián es una vergüenza, por suerte ahora podrá descansar eternamen…",
-        "url": "https://www.meneame.net/m/ocio/julian-munoz-ya-encuentra-republica-dominicana-tras-morir-esta",
-        "urlToImage": "https://meneame.net/img/logo_meneame.png",
-        "publishedAt": "2024-09-27T11:29:00Z",
-        "content": "Yo esto ya lo he visto antes..."
     }
 ]
