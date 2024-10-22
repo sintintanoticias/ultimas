@@ -54,19 +54,6 @@
     {
         "source": {
             "id": null,
-            "name": "Xataka.com"
-        },
-        "author": "Javier Jiménez",
-        "title": "Uno de los mejores equipos forenses de España esconde el secreto del origen de Colón. Cada vez falta menos para que lo revelen",
-        "description": "El 20 de mayo de 1506, un hombre moría en Valladolid. El 19, unas horas antes, había dictado su testamento y lo había firmado como \"almirante, virrey y gobernador [...] de las Indias descubiertas y por descubrir\". El 21, unas horas después, un puñado de mozos…",
-        "url": "https://www.xataka.com/investigacion/uno-mejores-equipos-forenses-espana-esconde-secreto-origen-colon-cada-vez-falta-revelen",
-        "urlToImage": "https://i.blogs.es/70a285/jorge-fernandez-salas-dcrl6ihrla4-unsplash/840_560.jpeg",
-        "publishedAt": "2024-09-21T16:30:46Z",
-        "content": "El 20 de mayo de 1506, un hombre moría en Valladolid. El 19, unas horas antes, había dictado su testamento y lo había firmado como \"almirante, virrey y gobernador [...] de las Indias descubiertas y p… [+3794 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Gizmodo.com"
         },
         "author": "Thomas Handley",
@@ -642,38 +629,12 @@
             "name": "RT"
         },
         "author": "RT en Español\n , RT en Español",
-        "title": "Le niegan el pasaporte a un niño porque su nombre es propiedad de Disney",
-        "description": "\"Entendemos que el segundo nombre de Loki está protegido por derechos de autor, pero no tenemos intención de usarlo para beneficio personal\", afirmó el padre, militar en activo del Ejército británico.",
-        "url": "https://actualidad.rt.com/viral/523640-niegan-pasaporte-nino-nombre-star-wars-disney",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66eecef359bf5b0c5a380cb5.jpg",
-        "publishedAt": "2024-09-21T13:39:02Z",
-        "content": "A un niño británico de 7 años, llamado Loki Skywalker Mowbray, se le denegó inicialmente la emisión del pasaporte debido a su característico nombre, inspirado en la icónica saga de 'Star Wars' ('La g… [+925 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
         "title": "Petro comparte una foto desde México con \"un grupo de revolucionarios\"",
         "description": "El mandatario posó junto a sus homólogos de Brasil, Chile y Honduras.",
         "url": "https://actualidad.rt.com/actualidad/524993-grupo-revolucionarios-latinoamericanos-foto-compartir-petro",
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fc0b2459bf5b7eb81f10c7.png",
         "publishedAt": "2024-10-01T15:47:35Z",
         "content": "El presidente de Colombia, Gustavo Petro, compartió en sus redes una imagen junto a sus pares de Brasil, Luiz Inacio Lula da Silva; de Chile, Gabriel Boric; y de Honduras, Xiomara Castro.\r\n\"Un grupo … [+1148 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "urielblanco",
-        "title": "Nuevo estudio revela el misterio de hace siglos sobre los verdaderos orígenes de Cristóbal Colón",
-        "description": "Cristóbal Colón era un judío sefardí de Europa Occidental, según afirmaron científicos españoles el sábado, tras utilizar análisis de ADN para resolver un misterio de hace siglos.\nThe post Nuevo estudio revela el misterio de hace siglos sobre los verdaderos o…",
-        "url": "https://cnnespanol.cnn.com/2024/10/13/estudio-misterio-secular-verdaderos-origenes-cristobal-colon-reux",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766118-copia-de-foto-para-wp-2024-10-13t115127-240.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-10-13T19:21:05Z",
-        "content": "(Reuters) El explorador del siglo XV Cristóbal Colón era un judío sefardí de Europa Occidental, según afirmaron científicos españoles este sábado, tras utilizar análisis de ADN para resolver un miste… [+2312 chars]"
     },
     {
         "source": {
@@ -687,6 +648,19 @@
         "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/10/08/1728379601349-U27824131278ZgH-1024x512@diario_abc.jpg",
         "publishedAt": "2024-10-08T09:29:20Z",
         "content": "Agentes de la Policía Nacional han desmantelado un narcopiso del distrito madrileño de Tetuán. La investigación puso de manifiesto que un hombre utilizaba su propio domicilio como punto de adquisició… [+756 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "urielblanco",
+        "title": "Nuevo estudio revela el misterio de hace siglos sobre los verdaderos orígenes de Cristóbal Colón",
+        "description": "Cristóbal Colón era un judío sefardí de Europa Occidental, según afirmaron científicos españoles el sábado, tras utilizar análisis de ADN para resolver un misterio de hace siglos.\nThe post Nuevo estudio revela el misterio de hace siglos sobre los verdaderos o…",
+        "url": "https://cnnespanol.cnn.com/2024/10/13/estudio-misterio-secular-verdaderos-origenes-cristobal-colon-reux",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766118-copia-de-foto-para-wp-2024-10-13t115127-240.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-13T19:21:05Z",
+        "content": "(Reuters) El explorador del siglo XV Cristóbal Colón era un judío sefardí de Europa Occidental, según afirmaron científicos españoles este sábado, tras utilizar análisis de ADN para resolver un miste… [+2312 chars]"
     },
     {
         "source": {
@@ -1110,19 +1084,6 @@
             "name": "Www.abc.es"
         },
         "author": "(abc)",
-        "title": "Andrés Feliz, de esquivar la delincuencia y vivir con una viuda en El Prat a fichaje estrella del Madrid",
-        "description": "La temporada de baloncesto español comenzará con un tiroteo de categoría. Real Madrid y Barcelona se enfrentarán hoy ( 18.30 horas, Movistar Plus ) en la primera de las semifinales de la Supercopa de España celebrada en Murcia, un duelo histórico y de lo más …",
-        "url": "https://www.abc.es/deportes/baloncesto/andres-feliz-esquivar-delincuencia-vivir-viuda-prat-20240920174912-nt.html",
-        "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2024/09/20/feliz_20240920173720-U77216221174XgE-1024x512@diario_abc.jpg",
-        "publishedAt": "2024-09-21T02:24:11Z",
-        "content": "La temporada de baloncesto español comenzará con un tiroteo de categoría. Real Madrid y Barcelona se enfrentarán hoy (18.30 horas, Movistar Plus) en la primera de las semifinales de la Supercopa de E… [+4596 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Www.abc.es"
-        },
-        "author": "(abc)",
         "title": "No solo su tumba: Sevilla tiene una joya viva de la familia de Cristóbal Colón",
         "description": "El paso de la familia Colón por Sevilla sigue manteniéndose sobre todo en el monasterio de La Cartuja, donde aún sigue vivo hasta un ombú que según la leyenda fue plantado por Hernando, el hijo del almirante que descubrió América . Esta planta no es técnicame…",
         "url": "https://www.abc.es/sevilla/ciudad/solo-tumba-sevilla-joya-viva-familia-cristobal-20241014124829-nts.html",
@@ -1298,5 +1259,44 @@
         "urlToImage": "https://s.libertaddigital.com/2024/08/01/1200/627/ld/europapress-5972796-presidente-zamaro-cf-victor-aldama-comparece-comision-no-permanente.jpg",
         "publishedAt": "2024-09-23T04:34:37Z",
         "content": "La UCO sigue con su trabajo de investigación de la trama Koldo-PSOE. Y todos los datos volcados los móviles confirman un hecho: que Víctor de Aldama, el contacto de Begoña Gómez con Globalia durante … [+3117 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Elconfidencialdigital.com"
+        },
+        "author": "Óscar Gutiérrez Martínez",
+        "title": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año",
+        "description": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año. \n \n\n Queda menos de una semana para que el Consejo de Indra se vuelva a reunir para debatir qué decisión tomar sobre el futuro de la empresa. Y...",
+        "url": "https://www.elconfidencialdigital.com/articulo/dinero/direccion-indra-apuesta-vender-filial-operadores-pago-antes-que-acabe-ano/20240925000000847431.html",
+        "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/31/2024073115022540252.jpg",
+        "publishedAt": "2024-09-24T22:00:00Z",
+        "content": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año.\r\nQueda menos de una semana para que el Consejo de Indra se vuelva a reunir para debatir qué decisió… [+2349 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Milenio"
+        },
+        "author": "Agencia EFE",
+        "title": "En República Dominicana, 1 de cada 5 menores de edad es madre o está embarazada",
+        "description": "Una de cada cinco mujeres de 15 a 19 años en República Dominicana (20 por ciento) ya ha tenido un hijo o está embarazada por primera vez, alertó el Fondo de Naciones Unidas para la Infancia (Unicef).Unicef destaca la necesidad urgente de fortalecer la educaci…",
+        "url": "https://www.milenio.com/internacional/unicef-alerta-embarazos-adolescentes-republica-dominicana",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/08/educacion-sexual-embarazo-adolescente-libros.jpeg",
+        "publishedAt": "2024-10-11T02:15:07Z",
+        "content": "Una de cada cinco mujeres de 15 a 19 años en República Dominicana (20 por ciento) ya ha tenido un hijo o está embarazada por primera vez, alertó el Fondo de Naciones Unidas para la Infancia (Unicef).… [+3120 chars]"
+    },
+    {
+        "source": {
+            "id": "la-nacion",
+            "name": "La Nacion"
+        },
+        "author": "LA NACION",
+        "title": "Viajó y tuvo “vacaciones silenciosas” durante diez semanas, sin que su jefe lo supiera: “Fui más feliz y productivo”",
+        "description": "Descubre la creciente tendencia del ‘quiet vacationing’ o ‘vacaciones silenciosas’, donde los empleados combinan trabajo remoto y vacaciones sin avisar a sus jefes. Esto constrata con el quiet quitting o “renuncia silenciosa”, una tendencia laboral entre los …",
+        "url": "https://www.lanacion.com.ar/estados-unidos/viajo-y-tuvo-vacaciones-silenciosas-durante-diez-semanas-sin-que-su-jefe-lo-supiera-fui-mas-feliz-y-nid09102024/",
+        "urlToImage": "https://resizer.glanacion.com/resizer/v2/tobi-oluwole-valora-el-hecho-de-no-tener-que-RTNNN4DO7JGDTKIYZVRJKQ2NDI.jpg?auth=a5ffadfd65a56448bb21431e03b572111dd53b393c40a0166a7724dbfd93aa3d&width=768&quality=70&smart=false",
+        "publishedAt": "2024-10-09T14:25:29Z",
+        "content": "A través de un enfoque estratégico hacia su trabajo remoto, Tobi Oluwole disfrutó de 10 semanas de vacaciones silenciosas a lo largo de 15 meses, permitiéndole ser más productivo y feliz en su rol. A… [+3007 chars]"
     }
 ]
