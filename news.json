@@ -535,6 +535,19 @@
     {
         "source": {
             "id": null,
+            "name": "Muyinteresante.com"
+        },
+        "author": "juancastroviejo",
+        "title": "¿Cómo fue el último verano antes de la Segunda Guerra Mundial?",
+        "description": "En el último estío antes de la Segunda Guerra Mundial, mientras se celebraban conferencias políticas y los nazis daban estudiados pasos hacia el conflicto bélico, los ciudadanos europeos trataban de seguir con sus vidas",
+        "url": "http://www.muyinteresante.com/historia/como-ultimo-verano-antes-de-la-segunda-guerra-mundial.html",
+        "urlToImage": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2024/10/Alemanes-de-vacaciones-en-1938-e1729523944918-og.jpg",
+        "publishedAt": "2024-10-22T00:00:00Z",
+        "content": "Creado:\r\n22.10.2024 | 00:00\r\nActualizado:\r\n22.10.2024 | 08:31\r\n“Les decepcionamos y nos avergonzamos de ello”, comentó Margaret Thatcher ante el Parlamento de Praga en septiembre de 1990. La Dama de … [+13759 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Libertaddigital.com"
         },
         "author": "Miguel Ángel Pérez",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s.libertaddigital.com/2024/08/01/1200/627/ld/europapress-5972796-presidente-zamaro-cf-victor-aldama-comparece-comision-no-permanente.jpg",
         "publishedAt": "2024-09-23T04:34:37Z",
         "content": "La UCO sigue con su trabajo de investigación de la trama Koldo-PSOE. Y todos los datos volcados los móviles confirman un hecho: que Víctor de Aldama, el contacto de Begoña Gómez con Globalia durante … [+3117 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Elconfidencialdigital.com"
-        },
-        "author": "Óscar Gutiérrez Martínez",
-        "title": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año",
-        "description": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año. \n \n\n Queda menos de una semana para que el Consejo de Indra se vuelva a reunir para debatir qué decisión tomar sobre el futuro de la empresa. Y...",
-        "url": "https://www.elconfidencialdigital.com/articulo/dinero/direccion-indra-apuesta-vender-filial-operadores-pago-antes-que-acabe-ano/20240925000000847431.html",
-        "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/31/2024073115022540252.jpg",
-        "publishedAt": "2024-09-24T22:00:00Z",
-        "content": "La dirección de Indra apuesta por vender la filial de operadores de pago antes de que acabe el año.\r\nQueda menos de una semana para que el Consejo de Indra se vuelva a reunir para debatir qué decisió… [+2349 chars]"
     }
 ]
