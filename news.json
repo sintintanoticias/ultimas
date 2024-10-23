@@ -235,19 +235,6 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Sofía Benavides",
-        "title": "Investigadores españoles confirman que los restos de Cristóbal Colón se encuentran en Sevilla",
-        "description": "Un grupo de investigadores españoles confirmó este jueves que los restos de Cristóbal Colón reposan, en efecto, en la catedral de Sevilla.\nThe post Investigadores españoles confirman que los restos de Cristóbal Colón se encuentran en Sevilla appeared first on…",
-        "url": "https://cnnespanol.cnn.com/2024/10/12/investigadores-confirman-restos-sevilla-cristobal-colon-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765828-restos-de-cristobal-colon.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-10-12T14:53:09Z",
-        "content": "(CNN Español) Un grupo de investigadores españoles confirmó este jueves que los restos de Cristóbal Colón reposan, en efecto, en la catedral de Sevilla.\r\nEn una rueda de prensa convocada por el docum… [+1764 chars]"
-    },
-    {
-        "source": {
             "id": "rt",
             "name": "RT"
         },
@@ -258,6 +245,19 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66f4532659bf5b0a20784ede.jpg",
         "publishedAt": "2024-09-25T20:23:56Z",
         "content": "El presidente dominicano, Luis Abinader, solicitó este miércoles una mayor implicación de la \"comunidad internacional\" en la \"estabilización\" de la situación sociopolítica en Haití, toda vez que, des… [+1820 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sofía Benavides",
+        "title": "Investigadores españoles confirman que los restos de Cristóbal Colón se encuentran en Sevilla",
+        "description": "Un grupo de investigadores españoles confirmó este jueves que los restos de Cristóbal Colón reposan, en efecto, en la catedral de Sevilla.\nThe post Investigadores españoles confirman que los restos de Cristóbal Colón se encuentran en Sevilla appeared first on…",
+        "url": "https://cnnespanol.cnn.com/2024/10/12/investigadores-confirman-restos-sevilla-cristobal-colon-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765828-restos-de-cristobal-colon.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-12T14:53:09Z",
+        "content": "(CNN Español) Un grupo de investigadores españoles confirmó este jueves que los restos de Cristóbal Colón reposan, en efecto, en la catedral de Sevilla.\r\nEn una rueda de prensa convocada por el docum… [+1764 chars]"
     },
     {
         "source": {
