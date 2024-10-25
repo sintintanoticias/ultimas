@@ -938,6 +938,19 @@
     {
         "source": {
             "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Javier Alfaro",
+        "title": "Justin Oboavwoduo, la 'perla' del City que pide una oportunidad a Pep",
+        "description": "El nombre de Justin Oboavwoduo es uno de esos que el aficionado del fútbol debe apuntar y tener muy presente de cara a lo que suceda en los próximos años. Se trata de una de las grandes 'perlas' que guarda el Manchester City en su academia y este miércoles de…",
+        "url": "https://www.mundodeportivo.com/futbol/internacional/20241024/1002339181/justin-oboavwoduo-perla-city-pide-oportunidad-pep-guardiola.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/23/67192f96dee09.jpeg",
+        "publishedAt": "2024-10-24T05:00:00Z",
+        "content": "El nombre de Justin Oboavwoduo es uno de esos que el aficionado del fútbol debe apuntar y tener muy presente de cara a lo que suceda en los próximos años. Se trata de una de las grandes 'perlas' que … [+1442 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Lavozdegalicia.es"
         },
         "author": "La Voz",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/670fc168e9ff716c27040a1a.png",
         "publishedAt": "2024-10-16T14:19:51Z",
         "content": "Un tribunal de Argentina comenzó este miércoles el primer juicio en contra del empresario Leonardo Cositorto, quien está acusado de haber operado durante años una de las estafas piramidales más grand… [+2921 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Criptonoticias.com"
-        },
-        "author": "CriptoIA",
-        "title": "Arkham Intelligence lanzará un exchange de derivados de criptomonedas",
-        "description": "La firma de análisis dejará sus operaciones en Londres y Nueva York, y se establecerá en Punta Cana, República Dominicana.\nLeer más",
-        "url": "https://www.criptonoticias.com/negocios/arkham-intelligence-exchange-derivados-criptomonedas/",
-        "urlToImage": "https://www.criptonoticias.com/wp-content/uploads/2024/10/arkham-intelligencie-criptomonedas.jpg",
-        "publishedAt": "2024-10-11T15:57:15Z",
-        "content": "<ul><li>El exchange estará dirigido a inversionistas minoristas y buscará competir con Binance.\r\n</li><li>Arkham quiere capturar una lucrativa porción del mercado de criptomonedas.\r\n</li></ul>\r\nArkha… [+2233 chars]"
     }
 ]
