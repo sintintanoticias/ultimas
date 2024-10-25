@@ -782,6 +782,19 @@
     {
         "source": {
             "id": null,
+            "name": "Libertaddigital.com"
+        },
+        "author": "Miguel Ángel Pérez",
+        "title": "La trama Koldo se reunía en el 'paraíso' residencial de Cocotal en República Dominicana para hacer entregas de dinero",
+        "description": "La trama Koldo se citaba en la lujosa urbanización Cocotal de Punta Cana para hacer las entregas de efectivo",
+        "url": "https://www.libertaddigital.com/espana/2024-10-24/trama-koldo-reunia-residencial-lujo-cocotal-republica-dominicana-entregas-dinero-7176963/",
+        "urlToImage": "https://s.libertaddigital.com/2024/10/24/1200/627/ld/abalos-koldo-aldama-dos.jpg",
+        "publishedAt": "2024-10-24T18:56:05Z",
+        "content": "La trama Koldo se reunía en el paraíso residencial de Cocotal en República Dominicana para hacer entregas de dinero en efectivo.\r\nCocotal Golf &amp; Country Club o Palma Real Villas es una de las com… [+4577 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Jornada.com.mx"
         },
         "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s.libertaddigital.com/2024/07/10/1200/627/ld/889911-1-1.jpg",
         "publishedAt": "2024-09-27T04:34:56Z",
         "content": "La mujer del presidente Sánchez llegó a la dirección del Africa Center del IE en agosto de 2018, nada más ganar su marido la moción de censura con la que ascendió a La Moncloa. Y dejó el mismo centro… [+6442 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "¿Qué son los 'levantamientos brasileños de glúteos' y por qué generan tanta polémica?",
-        "description": "Estas operaciones estéticas pueden representar un serio riesgo para la salud del paciente, ya que se corre el peligro de que parte de la grasa inyectada penetre en sus vasos sanguíneos.",
-        "url": "https://actualidad.rt.com/actualidad/524861-levantamientos-brasilenos-gluteos-generan-polemica",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fbff4e59bf5b4865597f93.jpg",
-        "publishedAt": "2024-10-02T23:33:56Z",
-        "content": "La reciente muerte de una mujer británica tras someterse a un procedimiento conocido como levantamiento brasileño de glúteos (BBL, por sus siglas en inglés), no quirúrgico, ha puesto en el centro de … [+3846 chars]"
     }
 ]
