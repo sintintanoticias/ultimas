@@ -1068,19 +1068,6 @@
     {
         "source": {
             "id": null,
-            "name": "Record.com.mx"
-        },
-        "author": "Record.com.mx",
-        "title": "La Selección Mexicana Femenil está lista para la Copa Mundial Sub-17",
-        "description": "El certamen juvenil comenzó este miércoles en República Dominicana",
-        "url": "https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/la-seleccion-mexicana-femenil-esta-lista-para-la-copa",
-        "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/16/gzvlvvmx0aae0ms.jpg",
-        "publishedAt": "2024-10-16T21:49:00Z",
-        "content": "La Copa Mundial Sub-17 Femenil comenzó este miércoles en República Dominicana y la Selección Mexicana está lista para el reto que será la competición en la isla caribeña. El equipo Tricolor se coloca… [+2386 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Milenio"
         },
         "author": "Agencia AFP",
@@ -1090,6 +1077,19 @@
         "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
         "publishedAt": "2024-10-03T00:58:14Z",
         "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Record.com.mx"
+        },
+        "author": "Record.com.mx",
+        "title": "La Selección Mexicana Femenil está lista para la Copa Mundial Sub-17",
+        "description": "El certamen juvenil comenzó este miércoles en República Dominicana",
+        "url": "https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/la-seleccion-mexicana-femenil-esta-lista-para-la-copa",
+        "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/16/gzvlvvmx0aae0ms.jpg",
+        "publishedAt": "2024-10-16T21:49:00Z",
+        "content": "La Copa Mundial Sub-17 Femenil comenzó este miércoles en República Dominicana y la Selección Mexicana está lista para el reto que será la competición en la isla caribeña. El equipo Tricolor se coloca… [+2386 chars]"
     },
     {
         "source": {
