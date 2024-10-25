@@ -1081,19 +1081,6 @@
     {
         "source": {
             "id": null,
-            "name": "Jornada.com.mx"
-        },
-        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-        "title": "Españolas arrancan con victoria el Mundial Sub-17",
-        "description": "La selección española Sub-17 femenil, vigente campeona, comenzó con buen pie la defensa del título al derrotar ayer por 3-1 a Estados Unidos, en la jornada inaugural del Mundial de la categoría, que se disputa en Repúbli-ca Dominicana.",
-        "url": "https://www.jornada.com.mx/2024/10/17/deportes/a11n2dep",
-        "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-        "publishedAt": "2024-10-17T10:24:36Z",
-        "content": "Periódico La JornadaJueves 17 de octubre de 2024, p. a11\r\nLa selección española Sub-17 femenil, vigente campeona, comenzó con buen pie la defensa del título al derrotar ayer por 3-1 a Estados Unidos,… [+1696 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Record.com.mx"
         },
         "author": "Record.com.mx",
@@ -1103,6 +1090,19 @@
         "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/16/gzvlvvmx0aae0ms.jpg",
         "publishedAt": "2024-10-16T21:49:00Z",
         "content": "La Copa Mundial Sub-17 Femenil comenzó este miércoles en República Dominicana y la Selección Mexicana está lista para el reto que será la competición en la isla caribeña. El equipo Tricolor se coloca… [+2386 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jornada.com.mx"
+        },
+        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+        "title": "Españolas arrancan con victoria el Mundial Sub-17",
+        "description": "La selección española Sub-17 femenil, vigente campeona, comenzó con buen pie la defensa del título al derrotar ayer por 3-1 a Estados Unidos, en la jornada inaugural del Mundial de la categoría, que se disputa en Repúbli-ca Dominicana.",
+        "url": "https://www.jornada.com.mx/2024/10/17/deportes/a11n2dep",
+        "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+        "publishedAt": "2024-10-17T10:24:36Z",
+        "content": "Periódico La JornadaJueves 17 de octubre de 2024, p. a11\r\nLa selección española Sub-17 femenil, vigente campeona, comenzó con buen pie la defensa del título al derrotar ayer por 3-1 a Estados Unidos,… [+1696 chars]"
     },
     {
         "source": {
