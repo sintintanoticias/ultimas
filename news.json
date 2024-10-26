@@ -1003,19 +1003,6 @@
     {
         "source": {
             "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "Ángel Mor Montolio",
-        "title": "César Muñoz ya tiene fecha de regreso a Telecinco tras la cancelación de 'Así es la vida'",
-        "description": "'Así es la vida' se despedía el 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javier Vázquez volverá a las tardes de Telecinco para presentar su nuev…",
-        "url": "https://www.mundodeportivo.com/elotromundo/television/20240924/1002321325/cesar-munoz-fecha-regreso-telecinco-cancelacion-asi-vida-dct.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3c42100693.r_d.960-540-0.jpeg",
-        "publishedAt": "2024-09-24T13:14:21Z",
-        "content": "'Así es la vida' se despedía el 26 de julio de toda la audiencia de las tardes de Telecinco. El programa presentado por César Muñoz y Sandra Barneda llegaba a su final. En su lugar, Jorge Javier Vázq… [+1558 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Elconfidencialdigital.com"
         },
         "author": "ECD",
@@ -1224,6 +1211,19 @@
     {
         "source": {
             "id": null,
+            "name": "Jornada.com.mx"
+        },
+        "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+        "title": "Juan Luis Guerra y su 440 trajeron tierra y arena de color negro al domo de cobre",
+        "description": "En medicina se le llama síndrome de Gilbert a una afección hepática común e inofensiva en la que el hígado no procesa adecuadamente la bilirrubina, la cual se produce por la desintegración de los glóbulos rojos del torrente sanguíneo. Cuando pasa esto se dice…",
+        "url": "https://www.jornada.com.mx/2024/10/25/espectaculos/a08n1esp",
+        "urlToImage": "https://www.jornada.com.mx/2024/10/25/fotos/a08n1esp-1.jpg",
+        "publishedAt": "2024-10-25T08:14:27Z",
+        "content": "Periódico La JornadaViernes 25 de octubre de 2024, p. 8\r\nEn medicina se le llama síndrome de Gilbert a una afección hepática común e inofensiva en la que el hígado no procesa adecuadamente la bilirru… [+3019 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Www.abc.es"
         },
         "author": "(abc)",
@@ -1246,19 +1246,6 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/09/27/M_161918_jaime-batle-no-podemos-decir-que-el-turismo-nos-sobra.jpg",
         "publishedAt": "2024-09-28T22:00:01Z",
         "content": "Los primeros años en la hotelería\r\nEl camino de Jaime Batle dentro del sector se remonta a la década del 50. “En aquel tiempo Mallorca se dedicaba y vivía de la agricultura, no había hoteles, ni tran… [+5883 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "El Financiero"
-        },
-        "author": "Redacción",
-        "title": "‘Ahora sí viene lo chido’: Luisito Comunica revela detalles de su detención en República Dominicana",
-        "description": "Luisito Comunica compartió que los policías de República Dominicana lo tomaron de la camisa, esposaron a sus amigos y les aseguraron que los llevarían presos.",
-        "url": "https://www.elfinanciero.com.mx/espectaculos/2024/09/24/luisito-comunica-revela-detalles-de-su-detencion-en-republica-dominicana-que-dijo/",
-        "urlToImage": "https://elfinanciero.com.mx/resizer/v2/53ZTBJSQ2BHKPJTVP3SNEGHV5Y.jpg?smart=true&auth=286cf4e164323b846dfc2c9e51d80d0e56d3db02cfaafa989d96ca7dd8d11d51&width=1200&height=630",
-        "publishedAt": "2024-09-24T20:11:55Z",
-        "content": "Luisito Comunica subió un video en donde compartió todos los detalles de la detención que vivió en el Metro de Santo Domingo, ubicado en la capital de República Dominicana, hace dos semanas.\r\nHasta e… [+4925 chars]"
     },
     {
         "source": {
@@ -1298,5 +1285,18 @@
         "urlToImage": "https://s.libertaddigital.com/2024/07/10/1200/627/ld/889911-1-1.jpg",
         "publishedAt": "2024-09-27T04:34:56Z",
         "content": "La mujer del presidente Sánchez llegó a la dirección del Africa Center del IE en agosto de 2018, nada más ganar su marido la moción de censura con la que ascendió a La Moncloa. Y dejó el mismo centro… [+6442 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "¿Qué son los 'levantamientos brasileños de glúteos' y por qué generan tanta polémica?",
+        "description": "Estas operaciones estéticas pueden representar un serio riesgo para la salud del paciente, ya que se corre el peligro de que parte de la grasa inyectada penetre en sus vasos sanguíneos.",
+        "url": "https://actualidad.rt.com/actualidad/524861-levantamientos-brasilenos-gluteos-generan-polemica",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fbff4e59bf5b4865597f93.jpg",
+        "publishedAt": "2024-10-02T23:33:56Z",
+        "content": "La reciente muerte de una mujer británica tras someterse a un procedimiento conocido como levantamiento brasileño de glúteos (BBL, por sus siglas en inglés), no quirúrgico, ha puesto en el centro de … [+3846 chars]"
     }
 ]
