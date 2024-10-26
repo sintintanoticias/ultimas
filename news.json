@@ -1068,6 +1068,19 @@
     {
         "source": {
             "id": null,
+            "name": "Hosteltur.com"
+        },
+        "author": "Hosteltur",
+        "title": "Senator suma un hotel en Cádiz que operará con marca de IHG",
+        "description": "Senator Hotels & Resorts asumirá en el mes de noviembre la gestión del Hotel Spa Cádiz Plaza, un establecimiento de 4 estrellas ubicado en Plaza Victoria de Cádiz, que será sometido a una reestructuración integral para comenzar a operar con la marca Hotel Índ…",
+        "url": "https://www.hosteltur.com/166385_senator-suma-un-hotel-en-cadiz-que-operara-con-marca-de-ihg.html",
+        "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/25/M_162859_senator-suma-un-hotel-en-cadiz-que-operara-con-marca-de-ihg.jpg",
+        "publishedAt": "2024-10-25T14:45:56Z",
+        "content": "El establecimiento cuenta con 76 habitaciones, spa, gimnasio, instalaciones para eventos y rooftop. Con esta incorporación, Senator Hotels &amp; Resorts amplía su cartera de hoteles en la línea de Pa… [+1161 chars]"
+    },
+    {
+        "source": {
+            "id": null,
             "name": "Milenio"
         },
         "author": "Agencia EFE",
@@ -1094,19 +1107,6 @@
     {
         "source": {
             "id": null,
-            "name": "Milenio"
-        },
-        "author": "Agencia AFP",
-        "title": "República Dominicana deportará semanalmente a 10 mil haitianos indocumentados",
-        "description": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migracióndesde su país vecino, asolado por la violencia de pandillas y la pobreza.De cumplirse el obje…",
-        "url": "https://www.milenio.com/internacional/republica-dominicana-deportara-semanalmente-haitianos-indocumentados",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
-        "publishedAt": "2024-10-03T00:58:14Z",
-        "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Record.com.mx"
         },
         "author": "Record.com.mx",
@@ -1116,6 +1116,19 @@
         "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/16/gzvlvvmx0aae0ms.jpg",
         "publishedAt": "2024-10-16T21:49:00Z",
         "content": "La Copa Mundial Sub-17 Femenil comenzó este miércoles en República Dominicana y la Selección Mexicana está lista para el reto que será la competición en la isla caribeña. El equipo Tricolor se coloca… [+2386 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Milenio"
+        },
+        "author": "Agencia AFP",
+        "title": "República Dominicana deportará semanalmente a 10 mil haitianos indocumentados",
+        "description": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migracióndesde su país vecino, asolado por la violencia de pandillas y la pobreza.De cumplirse el obje…",
+        "url": "https://www.milenio.com/internacional/republica-dominicana-deportara-semanalmente-haitianos-indocumentados",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/03/05/ciento-haitianos-salio-temor-situacion.jpg",
+        "publishedAt": "2024-10-03T00:58:14Z",
+        "content": "El gobierno de República Dominicana anunció este miércoles un plan para deportar a 10 mil haitianos indocumentados por semana en un intento por controlar la migración desde su país vecino, asolado po… [+4283 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://s.libertaddigital.com/2024/07/10/1200/627/ld/889911-1-1.jpg",
         "publishedAt": "2024-09-27T04:34:56Z",
         "content": "La mujer del presidente Sánchez llegó a la dirección del Africa Center del IE en agosto de 2018, nada más ganar su marido la moción de censura con la que ascendió a La Moncloa. Y dejó el mismo centro… [+6442 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "¿Qué son los 'levantamientos brasileños de glúteos' y por qué generan tanta polémica?",
-        "description": "Estas operaciones estéticas pueden representar un serio riesgo para la salud del paciente, ya que se corre el peligro de que parte de la grasa inyectada penetre en sus vasos sanguíneos.",
-        "url": "https://actualidad.rt.com/actualidad/524861-levantamientos-brasilenos-gluteos-generan-polemica",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fbff4e59bf5b4865597f93.jpg",
-        "publishedAt": "2024-10-02T23:33:56Z",
-        "content": "La reciente muerte de una mujer británica tras someterse a un procedimiento conocido como levantamiento brasileño de glúteos (BBL, por sus siglas en inglés), no quirúrgico, ha puesto en el centro de … [+3846 chars]"
     }
 ]
