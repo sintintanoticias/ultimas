@@ -524,19 +524,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "EFE EFE",
-        "title": "2-1: España se impone a México pensando en el Mundial",
-        "description": "La selección española femenina sub'17 se ha impuesto a su homóloga de, por 2-1, gracias a los tantos de Clara Serrajordi y Alba Cerrato, ambos en la primera mitad, pensando en el Mundial de República Dominicana que se disputa del 16 de octubre al 6 de noviemb…",
-        "url": "https://www.mundodeportivo.com/futbol/20240927/1002323277/2-1-espana-impone-mexico-pensando-mundial-femenino-republica-dominicana.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/09/27/66f6ad8a347ab.jpeg",
-        "publishedAt": "2024-09-27T13:05:19Z",
-        "content": "La selección española femenina sub'17 se ha impuesto a su homóloga de, por 2-1, gracias a los tantos de Clara Serrajordi y Alba Cerrato, ambos en la primera mitad, pensando en el Mundial de República… [+984 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "Autor Redacción",
         "title": "Revelan la identidad de una nueva pareja concursante de 'La isla de las tentaciones 8'",
         "description": "Hace unas semanas, Sandra Barneda y el equipo de 'La isla de las tentaciones' regresaron de República Dominicana tras finalizar la grabación de la octava edición del reality de Telecinco. Con el paso de los días, la cuenta de Instagram @lacuernis ha comenzado…",
@@ -687,19 +674,6 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1760874-carolina-herrera-oscar-de-la-renta-agatha-ruiz-de-la-prada-getty.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2024-10-02T00:33:50Z",
         "content": "Nota del editor: Mari Rodríguez Ichaso ha sido colaboradora de la revista Vanidades durante varias décadas. Especialista en moda, viajes, gastronomía, arte, arquitectura y entretenimiento. Productora… [+5495 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "El gobierno de Venezuela suspende los vuelos directos con Chile tras el discurso de Boric en la ONU",
-        "description": "Este es el cuarto destino con el que Venezuela rompe puentes aéreos después de los comicios presidenciales del pasado 28 de julio.",
-        "url": "https://www.bbc.com/mundo/articles/cpdq1l0xdd9o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c8b2/live/972f4b90-7cc7-11ef-b66d-034eed51208d.jpg",
-        "publishedAt": "2024-09-27T12:12:02Z",
-        "content": "Fuente de la imagen, Getty Images\r\nPie de foto, Con la suspensión de los vuelos a Chile, son cuatro destinos con los que Venezuela rompe sus puentes aéreos.\r\nInformación del artículo<ul><li>Autor, Re… [+4255 chars]"
     },
     {
         "source": {
@@ -1029,19 +1003,6 @@
     {
         "source": {
             "id": null,
-            "name": "Huffingtonpost.es"
-        },
-        "author": "Redacción HuffPost",
-        "title": "Maduro ordena al Ejército de Venezuela reforzar planes contra el \"terrorismo\" de EEUU y España",
-        "description": "<![CDATA[<p>El presidente de Venezuela, Nicolás Maduro, ha ordenado este jueves a las Fuerzas Armadas del país reforzar los planes antiterroristas para contrarrestar operaciones que supuestamente se están llevando a cabo en contra de su Gobierno desde otros p…",
-        "url": "https://www.huffingtonpost.es/politica/maduro-ordena-ejercito-venezuela-reforzar-planes-terrorismo-eeuu-espanabr.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/15/nicolas-maduro-4192.jpeg",
-        "publishedAt": "2024-09-27T09:33:03Z",
-        "content": "El presidente de Venezuela, Nicolás Maduro, ha ordenado este jueves a las Fuerzas Armadas del país reforzar los planes antiterroristas para contrarrestar operaciones que supuestamente se están llevan… [+3923 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Muyinteresante.com"
         },
         "author": "Fernando Cohnen Periodista",
@@ -1298,5 +1259,44 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/6715bd90e9ff7165156dcd11.jpg",
         "publishedAt": "2024-10-21T03:01:14Z",
         "content": "Un grupo de investigadores de instituciones de Italia sugirió que el virus de Oropouche también podría transmitirse entre humanos a través del contacto sexual, luego de detectar al agente infeccioso … [+2800 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "¿Qué son los 'levantamientos brasileños de glúteos' y por qué generan tanta polémica?",
+        "description": "Estas operaciones estéticas pueden representar un serio riesgo para la salud del paciente, ya que se corre el peligro de que parte de la grasa inyectada penetre en sus vasos sanguíneos.",
+        "url": "https://actualidad.rt.com/actualidad/524861-levantamientos-brasilenos-gluteos-generan-polemica",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fbff4e59bf5b4865597f93.jpg",
+        "publishedAt": "2024-10-02T23:33:56Z",
+        "content": "La reciente muerte de una mujer británica tras someterse a un procedimiento conocido como levantamiento brasileño de glúteos (BBL, por sus siglas en inglés), no quirúrgico, ha puesto en el centro de … [+3846 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "Los detalles de la toma de posesión de Claudia Sheinbaum como presidenta de México",
+        "description": "La ceremonia se llevará a cabo en el Palacio Legislativo.",
+        "url": "https://actualidad.rt.com/actualidad/524819-toma-posesion-claudia-sheinbaum-presidenta-mexico",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.09/article/66fa9d38e9ff713abe106f27.jpg",
+        "publishedAt": "2024-09-30T17:31:49Z",
+        "content": "Claudia Sheinbaum tomará posesión como presidenta de México este martes, en una ceremonia que se llevará a cabo en el Palacio Legislativo y en la que participará el mandatario saliente, Andrés Manuel… [+2687 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT en Español\n , RT en Español",
+        "title": "La histórica estafa piramidal de la 'generación Zoe' que llega a juicio en Argentina",
+        "description": "El principal imputado es el empresario Leonardo Cositorto.",
+        "url": "https://actualidad.rt.com/actualidad/526714-juicio-historica-estafa-piramidal-argentina",
+        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/670fc168e9ff716c27040a1a.png",
+        "publishedAt": "2024-10-16T14:19:51Z",
+        "content": "Un tribunal de Argentina comenzó este miércoles el primer juicio en contra del empresario Leonardo Cositorto, quien está acusado de haber operado durante años una de las estafas piramidales más grand… [+2921 chars]"
     }
 ]
