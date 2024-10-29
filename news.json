@@ -183,16 +183,16 @@
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "Huffingtonpost.es"
         },
-        "author": "Belén Liotti",
-        "title": "Gobierno dominicano busca repatriar hasta 10.000 indocumentados haitianos por semana",
-        "description": "El Consejo de Seguridad y Defensa Nacional de República Dominicana informó la ejecución inmediata de un operativo que busca repatriar a su país hasta 10.000 indocumentados haitianos por semana.\nThe post Gobierno dominicano busca repatriar hasta 10.000 indocum…",
-        "url": "https://cnnespanol.cnn.com/2024/10/02/republica-dominicana-repatriar-indocumentados-haitianos-orix",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1464361-gettyimages-1668642513.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2024-10-03T01:31:12Z",
-        "content": "(CNN Español) El Consejo de Seguridad y Defensa Nacional de República Dominicana, encabezado por el presidente Luis Abinader, informó este miércoles la ejecución inmediata de un operativo que busca r… [+1293 chars]"
+        "author": "Redacción HuffPost",
+        "title": "Un arqueólogo asegura que \"hay más de 65 galeones españoles hundidos\" en República Dominicana",
+        "description": "<![CDATA[<p>La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, ha dirigido este lunes una ponencia en Madrid pa…",
+        "url": "https://www.huffingtonpost.es/sociedad/un-arqueologo-asegura-hay-mas-65-galeones-espanoles-hundidos-republica-dominicana.html",
+        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/10/03/vista-de-un-buque-hundido-en-el-fondo-del-mar-caribe.jpeg",
+        "publishedAt": "2024-10-03T15:01:08Z",
+        "content": "La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, … [+4351 chars]"
     },
     {
         "source": {
@@ -209,16 +209,16 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Huffingtonpost.es"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": "Redacción HuffPost",
-        "title": "Un arqueólogo asegura que \"hay más de 65 galeones españoles hundidos\" en República Dominicana",
-        "description": "<![CDATA[<p>La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, ha dirigido este lunes una ponencia en Madrid pa…",
-        "url": "https://www.huffingtonpost.es/sociedad/un-arqueologo-asegura-hay-mas-65-galeones-espanoles-hundidos-republica-dominicana.html",
-        "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/10/03/vista-de-un-buque-hundido-en-el-fondo-del-mar-caribe.jpeg",
-        "publishedAt": "2024-10-03T15:01:08Z",
-        "content": "La gran mayoría de los buques españoles que engulleron tesoros de oro, plata y perlas preciosas de las colonias siguen estancados en el fondo del mar. Carlos León, doctor en arqueología subacuática, … [+4351 chars]"
+        "author": "Belén Liotti",
+        "title": "Gobierno dominicano busca repatriar hasta 10.000 indocumentados haitianos por semana",
+        "description": "El Consejo de Seguridad y Defensa Nacional de República Dominicana informó la ejecución inmediata de un operativo que busca repatriar a su país hasta 10.000 indocumentados haitianos por semana.\nThe post Gobierno dominicano busca repatriar hasta 10.000 indocum…",
+        "url": "https://cnnespanol.cnn.com/2024/10/02/republica-dominicana-repatriar-indocumentados-haitianos-orix",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1464361-gettyimages-1668642513.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-03T01:31:12Z",
+        "content": "(CNN Español) El Consejo de Seguridad y Defensa Nacional de República Dominicana, encabezado por el presidente Luis Abinader, informó este miércoles la ejecución inmediata de un operativo que busca r… [+1293 chars]"
     },
     {
         "source": {
@@ -316,19 +316,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "EFE EFE",
-        "title": "1-0: Corea del Norte cumple y jugará ante Estados Unidos por el pase a la final",
-        "description": "Corea del Norte cumplió con su tarea, mantuvo su invicto y derrotó a Polonia este sábado por 1-0 en los cuartos de final del Mundial de Fútbol Femenino sub-17 en la ciudad de Santiago (República Dominicana).",
-        "url": "https://www.mundodeportivo.com/futbol/20241027/1002341488/1-0-corea-norte-cumple-jugara-ee-uu-pase-final.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/27/671e0a37c8a99.jpeg",
-        "publishedAt": "2024-10-27T09:39:16Z",
-        "content": "Corea del Norte cumplió con su tarea, mantuvo su invicto y derrotó a Polonia este sábado por 1-0 en los cuartos de final del Mundial de Fútbol Femenino sub-17 en la ciudad de Santiago (República Domi… [+2667 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "José Luis Artús Tejero",
         "title": "La semifinal España-Inglaterra del Mundial Sub-17 tiene día, hora y televisión",
         "description": "España continúa con paso firme en el Mundial Sub-17 femenino que se está disputando en la República Dominicana y ya está en semifinales de esta competición tras golear en cuartos a Ecuador.",
@@ -336,6 +323,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/28/671f42f7bbbe6.jpeg",
         "publishedAt": "2024-10-28T07:53:39Z",
         "content": "España continúa con paso firme en el Mundial Sub-17 femenino que se está disputando en la República Dominicana y ya está en semifinales de esta competición tras golear en cuartos a Ecuador.\r\nTres gol… [+789 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "EFE EFE",
+        "title": "1-0: Corea del Norte cumple y jugará ante Estados Unidos por el pase a la final",
+        "description": "Corea del Norte cumplió con su tarea, mantuvo su invicto y derrotó a Polonia este sábado por 1-0 en los cuartos de final del Mundial de Fútbol Femenino sub-17 en la ciudad de Santiago (República Dominicana).",
+        "url": "https://www.mundodeportivo.com/futbol/20241027/1002341488/1-0-corea-norte-cumple-jugara-ee-uu-pase-final.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/27/671e0a37c8a99.jpeg",
+        "publishedAt": "2024-10-27T09:39:16Z",
+        "content": "Corea del Norte cumplió con su tarea, mantuvo su invicto y derrotó a Polonia este sábado por 1-0 en los cuartos de final del Mundial de Fútbol Femenino sub-17 en la ciudad de Santiago (República Domi… [+2667 chars]"
     },
     {
         "source": {
@@ -407,32 +407,6 @@
             "id": null,
             "name": "Mundodeportivo.com"
         },
-        "author": "Begoña Villarrubia Renom",
-        "title": "España busca su tercer Mundial Sub'17 para mantener su reinado",
-        "description": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su tercera Copa del Mundo consecutiva y alargar su reinado mundia…",
-        "url": "https://www.mundodeportivo.com/futbol/20241015/1002334015/espana-busca-tercer-mundial-sub-17-seguir-reinado.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/03/07/65e9a06799622.r_d.639-444-0.jpeg",
-        "publishedAt": "2024-10-15T17:37:25Z",
-        "content": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su te… [+1672 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
-        "author": "EFE EFE",
-        "title": "5-0: España toca a la puerta de los cuartos de final del Mundial sub-17",
-        "description": "La selección femenina sub-17 de España no dio opción este sábado a la de Corea del Sur y con una goleada por 5-0 certificó con anticipación su paso a los cuartos de final del Mundial de República Dominicana en la segunda jornada del Grupo B, que completan Col…",
-        "url": "https://www.mundodeportivo.com/futbol/femenino/20241020/1002336895/5-0-espana-toca-puerta-cuartos-final-mundial-sub-17.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/20/6714a10ee8a4b.r_d.1381-764-4430.jpeg",
-        "publishedAt": "2024-10-20T06:23:54Z",
-        "content": "La selección femenina sub-17 de España no dio opción este sábado a la de Corea del Sur y con una goleada por 5-0 certificó con anticipación su paso a los cuartos de final del Mundial de República Dom… [+1973 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Mundodeportivo.com"
-        },
         "author": "Autor Redacción",
         "title": "'La isla de las tentaciones 8' sufre la primera filtración: este famoso rostro será tentador",
         "description": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana para grabar la octava temporada y ya han regresado con todo…",
@@ -440,6 +414,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/01/09/659db64e21b70.r_d.1413-466-0.jpeg",
         "publishedAt": "2024-10-14T19:37:49Z",
         "content": "A pesar de que había rumores de cancelación, lo cierto es que Telecinco no se puede permitir prescindir de 'La isla de las tentaciones'. El equipo se trasladó hace unas semanas a República Dominicana… [+1453 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "Begoña Villarrubia Renom",
+        "title": "España busca su tercer Mundial Sub'17 para mantener su reinado",
+        "description": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su tercera Copa del Mundo consecutiva y alargar su reinado mundia…",
+        "url": "https://www.mundodeportivo.com/futbol/20241015/1002334015/espana-busca-tercer-mundial-sub-17-seguir-reinado.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/03/07/65e9a06799622.r_d.639-444-0.jpeg",
+        "publishedAt": "2024-10-15T17:37:25Z",
+        "content": "El fútbol femenino español busca sumar una nueva gesta y mantener su dominio en categorías inferiores con un nuevo título en su palmarés. La Sub'17 buscará en la República Dominicana conquistar su te… [+1672 chars]"
     },
     {
         "source": {
@@ -479,6 +466,19 @@
         "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/24/671a52802d604.jpeg",
         "publishedAt": "2024-10-24T14:09:45Z",
         "content": "Hace unas semanas, Sandra Barneda y el equipo de 'La isla de las tentaciones' regresaron de República Dominicana tras finalizar la grabación de la octava edición del reality de Telecinco. Con el paso… [+379 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mundodeportivo.com"
+        },
+        "author": "EFE EFE",
+        "title": "5-0: España toca a la puerta de los cuartos de final del Mundial sub-17",
+        "description": "La selección femenina sub-17 de España no dio opción este sábado a la de Corea del Sur y con una goleada por 5-0 certificó con anticipación su paso a los cuartos de final del Mundial de República Dominicana en la segunda jornada del Grupo B, que completan Col…",
+        "url": "https://www.mundodeportivo.com/futbol/femenino/20241020/1002336895/5-0-espana-toca-puerta-cuartos-final-mundial-sub-17.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/20/6714a10ee8a4b.r_d.1381-764-4430.jpeg",
+        "publishedAt": "2024-10-20T06:23:54Z",
+        "content": "La selección femenina sub-17 de España no dio opción este sábado a la de Corea del Sur y con una goleada por 5-0 certificó con anticipación su paso a los cuartos de final del Mundial de República Dom… [+1973 chars]"
     },
     {
         "source": {
@@ -551,12 +551,12 @@
             "name": "Mundodeportivo.com"
         },
         "author": "Autor Redacción",
-        "title": "5-0. España golea a Corea del Sur y se mete en los cuartos de final del Mundial Sub-17",
-        "description": "La selección española femenina Sub-17 se impuso este sábado a Corea del Sur (5-0) en la segunda jornada de fase de grupos del Mundial de la categoría que está celebrándose en República Dominicana y con ello certificó su clasificación para los cuartos de final.",
-        "url": "https://www.mundodeportivo.com/futbol/femenino/20241020/1002336756/5-0-espana-golea-corea-sur-mete-cuartos-final-mundial-sub-17.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/20/67142bf6542c2.r_d.339-226-17673.jpeg",
-        "publishedAt": "2024-10-19T22:00:47Z",
-        "content": "La selección española femenina Sub-17 se impuso este sábado a Corea del Sur (5-0) en la segunda jornada de fase de grupos del Mundial de la categoría que está celebrándose en República Dominicana y c… [+275 chars]"
+        "title": "Revelan la identidad de una nueva pareja concursante de 'La isla de las tentaciones 8'",
+        "description": "Hace unas semanas, Sandra Barneda y el equipo de 'La isla de las tentaciones' regresaron de República Dominicana tras finalizar la grabación de la octava edición del reality de Telecinco. Con el paso de los días, la cuenta de Instagram @lacuernis ha comenzado…",
+        "url": "https://www.mundodeportivo.com/elotromundo/television/20241022/1002338606/revelan-identidad-nueva-pareja-concursante-isla-tentaciones-8-dct.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/22/6717fe090b1f0.jpeg",
+        "publishedAt": "2024-10-22T19:43:04Z",
+        "content": "Hace unas semanas, Sandra Barneda y el equipo de 'La isla de las tentaciones' regresaron de República Dominicana tras finalizar la grabación de la octava edición del reality de Telecinco. Con el paso… [+352 chars]"
     },
     {
         "source": {
@@ -564,12 +564,12 @@
             "name": "Mundodeportivo.com"
         },
         "author": "Autor Redacción",
-        "title": "Revelan la identidad de una nueva pareja concursante de 'La isla de las tentaciones 8'",
-        "description": "Hace unas semanas, Sandra Barneda y el equipo de 'La isla de las tentaciones' regresaron de República Dominicana tras finalizar la grabación de la octava edición del reality de Telecinco. Con el paso de los días, la cuenta de Instagram @lacuernis ha comenzado…",
-        "url": "https://www.mundodeportivo.com/elotromundo/television/20241022/1002338606/revelan-identidad-nueva-pareja-concursante-isla-tentaciones-8-dct.html",
-        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/22/6717fe090b1f0.jpeg",
-        "publishedAt": "2024-10-22T19:43:04Z",
-        "content": "Hace unas semanas, Sandra Barneda y el equipo de 'La isla de las tentaciones' regresaron de República Dominicana tras finalizar la grabación de la octava edición del reality de Telecinco. Con el paso… [+352 chars]"
+        "title": "5-0. España golea a Corea del Sur y se mete en los cuartos de final del Mundial Sub-17",
+        "description": "La selección española femenina Sub-17 se impuso este sábado a Corea del Sur (5-0) en la segunda jornada de fase de grupos del Mundial de la categoría que está celebrándose en República Dominicana y con ello certificó su clasificación para los cuartos de final.",
+        "url": "https://www.mundodeportivo.com/futbol/femenino/20241020/1002336756/5-0-espana-golea-corea-sur-mete-cuartos-final-mundial-sub-17.html",
+        "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/10/20/67142bf6542c2.r_d.339-226-17673.jpeg",
+        "publishedAt": "2024-10-19T22:00:47Z",
+        "content": "La selección española femenina Sub-17 se impuso este sábado a Corea del Sur (5-0) en la segunda jornada de fase de grupos del Mundial de la categoría que está celebrándose en República Dominicana y c… [+275 chars]"
     },
     {
         "source": {
@@ -1094,19 +1094,6 @@
     {
         "source": {
             "id": null,
-            "name": "Milenio"
-        },
-        "author": "Agencia EFE",
-        "title": "República Dominicana ordena deportación masiva de haitianos; acusan \"cacería humana\"",
-        "description": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en situación irregular hasta alcanzar las 10 mil semanales, anun…",
-        "url": "https://www.milenio.com/internacional/denuncian-caceria-humana-haitianos-republica-dominicana",
-        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/08/haitianos-llegan-preguntar-familiares-detenidos.jpg",
-        "publishedAt": "2024-10-09T03:54:49Z",
-        "content": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en s… [+3257 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Hosteltur.com"
         },
         "author": "Hosteltur",
@@ -1116,6 +1103,19 @@
         "urlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/10/25/M_162859_senator-suma-un-hotel-en-cadiz-que-operara-con-marca-de-ihg.jpg",
         "publishedAt": "2024-10-25T14:45:56Z",
         "content": "El establecimiento cuenta con 76 habitaciones, spa, gimnasio, instalaciones para eventos y rooftop. Con esta incorporación, Senator Hotels &amp; Resorts amplía su cartera de hoteles en la línea de Pa… [+1161 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Milenio"
+        },
+        "author": "Agencia EFE",
+        "title": "República Dominicana ordena deportación masiva de haitianos; acusan \"cacería humana\"",
+        "description": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en situación irregular hasta alcanzar las 10 mil semanales, anun…",
+        "url": "https://www.milenio.com/internacional/denuncian-caceria-humana-haitianos-republica-dominicana",
+        "urlToImage": "https://cdn.milenio.com/uploads/media/2024/10/08/haitianos-llegan-preguntar-familiares-detenidos.jpg",
+        "publishedAt": "2024-10-09T03:54:49Z",
+        "content": "El colectivo #HaitíRD, que representa a los haitianos en República Dominicana, calificó de \"cacería humana\" y \"amenaza de limpieza étnica\" la orden para aumentar las deportaciones de extranjeros en s… [+3257 chars]"
     },
     {
         "source": {
