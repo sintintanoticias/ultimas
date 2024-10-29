@@ -534,6 +534,19 @@
     },
     {
         "source": {
+            "id": "marca",
+            "name": "Marca"
+        },
+        "author": "David Menayo",
+        "title": "La 'jugada maestra' de Inglaterra antes de medirse a España en el Mundial Sub'17",
+        "description": "Natalie Henderson, seleccionadora de las 'Lionesses', apostó por la guardameta suplente, Rebekah Dowsett, para una tanda de penaltis que les dio el billete para semifinales  Leer",
+        "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2024/10/28/jugada-maestra-inglaterra-medirse-espana-mundial-sub-17.html",
+        "urlToImage": "https://e00-xlk-ue-marca.uecdn.es/files/phantom_desktop_1200w/uploads/2024/10/28/671f58fe3d74f.jpeg",
+        "publishedAt": "2024-10-28T09:39:24Z",
+        "content": "España se medirá a Inglaterra en las semifinales del Mundial Sub'17 que se disputa en República Dominicana. El duelo, que tendrá lugar en la madrugada del miércoles al jueves (1.00 hora española), ll… [+2873 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Mundodeportivo.com"
         },
@@ -1107,19 +1120,6 @@
     {
         "source": {
             "id": null,
-            "name": "Record.com.mx"
-        },
-        "author": "Record.com.mx",
-        "title": "La Selección Mexicana Femenil está lista para la Copa Mundial Sub-17",
-        "description": "El certamen juvenil comenzó este miércoles en República Dominicana",
-        "url": "https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/la-seleccion-mexicana-femenil-esta-lista-para-la-copa",
-        "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/16/gzvlvvmx0aae0ms.jpg",
-        "publishedAt": "2024-10-16T21:49:00Z",
-        "content": "La Copa Mundial Sub-17 Femenil comenzó este miércoles en República Dominicana y la Selección Mexicana está lista para el reto que será la competición en la isla caribeña. El equipo Tricolor se coloca… [+2386 chars]"
-    },
-    {
-        "source": {
-            "id": null,
             "name": "Jornada.com.mx"
         },
         "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
@@ -1129,6 +1129,19 @@
         "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
         "publishedAt": "2024-10-17T10:24:36Z",
         "content": "Periódico La JornadaJueves 17 de octubre de 2024, p. a11\r\nLa selección española Sub-17 femenil, vigente campeona, comenzó con buen pie la defensa del título al derrotar ayer por 3-1 a Estados Unidos,… [+1696 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Record.com.mx"
+        },
+        "author": "Record.com.mx",
+        "title": "La Selección Mexicana Femenil está lista para la Copa Mundial Sub-17",
+        "description": "El certamen juvenil comenzó este miércoles en República Dominicana",
+        "url": "https://www.record.com.mx/futbol-futbol-nacional-seleccion-mexicana/la-seleccion-mexicana-femenil-esta-lista-para-la-copa",
+        "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2024/10/16/gzvlvvmx0aae0ms.jpg",
+        "publishedAt": "2024-10-16T21:49:00Z",
+        "content": "La Copa Mundial Sub-17 Femenil comenzó este miércoles en República Dominicana y la Selección Mexicana está lista para el reto que será la competición en la isla caribeña. El equipo Tricolor se coloca… [+2386 chars]"
     },
     {
         "source": {
@@ -1285,18 +1298,5 @@
         "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/6715bd90e9ff7165156dcd11.jpg",
         "publishedAt": "2024-10-21T03:01:14Z",
         "content": "Un grupo de investigadores de instituciones de Italia sugirió que el virus de Oropouche también podría transmitirse entre humanos a través del contacto sexual, luego de detectar al agente infeccioso … [+2800 chars]"
-    },
-    {
-        "source": {
-            "id": "rt",
-            "name": "RT"
-        },
-        "author": "RT en Español\n , RT en Español",
-        "title": "¿Qué son los 'levantamientos brasileños de glúteos' y por qué generan tanta polémica?",
-        "description": "Estas operaciones estéticas pueden representar un serio riesgo para la salud del paciente, ya que se corre el peligro de que parte de la grasa inyectada penetre en sus vasos sanguíneos.",
-        "url": "https://actualidad.rt.com/actualidad/524861-levantamientos-brasilenos-gluteos-generan-polemica",
-        "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.10/article/66fbff4e59bf5b4865597f93.jpg",
-        "publishedAt": "2024-10-02T23:33:56Z",
-        "content": "La reciente muerte de una mujer británica tras someterse a un procedimiento conocido como levantamiento brasileño de glúteos (BBL, por sus siglas en inglés), no quirúrgico, ha puesto en el centro de … [+3846 chars]"
     }
 ]
